@@ -1,9 +1,6 @@
 import SwiftUI
 import Observation
 
-/// Central application state using Swift 6's `@Observable` macro.
-/// Marked `@MainActor` so all mutations are on the main actor — no extra
-/// synchronisation needed from SwiftUI views.
 @MainActor
 @Observable
 final class AppState {
@@ -14,46 +11,48 @@ final class AppState {
         didSet { UserDefaults.standard.set(hasCompletedOnboarding, forKey: Keys.onboarding) }
     }
 
-    private(set) var favoriteQuestionIDs: Set<UUID> {
+    // Must be reassigned (not mutated in place) for @Observable to fire.
+    var favoriteQuestions: [Question] {
         didSet { persistFavorites() }
     }
 
     // MARK: - Init
 
     init() {
-        let completed = UserDefaults.standard.bool(forKey: Keys.onboarding)
-        self.hasCompletedOnboarding = completed
+        self.hasCompletedOnboarding = UserDefaults.standard.bool(forKey: Keys.onboarding)
 
         if let data = UserDefaults.standard.data(forKey: Keys.favorites),
-           let ids = try? JSONDecoder().decode([UUID].self, from: data) {
-            self.favoriteQuestionIDs = Set(ids)
+           let qs = try? JSONDecoder().decode([Question].self, from: data) {
+            self.favoriteQuestions = qs
         } else {
-            self.favoriteQuestionIDs = []
+            self.favoriteQuestions = []
         }
     }
 
     // MARK: - Favorites API
 
     func toggleFavorite(_ question: Question) {
-        if favoriteQuestionIDs.contains(question.id) {
-            favoriteQuestionIDs.remove(question.id)
+        var updated = favoriteQuestions
+        if let idx = updated.firstIndex(where: { $0.id == question.id }) {
+            updated.remove(at: idx)
         } else {
-            favoriteQuestionIDs.insert(question.id)
+            updated.append(question)
         }
+        favoriteQuestions = updated
     }
 
     func isFavorite(_ question: Question) -> Bool {
-        favoriteQuestionIDs.contains(question.id)
+        favoriteQuestions.contains(where: { $0.id == question.id })
     }
 
     func clearAllFavorites() {
-        favoriteQuestionIDs.removeAll()
+        favoriteQuestions = []        // full reassignment
     }
 
-    // MARK: - Private helpers
+    // MARK: - Private
 
     private func persistFavorites() {
-        if let encoded = try? JSONEncoder().encode(Array(favoriteQuestionIDs)) {
+        if let encoded = try? JSONEncoder().encode(favoriteQuestions) {
             UserDefaults.standard.set(encoded, forKey: Keys.favorites)
         }
     }

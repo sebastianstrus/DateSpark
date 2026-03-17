@@ -199,6 +199,7 @@ struct QuestionListRow: View {
     @Environment(AppState.self) private var appState
 
     var body: some View {
+        let isFav = appState.isFavorite(question)
         HStack(alignment: .top, spacing: 0) {
             Text(String(format: "%02d", index))
                 .font(.dsMono(10))
@@ -231,10 +232,10 @@ struct QuestionListRow: View {
                     appState.toggleFavorite(question)
                 }
             } label: {
-                Image(systemName: appState.isFavorite(question) ? "bookmark.fill" : "bookmark")
+                Image(systemName: isFav ? "bookmark.fill" : "bookmark")
                     .font(.system(size: 16, weight: .light))
                     .foregroundStyle(
-                        appState.isFavorite(question)
+                        isFav
                         ? LinearGradient.dsGoldGradient
                         : LinearGradient(colors: [Color.dsTertiary], startPoint: .top, endPoint: .bottom)
                     )
@@ -246,3 +247,4 @@ struct QuestionListRow: View {
         .contentShape(Rectangle())
     }
 }
+

@@ -5,11 +5,9 @@ struct FavoritesView: View {
     @Environment(AppState.self) private var appState
     @State private var showClearAlert = false
 
-    private var favoriteQuestions: [Question] {
-        DataProvider.shared.favoriteQuestions(ids: appState.favoriteQuestionIDs)
-    }
-
     var body: some View {
+        // Read favoriteQuestionIDs directly inside body so @Observable tracks it
+        let favoriteQuestions = appState.favoriteQuestions
         ZStack {
             Color.dsBackground.ignoresSafeArea()
             GlowOrb(color: Color.dsGold.opacity(0.07), size: 320, blur: 90)

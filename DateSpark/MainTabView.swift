@@ -2,16 +2,30 @@ import SwiftUI
 
 @MainActor
 struct MainTabView: View {
+    @Environment(AppState.self) private var appState
     @State private var selectedTab = 0
 
     var body: some View {
         ZStack(alignment: .bottom) {
-            TabView(selection: $selectedTab) {
-                HomeView()      .tag(0)
-                CategoriesView().tag(1)
-                FavoritesView() .tag(2)
+            // Plain ZStack tab switching — no TabView(.page) which steals
+            // vertical scroll gestures from ScrollViews inside child views.
+            ZStack {
+                HomeView()
+                    .opacity(selectedTab == 0 ? 1 : 0)
+                    .allowsHitTesting(selectedTab == 0)
+                    .environment(appState)
+
+                CategoriesView()
+                    .opacity(selectedTab == 1 ? 1 : 0)
+                    .allowsHitTesting(selectedTab == 1)
+                    .environment(appState)
+
+                FavoritesView()
+                    .opacity(selectedTab == 2 ? 1 : 0)
+                    .allowsHitTesting(selectedTab == 2)
+                    .environment(appState)
             }
-            .tabViewStyle(.page(indexDisplayMode: .never))
+            .ignoresSafeArea(edges: .bottom)
 
             CustomTabBar(selectedTab: $selectedTab)
         }
@@ -34,15 +48,15 @@ struct CustomTabBar: View {
 
     var body: some View {
         VStack(spacing: 0) {
-            // Top gradient fade
+            // Top fade
             LinearGradient(
                 colors: [Color.clear, Color.dsBackground.opacity(0.96)],
                 startPoint: .top, endPoint: .bottom
             )
             .frame(height: 20)
+            .allowsHitTesting(false)
 
             ZStack {
-                // Frosted background
                 Color.dsSurface
                     .overlay(
                         LinearGradient(
@@ -61,7 +75,6 @@ struct CustomTabBar: View {
                             VStack(spacing: 5) {
                                 ZStack {
                                     if selectedTab == index {
-                                        // Active glow
                                         Circle()
                                             .fill(Color.dsGold.opacity(0.15))
                                             .frame(width: 36, height: 36)
@@ -71,8 +84,8 @@ struct CustomTabBar: View {
                                         .font(.system(size: 20, weight: selectedTab == index ? .regular : .light))
                                         .foregroundStyle(
                                             selectedTab == index
-                                            ? LinearGradient.dsGoldGradient
-                                            : LinearGradient(colors: [Color.dsTertiary], startPoint: .top, endPoint: .bottom)
+                                            ? AnyShapeStyle(LinearGradient.dsGoldGradient)
+                                            : AnyShapeStyle(Color.dsTertiary)
                                         )
                                         .scaleEffect(selectedTab == index ? 1.1 : 1.0)
                                 }
@@ -82,8 +95,8 @@ struct CustomTabBar: View {
                                     .tracking(1.5)
                                     .foregroundStyle(
                                         selectedTab == index
-                                        ? LinearGradient.dsGoldGradient
-                                        : LinearGradient(colors: [Color.dsTertiary], startPoint: .top, endPoint: .bottom)
+                                        ? AnyShapeStyle(LinearGradient.dsGoldGradient)
+                                        : AnyShapeStyle(Color.dsTertiary)
                                     )
                             }
                             .frame(maxWidth: .infinity)

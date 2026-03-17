@@ -102,6 +102,8 @@ struct QuestionCardView: View {
     private var cardYOffset: CGFloat { CGFloat(stackPosition) * -12 }
 
     var body: some View {
+        // Access favoriteQuestionIDs directly inside body so @Observable tracks it
+        let isFav = appState.isFavorite(question)
         ZStack(alignment: .topLeading) {
             // Card surface
             RoundedRectangle(cornerRadius: 12)
@@ -208,15 +210,15 @@ struct QuestionCardView: View {
                         }
                     } label: {
                         ZStack {
-                            if appState.isFavorite(question) {
+                            if isFav {
                                 Circle()
                                     .fill(Color.dsGold.opacity(0.12))
                                     .frame(width: 38, height: 38)
                             }
-                            Image(systemName: appState.isFavorite(question) ? "bookmark.fill" : "bookmark")
+                            Image(systemName: isFav ? "bookmark.fill" : "bookmark")
                                 .font(.system(size: 17, weight: .light))
                                 .foregroundStyle(
-                                    appState.isFavorite(question)
+                                    isFav
                                     ? AnyShapeStyle(LinearGradient.dsGoldGradient)
                                     : AnyShapeStyle(Color.dsTertiary)
                                 )
@@ -326,3 +328,4 @@ struct SessionProgressBar: View {
         .frame(height: 2)
     }
 }
+
