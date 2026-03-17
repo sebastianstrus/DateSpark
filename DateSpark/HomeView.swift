@@ -38,8 +38,11 @@ struct HomeView: View {
                     DeckFinishedView(onRestart: restartDeck)
                 } else {
                     QuestionCardDeckView(questions: questions, currentIndex: $currentIndex)
+                        .padding(.horizontal, 20)
                 }
             }
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
+            .padding(.bottom, 90)
 
             // Wheel overlay — transitions are driven by withAnimation at call sites
             if showWheel {
