@@ -54,7 +54,7 @@ struct OnboardingView: View {
 
                 // Bottom controls
                 VStack(spacing: 24) {
-                    // Progress indicators
+                    // Progress indicators — left-aligned, matching page content
                     HStack(spacing: 8) {
                         ForEach(0..<pages.count, id: \.self) { i in
                             if i == currentPage {
@@ -67,9 +67,9 @@ struct OnboardingView: View {
                                     .clipShape(Capsule())
                             }
                         }
-                        Spacer()
                     }
                     .animation(.easeInOut(duration: 0.3), value: currentPage)
+                    .frame(maxWidth: .infinity, alignment: .leading)
                     .padding(.horizontal, 32)
 
                     // CTA button
