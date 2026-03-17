@@ -65,7 +65,6 @@ struct CategoryRowView: View {
     let category: QuestionCategory
     let index:    Int
     let onTap:    () -> Void
-    @State private var pressed = false
 
     var body: some View {
         Button(action: onTap) {
@@ -107,15 +106,16 @@ struct CategoryRowView: View {
                     .padding(.trailing, 24)
             }
             .padding(.vertical, 20)
-            .background(pressed ? Color.dsSurfaceHigh : Color.clear)
-            .contentShape(Rectangle())
         }
-        .buttonStyle(.plain)
-        .simultaneousGesture(
-            DragGesture(minimumDistance: 0)
-                .onChanged { _ in pressed = true  }
-                .onEnded   { _ in pressed = false }
-        )
+        .buttonStyle(RowPressButtonStyle())
+    }
+}
+
+struct RowPressButtonStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .background(configuration.isPressed ? Color.dsSurfaceHigh : Color.clear)
+            .contentShape(Rectangle())
     }
 }
 
