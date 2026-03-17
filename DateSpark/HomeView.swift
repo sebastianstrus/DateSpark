@@ -12,56 +12,56 @@ struct HomeView: View {
         ZStack {
             Color.dsBackground.ignoresSafeArea()
 
-            // Dynamic ambient glow that shifts with selected category
-            if let cat = selectedCategory {
-                GlowOrb(color: cat.accentColor.opacity(0.1), size: 500, blur: 120)
-                    .offset(x: 80, y: -250)
-                    .ignoresSafeArea()
-                    .animation(.easeInOut(duration: 0.8), value: cat.rawValue)
-            } else {
-                GlowOrb(color: Color.dsGold.opacity(0.07), size: 400, blur: 100)
-                    .offset(x: -60, y: -200)
-                    .ignoresSafeArea()
-            }
+            // Single persistent glow — colour animates on category change.
+            // Using if/else here caused a full view swap that broke layout.
+            GlowOrb(
+                color: (selectedCategory?.accentColor ?? Color.dsGold).opacity(0.09),
+                size: 420,
+                blur: 110
+            )
+            .offset(x: 70, y: -220)
+            .allowsHitTesting(false)
+            .animation(.easeInOut(duration: 0.7), value: selectedCategory?.rawValue)
 
             VStack(spacing: 0) {
                 HomeHeaderView(
                     selectedCategory: selectedCategory,
-                    onSpin:  { withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) { showWheel = true } },
+                    onSpin:  { withAnimation(.easeOut(duration: 0.3)) { showWheel = true } },
                     onClear: clearCategory
                 )
 
                 HairlineDivider()
 
                 if questions.isEmpty {
-                    HomeEmptyStateView(onSpin: { withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) { showWheel = true } })
+                    HomeEmptyStateView(onSpin: { withAnimation(.easeOut(duration: 0.3)) { showWheel = true } })
                 } else if currentIndex >= questions.count {
                     DeckFinishedView(onRestart: restartDeck)
                 } else {
                     QuestionCardDeckView(questions: questions, currentIndex: $currentIndex)
                 }
-
-                Spacer()
             }
 
-            // Wheel overlay
+            // Wheel overlay — transitions are driven by withAnimation at call sites
             if showWheel {
                 Color.black.opacity(0.75)
                     .ignoresSafeArea()
-                    .onTapGesture { withAnimation(.easeOut(duration: 0.3)) { showWheel = false } }
+                    .onTapGesture {
+                        withAnimation(.easeIn(duration: 0.25)) { showWheel = false }
+                    }
                     .transition(.opacity)
 
                 SpinWheelView { category in
-                    withAnimation(.easeOut(duration: 0.3)) { showWheel = false }
+                    withAnimation(.easeIn(duration: 0.25)) { showWheel = false }
                     loadQuestions(for: category)
                 }
+                .frame(maxWidth: 500)
+                .padding(.horizontal, 20)
                 .transition(.asymmetric(
-                    insertion: .scale(scale: 0.95).combined(with: .opacity),
-                    removal:   .scale(scale: 0.95).combined(with: .opacity)
+                    insertion: .scale(scale: 0.96).combined(with: .opacity),
+                    removal:   .scale(scale: 0.96).combined(with: .opacity)
                 ))
             }
         }
-        .animation(.spring(response: 0.45, dampingFraction: 0.82), value: showWheel)
     }
 
     private func loadQuestions(for category: QuestionCategory) {

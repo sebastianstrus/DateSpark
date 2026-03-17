@@ -22,10 +22,10 @@ struct QuestionCardDeckView: View {
                     .monospacedDigit()
             }
             .padding(.horizontal, 28)
-            .padding(.top, 20)
-            .padding(.bottom, 14)
+            .padding(.top, 16)
+            .padding(.bottom, 10)
 
-            // Swipe hint row
+            // Swipe hints
             HStack {
                 HStack(spacing: 5) {
                     Image(systemName: "arrow.left")
@@ -48,6 +48,7 @@ struct QuestionCardDeckView: View {
             .padding(.horizontal, 32)
             .padding(.bottom, 10)
 
+            // Card stack — fills remaining space, margin applied here
             ZStack {
                 ForEach(visibleIndices, id: \.self) { index in
                     QuestionCardView(
@@ -59,9 +60,10 @@ struct QuestionCardDeckView: View {
                     )
                 }
             }
-            .frame(height: 460)
             .padding(.horizontal, 20)
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
         }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
 }
 
@@ -96,16 +98,15 @@ struct QuestionCardView: View {
     @State private var swipeStatus:       SwipeStatus = .none
     @State private var favoriteAnimating: Bool        = false
 
-    private var cardScale: CGFloat          { 1.0 - CGFloat(stackPosition) * 0.04 }
-    private var cardYOffset: CGFloat        { CGFloat(stackPosition) * -12 }
+    private var cardScale: CGFloat  { 1.0 - CGFloat(stackPosition) * 0.04 }
+    private var cardYOffset: CGFloat { CGFloat(stackPosition) * -12 }
 
     var body: some View {
         ZStack(alignment: .topLeading) {
-            // Card base — layered for depth
+            // Card surface
             RoundedRectangle(cornerRadius: 12)
                 .fill(Color.dsSurface)
                 .overlay(
-                    // Subtle top-edge highlight
                     RoundedRectangle(cornerRadius: 12)
                         .stroke(
                             LinearGradient(
@@ -116,9 +117,9 @@ struct QuestionCardView: View {
                         )
                 )
                 .shadow(color: Color.black.opacity(0.5), radius: 30, x: 0, y: 12)
-                .shadow(color: question.category.accentColor.opacity(isTop ? 0.08 : 0), radius: 40, x: 0, y: 0)
+                .shadow(color: question.category.accentColor.opacity(isTop ? 0.08 : 0), radius: 40)
 
-            // Category colour wash — very subtle top gradient
+            // Category colour wash
             LinearGradient(
                 colors: [question.category.accentColor.opacity(0.06), Color.clear],
                 startPoint: .topLeading, endPoint: .center
@@ -127,23 +128,20 @@ struct QuestionCardView: View {
 
             // Left accent bar
             RoundedRectangle(cornerRadius: 2)
-                .fill(
-                    LinearGradient(
-                        colors: [question.category.accentColor, question.category.accentColor.opacity(0.3)],
-                        startPoint: .top, endPoint: .bottom
-                    )
-                )
+                .fill(LinearGradient(
+                    colors: [question.category.accentColor, question.category.accentColor.opacity(0.3)],
+                    startPoint: .top, endPoint: .bottom
+                ))
                 .frame(width: 3)
-                .padding(.vertical, 32)
-                .padding(.leading, 0)
+                .padding(.vertical, 28)
                 .clipShape(RoundedRectangle(cornerRadius: 12))
 
-            // Content
+            // Content — VStack with fixed padding, no Spacers pushing content off-screen
             VStack(alignment: .leading, spacing: 0) {
-                // Top meta
+
+                // ── Top meta ──────────────────────────────────────────────
                 HStack(alignment: .top) {
-                    VStack(alignment: .leading, spacing: 5) {
-                        // Category chip
+                    VStack(alignment: .leading, spacing: 6) {
                         HStack(spacing: 6) {
                             Circle()
                                 .fill(question.category.accentColor)
@@ -153,8 +151,6 @@ struct QuestionCardView: View {
                                 .tracking(2.5)
                                 .foregroundColor(question.category.accentColor)
                         }
-
-                        // Depth tag
                         HStack(spacing: 5) {
                             RoundedRectangle(cornerRadius: 1)
                                 .fill(question.depth.color)
@@ -166,38 +162,41 @@ struct QuestionCardView: View {
                         }
                     }
                     Spacer()
-                    // Card number
-                    Text(String(format: "%02d", currentCardNumber))
-                        .font(.system(size: 32, weight: .ultraLight, design: .serif))
+                    Text(String(format: "%02d", stackPosition == 0 ? 1 : stackPosition + 1))
+                        .font(.system(size: 28, weight: .ultraLight, design: .serif))
                         .foregroundStyle(LinearGradient.dsGoldGradient)
-                        .opacity(0.4)
+                        .opacity(0.35)
                 }
-                .padding(.top, 26)
-                .padding(.horizontal, 26)
+                .padding(.top, 22)
+                .padding(.horizontal, 22)
 
-                Spacer()
+                // ── Divider ───────────────────────────────────────────────
+                LinearGradient.dsGoldGradient
+                    .frame(height: 0.5)
+                    .opacity(0.2)
+                    .padding(.horizontal, 22)
+                    .padding(.top, 14)
 
-                // Question — the hero element
+                // ── Question text ─────────────────────────────────────────
+                // Fills remaining space; font scales down if text is very long
                 Text(question.text)
-                    .font(.dsDisplay(28, weight: .light))
+                    .font(.dsDisplay(24, weight: .light))
                     .foregroundColor(Color.dsPrimary)
-                    .lineSpacing(9)
+                    .lineSpacing(7)
                     .multilineTextAlignment(.leading)
-                    .padding(.horizontal, 26)
-                    .fixedSize(horizontal: false, vertical: true)
+                    .minimumScaleFactor(0.75)   // shrinks font rather than clipping
+                    .padding(.horizontal, 22)
+                    .padding(.top, 20)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
 
-                Spacer()
-
-                // Bottom bar
+                // ── Bottom bar ────────────────────────────────────────────
                 HStack(spacing: 0) {
-                    // Thin gold rule
                     LinearGradient.dsGoldGradient
-                        .frame(height: 0.8)
-                        .opacity(0.25)
+                        .frame(height: 0.5)
+                        .opacity(0.2)
 
-                    Spacer().frame(width: 12)
+                    Spacer().frame(width: 8)
 
-                    // Bookmark button
                     Button {
                         withAnimation(.spring(response: 0.3, dampingFraction: 0.55)) {
                             favoriteAnimating = true
@@ -212,23 +211,23 @@ struct QuestionCardView: View {
                             if appState.isFavorite(question) {
                                 Circle()
                                     .fill(Color.dsGold.opacity(0.12))
-                                    .frame(width: 40, height: 40)
+                                    .frame(width: 38, height: 38)
                             }
                             Image(systemName: appState.isFavorite(question) ? "bookmark.fill" : "bookmark")
                                 .font(.system(size: 17, weight: .light))
                                 .foregroundStyle(
                                     appState.isFavorite(question)
-                                    ? LinearGradient.dsGoldGradient
-                                    : LinearGradient(colors: [Color.dsTertiary], startPoint: .top, endPoint: .bottom)
+                                    ? AnyShapeStyle(LinearGradient.dsGoldGradient)
+                                    : AnyShapeStyle(Color.dsTertiary)
                                 )
                                 .scaleEffect(favoriteAnimating ? 1.25 : 1.0)
                         }
                         .frame(width: 44, height: 44)
                     }
                 }
-                .padding(.leading, 26)
-                .padding(.bottom, 18)
-                .padding(.trailing, 8)
+                .padding(.leading, 22)
+                .padding(.trailing, 6)
+                .padding(.bottom, 14)
             }
 
             // Swipe overlay
@@ -239,13 +238,12 @@ struct QuestionCardView: View {
                         RoundedRectangle(cornerRadius: 12)
                             .stroke(swipeStatus.color.opacity(0.5), lineWidth: 1)
                     )
-
                 VStack {
                     HStack {
                         if swipeStatus == .left {
-                            SwipeLabel(status: swipeStatus).padding(22); Spacer()
+                            SwipeLabel(status: swipeStatus).padding(20); Spacer()
                         } else {
-                            Spacer(); SwipeLabel(status: swipeStatus).padding(22)
+                            Spacer(); SwipeLabel(status: swipeStatus).padding(20)
                         }
                     }
                     Spacer()
@@ -259,8 +257,6 @@ struct QuestionCardView: View {
         .gesture(isTop ? dragGesture : nil)
         .animation(.spring(response: 0.4, dampingFraction: 0.85), value: stackPosition)
     }
-
-    private var currentCardNumber: Int { stackPosition == 0 ? 1 : stackPosition + 1 }
 
     private var dragGesture: some Gesture {
         DragGesture()
