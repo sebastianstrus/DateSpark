@@ -144,7 +144,7 @@ struct CategoryDetailView: View {
             // Header with accent glow
             ZStack(alignment: .bottom) {
                 // Subtle glow
-                GlowOrb(color: category.accentColor.opacity(0.15), size: 300, blur: 80)
+                GlowOrb(color: category.accentColor.opacity(0.15), size: 100, blur: 80)
                     .offset(x: 60, y: -40)
                     .ignoresSafeArea()
 
