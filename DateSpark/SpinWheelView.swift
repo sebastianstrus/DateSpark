@@ -64,10 +64,12 @@ struct SpinWheelView: View {
                                 .stroke(LinearGradient.dsGoldGradient, lineWidth: 0.8)
                         )
                         .shadow(color: Color.black.opacity(0.5), radius: 8)
-                    Text("DS")
-                        .font(.system(size: 13, weight: .light, design: .serif))
-                        .tracking(3)
-                        .foregroundStyle(LinearGradient.dsGoldGradient)
+                    Image("spark")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(height: 32)
+                            .tracking(3)
+
                 }
             }
             .padding(.vertical, 28)

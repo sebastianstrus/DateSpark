@@ -25,18 +25,12 @@ struct SplashView: View {
 
                 VStack(spacing: 32) {
                     // Monogram mark
-                    ZStack {
-                        Circle()
-                            .stroke(LinearGradient.dsGoldGradient, lineWidth: 0.8)
-                            .frame(width: 72, height: 72)
-
-                        Text("DS")
-                            .font(.system(size: 20, weight: .ultraLight, design: .serif))
-                            .tracking(4)
-                            .foregroundStyle(LinearGradient.dsGoldGradient)
-                    }
-                    .scaleEffect(logoScale)
-                    .opacity(logoOpacity)
+                    Image("spark_clear")
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 72, height: 72)
+                        .scaleEffect(logoScale)
+                        .opacity(logoOpacity)
 
                     VStack(spacing: 16) {
                         // Wordmark
