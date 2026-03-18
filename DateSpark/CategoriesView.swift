@@ -1,5 +1,11 @@
 import SwiftUI
 
+#if canImport(UIKit)
+fileprivate func dismissKeyboard() {
+    UIApplication.shared.sendAction(#selector(UIResponder.resignFirstResponder), to: nil, from: nil, for: nil)
+}
+#endif
+
 @MainActor
 struct CategoriesView: View {
     @Environment(AppState.self) private var appState
@@ -202,6 +208,8 @@ struct CategoryDetailView: View {
             }
         }
         .background(Color.dsBackground)
+        .contentShape(Rectangle())
+        .onTapGesture { dismissKeyboard() }
     }
 }
 
@@ -268,6 +276,7 @@ struct CustomQuestionComposer: View {
     @Environment(AppState.self) private var appState
     @State private var text: String = ""
     @State private var depth: QuestionDepth = .light
+    @FocusState private var isTextFieldFocused: Bool
 
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
@@ -280,6 +289,7 @@ struct CustomQuestionComposer: View {
 
             VStack(alignment: .leading, spacing: 10) {
                 TextField("Type your question...", text: $text, axis: .vertical)
+                    .focused($isTextFieldFocused)
                     .textFieldStyle(.plain)
                     .foregroundColor(Color.dsPrimary)
                     .font(.dsLabel(16))
@@ -292,6 +302,7 @@ struct CustomQuestionComposer: View {
                     Text("Depth:")
                         .font(.dsLabel(12))
                         .foregroundColor(Color.dsSecondary)
+
                     Picker("Depth", selection: $depth) {
                         Text("Light").tag(QuestionDepth.light)
                         Text("Medium").tag(QuestionDepth.medium)
@@ -302,13 +313,17 @@ struct CustomQuestionComposer: View {
 
                 HStack {
                     Spacer()
+
                     Button {
                         appState.addCustomQuestion(text: text, depth: depth)
-                        text = ""; depth = .light
+                        text = ""
+                        depth = .light
+                        isTextFieldFocused = false
                     } label: {
                         HStack(spacing: 8) {
                             Image(systemName: "plus")
                                 .font(.system(size: 12, weight: .light))
+
                             Text("Save Question")
                                 .font(.dsLabel(13))
                         }
@@ -316,7 +331,14 @@ struct CustomQuestionComposer: View {
                         .padding(.horizontal, 16)
                         .padding(.vertical, 10)
                         .background(
-                            ZStack { LinearGradient.dsGoldGradient; LinearGradient(colors: [Color.white.opacity(0.1), Color.clear], startPoint: .top, endPoint: .bottom) }
+                            ZStack {
+                                LinearGradient.dsGoldGradient
+                                LinearGradient(
+                                    colors: [Color.white.opacity(0.1), Color.clear],
+                                    startPoint: .top,
+                                    endPoint: .bottom
+                                )
+                            }
                         )
                         .clipShape(RoundedRectangle(cornerRadius: 5))
                     }
@@ -327,5 +349,9 @@ struct CustomQuestionComposer: View {
             .padding(.bottom, 14)
         }
         .background(Color.dsBackground)
+        .contentShape(Rectangle())
+        .onTapGesture {
+            isTextFieldFocused = false
+        }
     }
 }
