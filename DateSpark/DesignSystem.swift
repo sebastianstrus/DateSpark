@@ -70,6 +70,8 @@ extension QuestionCategory {
         case .travel:       Color(hex: "C87A9E")  // dusty rose
         case .loveAndLife:  Color(hex: "C87A7A")  // terracotta rose
         case .hypothetical: Color(hex: "7ABCC8")  // teal
+        case .spicy:        Color(hex: "9B6B9D")  // deep plum
+        case .custom:       Color(hex: "6FBF73")  // fresh green
         }
     }
 

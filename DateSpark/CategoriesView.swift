@@ -38,13 +38,14 @@ struct CategoriesView: View {
 
                     ScrollView(showsIndicators: false) {
                         VStack(spacing: 0) {
-                            ForEach(Array(QuestionCategory.allCases.enumerated()), id: \.element.id) { index, cat in
+                            let categories = QuestionCategory.allCases
+                            ForEach(Array(categories.enumerated()), id: \.element.id) { index, cat in
                                 CategoryRowView(category: cat, index: index + 1) {
                                     withAnimation(.spring(response: 0.4, dampingFraction: 0.8)) {
                                         selectedCategory = cat
                                     }
                                 }
-                                if index < QuestionCategory.allCases.count - 1 {
+                                if index < categories.count - 1 {
                                     HairlineDivider(opacity: 0.5)
                                 }
                             }
@@ -65,6 +66,12 @@ struct CategoryRowView: View {
     let category: QuestionCategory
     let index:    Int
     let onTap:    () -> Void
+    @Environment(AppState.self) private var appState
+
+    private var countText: Int {
+        if category == .custom { return appState.customQuestions.count }
+        return DataProvider.shared.questions(for: category).count
+    }
 
     var body: some View {
         Button(action: onTap) {
@@ -92,7 +99,7 @@ struct CategoryRowView: View {
                     Text(category.rawValue)
                         .font(.dsDisplay(19, weight: .light))
                         .foregroundColor(Color.dsPrimary)
-                    Text("\(DataProvider.shared.questions(for: category).count) questions")
+                    Text("\(countText) questions")
                         .font(.dsLabel(11, weight: .regular))
                         .foregroundColor(Color.dsTertiary)
                 }
@@ -127,7 +134,10 @@ struct CategoryDetailView: View {
     let onBack:   () -> Void
     @Environment(AppState.self) private var appState
 
-    private var questions: [Question] { DataProvider.shared.questions(for: category) }
+    private var questions: [Question] {
+        if category == .custom { return appState.customQuestions }
+        return DataProvider.shared.questions(for: category)
+    }
 
     var body: some View {
         VStack(spacing: 0) {
@@ -175,6 +185,11 @@ struct CategoryDetailView: View {
             }
 
             HairlineDivider()
+
+            if category == .custom {
+                CustomQuestionComposer()
+                HairlineDivider()
+            }
 
             ScrollView(showsIndicators: false) {
                 VStack(spacing: 0) {
@@ -248,3 +263,69 @@ struct QuestionListRow: View {
     }
 }
 
+@MainActor
+struct CustomQuestionComposer: View {
+    @Environment(AppState.self) private var appState
+    @State private var text: String = ""
+    @State private var depth: QuestionDepth = .light
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 12) {
+            Text("ADD A QUESTION")
+                .font(.dsLabel(9))
+                .tracking(3)
+                .foregroundStyle(LinearGradient.dsGoldGradient)
+                .padding(.top, 14)
+                .padding(.horizontal, 24)
+
+            VStack(alignment: .leading, spacing: 10) {
+                TextField("Type your question...", text: $text, axis: .vertical)
+                    .textFieldStyle(.plain)
+                    .foregroundColor(Color.dsPrimary)
+                    .font(.dsLabel(16))
+                    .lineLimit(3, reservesSpace: true)
+                    .padding(12)
+                    .background(Color.dsSurfaceHigh)
+                    .clipShape(RoundedRectangle(cornerRadius: 6))
+
+                HStack(spacing: 12) {
+                    Text("Depth:")
+                        .font(.dsLabel(12))
+                        .foregroundColor(Color.dsSecondary)
+                    Picker("Depth", selection: $depth) {
+                        Text("Light").tag(QuestionDepth.light)
+                        Text("Medium").tag(QuestionDepth.medium)
+                        Text("Deep").tag(QuestionDepth.deep)
+                    }
+                    .pickerStyle(.segmented)
+                }
+
+                HStack {
+                    Spacer()
+                    Button {
+                        appState.addCustomQuestion(text: text, depth: depth)
+                        text = ""; depth = .light
+                    } label: {
+                        HStack(spacing: 8) {
+                            Image(systemName: "plus")
+                                .font(.system(size: 12, weight: .light))
+                            Text("Save Question")
+                                .font(.dsLabel(13))
+                        }
+                        .foregroundColor(Color.dsBackground)
+                        .padding(.horizontal, 16)
+                        .padding(.vertical, 10)
+                        .background(
+                            ZStack { LinearGradient.dsGoldGradient; LinearGradient(colors: [Color.white.opacity(0.1), Color.clear], startPoint: .top, endPoint: .bottom) }
+                        )
+                        .clipShape(RoundedRectangle(cornerRadius: 5))
+                    }
+                    .disabled(text.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty)
+                }
+            }
+            .padding(.horizontal, 24)
+            .padding(.bottom, 14)
+        }
+        .background(Color.dsBackground)
+    }
+}

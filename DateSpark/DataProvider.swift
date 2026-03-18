@@ -1,10 +1,10 @@
 import Foundation
 
 struct DataProvider: Sendable {
-
+    
     static let shared = DataProvider()
     private init() {}
-
+    
     var allQuestions: [Question] {
         [
             // MARK: Ice Breakers (50)
@@ -58,7 +58,7 @@ struct DataProvider: Sendable {
             Question(text: "If your home had a theme, what would it be?", category: .iceBreakers, depth: .light),
             Question(text: "What's the most interesting tab open in your browser right now?", category: .iceBreakers, depth: .light),
             Question(text: "What's something you're looking forward to this month?", category: .iceBreakers, depth: .light),
-
+            
             // MARK: Dreams & Goals (50)
             Question(text: "What's one thing you want to accomplish in the next five years?", category: .dreams, depth: .medium),
             Question(text: "If money were no object, how would you spend your days?", category: .dreams, depth: .medium),
@@ -110,7 +110,7 @@ struct DataProvider: Sendable {
             Question(text: "What's the most exciting thing on your horizon right now?", category: .dreams, depth: .light),
             Question(text: "If you could mentor someone, what would you want to pass on?", category: .dreams, depth: .deep),
             Question(text: "What's one thing you're actively choosing to prioritise this year?", category: .dreams, depth: .medium),
-
+            
             // MARK: Childhood (50)
             Question(text: "What's your favourite memory from childhood?", category: .childhood, depth: .light),
             Question(text: "What did you want to be when you grew up?", category: .childhood, depth: .light),
@@ -162,7 +162,7 @@ struct DataProvider: Sendable {
             Question(text: "Did you have a childhood ritual that felt important to you?", category: .childhood, depth: .medium),
             Question(text: "What's the funniest misunderstanding you had as a child?", category: .childhood, depth: .light),
             Question(text: "If you could go back to one day from your childhood, which would it be?", category: .childhood, depth: .deep),
-
+            
             // MARK: Deep Thoughts (50)
             Question(text: "What's something you believe that most people disagree with?", category: .deepThoughts, depth: .deep),
             Question(text: "How do you define happiness?", category: .deepThoughts, depth: .deep),
@@ -214,7 +214,7 @@ struct DataProvider: Sendable {
             Question(text: "What's the kindest lie you've ever told?", category: .deepThoughts, depth: .deep),
             Question(text: "What's something you've only recently come to appreciate?", category: .deepThoughts, depth: .medium),
             Question(text: "What's the hardest thing about being you right now?", category: .deepThoughts, depth: .deep),
-
+            
             // MARK: Fun & Silly (50)
             Question(text: "What's the weirdest food combination you secretly enjoy?", category: .funAndSilly, depth: .light),
             Question(text: "If you were a cartoon character, who would you be?", category: .funAndSilly, depth: .light),
@@ -266,7 +266,7 @@ struct DataProvider: Sendable {
             Question(text: "What would your autobiography's opening line be?", category: .funAndSilly, depth: .light),
             Question(text: "What's the most over-the-top thing you'd do if you won the lottery?", category: .funAndSilly, depth: .light),
             Question(text: "If you were a kitchen appliance, which would you be and why?", category: .funAndSilly, depth: .light),
-
+            
             // MARK: Travel (50)
             Question(text: "What's the most beautiful place you've ever been?", category: .travel, depth: .light),
             Question(text: "Do you prefer planned trips or spontaneous adventures?", category: .travel, depth: .light),
@@ -318,7 +318,7 @@ struct DataProvider: Sendable {
             Question(text: "What's a country you've never been to that you think about often?", category: .travel, depth: .light),
             Question(text: "What's the smallest, most obscure place that left the biggest impression on you?", category: .travel, depth: .medium),
             Question(text: "If you could take one person anywhere in the world right now, where would you go?", category: .travel, depth: .medium),
-
+            
             // MARK: Love & Life (50)
             Question(text: "What does a healthy relationship look like to you?", category: .loveAndLife, depth: .deep),
             Question(text: "What's something small that makes your day significantly better?", category: .loveAndLife, depth: .light),
@@ -370,7 +370,7 @@ struct DataProvider: Sendable {
             Question(text: "What does being loved well feel like to you?", category: .loveAndLife, depth: .deep),
             Question(text: "What's something you've done for love that you'd do again in a heartbeat?", category: .loveAndLife, depth: .deep),
             Question(text: "What's a boundary you've set that changed a relationship for the better?", category: .loveAndLife, depth: .deep),
-
+            
             // MARK: Hypothetical (50)
             Question(text: "If you could have dinner with anyone, living or dead, who would it be?", category: .hypothetical, depth: .light),
             Question(text: "If you woke up as the opposite gender for a day, what's the first thing you'd do?", category: .hypothetical, depth: .light),
@@ -422,24 +422,76 @@ struct DataProvider: Sendable {
             Question(text: "Would you rather feel everything deeply or nothing at all?", category: .hypothetical, depth: .deep),
             Question(text: "If you could revisit any moment in your life just to feel it again, which would you pick?", category: .hypothetical, depth: .deep),
             Question(text: "If you woke up tomorrow and everything had worked out, what would your life look like?", category: .hypothetical, depth: .deep),
+            
+            // MARK: Spicy (50)
+            Question(text: "What was the very first thing you noticed about me?", category: .spicy, depth: .light),
+            Question(text: "What’s your favorite way to be touched?", category: .spicy, depth: .medium),
+            Question(text: "Do you believe in 'chemistry' at first sight, or does it grow?", category: .spicy, depth: .light),
+            Question(text: "What is your biggest turn-on in a person’s personality?", category: .spicy, depth: .medium),
+            Question(text: "What’s the most adventurous place you’ve ever been intimate?", category: .spicy, depth: .deep),
+            Question(text: "What’s a secret fantasy you’ve never told anyone?", category: .spicy, depth: .deep),
+            Question(text: "Do you prefer to be the one taking charge or being taken care of?", category: .spicy, depth: .medium),
+            Question(text: "What’s the best compliment you’ve ever received in the bedroom?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite part of my body?", category: .spicy, depth: .light),
+            Question(text: "What is your go-to move when you want to get someone’s attention?", category: .spicy, depth: .light),
+            Question(text: "What’s a clothing item you find irresistibly attractive?", category: .spicy, depth: .light),
+            Question(text: "How do you feel about public displays of affection?", category: .spicy, depth: .light),
+            Question(text: "What’s the most romantic thing someone has ever done for you?", category: .spicy, depth: .medium),
+            Question(text: "What’s your 'guilty pleasure' when it comes to romance?", category: .spicy, depth: .medium),
+            Question(text: "If we were alone right now, what would we be doing?", category: .spicy, depth: .deep),
+            Question(text: "What’s the longest you’ve ever gone without sleep because of a date?", category: .spicy, depth: .medium),
+            Question(text: "Do you have a 'type,' or do you just follow your heart?", category: .spicy, depth: .medium),
+            Question(text: "What’s the most scandalous thing you’ve ever done?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite physical feature of your own?", category: .spicy, depth: .light),
+            Question(text: "Shower or bath—and would you share it?", category: .spicy, depth: .medium),
+            Question(text: "What’s your favorite time of day for intimacy?", category: .spicy, depth: .medium),
+            Question(text: "Do you like it when someone plays hard to get?", category: .spicy, depth: .light),
+            Question(text: "What’s the best kiss you’ve ever had like?", category: .spicy, depth: .medium),
+            Question(text: "What’s a non-physical trait that you find incredibly sexy?", category: .spicy, depth: .medium),
+            Question(text: "What’s the most 'out of character' thing you’ve done for love?", category: .spicy, depth: .deep),
+            Question(text: "Do you prefer sweet and slow or fast and intense?", category: .spicy, depth: .deep),
+            Question(text: "What’s something you’ve always wanted to try but were too shy to ask?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite place to be kissed?", category: .spicy, depth: .medium),
+            Question(text: "How many dates does it usually take for you to feel comfortable being intimate?", category: .spicy, depth: .medium),
+            Question(text: "What’s the most memorable dream you’ve had about someone?", category: .spicy, depth: .medium),
+            Question(text: "If you could describe our vibe in one word, what would it be?", category: .spicy, depth: .light),
+            Question(text: "What’s a physical habit you have when you’re nervous/excited around someone?", category: .spicy, depth: .light),
+            Question(text: "What’s the first thing you do when you get home and want to relax?", category: .spicy, depth: .light),
+            Question(text: "Do you like to be teased, or do you want to get straight to it?", category: .spicy, depth: .deep),
+            Question(text: "What’s the most attractive thing I’ve said or done today?", category: .spicy, depth: .medium),
+            Question(text: "What is your stance on role-playing?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite scent on a partner?", category: .spicy, depth: .light),
+            Question(text: "What’s the most 'spontaneous' romantic encounter you’ve had?", category: .spicy, depth: .medium),
+            Question(text: "Do you prefer lights on or lights off?", category: .spicy, depth: .deep),
+            Question(text: "What’s a movie scene you find incredibly hot?", category: .spicy, depth: .medium),
+            Question(text: "What’s your biggest 'hidden' turn-off?", category: .spicy, depth: .medium),
+            Question(text: "If you could change one thing about our date so far to make it more 'spicy,' what would it be?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite way to wake up with a partner?", category: .spicy, depth: .medium),
+            Question(text: "Do you consider yourself a good kisser?", category: .spicy, depth: .light),
+            Question(text: "What’s the most revealing thing you’re willing to tell me right now?", category: .spicy, depth: .deep),
+            Question(text: "What part of your body is the most sensitive?", category: .spicy, depth: .deep),
+            Question(text: "What’s the best way to get you 'in the mood'?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about eye contact during intimate moments?", category: .spicy, depth: .medium),
+            Question(text: "What’s your favorite kind of lingerie or loungewear?", category: .spicy, depth: .medium),
+            Question(text: "Are you more of a 'giver' or a 'receiver'?", category: .spicy, depth: .deep),
         ]
     }
-
+    
     func questions(for category: QuestionCategory) -> [Question] {
         allQuestions.filter { $0.category == category }
     }
-
+    
     func randomQuestion(for category: QuestionCategory? = nil) -> Question? {
         if let category {
             return questions(for: category).randomElement()
         }
         return allQuestions.randomElement()
     }
-
+    
     func favoriteQuestions(ids: Set<UUID>) -> [Question] {
         allQuestions.filter { ids.contains($0.id) }
     }
-
+    
     func shuffledQuestions(for category: QuestionCategory) -> [Question] {
         questions(for: category).shuffled()
     }

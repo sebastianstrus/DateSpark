@@ -15,6 +15,8 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
     case travel         = "Travel"
     case loveAndLife    = "Love & Life"
     case hypothetical   = "Hypothetical"
+    case spicy          = "Spicy"
+    case custom         = "My Questions"
 
     var id: String { rawValue }
 
@@ -29,6 +31,8 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .travel:       "airplane"
         case .loveAndLife:  "heart.fill"
         case .hypothetical: "questionmark.bubble.fill"
+        case .spicy:        "flame.circle.fill" // Or "hand.thumbsup.fill" if you want to be subtle
+        case .custom:       "pencil"
         }
     }
 
@@ -44,6 +48,8 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .travel:       ("F472B6", "BE185D")
         case .loveAndLife:  ("FB7185", "E11D48")
         case .hypothetical: ("38BDF8", "0284C7")
+        case .spicy:        ("8B5CF6", "EC4899") // Deep Purple to Hot Pink
+        case .custom:       ("A3E635", "16A34A")
         }
     }
 
@@ -57,6 +63,8 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .travel:       "Adventures near and far"
         case .loveAndLife:  "What matters most to you?"
         case .hypothetical: "What if...?"
+        case .spicy:        "Turn up the heat and flirt"
+        case .custom:       "Your personal prompts"
         }
     }
 }

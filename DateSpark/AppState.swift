@@ -16,6 +16,11 @@ final class AppState {
         didSet { persistFavorites() }
     }
 
+    // User-created custom questions (persisted)
+    var customQuestions: [Question] {
+        didSet { persistCustomQuestions() }
+    }
+
     // MARK: - Init
 
     init() {
@@ -26,6 +31,13 @@ final class AppState {
             self.favoriteQuestions = qs
         } else {
             self.favoriteQuestions = []
+        }
+
+        if let data = UserDefaults.standard.data(forKey: Keys.custom),
+           let qs = try? JSONDecoder().decode([Question].self, from: data) {
+            self.customQuestions = qs
+        } else {
+            self.customQuestions = []
         }
     }
 
@@ -49,6 +61,25 @@ final class AppState {
         favoriteQuestions = []        // full reassignment
     }
 
+    // MARK: - Custom Questions API
+
+    func addCustomQuestion(text: String, depth: QuestionDepth = .light) {
+        let trimmed = text.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !trimmed.isEmpty else { return }
+        let q = Question(text: trimmed, category: .custom, depth: depth)
+        var updated = customQuestions
+        updated.insert(q, at: 0)
+        customQuestions = updated
+    }
+
+    func removeCustomQuestion(_ question: Question) {
+        var updated = customQuestions
+        if let idx = updated.firstIndex(where: { $0.id == question.id }) {
+            updated.remove(at: idx)
+            customQuestions = updated
+        }
+    }
+
     // MARK: - Private
 
     private func persistFavorites() {
@@ -57,8 +88,15 @@ final class AppState {
         }
     }
 
+    private func persistCustomQuestions() {
+        if let encoded = try? JSONEncoder().encode(customQuestions) {
+            UserDefaults.standard.set(encoded, forKey: Keys.custom)
+        }
+    }
+
     private enum Keys {
         static let onboarding = "hasCompletedOnboarding"
         static let favorites  = "favoriteQuestionIDs"
+        static let custom     = "customQuestions"
     }
 }
