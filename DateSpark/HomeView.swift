@@ -69,7 +69,11 @@ struct HomeView: View {
 
     private func loadQuestions(for category: QuestionCategory) {
         selectedCategory = category
-        questions        = DataProvider.shared.shuffledQuestions(for: category)
+        if category == .custom {
+            questions        = appState.customQuestions.shuffled()
+        } else {
+            questions        = DataProvider.shared.shuffledQuestions(for: category)
+        }
         currentIndex     = 0
     }
     private func clearCategory() {
@@ -292,3 +296,4 @@ struct DeckFinishedView: View {
         }
     }
 }
+
