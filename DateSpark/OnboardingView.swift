@@ -16,7 +16,7 @@ struct OnboardingView: View {
 
     private let pages: [OnboardingPage] = [
         OnboardingPage(number: "01", eyebrow: "Welcome",    title: "Deeper\nConversations", body: "Thoughtfully crafted questions designed to move past small talk — for first dates, old friends, and every meaningful encounter.", symbol: "quote.bubble"),
-        OnboardingPage(number: "02", eyebrow: "Discover",   title: "Eight\nCategories",    body: "From gentle ice-breakers to profound questions about love and life. Spin the wheel or choose your own direction.", symbol: "circle.grid.2x2"),
+        OnboardingPage(number: "02", eyebrow: "Discover",   title: "Ten\nCategories",    body: "From gentle ice-breakers to profound questions about love and life. Spin the wheel or choose your own direction.", symbol: "circle.grid.2x2"),
         OnboardingPage(number: "03", eyebrow: "Navigate",   title: "Swipe\nFreely",        body: "Swipe right when a question resonates. Swipe left to pass. Every card is a doorway — open the ones that call to you.", symbol: "hand.draw"),
         OnboardingPage(number: "04", eyebrow: "Collect",    title: "Build Your\nCollection", body: "Bookmark questions that spark something real. Return to your collection whenever you need the right words.", symbol: "bookmark"),
     ]

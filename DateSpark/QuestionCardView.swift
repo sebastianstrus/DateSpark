@@ -6,6 +6,7 @@ import SwiftUI
 struct QuestionCardDeckView: View {
     let questions:    [Question]
     @Binding var currentIndex: Int
+    let onKeepQuestion: (Question) -> Void
 
     private var visibleIndices: [Int] {
         Array((currentIndex..<min(currentIndex + 3, questions.count)).reversed())
@@ -55,8 +56,13 @@ struct QuestionCardDeckView: View {
                         question:      questions[index],
                         stackPosition: index - currentIndex,
                         isTop:         index == currentIndex,
-                        onSwipeRight:  { withAnimation(.spring(response: 0.32, dampingFraction: 0.88)) { currentIndex += 1 } },
-                        onSwipeLeft:   { withAnimation(.spring(response: 0.32, dampingFraction: 0.88)) { currentIndex += 1 } }
+                        onSwipeRight:  {
+                            onKeepQuestion(questions[index])
+                            withAnimation(.spring(response: 0.32, dampingFraction: 0.88)) { currentIndex += 1 }
+                        },
+                        onSwipeLeft:   {
+                            withAnimation(.spring(response: 0.32, dampingFraction: 0.88)) { currentIndex += 1 }
+                        }
                     )
                 }
             }

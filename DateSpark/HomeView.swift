@@ -7,6 +7,7 @@ struct HomeView: View {
     @State private var selectedCategory: QuestionCategory? = nil
     @State private var questions:        [Question]        = []
     @State private var currentIndex      = 0
+    @State private var keptQuestions:    [Question]        = []
 
     var body: some View {
         ZStack {
@@ -35,10 +36,16 @@ struct HomeView: View {
                 if questions.isEmpty {
                     HomeEmptyStateView(onSpin: { withAnimation(.easeOut(duration: 0.3)) { showWheel = true } })
                 } else if currentIndex >= questions.count {
-                    DeckFinishedView(onRestart: restartDeck)
+                    SessionRecapView(keptQuestions: keptQuestions, onRestart: restartDeck)
                 } else {
-                    QuestionCardDeckView(questions: questions, currentIndex: $currentIndex)
-                        .padding(.horizontal, 20)
+                    QuestionCardDeckView(
+                        questions: questions,
+                        currentIndex: $currentIndex,
+                        onKeepQuestion: { question in
+                            keptQuestions.append(question)
+                        }
+                    )
+                    .padding(.horizontal, 20)
                 }
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
@@ -75,12 +82,13 @@ struct HomeView: View {
             questions        = DataProvider.shared.shuffledQuestions(for: category)
         }
         currentIndex     = 0
+        keptQuestions    = []
     }
     private func clearCategory() {
-        selectedCategory = nil; questions = []; currentIndex = 0
+        selectedCategory = nil; questions = []; currentIndex = 0; keptQuestions = []
     }
     private func restartDeck() {
-        questions = questions.shuffled(); currentIndex = 0
+        questions = questions.shuffled(); currentIndex = 0; keptQuestions = []
     }
 }
 
@@ -211,7 +219,7 @@ struct HomeEmptyStateView: View {
                             .foregroundColor(Color.dsPrimary)
                             .lineSpacing(8)
 
-                        Text("Spin the wheel to discover a category,\nor browse all eight themes.")
+                        Text("Spin the wheel to discover a category,\nor browse all ten themes.")
                             .font(.dsLabel(15, weight: .regular))
                             .foregroundColor(Color.dsSecondary)
                             .lineSpacing(6)
@@ -248,52 +256,147 @@ struct HomeEmptyStateView: View {
     }
 }
 
-// MARK: - Deck finished
+// MARK: - Session Recap
 
 @MainActor
-struct DeckFinishedView: View {
+struct SessionRecapView: View {
+    let keptQuestions: [Question]
     let onRestart: () -> Void
 
     var body: some View {
-        VStack(spacing: 0) {
-            Spacer()
-            VStack(alignment: .leading, spacing: 28) {
-                Text("That's\nAll of Them")
-                    .font(.dsDisplay(36, weight: .light))
-                    .foregroundColor(Color.dsPrimary)
-                    .lineSpacing(8)
+        ScrollView {
+            VStack(spacing: 0) {
+                VStack(alignment: .leading, spacing: 28) {
+                    VStack(alignment: .leading, spacing: 12) {
+                        Text("Session\nComplete")
+                            .font(.dsDisplay(36, weight: .light))
+                            .foregroundColor(Color.dsPrimary)
+                            .lineSpacing(8)
 
-                LinearGradient.dsGoldGradient
-                    .frame(width: 40, height: 0.8)
-
-                Text("You've moved through every question in this category. Shuffle and start again, or explore a new theme.")
-                    .font(.dsLabel(15, weight: .regular))
-                    .foregroundColor(Color.dsSecondary)
-                    .lineSpacing(6)
-
-                Button(action: onRestart) {
-                    HStack(spacing: 10) {
-                        Text("Shuffle & Restart")
-                            .font(.dsDisplay(17, weight: .regular))
-                        Image(systemName: "arrow.clockwise")
-                            .font(.system(size: 13, weight: .light))
+                        LinearGradient.dsGoldGradient
+                            .frame(width: 40, height: 0.8)
                     }
-                    .foregroundColor(Color.dsBackground)
-                    .padding(.horizontal, 26)
-                    .padding(.vertical, 15)
-                    .background(
-                        ZStack {
-                            LinearGradient.dsGoldGradient
-                            LinearGradient(colors: [Color.white.opacity(0.1), Color.clear], startPoint: .top, endPoint: .bottom)
+
+                    if keptQuestions.isEmpty {
+                        Text("You didn't keep any questions this time. Shuffle and try again, or explore a new theme.")
+                            .font(.dsLabel(15, weight: .regular))
+                            .foregroundColor(Color.dsSecondary)
+                            .lineSpacing(6)
+                    } else {
+                        VStack(alignment: .leading, spacing: 14) {
+                            HStack(spacing: 8) {
+                                Image(systemName: "checkmark.circle.fill")
+                                    .font(.system(size: 14))
+                                    .foregroundStyle(LinearGradient.dsGoldGradient)
+                                Text("You kept \(keptQuestions.count) question\(keptQuestions.count == 1 ? "" : "s")")
+                                    .font(.dsLabel(13, weight: .medium))
+                                    .foregroundColor(Color.dsPrimary)
+                            }
+
+                            Text("Questions you saved from this session:")
+                                .font(.dsLabel(13, weight: .regular))
+                                .foregroundColor(Color.dsSecondary)
                         }
-                    )
-                    .clipShape(RoundedRectangle(cornerRadius: 5))
-                    .shadow(color: Color.dsGold.opacity(0.3), radius: 14, x: 0, y: 5)
+
+                        // List of kept questions
+                        VStack(spacing: 12) {
+                            ForEach(Array(keptQuestions.enumerated()), id: \.element.id) { index, question in
+                                RecapQuestionCard(question: question, index: index + 1)
+                            }
+                        }
+                        .padding(.top, 10)
+                    }
+
+                    Button(action: onRestart) {
+                        HStack(spacing: 10) {
+                            Text("Shuffle & Restart")
+                                .font(.dsDisplay(17, weight: .regular))
+                            Image(systemName: "arrow.clockwise")
+                                .font(.system(size: 13, weight: .light))
+                        }
+                        .foregroundColor(Color.dsBackground)
+                        .padding(.horizontal, 26)
+                        .padding(.vertical, 15)
+                        .background(
+                            ZStack {
+                                LinearGradient.dsGoldGradient
+                                LinearGradient(colors: [Color.white.opacity(0.1), Color.clear], startPoint: .top, endPoint: .bottom)
+                            }
+                        )
+                        .clipShape(RoundedRectangle(cornerRadius: 5))
+                        .shadow(color: Color.dsGold.opacity(0.3), radius: 14, x: 0, y: 5)
+                    }
+                    .padding(.top, 8)
+                }
+                .padding(.horizontal, 36)
+                .padding(.vertical, 40)
+            }
+            .frame(maxWidth: .infinity, alignment: .topLeading)
+        }
+    }
+}
+
+// MARK: - Recap Question Card
+
+@MainActor
+struct RecapQuestionCard: View {
+    let question: Question
+    let index: Int
+
+    var body: some View {
+        HStack(alignment: .top, spacing: 12) {
+            // Index number
+            Text("\(index)")
+                .font(.dsMono(11))
+                .foregroundColor(Color.dsTertiary)
+                .frame(width: 24, alignment: .trailing)
+                .monospacedDigit()
+
+            VStack(alignment: .leading, spacing: 8) {
+                // Question text
+                Text(question.text)
+                    .font(.dsLabel(15, weight: .regular))
+                    .foregroundColor(Color.dsPrimary)
+                    .lineSpacing(4)
+
+                // Category and depth tags
+                HStack(spacing: 8) {
+                    HStack(spacing: 4) {
+                        Circle()
+                            .fill(question.category.accentColor)
+                            .frame(width: 4, height: 4)
+                        Text(question.category.rawValue.uppercased())
+                            .font(.dsLabel(8))
+                            .tracking(1.5)
+                            .foregroundColor(question.category.accentColor.opacity(0.9))
+                    }
+
+                    HStack(spacing: 4) {
+                        RoundedRectangle(cornerRadius: 1)
+                            .fill(question.depth.color)
+                            .frame(width: 10, height: 1)
+                        Text(question.depth.rawValue.uppercased())
+                            .font(.dsLabel(8))
+                            .tracking(1.5)
+                            .foregroundColor(question.depth.color.opacity(0.85))
+                    }
                 }
             }
-            .padding(.horizontal, 36)
-            Spacer()
         }
+        .padding(16)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background(Color.dsSurface)
+        .clipShape(RoundedRectangle(cornerRadius: 8))
+        .overlay(
+            RoundedRectangle(cornerRadius: 8)
+                .stroke(
+                    LinearGradient(
+                        colors: [Color.white.opacity(0.06), Color.white.opacity(0.01)],
+                        startPoint: .top, endPoint: .bottom
+                    ),
+                    lineWidth: 0.5
+                )
+        )
     }
 }
 

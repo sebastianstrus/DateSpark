@@ -31,7 +31,7 @@ struct CategoriesView: View {
                             .font(.dsLabel(9))
                             .tracking(4)
                             .foregroundStyle(LinearGradient.dsGoldGradient)
-                        Text("Eight themes")
+                        Text("Ten themes")
                             .font(.dsDisplay(30, weight: .light))
                             .foregroundColor(Color.dsPrimary)
                     }
