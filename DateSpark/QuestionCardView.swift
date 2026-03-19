@@ -241,10 +241,10 @@ struct QuestionCardView: View {
             // Swipe overlay
             if swipeStatus != .none {
                 RoundedRectangle(cornerRadius: 12)
-                    .fill(swipeStatus.color.opacity(0.07))
+                    .fill(swipeStatus.color.opacity(0.18))
                     .overlay(
                         RoundedRectangle(cornerRadius: 12)
-                            .stroke(swipeStatus.color.opacity(0.5), lineWidth: 1)
+                            .stroke(swipeStatus.color.opacity(0.75), lineWidth: 1.5)
                     )
                 VStack {
                     HStack {

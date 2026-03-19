@@ -52,8 +52,8 @@ extension Color {
     static let dsGoldDim     = Color(hex: "5C4A2A")   // deep gold shadow
 
     // Swipe states
-    static let dsConfirm     = Color(hex: "7AAE84")   // sage green
-    static let dsDecline     = Color(hex: "AE7A7A")   // muted rose
+    static let dsConfirm     = Color(hex: "5CB85C")   // vivid green
+    static let dsDecline     = Color(hex: "D9534F")   // vivid red
 }
 
 // MARK: - Category accents — distinct jewel tones, readable on dark
