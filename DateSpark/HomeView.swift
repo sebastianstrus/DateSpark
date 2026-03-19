@@ -342,6 +342,8 @@ struct SessionRecapView: View {
 struct RecapQuestionCard: View {
     let question: Question
     let index: Int
+    @State private var showShareSheet: Bool = false
+    @State private var shareImage: UIImage? = nil
 
     var body: some View {
         HStack(alignment: .top, spacing: 12) {
@@ -380,6 +382,21 @@ struct RecapQuestionCard: View {
                             .tracking(1.5)
                             .foregroundColor(question.depth.color.opacity(0.85))
                     }
+                    
+                    Spacer()
+                    
+                    // Share button
+                    Button {
+                        if let image = QuestionSharingHelper.generateImage(for: question) {
+                            shareImage = image
+                            showShareSheet = true
+                        }
+                    } label: {
+                        Image(systemName: "square.and.arrow.up")
+                            .font(.system(size: 14, weight: .light))
+                            .foregroundColor(Color.dsTertiary)
+                            .frame(width: 32, height: 32)
+                    }
                 }
             }
         }
@@ -397,6 +414,7 @@ struct RecapQuestionCard: View {
                     lineWidth: 0.5
                 )
         )
+        .shareSheet(isPresented: $showShareSheet, items: shareImage != nil ? [shareImage!] : [])
     }
 }
 

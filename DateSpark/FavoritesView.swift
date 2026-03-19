@@ -122,6 +122,8 @@ struct FavoriteQuestionRow: View {
     @Environment(AppState.self) private var appState
     @State private var offsetX:    CGFloat = 0
     @State private var showDelete: Bool    = false
+    @State private var showShareSheet: Bool = false
+    @State private var shareImage: UIImage? = nil
 
     var body: some View {
         ZStack(alignment: .trailing) {
@@ -182,12 +184,25 @@ struct FavoriteQuestionRow: View {
                 }
 
                 Spacer()
-
-                Image(systemName: "bookmark.fill")
-                    .font(.system(size: 14, weight: .light))
-                    .foregroundStyle(LinearGradient.dsGoldGradient)
-                    .padding(.trailing, 24)
-                    .padding(.top, 3)
+                
+                VStack(spacing: 8) {
+                    Button {
+                        if let image = QuestionSharingHelper.generateImage(for: question) {
+                            shareImage = image
+                            showShareSheet = true
+                        }
+                    } label: {
+                        Image(systemName: "square.and.arrow.up")
+                            .font(.system(size: 14, weight: .light))
+                            .foregroundColor(Color.dsTertiary)
+                    }
+                    
+                    Image(systemName: "bookmark.fill")
+                        .font(.system(size: 14, weight: .light))
+                        .foregroundStyle(LinearGradient.dsGoldGradient)
+                }
+                .padding(.trailing, 24)
+                .padding(.top, 3)
             }
             .padding(.vertical, 18)
             .background(Color.dsBackground)
@@ -208,6 +223,7 @@ struct FavoriteQuestionRow: View {
                         }
                     }
             )
+            .shareSheet(isPresented: $showShareSheet, items: shareImage != nil ? [shareImage!] : [])
         }
     }
 }

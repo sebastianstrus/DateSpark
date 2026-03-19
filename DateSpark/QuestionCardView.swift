@@ -103,6 +103,8 @@ struct QuestionCardView: View {
     @State private var dragOffset:        CGSize      = .zero
     @State private var swipeStatus:       SwipeStatus = .none
     @State private var favoriteAnimating: Bool        = false
+    @State private var showShareSheet:    Bool        = false
+    @State private var shareImage:        UIImage?    = nil
 
     private var cardScale: CGFloat  { 1.0 - CGFloat(stackPosition) * 0.04 }
     private var cardYOffset: CGFloat { CGFloat(stackPosition) * -12 }
@@ -199,12 +201,28 @@ struct QuestionCardView: View {
 
                 // ── Bottom bar ────────────────────────────────────────────
                 HStack(spacing: 0) {
+                    // Share button
+                    Button {
+                        if let image = QuestionSharingHelper.generateImage(for: question) {
+                            shareImage = image
+                            showShareSheet = true
+                        }
+                    } label: {
+                        Image(systemName: "square.and.arrow.up")
+                            .font(.system(size: 17, weight: .light))
+                            .foregroundColor(Color.dsTertiary)
+                            .frame(width: 44, height: 44)
+                    }
+
+                    Spacer().frame(width: 4)
+                    
                     LinearGradient.dsGoldGradient
                         .frame(height: 0.5)
                         .opacity(0.2)
 
                     Spacer().frame(width: 8)
 
+                    // Bookmark button
                     Button {
                         withAnimation(.spring(response: 0.3, dampingFraction: 0.55)) {
                             favoriteAnimating = true
@@ -233,7 +251,7 @@ struct QuestionCardView: View {
                         .frame(width: 44, height: 44)
                     }
                 }
-                .padding(.leading, 22)
+                .padding(.leading, 6)
                 .padding(.trailing, 6)
                 .padding(.bottom, 14)
             }
@@ -264,6 +282,7 @@ struct QuestionCardView: View {
         .rotationEffect(isTop ? .degrees(dragOffset.width / 22) : .zero)
         .gesture(isTop ? dragGesture : nil)
         .animation(.spring(response: 0.4, dampingFraction: 0.85), value: stackPosition)
+        .shareSheet(isPresented: $showShareSheet, items: shareImage != nil ? [shareImage!] : [])
     }
 
     private var dragGesture: some Gesture {
