@@ -35,8 +35,10 @@ struct ShareableQuestionView: View {
             VStack(alignment: .leading, spacing: 0) {
                 // Top branding section
                 HStack(spacing: 12) {
-                    Image(systemName: "spare_clear")
-                        .font(.system(size: 28, weight: .light))
+                    Image("spark_clear")
+                        .resizable() // Makes the image allow resizing
+                        .scaledToFit() // Keeps the aspect ratio intact
+                        .frame(width: 28, height: 28)
                         .foregroundStyle(LinearGradient.dsGoldGradient)
                     
                     Text("DateSpark")
@@ -82,7 +84,7 @@ struct ShareableQuestionView: View {
                 
                 // Question text - centered content
                 Text(question.text)
-                    .font(.dsDisplay(28, weight: .light))
+                    .font(.dsDisplay(42, weight: .light))
                     .foregroundColor(Color.dsPrimary)
                     .lineSpacing(9)
                     .multilineTextAlignment(.leading)
