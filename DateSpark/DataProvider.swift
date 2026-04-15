@@ -423,57 +423,85 @@ struct DataProvider: Sendable {
             Question(text: "If you could revisit any moment in your life just to feel it again, which would you pick?", category: .hypothetical, depth: .deep),
             Question(text: "If you woke up tomorrow and everything had worked out, what would your life look like?", category: .hypothetical, depth: .deep),
             
+            
+            
+            
             // MARK: Spicy (50)
-            Question(text: "What was the very first thing you noticed about me?", category: .spicy, depth: .light),
+            Question(text: "If we were in a hotel and knew the walls were thin, would that make you quieter or louder?", category: .spicy, depth: .deep),
+            Question(text: "If we were in a semi-public place, like a dark cinema or a park, what’s the furthest you’d want to go?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about being woken up by me touching you or going down on you?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about watching yourself or me in a mirror while we’re making love?", category: .spicy, depth: .medium),
+            Question(text: "Is there a specific 'extra' element—like music, videos, or toys—that you think would enhance our intimacy?", category: .spicy, depth: .medium),
+            Question(text: "What’s your favorite thing to do with me when we’re both naked and slippery in the shower?", category: .spicy, depth: .deep),
+            Question(text: "Have you ever fantasized about trying anal, or is it something you’ve already decided you love (or hate)?", category: .spicy, depth: .deep),
+
+            // 2. O przygotowanie i kontrolę
+            Question(text: "When it comes to anal play, do you prefer to take it slow and be in total control, or do you like the intensity of being taken?", category: .spicy, depth: .deep),
+            Question(text: "Have you ever tried ice or wax play, or is that something you'd be open to exploring?", category: .spicy, depth: .medium),
+            Question(text: "What’s your favorite thing to do with me when we’re both naked and slippery in the shower?", category: .spicy, depth: .deep),
+            // 1. O dominację i kontrolę
+
+            // 2. O konkretne preferencje (oral)
+            Question(text: "Do you prefer to be looked in the eyes or for your partner to be 'focused' while they’re going down on you?", category: .spicy, depth: .deep),
+            Question(text: "What’s something you’ve always wanted to try but were too shy to ask?", category: .spicy, depth: .deep),
+            Question(text: "Do you enjoy the feeling of being face-f*cked, or do you prefer to stay in total control of the rhythm and depth?", category: .spicy, depth: .deep),
+
+            // 3. O ryzykowne miejsca / ekshibicjonizm
+            
+            Question(text: "Is there a specific 'extra' element—like music, videos, or toys—that you think would enhance our intimacy?", category: .spicy, depth: .medium),
+
+            // 4. O reakcje fizyczne
+            Question(text: "What’s the one thing I could do to make you lose your mind instantly?", category: .spicy, depth: .deep),
+
+            // 5. O konkretną fantazję "scenariuszową"
+            Question(text: "If I were to walk in on you in the shower right now, what’s the first thing you’d want me to do to you?", category: .spicy, depth: .deep),
             Question(text: "What’s your favorite way to be touched?", category: .spicy, depth: .medium),
-            Question(text: "Do you believe in 'chemistry' at first sight, or does it grow?", category: .spicy, depth: .light),
+            Question(text: "When we’re in 69, do you find it easy to focus on your own pleasure, or does giving me pleasure take over your mind?", category: .spicy, depth: .deep),
             Question(text: "What is your biggest turn-on in a person’s personality?", category: .spicy, depth: .medium),
             Question(text: "What’s the most adventurous place you’ve ever been intimate?", category: .spicy, depth: .deep),
             Question(text: "What’s a secret fantasy you’ve never told anyone?", category: .spicy, depth: .deep),
             Question(text: "Do you prefer to be the one taking charge or being taken care of?", category: .spicy, depth: .medium),
             Question(text: "What’s the best compliment you’ve ever received in the bedroom?", category: .spicy, depth: .deep),
             Question(text: "What’s your favorite part of my body?", category: .spicy, depth: .light),
-            Question(text: "What is your go-to move when you want to get someone’s attention?", category: .spicy, depth: .light),
-            Question(text: "What’s a clothing item you find irresistibly attractive?", category: .spicy, depth: .light),
-            Question(text: "How do you feel about public displays of affection?", category: .spicy, depth: .light),
+            Question(text: "How do you feel about face-sitting? Do you prefer to be the one taking control from above or the one being completely smothered below?", category: .spicy, depth: .deep),
             Question(text: "What’s the most romantic thing someone has ever done for you?", category: .spicy, depth: .medium),
             Question(text: "What’s your 'guilty pleasure' when it comes to romance?", category: .spicy, depth: .medium),
             Question(text: "If we were alone right now, what would we be doing?", category: .spicy, depth: .deep),
             Question(text: "What’s the longest you’ve ever gone without sleep because of a date?", category: .spicy, depth: .medium),
             Question(text: "Do you have a 'type,' or do you just follow your heart?", category: .spicy, depth: .medium),
             Question(text: "What’s the most scandalous thing you’ve ever done?", category: .spicy, depth: .deep),
-            Question(text: "What’s your favorite physical feature of your own?", category: .spicy, depth: .light),
             Question(text: "Shower or bath—and would you share it?", category: .spicy, depth: .medium),
             Question(text: "What’s your favorite time of day for intimacy?", category: .spicy, depth: .medium),
-            Question(text: "Do you like it when someone plays hard to get?", category: .spicy, depth: .light),
             Question(text: "What’s the best kiss you’ve ever had like?", category: .spicy, depth: .medium),
             Question(text: "What’s a non-physical trait that you find incredibly sexy?", category: .spicy, depth: .medium),
-            Question(text: "What’s the most 'out of character' thing you’ve done for love?", category: .spicy, depth: .deep),
             Question(text: "Do you prefer sweet and slow or fast and intense?", category: .spicy, depth: .deep),
             Question(text: "What’s something you’ve always wanted to try but were too shy to ask?", category: .spicy, depth: .deep),
             Question(text: "What’s your favorite place to be kissed?", category: .spicy, depth: .medium),
             Question(text: "How many dates does it usually take for you to feel comfortable being intimate?", category: .spicy, depth: .medium),
             Question(text: "What’s the most memorable dream you’ve had about someone?", category: .spicy, depth: .medium),
-            Question(text: "If you could describe our vibe in one word, what would it be?", category: .spicy, depth: .light),
-            Question(text: "What’s a physical habit you have when you’re nervous/excited around someone?", category: .spicy, depth: .light),
-            Question(text: "What’s the first thing you do when you get home and want to relax?", category: .spicy, depth: .light),
             Question(text: "Do you like to be teased, or do you want to get straight to it?", category: .spicy, depth: .deep),
             Question(text: "What’s the most attractive thing I’ve said or done today?", category: .spicy, depth: .medium),
             Question(text: "What is your stance on role-playing?", category: .spicy, depth: .deep),
-            Question(text: "What’s your favorite scent on a partner?", category: .spicy, depth: .light),
             Question(text: "What’s the most 'spontaneous' romantic encounter you’ve had?", category: .spicy, depth: .medium),
             Question(text: "Do you prefer lights on or lights off?", category: .spicy, depth: .deep),
             Question(text: "What’s a movie scene you find incredibly hot?", category: .spicy, depth: .medium),
             Question(text: "What’s your biggest 'hidden' turn-off?", category: .spicy, depth: .medium),
             Question(text: "If you could change one thing about our date so far to make it more 'spicy,' what would it be?", category: .spicy, depth: .deep),
             Question(text: "What’s your favorite way to wake up with a partner?", category: .spicy, depth: .medium),
-            Question(text: "Do you consider yourself a good kisser?", category: .spicy, depth: .light),
             Question(text: "What’s the most revealing thing you’re willing to tell me right now?", category: .spicy, depth: .deep),
             Question(text: "What part of your body is the most sensitive?", category: .spicy, depth: .deep),
             Question(text: "What’s the best way to get you 'in the mood'?", category: .spicy, depth: .deep),
             Question(text: "How do you feel about eye contact during intimate moments?", category: .spicy, depth: .medium),
             Question(text: "What’s your favorite kind of lingerie or loungewear?", category: .spicy, depth: .medium),
-            Question(text: "Are you more of a 'giver' or a 'receiver'?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about being teased to the point where you have to beg for it?", category: .spicy, depth: .deep),
+
+            // 2. O konkretne preferencje (oral)
+
+            // 3. O ryzykowne miejsca / ekshibicjonizm
+
+            // 4. O reakcje fizyczne
+
+            // 5. O konkretną fantazję "scenariuszową"
         ]
     }
     
