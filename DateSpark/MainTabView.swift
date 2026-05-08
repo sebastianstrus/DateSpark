@@ -7,25 +7,18 @@ struct MainTabView: View {
 
     var body: some View {
         ZStack(alignment: .bottom) {
-            // Plain ZStack tab switching — no TabView(.page) which steals
-            // vertical scroll gestures from ScrollViews inside child views.
-            ZStack {
-                HomeView()
-                    .opacity(selectedTab == 0 ? 1 : 0)
-                    .allowsHitTesting(selectedTab == 0)
-                    .environment(appState)
-
-                CategoriesView()
-                    .opacity(selectedTab == 1 ? 1 : 0)
-                    .allowsHitTesting(selectedTab == 1)
-                    .environment(appState)
-
-                FavoritesView()
-                    .opacity(selectedTab == 2 ? 1 : 0)
-                    .allowsHitTesting(selectedTab == 2)
-                    .environment(appState)
-            }
-            .ignoresSafeArea(edges: .bottom)
+                        TabView(selection: $selectedTab) {
+                            HomeView()
+                                .tag(0)
+                                .environment(appState)
+                            CategoriesView()
+                                .tag(1)
+                                .environment(appState)
+                            FavoritesView()
+                                .tag(2)
+                                .environment(appState)
+                         }
+                        .tabViewStyle(.page(indexDisplayMode: .never))
 
             CustomTabBar(selectedTab: $selectedTab)
         }
