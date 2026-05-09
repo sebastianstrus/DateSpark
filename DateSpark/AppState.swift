@@ -21,6 +21,11 @@ final class AppState {
         didSet { persistCustomQuestions() }
     }
 
+    // Sound enabled state (persisted)
+    var soundEnabled: Bool {
+        didSet { UserDefaults.standard.set(soundEnabled, forKey: Keys.soundEnabled) }
+    }
+
     // MARK: - Init
 
     init() {
@@ -38,6 +43,14 @@ final class AppState {
             self.customQuestions = qs
         } else {
             self.customQuestions = []
+        }
+
+        // Sound is enabled by default
+        if UserDefaults.standard.object(forKey: Keys.soundEnabled) == nil {
+            self.soundEnabled = true
+            UserDefaults.standard.set(true, forKey: Keys.soundEnabled)
+        } else {
+            self.soundEnabled = UserDefaults.standard.bool(forKey: Keys.soundEnabled)
         }
     }
 
@@ -98,5 +111,6 @@ final class AppState {
         static let onboarding = "hasCompletedOnboarding"
         static let favorites  = "favoriteQuestionIDs"
         static let custom     = "customQuestions"
+        static let soundEnabled = "soundEnabled"
     }
 }

@@ -17,6 +17,9 @@ struct MainTabView: View {
                             FavoritesView()
                                 .tag(2)
                                 .environment(appState)
+                            SettingsView()
+                                .tag(3)
+                                .environment(appState)
                          }
                         .tabViewStyle(.page(indexDisplayMode: .never))
 
@@ -37,6 +40,7 @@ struct CustomTabBar: View {
         TabItem(icon: "flame",           label: "Spark"),
         TabItem(icon: "square.grid.2x2", label: "Categories"),
         TabItem(icon: "bookmark",        label: "Saved"),
+        TabItem(icon: "gearshape",       label: "Settings"),
     ]
 
     var body: some View {

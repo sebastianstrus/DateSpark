@@ -104,6 +104,9 @@ extension Font {
     static func dsMono(_ size: CGFloat) -> Font {
         .system(size: size, weight: .regular, design: .monospaced)
     }
+    static func dsBody(_ size: CGFloat) -> Font {
+        .dsLabel(size)
+    }
 }
 
 // MARK: - Shared components

@@ -9,7 +9,7 @@ struct SpinWheelView: View {
     @State private var selectedCategory: QuestionCategory? = nil
     @State private var showResult:       Bool              = false
 
-    private let categories = QuestionCategory.allCases
+    private let categories = QuestionCategory.allCases.filter { $0 != .custom }
 
     var body: some View {
         VStack(spacing: 0) {
