@@ -924,6 +924,49 @@ struct DataProvider: Sendable {
             Question(text: "What is the most 'passionate' moment we’ve shared?", category: .spicy, depth: .deep),
             Question(text: "What is your favorite thing to do when we are alone?", category: .spicy, depth: .medium),
             Question(text: "What is the most 'meaningful' touch we share?", category: .spicy, depth: .deep),
+            
+            // MARK: Closeness 36 (36)
+            // Set I: Establishing Rapport
+            Question(text: "Given the choice of anyone in the world, whom would you want as a dinner guest?", category: .closeness36, depth: .light),
+            Question(text: "Would you like to be famous? In what way?", category: .closeness36, depth: .light),
+            Question(text: "Before making a telephone call, do you ever rehearse what you are going to say? Why?", category: .closeness36, depth: .light),
+            Question(text: "What would constitute a “perfect” day for you?", category: .closeness36, depth: .light),
+            Question(text: "When did you last sing to yourself? To someone else?", category: .closeness36, depth: .light),
+            Question(text: "If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?", category: .closeness36, depth: .light),
+            Question(text: "Do you have a secret hunch about how you will die?", category: .closeness36, depth: .light),
+            Question(text: "Name three things you and your partner appear to have in common.", category: .closeness36, depth: .medium),
+            Question(text: "For what in your life do you feel most grateful?", category: .closeness36, depth: .medium),
+            Question(text: "If you could change anything about the way you were raised, what would it be?", category: .closeness36, depth: .medium),
+            Question(text: "Take four minutes and tell your partner your life story in as much detail as possible.", category: .closeness36, depth: .medium),
+            Question(text: "If you could wake up tomorrow having gained any one quality or ability, what would it be?", category: .closeness36, depth: .light),
+            
+            // Set II: Deepening the Connection
+            Question(text: "If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?", category: .closeness36, depth: .medium),
+            Question(text: "Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?", category: .closeness36, depth: .medium),
+            Question(text: "What is the greatest accomplishment of your life?", category: .closeness36, depth: .medium),
+            Question(text: "What do you value most in a friendship?", category: .closeness36, depth: .medium),
+            Question(text: "What is your most treasured memory?", category: .closeness36, depth: .medium),
+            Question(text: "What is your most terrible memory?", category: .closeness36, depth: .deep),
+            Question(text: "If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?", category: .closeness36, depth: .deep),
+            Question(text: "What does friendship mean to you?", category: .closeness36, depth: .medium),
+            Question(text: "What roles do love and affection play in your life?", category: .closeness36, depth: .deep),
+            Question(text: "Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.", category: .closeness36, depth: .medium),
+            Question(text: "How close and warm is your family? Do you feel your childhood was happier than most other people’s?", category: .closeness36, depth: .deep),
+            Question(text: "How do you feel about your relationship with your mother?", category: .closeness36, depth: .deep),
+            
+            // Set III: Building Vulnerability
+            Question(text: "Make three true “we” statements each. For instance, “We are both in this room feeling...”", category: .closeness36, depth: .medium),
+            Question(text: "Complete this sentence: “I wish I had someone with whom I could share...”", category: .closeness36, depth: .deep),
+            Question(text: "If you were going to become a close friend with your partner, please share what would be important for them to know.", category: .closeness36, depth: .deep),
+            Question(text: "Tell your partner what you like about them; be very honest, saying things you might not say to someone you’ve just met.", category: .closeness36, depth: .deep),
+            Question(text: "Share with your partner an embarrassing moment in your life.", category: .closeness36, depth: .medium),
+            Question(text: "When did you last cry in front of another person? By yourself?", category: .closeness36, depth: .deep),
+            Question(text: "Tell your partner something that you like about them already.", category: .closeness36, depth: .medium),
+            Question(text: "What, if anything, is too serious to be joked about?", category: .closeness36, depth: .medium),
+            Question(text: "If you were to die this evening, what would you most regret not having told someone? Why haven’t you told them yet?", category: .closeness36, depth: .deep),
+            Question(text: "Your house catches fire. After saving loved ones and pets, you can save any one item. What would it be? Why?", category: .closeness36, depth: .medium),
+            Question(text: "Of all the people in your family, whose death would you find most disturbing? Why?", category: .closeness36, depth: .deep),
+            Question(text: "Share a personal problem and ask your partner’s advice on how they might handle it.", category: .closeness36, depth: .deep)
         ]
     }
     

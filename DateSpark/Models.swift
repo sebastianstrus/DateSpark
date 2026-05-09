@@ -5,7 +5,6 @@
 import Foundation
 
 // MARK: - QuestionCategory
-
 enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
     case iceBreakers    = "Ice Breakers"
     case dreams         = "Dreams & Goals"
@@ -16,11 +15,11 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
     case loveAndLife    = "Love & Life"
     case hypothetical   = "Hypothetical"
     case spicy          = "Spicy"
+    case closeness36    = "The 36 Experience"
     case custom         = "My Questions"
 
     var id: String { rawValue }
 
-    // Pure strings — no Color, no SwiftUI.
     var icon: String {
         switch self {
         case .iceBreakers:  "flame.fill"
@@ -31,13 +30,12 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .travel:       "airplane"
         case .loveAndLife:  "heart.fill"
         case .hypothetical: "questionmark.bubble.fill"
-        case .spicy:        "flame.circle.fill" // Or "hand.thumbsup.fill" if you want to be subtle
+        case .spicy:        "flame.circle.fill"
+        case .closeness36:  "person.2.fill" // Icon representing connection
         case .custom:       "pencil"
         }
     }
 
-    /// Hex strings for the two gradient stops. Resolved to Color in the
-    /// @MainActor display extension (CategoryStyle.swift).
     var gradientHex: (String, String) {
         switch self {
         case .iceBreakers:  ("FF6B6B", "FF8E53")
@@ -48,7 +46,8 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .travel:       ("F472B6", "BE185D")
         case .loveAndLife:  ("FB7185", "E11D48")
         case .hypothetical: ("38BDF8", "0284C7")
-        case .spicy:        ("8B5CF6", "EC4899") // Deep Purple to Hot Pink
+        case .spicy:        ("8B5CF6", "EC4899")
+        case .closeness36:  ("D4AF37", "C5B358") // Metallic Gold to Muted Bronze
         case .custom:       ("A3E635", "16A34A")
         }
     }
@@ -64,6 +63,7 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .loveAndLife:  "What matters most to you?"
         case .hypothetical: "What if...?"
         case .spicy:        "Turn up the heat and flirt"
+        case .closeness36:  "Scientific path to falling in love"
         case .custom:       "Your personal prompts"
         }
     }

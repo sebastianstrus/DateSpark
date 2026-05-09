@@ -71,6 +71,7 @@ extension QuestionCategory {
         case .loveAndLife:  Color(hex: "C87A7A")  // terracotta rose
         case .hypothetical: Color(hex: "7ABCC8")  // teal
         case .spicy:        Color(hex: "9B6B9D")  // deep plum
+        case .closeness36:  Color(hex: "B284BE")  // african violet
         case .custom:       Color(hex: "6FBF73")  // fresh green
         }
     }
