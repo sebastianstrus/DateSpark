@@ -23,9 +23,9 @@ struct SettingsView: View {
                         }
                         Spacer()
                     }
-                    .padding(.horizontal, 28)
-                    .padding(.top, 28)
-                    .padding(.bottom, 22)
+                    .padding(.horizontal, 24)
+                    .padding(.top, 60)
+                    .padding(.bottom, 20)
                     
                     HairlineDivider()
                     
