@@ -101,12 +101,12 @@ struct SpinWheelView: View {
                         Button { onSelect(cat) } label: {
                             HStack(spacing: 8) {
                                 Text("Begin")
-                                    .font(.dsDisplay(16, weight: .regular))
+                                    .font(.dsDisplay(15, weight: .regular))
                                 Image(systemName: "arrow.right")
                                     .font(.system(size: 12, weight: .light))
                             }
                             .foregroundColor(Color.dsBackground)
-                            .padding(.horizontal, 20)
+                            .padding(.horizontal, 10)
                             .padding(.vertical, 13)
                             .background(
                                 ZStack {
