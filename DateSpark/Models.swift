@@ -8,10 +8,10 @@ import Foundation
 enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
     case iceBreakers    = "Ice Breakers"
     case dreams         = "Dreams & Goals"
+    case travel         = "Travel"
     case childhood      = "Childhood"
     case deepThoughts   = "Deep Thoughts"
     case funAndSilly    = "Fun & Silly"
-    case travel         = "Travel"
     case loveAndLife    = "Love & Life"
     case hypothetical   = "Hypothetical"
     case spicy          = "Spicy"
@@ -47,8 +47,8 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .loveAndLife:  ("FB7185", "E11D48")
         case .hypothetical: ("38BDF8", "0284C7")
         case .spicy:        ("8B5CF6", "EC4899")
-        case .closeness36:  ("D4AF37", "C5B358") // Metallic Gold to Muted Bronze
-        case .custom:       ("A3E635", "16A34A")
+        case .closeness36:  ("A3E635", "16A34A")
+        case .custom:       ("D4AF37", "C5B358")
         }
     }
 
