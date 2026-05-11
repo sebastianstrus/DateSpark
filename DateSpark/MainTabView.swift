@@ -34,13 +34,13 @@ struct CustomTabBar: View {
     @Binding var selectedTab: Int
 
     private struct TabItem: Sendable {
-        let icon: String; let label: String
+        let icon: String; let labelKey: String
     }
     private let tabs: [TabItem] = [
-        TabItem(icon: "flame",           label: "Spark"),
-        TabItem(icon: "square.grid.2x2", label: "Categories"),
-        TabItem(icon: "bookmark",        label: "Saved"),
-        TabItem(icon: "gearshape",       label: "Settings"),
+        TabItem(icon: "flame",           labelKey: "Spark"),
+        TabItem(icon: "square.grid.2x2", labelKey: "Categories"),
+        TabItem(icon: "bookmark",        labelKey: "Saved"),
+        TabItem(icon: "gearshape",       labelKey: "Settings"),
     ]
 
     var body: some View {
@@ -87,9 +87,10 @@ struct CustomTabBar: View {
                                         .scaleEffect(selectedTab == index ? 1.1 : 1.0)
                                 }
 
-                                Text(tab.label.uppercased())
+                                Text(LocalizedStringKey(tab.labelKey))
                                     .font(.dsLabel(8))
                                     .tracking(1.5)
+                                    .textCase(.uppercase)
                                     .foregroundStyle(
                                         selectedTab == index
                                         ? AnyShapeStyle(LinearGradient.dsGoldGradient)

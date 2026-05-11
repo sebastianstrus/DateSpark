@@ -102,7 +102,7 @@ struct CategoryRowView: View {
 
                 // Text
                 VStack(alignment: .leading, spacing: 4) {
-                    Text(category.rawValue)
+                    Text(category.localizedName)
                         .font(.dsDisplay(19, weight: .light))
                         .foregroundColor(Color.dsPrimary)
                     Text("\(countText) questions")
@@ -176,11 +176,12 @@ struct CategoryDetailView: View {
                     .padding(.bottom, 16)
 
                     VStack(alignment: .leading, spacing: 5) {
-                        Text(category.rawValue.uppercased())
+                        Text(category.localizedName)
                             .font(.dsLabel(9))
                             .tracking(3.5)
+                            .textCase(.uppercase)
                             .foregroundColor(category.accentColor)
-                        Text(category.description)
+                        Text(category.localizedDescription)
                             .font(.dsDisplay(26, weight: .light))
                             .foregroundColor(Color.dsPrimary)
                             .lineSpacing(5)

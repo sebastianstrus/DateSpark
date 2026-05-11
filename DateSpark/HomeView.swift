@@ -114,7 +114,7 @@ struct HomeHeaderView: View {
                             Circle()
                                 .fill(cat.accentColor)
                                 .frame(width: 6, height: 6)
-                            Text(cat.rawValue)
+                            Text(cat.localizedName)
                                 .font(.dsDisplay(22, weight: .light))
                                 .foregroundColor(Color.dsPrimary)
                         }
@@ -367,9 +367,10 @@ struct RecapQuestionCard: View {
                         Circle()
                             .fill(question.category.accentColor)
                             .frame(width: 4, height: 4)
-                        Text(question.category.rawValue.uppercased())
+                        Text(question.category.localizedName)
                             .font(.dsLabel(8))
                             .tracking(1.5)
+                            .textCase(.uppercase)
                             .foregroundColor(question.category.accentColor.opacity(0.9))
                     }
 
@@ -377,9 +378,10 @@ struct RecapQuestionCard: View {
                         RoundedRectangle(cornerRadius: 1)
                             .fill(question.depth.color)
                             .frame(width: 10, height: 1)
-                        Text(question.depth.rawValue.uppercased())
+                        Text(question.depth.localizedName)
                             .font(.dsLabel(8))
                             .tracking(1.5)
+                            .textCase(.uppercase)
                             .foregroundColor(question.depth.color.opacity(0.85))
                     }
                     

@@ -1,11 +1,11 @@
 import SwiftUI
 
-struct OnboardingPage: Identifiable, Sendable {
+struct OnboardingPage: Identifiable {
     let id        = UUID()
     let number:     String
-    let eyebrow:    String
-    let title:      String
-    let body:       String
+    let eyebrowKey: String
+    let titleKey:   String
+    let bodyKey:    String
     let symbol:     String
 }
 
@@ -15,10 +15,10 @@ struct OnboardingView: View {
     @State private var currentPage = 0
 
     private let pages: [OnboardingPage] = [
-        OnboardingPage(number: "01", eyebrow: "Welcome",    title: "Deeper\nConversations", body: "Thoughtfully crafted questions designed to move past small talk — for first dates, old friends, and every meaningful encounter.", symbol: "quote.bubble"),
-        OnboardingPage(number: "02", eyebrow: "Discover",   title: "Ten\nCategories",    body: "From gentle ice-breakers to profound questions about love and life. Spin the wheel or choose your own direction.", symbol: "circle.grid.2x2"),
-        OnboardingPage(number: "03", eyebrow: "Navigate",   title: "Swipe\nFreely",        body: "Swipe right when a question resonates. Swipe left to pass. Every card is a doorway — open the ones that call to you.", symbol: "hand.draw"),
-        OnboardingPage(number: "04", eyebrow: "Collect",    title: "Build Your\nCollection", body: "Bookmark questions that spark something real. Return to your collection whenever you need the right words.", symbol: "bookmark"),
+        OnboardingPage(number: "01", eyebrowKey: "Welcome",    titleKey: "Deeper\\nConversations", bodyKey: "Thoughtfully crafted questions designed to move past small talk — for first dates, old friends, and every meaningful encounter.", symbol: "quote.bubble"),
+        OnboardingPage(number: "02", eyebrowKey: "Discover",   titleKey: "Ten\\nCategories",    bodyKey: "From gentle ice-breakers to profound questions about love and life. Spin the wheel or choose your own direction.", symbol: "circle.grid.2x2"),
+        OnboardingPage(number: "03", eyebrowKey: "Navigate",   titleKey: "Swipe\\nFreely",        bodyKey: "Swipe right when a question resonates. Swipe left to pass. Every card is a doorway — open the ones that call to you.", symbol: "hand.draw"),
+        OnboardingPage(number: "04", eyebrowKey: "Collect",    titleKey: "Build Your\\nCollection", bodyKey: "Bookmark questions that spark something real. Return to your collection whenever you need the right words.", symbol: "bookmark"),
     ]
 
     var body: some View {
@@ -132,20 +132,21 @@ struct OnboardingPageView: View {
                     HStack(spacing: 10) {
                         LinearGradient.dsGoldGradient
                             .frame(width: 20, height: 1)
-                        Text(page.eyebrow.uppercased())
+                        Text(LocalizedStringKey(page.eyebrowKey))
                             .font(.dsLabel(10))
                             .tracking(3.5)
+                            .textCase(.uppercase)
                             .foregroundStyle(LinearGradient.dsGoldGradient)
                     }
 
                     // Title
-                    Text(page.title)
+                    Text(LocalizedStringKey(page.titleKey))
                         .font(.dsDisplay(38, weight: .light))
                         .foregroundColor(Color.dsPrimary)
                         .lineSpacing(8)
 
                     // Body
-                    Text(page.body)
+                    Text(LocalizedStringKey(page.bodyKey))
                         .font(.dsLabel(16, weight: .regular))
                         .foregroundColor(Color.dsSecondary)
                         .lineSpacing(7)

@@ -156,19 +156,21 @@ struct QuestionCardView: View {
                             Circle()
                                 .fill(question.category.accentColor)
                                 .frame(width: 5, height: 5)
-                            Text(question.category.rawValue.uppercased())
+                            Text(question.category.localizedName)
                                 .font(.dsLabel(9))
                                 .tracking(2.5)
                                 .foregroundColor(question.category.accentColor)
+                                .textCase(.uppercase)
                         }
                         HStack(spacing: 5) {
                             RoundedRectangle(cornerRadius: 1)
                                 .fill(question.depth.color)
                                 .frame(width: 14, height: 1.5)
-                            Text(question.depth.rawValue.uppercased())
+                            Text(question.depth.localizedName)
                                 .font(.dsLabel(8))
                                 .tracking(2)
                                 .foregroundColor(question.depth.color.opacity(0.85))
+                                .textCase(.uppercase)
                         }
                     }
                     Spacer()

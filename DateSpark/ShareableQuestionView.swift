@@ -56,20 +56,22 @@ struct ShareableQuestionView: View {
                         Circle()
                             .fill(question.category.accentColor)
                             .frame(width: 6, height: 6)
-                        Text(question.category.rawValue.uppercased())
+                        Text(question.category.localizedName)
                             .font(.dsLabel(10))
                             .tracking(2.5)
                             .foregroundColor(question.category.accentColor)
+                            .textCase(.uppercase)
                     }
                     
                     HStack(spacing: 6) {
                         RoundedRectangle(cornerRadius: 1)
                             .fill(question.depth.color)
                             .frame(width: 16, height: 2)
-                        Text(question.depth.rawValue.uppercased())
+                        Text(question.depth.localizedName)
                             .font(.dsLabel(9))
                             .tracking(2)
                             .foregroundColor(question.depth.color.opacity(0.85))
+                            .textCase(.uppercase)
                     }
                 }
                 .padding(.top, 24)

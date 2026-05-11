@@ -74,10 +74,11 @@ struct FavoritesView: View {
                                             ))
                                             .frame(width: 3, height: 18)
 
-                                        Text(cat.rawValue.uppercased())
+                                        Text(cat.localizedName)
                                             .font(.dsLabel(9))
                                             .tracking(3)
                                             .foregroundColor(cat.accentColor)
+                                            .textCase(.uppercase)
 
                                         Spacer()
 
@@ -170,16 +171,18 @@ struct FavoriteQuestionRow: View {
                         .fixedSize(horizontal: false, vertical: true)
 
                     HStack(spacing: 10) {
-                        Text(question.category.rawValue.uppercased())
+                        Text(question.category.localizedName)
                             .font(.dsLabel(8))
                             .tracking(1.5)
                             .foregroundColor(question.category.accentColor)
+                            .textCase(.uppercase)
                         Text("·")
                             .foregroundColor(Color.dsTertiary)
-                        Text(question.depth.rawValue.uppercased())
+                        Text(question.depth.localizedName)
                             .font(.dsLabel(8))
                             .tracking(1.5)
                             .foregroundColor(question.depth.color.opacity(0.75))
+                            .textCase(.uppercase)
                     }
                 }
 

@@ -86,11 +86,12 @@ struct SpinWheelView: View {
                             .frame(width: 4, height: 44)
 
                         VStack(alignment: .leading, spacing: 4) {
-                            Text(cat.rawValue.uppercased())
+                            Text(cat.localizedName)
                                 .font(.dsLabel(9))
                                 .tracking(3)
+                                .textCase(.uppercase)
                                 .foregroundColor(cat.accentColor)
-                            Text(cat.description)
+                            Text(cat.localizedDescription)
                                 .font(.dsLabel(13, weight: .regular))
                                 .foregroundColor(Color.dsSecondary)
                         }
