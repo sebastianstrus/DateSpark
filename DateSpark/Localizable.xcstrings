@@ -49129,6 +49129,906 @@
         }
       }
     },
+    "What was the first record, tape, or CD you ever owned?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die erste Schallplatte, Kassette oder CD, die du jemals besessen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the first record, tape, or CD you ever owned?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el primer disco, casete o CD que tuviste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été ton premier disque, cassette ou CD ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il primo disco, nastro o CD che hai posseduto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "初めて所有したレコード、テープ、またはCDは何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처음으로 소유한 레코드, 테이프, CD는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den første plata, kassetten eller CD-en du eide?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de eerste plaat, cassette of cd die je ooit bezat?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja pierwsza płyta, kaseta lub CD?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o primeiro disco, fita ou CD que você teve?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var den första skivan, kassetten eller CD-skivan du ägde?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була перша платівка, касета чи CD, які ти мав?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你拥有的第一张唱片、磁带或CD是什么？" } }
+      }
+    },
+    "Did your family have a 'Friday night' ritual?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Hatte deine Familie ein Freitagabend-Ritual?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Did your family have a 'Friday night' ritual?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Tu familia tenía algún ritual para los viernes por la noche?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Ta famille avait-elle un rituel du « vendredi soir » ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "La tua famiglia aveva un rituale del venerdì sera?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたの家族には「金曜の夜」の習慣がありましたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가족과 함께하는 '금요일 밤' 의식이 있었나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hadde familien din en «fredagskveld»-tradisjon?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Had jouw gezin een vrijdagavondritueel?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czy twoja rodzina miała rytuał „piątkowego wieczoru”?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Sua família tinha um ritual de 'sexta-feira à noite'?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hade din familj en fredagskvällsritual?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Чи мала ваша родина ритуал «п’ятничного вечора»?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你的家人有“星期五晚上”的固定活动吗？" } }
+      }
+    },
+    "What's a skill you learned as a kid that you never thought you'd use, but do?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist eine Fähigkeit, die du als Kind gelernt hast, von der du dachtest, du würdest sie nie brauchen – aber dann doch?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a skill you learned as a kid that you never thought you'd use, but do?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué habilidad aprendiste de niño que nunca creíste que usarías, pero usas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle compétence as-tu apprise enfant, que tu n’aurais jamais pensé utiliser, mais que tu utilises pourtant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è un'abilità che hai imparato da bambino che non pensavi avresti mai usato, ma invece usi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に学んで、絶対使わないと思っていたけど実際に使っているスキルは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 배웠지만 절대 쓰지 않을 거라 생각했는데 실제로 쓰고 있는 기술은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken ferdighet lærte du som barn som du aldri trodde du ville bruke, men som du faktisk gjør?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vaardigheid leerde je als kind waarvan je dacht die nooit te gebruiken, maar die je nu wel gebruikt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej umiejętności nauczyłeś się jako dziecko, o której myślałeś, że nigdy jej nie użyjesz, a jednak używasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual habilidade você aprendeu quando criança que achou que nunca usaria, mas usa?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken färdighet lärde du dig som barn som du aldrig trodde du skulle använda, men som du gör?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку навичку ти вивчив у дитинстві, яку ніколи не думав, що використаєш, але використовуєш?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候学过哪项你从没想过会用、但确实用到了的技能？" } }
+      }
+    },
+    "What's the best thing you ever won as a child?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Beste, das du als Kind jemals gewonnen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best thing you ever won as a child?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo mejor que ganaste de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure chose que tu aies gagnée étant enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa migliore che hai vinto da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に手に入れた最高の賞品は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 받은 상 중 가장 좋았던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste du noen gang vant som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste dat je als kind ooit hebt gewonnen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najlepszego, co wygrałeś jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a melhor coisa que você ganhou quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa du någonsin vann som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найкращого ти виграв у дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候赢过的最棒的东西是什么？" } }
+      }
+    },
+    "What was the first thing you ever cooked by yourself?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du als erstes allein gekocht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the first thing you ever cooked by yourself?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué fue lo primero que cocinaste tú solo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la première chose que tu as cuisinée tout seul ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la prima cosa che hai cucinato da solo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分一人で初めて料理したものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처음으로 혼자 요리한 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det første du lagde mat helt alene?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was het eerste dat je ooit helemaal alleen kookte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co ugotowałeś po raz pierwszy samodzielnie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a primeira coisa que você cozinhou sozinho?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det första du lagade helt själv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ти приготував самостійно вперше?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你第一次自己做的东西是什么？" } }
+      }
+    },
+    "What's a piece of clothing from your childhood you wish you still had?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Kleidungsstück aus deiner Kindheit wünschst du dir, du hättest es noch?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of clothing from your childhood you wish you still had?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué prenda de tu infancia te gustaría seguir teniendo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel vêtement de ton enfance aimerais-tu encore avoir ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale capo d'abbigliamento della tua infanzia vorresti avere ancora?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に持っていた服で、今もまだ持っていればいいのにと思うものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 옷 중 아직도 가지고 있으면 좋겠다고 생각하는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket plagg fra barndommen skulle du ønske du fortsatt hadde?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk kledingstuk uit je kindertijd wens je dat je nog had?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką część garderoby z dzieciństwa chciałbyś nadal mieć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual peça de roupa da sua infância você gostaria de ainda ter?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket klädesplagg från din barndom önskar du att du fortfarande hade?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який одяг з дитинства ти хотів би все ще мати?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪件衣服你希望现在还留着？" } }
+      }
+    },
+    "What's the funniest thing your sibling or friend ever did?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Lustigste, das dein Geschwister oder Freund je getan hat?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the funniest thing your sibling or friend ever did?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más gracioso que hizo tu hermano o amigo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus drôle que ton frère, ta sœur ou ton ami a jamais faite ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più divertente che tuo fratello, tua sorella o un tuo amico abbia mai fatto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "兄弟や友達がやった一番面白いことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "형제나 친구가 한 일 중 가장 웃긴 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det morsomste søskenet eller vennen din noen gang har gjort?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het grappigste dat je broer, zus of vriend ooit deed?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najśmieszniejszego, co zrobił twoje rodzeństwo lub przyjaciel?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a coisa mais engraçada que seu irmão ou amigo já fez?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det roligaste ditt syskon eller din vän någonsin gjort?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найсмішніше колись зробив твій брат, сестра чи друг?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你的兄弟姐妹或朋友做过的最有趣的事情是什么？" } }
+      }
+    },
+    "What's a kids' movie that scared you more than it should have?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Kinderfilm hat dich mehr erschreckt, als er eigentlich sollte?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a kids' movie that scared you more than it should have?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué película infantil te asustó más de lo que debería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel film pour enfants t’a fait plus peur qu’il n’aurait dû ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale film per bambini ti ha spaventato più del dovuto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "必要以上に怖かった子供向け映画は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "예상보다 더 무서웠던 어린이 영화는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken barnefilm skremte deg mer enn den burde?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke kinderfilm maakte je banger dan nodig was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki film dla dzieci przeraził cię bardziej niż powinien?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual filme infantil te assustou mais do que deveria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken barnfilm skrämde dig mer än den borde ha gjort?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який дитячий фільм налякав тебе більше, ніж мав би?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪部儿童电影吓你的程度超出了它本该有的？" } }
+      }
+    },
+    "What was your favorite 'sick day' activity when you stayed home from school?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war deine Lieblingsbeschäftigung an einem „Krankheitstag“, wenn du zu Hause geblieben bist?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite 'sick day' activity when you stayed home from school?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu actividad favorita en un 'día de enfermedad' cuando te quedabas en casa sin ir al colegio?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle était ton activité préférée lors d’un « jour de maladie » à la maison ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua attività preferita nei 'giorni di malattia' a casa da scuola?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "学校を休んで家にいた時の好きな「病気休暇」の活動は何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "학교에 가지 않고 집에 있었을 때 가장 좋아했던 '병가' 활동은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favoritt «sykdomsskole»-aktivitet når du var hjemme fra skolen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete 'ziek thuis'-activiteit als je niet naar school ging?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja ulubiona aktywność w „dzień chorobowy”, gdy zostałeś w domu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era sua atividade favorita no 'dia de doente' quando ficava em casa?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var din favoritsysselsättning på en 'sjukdag' när du var hemma från skolan?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким було твоє улюблене заняття в «день хвороби», коли ти залишався вдома?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你请假在家时最喜欢的“病假”活动是什么？" } }
+      }
+    },
+    "What's the longest trip you ever took with your family as a kid?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die längste Reise, die du als Kind mit deiner Familie gemacht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the longest trip you ever took with your family as a kid?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el viaje más largo que hiciste con tu familia de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le plus long voyage que tu aies fait avec ta famille étant enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il viaggio più lungo che hai fatto con la tua famiglia da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に家族と行った一番長い旅行は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 가족과 떠난 여행 중 가장 길었던 여행은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den lengste turen du noen gang tok med familien din som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de langste reis die je als kind met je gezin maakte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najdłuższa podróż, jaką odbyłeś z rodziną jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a viagem mais longa que você fez com sua família quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den längsta resan du gjorde med din familj som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була найдовша подорож із родиною в дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候和家人一起旅行最长的一次是去哪里？" } }
+      }
+    },
+    "What was your favorite room in your childhood home?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein Lieblingszimmer in deinem Zuhause aus Kindertagen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite room in your childhood home?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu habitación favorita en la casa de tu infancia?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle était ta pièce préférée dans la maison de ton enfance ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua stanza preferita nella casa della tua infanzia?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃の家で一番好きな部屋はどこでしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 집에서 가장 좋아했던 방은 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket rom var ditt favorittrom i barndomshjemmet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete kamer in het huis van je kindertijd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Który pokój był twoim ulubionym w domu z dzieciństwa?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era seu cômodo favorito na casa da sua infância?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket rum var ditt favoritrum i ditt barndomshem?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка кімната була твоєю улюбленою в дитячому домі?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候在家里最喜欢的房间是哪个？" } }
+      }
+    },
+    "What's a food your parents made that you didn't appreciate until you were older?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Essen deiner Eltern hast du erst zu schätzen gelernt, als du älter warst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a food your parents made that you didn't appreciate until you were older?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué comida que hacían tus padres no apreciaste hasta que fuiste mayor?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel plat préparé par tes parents n’as-tu apprécié qu’en grandissant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale cibo preparato dai tuoi genitori hai imparato ad apprezzare solo da più grande?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "両親が作ってくれた料理で、大人になるまでその良さがわからなかったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님이 만들어 주셨지만 나중에 커서야 감사하게 된 음식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken mat lagde foreldrene dine som du ikke satte pris på før du ble eldre?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk eten maakten je ouders dat je pas waardeerde toen je ouder was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie jedzenie robili twoi rodzice, które doceniłeś dopiero jako starszy?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual comida que seus pais faziam você só passou a apreciar quando ficou mais velho?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken mat lagade dina föräldrar som du inte uppskattade förrän du blev äldre?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку їжу готували батьки, а ти оцінив її лише коли подорослішав?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你父母做的哪样食物是你长大后才懂得欣赏的？" } }
+      }
+    },
+    "What's a mistake your parents made that you learned from?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist ein Fehler, den deine Eltern gemacht haben, und woraus du gelernt hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a mistake your parents made that you learned from?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué error cometieron tus padres del que aprendiste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle erreur tes parents ont-ils commise dont tu as tiré des leçons ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale errore dei tuoi genitori ti ha insegnato qualcosa?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "両親のした過ちで、あなたが学んだことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님이 하신 실수 중에서 당신이 배운 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken feil gjorde foreldrene dine som du lærte av?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke fout maakten je ouders waar je van hebt geleerd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki błąd twoich rodziców był dla ciebie lekcją?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual erro dos seus pais você aprendeu algo com ele?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket misstag gjorde dina föräldrar som du lärde dig av?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку помилку батьків ти зробив своїм уроком?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你父母犯过的哪个错误让你学到了东西？" } }
+      }
+    },
+    "What was the best school field trip you ever went on?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war der beste Schulausflug, den du je gemacht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the best school field trip you ever went on?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue la mejor excursión escolar a la que fuiste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle a été ta meilleure sortie scolaire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la migliore gita scolastica a cui hai partecipato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番良かった学校の遠足は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 좋았던 학교 현장 학습은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den beste skoleturen du noen gang har vært på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de beste schoolreis die je ooit maakte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najlepsza wycieczka szkolna, na której byłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a melhor excursão escolar da sua vida?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den bästa skolutflykten du någonsin varit på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була найкраща шкільна екскурсія, на якій ти був?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你去过的最棒的学校实地考察旅行是哪次？" } }
+      }
+    },
+    "What was the first video game you ever beat?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das erste Videospiel, das du je durchgespielt hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the first video game you ever beat?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el primer videojuego que te pasaste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été le premier jeu vidéo que tu as terminé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il primo videogioco che hai completato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "初めてクリアしたビデオゲームは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처음으로 클리어한 비디오 게임은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det første videospillet du fullførte?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de eerste videogame die je ooit uitspeelde?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką grę wideo ukończyłeś jako pierwszą?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o primeiro videogame que você zerou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket var det första TV-spelet du klarade?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була перша відеогра, яку ти пройшов?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你通关的第一个电子游戏是什么？" } }
+      }
+    },
+    "Who was the first friend you ever made on your own?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wer war der erste Freund, den du ganz allein gefunden hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Who was the first friend you ever made on your own?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Quién fue el primer amigo que hiciste por tu cuenta?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qui a été ton premier ami que tu t’es fait tout seul ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Chi è stato il primo amico che hai trovato da solo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分で初めて作った友達は誰ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처음으로 스스로 사귄 친구는 누구인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvem var den første vennen du skaffet deg helt på egen hånd?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wie was je eerste vriend die je helemaal zelf maakte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kto był twoim pierwszym przyjacielem, którego zdobyłeś samodzielnie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quem foi o primeiro amigo que você fez sozinho?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vem var den första vännen du skaffade på egen hand?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Хто був першим другом, якого ти знайшов сам?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你自己交的第一个朋友是谁？" } }
+      }
+    },
+    "What's a thing you collected as a kid that would be worth a lot now?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist eine Sache, die du als Kind gesammelt hast und die heute viel wert wäre?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you collected as a kid that would be worth a lot now?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa coleccionabas de niño que ahora valdría mucho?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chose collectionnais-tu enfant qui vaudrait cher aujourd’hui ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa collezionavi da bambino che oggi varrebbe molto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に集めていて、今だったら高値がつきそうなものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 모았던 것 중 지금이라면 큰 가치가 있을 만한 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva samlet du på som barn som ville vært mye verdt nå?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat verzamelde je als kind dat nu veel waard zou zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co zbierałeś jako dziecko, co teraz byłoby wiele warte?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você colecionava quando criança que valeria muito hoje?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad samlade du på som barn som skulle vara värt mycket nu?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ти колекціонував у дитинстві, що зараз мало б велику ціну?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候收集的什么东西现在会很值钱？" } }
+      }
+    },
+    "What's a lesson you learned from getting in trouble?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du daraus gelernt, in Schwierigkeiten zu geraten?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a lesson you learned from getting in trouble?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lección aprendiste de meterte en problemas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle leçon as-tu tirée d’avoir eu des ennuis ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale lezione hai imparato dall'essere nei guai?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "トラブルに巻き込まれて学んだことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "문제를 일으키면서 배운 교훈은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva lærte du av å havne i trøbbel?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat heb je geleerd van problemen krijgen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego nauczyłeś się z wpadania w tarapaty?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que lição você aprendeu ao se meter em confusão?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken läxa lärde du dig av att hamna i trubbel?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якого уроку ти навчився, потрапивши в халепу?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你从惹麻烦中学到了什么教训？" } }
+      }
+    },
+    "What was the most exciting thing about the last day of school?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das Aufregendste am letzten Schultag?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the most exciting thing about the last day of school?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué era lo más emocionante del último día de clases?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle était la chose la plus excitante le dernier jour d’école ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la cosa più eccitante dell'ultimo giorno di scuola?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "学校の最終日で一番ワクワクしたことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "방학 전 마지막 날 가장 신났던 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det mest spennende med siste skoledag?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was het meest opwindende aan de laatste schooldag?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co było najbardziej ekscytującego w ostatnim dniu szkoły?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que havia de mais emocionante no último dia de aula?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det mest spännande med sista skoldagen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що було найцікавішого в останній день школи?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "上学最后一天最让你兴奋的事情是什么？" } }
+      }
+    },
+    "What's a piece of advice a grandparent gave you that stuck?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Ratschlag eines Großelternteils ist dir geblieben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of advice a grandparent gave you that stuck?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué consejo de un abuelo te marcó?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel conseil d’un grand-parent t’est resté ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale consiglio di un nonno ti è rimasto impresso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "祖父母からもらったアドバイスで心に残っているものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "조부모님께서 해주신 조언 중 마음에 남는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket råd ga en besteforelder deg som ble med deg videre?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk advies van een grootouder is je bijgebleven?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka rada dziadków utkwiła ci w pamięci?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual conselho de um avô ou avó ficou com você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket råd gav en mor- eller farförälder dig som fastnade?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка порада від дідуся чи бабусі залишилася з тобою?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "祖父母给你的哪条建议让你一直铭记？" } }
+      }
+    },
+    "What was your favorite 'hand-me-down'?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein liebstes „Second-Hand“-Kleidungsstück?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite 'hand-me-down'?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue tu 'ropa heredada' favorita?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel était ton « vêtement récupéré » préféré ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era il tuo capo 'passato' preferito?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "好きなお下がりは何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 좋아했던 '물려받은 물건'은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favoritt «arvet-ting»?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete 'hand-me-down'?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja ulubiona „rzecz po kimś”?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi seu 'herdado' favorito?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var din favorit-'ärvda pryl'?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка була твоя улюблена «передана річ»?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢的“二手传家宝”是什么？" } }
+      }
+    },
+    "What's something you built as a child that you were proud of?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du als Kind gebaut, worauf du stolz warst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's something you built as a child that you were proud of?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué construiste de niño que te enorgulleciera?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu’as-tu construit enfant dont tu étais fier ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa hai costruito da bambino di cui eri orgoglioso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に作って誇りに思っているものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 만들어서 자랑스러웠던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva bygde du som barn som du var stolt av?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat bouwde je als kind waar je trots op was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co zbudowałeś jako dziecko, z czego byłeś dumny?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você construiu quando criança e do qual se orgulhava?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad byggde du som barn som du var stolt över?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ти побудував у дитинстві, чим пишався?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候造过什么让你骄傲的东西？" } }
+      }
+    },
+    "What was the most trouble you got into at school that your parents never found out about?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war der größte Ärger, den du in der Schule hattest und von dem deine Eltern nie erfuhren?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the most trouble you got into at school that your parents never found out about?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el mayor problema que tuviste en la escuela del que tus padres nunca se enteraron?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la pire punition que tu aies eue à l’école et dont tes parents n’ont jamais rien su ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il più grande guaio a scuola di cui i tuoi genitori non hanno mai saputo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "学校で一番ひどいトラブルに巻き込まれたことは何ですか？（両親にはバレませんでした）" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "학교에서 부모님께 들키지 않은 가장 큰 문제는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det verste trøbbelet du havnet i på skolen som foreldrene dine aldri fikk vite om?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de grootste moeilijkheid op school waar je ouders nooit achter kwamen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie były największe kłopoty w szkole, o których twoi rodzice nigdy się nie dowiedzieli?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a maior enrascada na escola que seus pais nunca descobriram?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det största trubbel du hamnade i i skolan som dina föräldrar aldrig fick reda på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Які найбільші проблеми в школі залишилися невідомими твоїм батькам?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在学校里遇到的最大的麻烦（父母从未发现）是什么？" } }
+      }
+    },
+    "What's a commercial jingle from your childhood you still remember?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Werbejingle aus deiner Kindheit kennst du noch?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a commercial jingle from your childhood you still remember?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué jingle publicitario de tu infancia aún recuerdas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel jingle publicitaire de ton enfance te rappelles-tu encore ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale jingle pubblicitario della tua infanzia ricordi ancora?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃のCMソングで今でも覚えているものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 광고 음악 중 아직도 기억나는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken reklamemelodi fra barndommen husker du fortsatt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke reclamejingle uit je kindertijd ken je nog?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką piosenkę reklamową z dzieciństwa wciąż pamiętasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual jingle de comercial da sua infância você ainda lembra?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken reklamjingel från din barndom minns du fortfarande?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який рекламний джингл з дитинства ти досі пам’ятаєш?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪段广告歌你现在还记得？" } }
+      }
+    },
+    "What's a hobby you did as a kid that you'd like to pick up again?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchem Hobby aus deiner Kindheit würdest du gerne wieder nachgehen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a hobby you did as a kid that you'd like to pick up again?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué hobby que tenías de niño te gustaría retomar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel loisir avais-tu enfant et aimerais-tu reprendre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale hobby che facevi da bambino ti piacerebbe riprendere?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃やっていて、もう一度始めたい趣味は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 했던 취미 중 다시 시작하고 싶은 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken hobby drev du med som barn som du gjerne vil begynne med igjen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke hobby deed je als kind die je weer zou willen oppakken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie hobby z dzieciństwa chciałbyś podjąć na nowo?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual hobby que você tinha quando criança gostaria de retomar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken hobby hade du som barn som du skulle vilja börja med igen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким хобі з дитинства ти хотів би зайнятися знову?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪个爱好你想重新拾起来？" } }
+      }
+    },
+    "What was the most surprising gift you ever received as a kid?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das überraschendste Geschenk, das du als Kind bekommen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the most surprising gift you ever received as a kid?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el regalo más sorprendente que recibiste de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été le cadeau le plus surprenant que tu aies reçu enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il regalo più sorprendente che hai ricevuto da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃にもらった一番驚いたプレゼントは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 받은 선물 중 가장 놀라웠던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den mest overraskende gaven du fikk som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was het meest verrassende cadeau dat je als kind kreeg?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki był najbardziej zaskakujący prezent, który dostałeś jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o presente mais surpreendente que você ganhou quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den mest överraskande presenten du fick som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найнесподіваніший подарунок ти отримав у дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候收到的最惊喜的礼物是什么？" } }
+      }
+    },
+    "What's a lesson you learned from a pet you had growing up?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du von einem Haustier gelernt, das du in deiner Kindheit hattest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a lesson you learned from a pet you had growing up?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lección aprendiste de una mascota que tuviste mientras crecías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle leçon as-tu apprise d’un animal de compagnie que tu as eu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale lezione hai imparato da un animale domestico che hai avuto da piccolo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃飼っていたペットから学んだことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 키웠던 반려동물에게서 배운 교훈은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva lærte du av et kjæledyr du hadde da du vokste opp?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat heb je geleerd van een huisdier dat je had tijdens je jeugd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego nauczyło cię zwierzę, które miałeś w dzieciństwie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que lição você aprendeu com um animal de estimação que teve enquanto crescia?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken läxa lärde du dig av ett husdjur du hade när du växte upp?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якого уроку ти навчився від домашнього улюбленця, який був у тебе в дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你从成长过程中养过的宠物身上学到了什么？" } }
+      }
+    },
+    "What's a 'kids only' club or secret society you started?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen „Nur für Kinder“-Club oder geheimen Bund hast du gegründet?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'kids only' club or secret society you started?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué club 'solo para niños' o sociedad secreta creaste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel club « réservé aux enfants » ou société secrète as-tu lancé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale club 'solo bambini' o società segreta hai fondato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたが始めた「子供限定」のクラブや秘密結社は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신이 만든 '어린이 전용' 클럽이나 비밀 결사는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken «bare for barn»-klubb eller hemmelig klubb startet du?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke 'alleen voor kinderen'-club of geheime club ben jij begonnen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki klub „tylko dla dzieci” lub tajne stowarzyszenie założyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual clube 'só para crianças' ou sociedade secreta você começou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken 'bara barn'-klubb eller hemlig klubb startade du?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який клуб «тільки для дітей» або таємне товариство ти заснував?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你发起过什么“仅限儿童”的俱乐部或秘密团体？" } }
+      }
+    },
+    "What was your favorite rainy day activity?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war deine Lieblingsbeschäftigung an Regentagen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite rainy day activity?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu actividad favorita para los días de lluvia?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle était ton activité préférée les jours de pluie ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua attività preferita nei giorni di pioggia?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "雨の日の好きな過ごし方は何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비 오는 날 가장 좋아했던 활동은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favorittaktivitet på en regnværsdag?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete regenachtige dag activiteit?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja ulubiona aktywność w deszczowy dzień?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era sua atividade favorita em dias chuvosos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var din favoritsysselsättning en regnig dag?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким було твоє улюблене заняття в дощовий день?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢的雨天活动是什么？" } }
+      }
+    },
+    "Who was the strictest teacher you ever had?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wer war der strengste Lehrer, den du je hattest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Who was the strictest teacher you ever had?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Quién fue el profesor más estricto que tuviste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été ton professeur le plus strict ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Chi è stato l'insegnante più severo che hai mai avuto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番厳しかった先生は誰ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 엄격했던 선생님은 누구인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvem var den strengeste læreren du noen gang har hatt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wie was de strengste leraar die je ooit hebt gehad?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kto był twoim najbardziej surowym nauczycielem?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quem foi o professor mais rígido que você já teve?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vem var den strängaste läraren du någonsin haft?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Хто був найсуворішим учителем, який у тебе був?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你遇到过最严厉的老师是谁？" } }
+      }
+    },
+    "What's a song that was popular when you were 12 that you still love?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Lied war populär, als du 12 warst, und das du immer noch liebst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a song that was popular when you were 12 that you still love?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué canción era popular cuando tenías 12 años y aún te encanta?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chanson populaire quand tu avais 12 ans aimes-tu encore ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale canzone era popolare quando avevi 12 anni e che ancora ami?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "12歳の時に流行っていて、今でも好きな曲は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "12살 때 유행했던 노래 중 아직도 좋아하는 곡은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken sang var populær da du var 12 år som du fortsatt elsker?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk nummer was populair toen je 12 was en waar je nog steeds van houdt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka piosenka była popularna, gdy miałeś 12 lat i wciąż ją kochasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual música era popular quando você tinha 12 anos e você ainda ama?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken låt var populär när du var 12 som du fortfarande älskar?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка пісня була популярною, коли тобі було 12, і ти досі її любиш?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你12岁时流行、现在仍然喜欢的歌曲是什么？" } }
+      }
+    },
+    "What was your first sleepover like?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie war deine erste Übernachtungsparty?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your first sleepover like?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo fue tu primera pijamada?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Comment s’est passée ta première soirée pyjama ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Com'è stato il tuo primo pigiama party?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "初めてのお泊まり会はどうでしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "첫 번째 친구 집에서의 밤샘은 어땠나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvordan var din første overnatting?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe was je eerste logeerpartijtje?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak wyglądało twoje pierwsze nocowanie u kolegi?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Como foi sua primeira festa do pijama?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur var din första övernattning?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як пройшла твоя перша нічівка?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你第一次在朋友家过夜感觉如何？" } }
+      }
+    },
+    "What's a thing your family did that you thought was normal but wasn't?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hat deine Familie getan, das du für normal hieltest, aber nicht war?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing your family did that you thought was normal but wasn't?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa hacía tu familia que pensabas que era normal pero no lo era?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chose faisait ta famille que tu pensais normale mais qui ne l’était pas ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa faceva la tua famiglia che pensavi fosse normale ma non lo era?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "家族がやっていたことで、普通だと思っていたけど実はそうではなかったことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가족이 했던 일 중 당연하다고 생각했지만 실제로는 그렇지 않았던 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva gjorde familien din som du trodde var normalt, men som ikke var det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat deed jouw gezin dat jij normaal vond maar niet was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co robiła twoja rodzina, co myślałeś, że jest normalne, ale nie było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que sua família fazia que você achava normal mas não era?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad gjorde din familj som du trodde var normalt men inte var det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що робила твоя родина, що ти вважав нормальним, але це не було таким?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你家做过的哪件事你以为是正常的但其实不是？" } }
+      }
+    },
+    "What's the most physically adventurous thing you did as a kid?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das abenteuerlichste körperliche Ding, das du als Kind gemacht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most physically adventurous thing you did as a kid?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué fue lo más aventurero físicamente que hiciste de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus physiquement aventureuse que tu aies faite enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la cosa più fisicamente avventurosa che hai fatto da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃にやった一番冒険的な身体的活動は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적에 한 가장 모험적인 신체 활동은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det mest fysiske vågale du gjorde som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest fysiek avontuurlijke dat je als kind deed?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co było najbardziej fizycznie odważną rzeczą, którą zrobiłeś jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a coisa fisicamente mais aventureira que você fez quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det mest fysiskt äventyrliga du gjorde som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка найбільш фізично авантюрна річ, яку ти зробив у дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候做过的最冒险的体力活动是什么？" } }
+      }
+    },
+    "What was your favorite 'lunchbox' meal?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein liebstes „Lunchbox“-Essen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite 'lunchbox' meal?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu comida favorita para la 'lonchera'?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel était ton repas préféré pour la « boîte à lunch » ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era il tuo pasto preferito nel 'porta pranzo'?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "好きな「弁当箱」の食事は何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 좋아했던 '도시락' 음식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favoritt «matpakke»-måltid?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete 'broodtrommel'-maaltijd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki był twój ulubiony posiłek z „drugiego śniadania”?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era sua refeição favorita na 'lancheira'?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var din favorit 'matsäckslåda'-måltid?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була твоя улюблена страва в «ланч-боксі»?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢的“午餐盒”餐食是什么？" } }
+      }
+    },
+    "What's a time you felt truly grown up as a child?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich als Kind wirklich erwachsen gefühlt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you felt truly grown up as a child?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te sentiste realmente adulto siendo niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand as-tu vraiment eu l’impression d’être adulte étant enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando ti sei sentito veramente grande da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に本当に大人になったと感じた瞬間はいつですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 정말 어른이 되었다고 느꼈던 순간은 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du deg virkelig voksen som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde jij je als kind echt volwassen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy poczułeś się naprawdę dorosły jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você se sentiu verdadeiramente adulto quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du dig verkligen vuxen som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли в дитинстві ти відчув себе справді дорослим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候哪个时刻让你觉得自己真正长大了？" } }
+      }
+    },
+    "What was the best thing about your neighborhood growing up?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das Beste an deiner Nachbarschaft, als du aufwuchst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the best thing about your neighborhood growing up?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué era lo mejor de tu vecindario mientras crecías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel était le meilleur aspect de ton quartier quand tu grandissais ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la cosa migliore del tuo quartiere mentre crescevi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "育った近所で一番良かったことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "성장하면서 살았던 동네에서 가장 좋았던 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det beste med nabolaget ditt da du vokste opp?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was het beste aan jouw buurt toen je opgroeide?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co było najlepszego w twojej okolicy, gdy dorastałeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a melhor coisa sobre o seu bairro enquanto você crescia?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det bästa med ditt grannskap när du växte upp?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що було найкращим у твоєму районі, коли ти ріс?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你成长过程中所在的社区最棒的是什么？" } }
+      }
+    },
+    "What's a childhood possession you regret getting rid of?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Besitz aus deiner Kindheit bereust du, weggeworfen zu haben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a childhood possession you regret getting rid of?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué posesión de tu infancia te arrepientes de haber tirado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quel objet de ton enfance regrettes-tu de t’être débarrassé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Di quale oggetto della tua infanzia ti penti di esserti sbarazzato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "捨てて後悔している子供の頃の所有物は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "버린 것을 후회하는 어릴 적 소지품은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken barndomsgjenstand angrer du på at du kvittet deg med?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Van welk bezit uit je kindertijd heb je spijt dat je het weg hebt gedaan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej rzeczy z dzieciństwa żałujesz, że się pozbyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De qual objeto da sua infância você se arrepende de ter se desfeito?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken barndomsgrej ångrar du att du gjorde dig av med?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою дитячою річчю ти шкодуєш, що позбувся?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪样东西现在后悔扔掉了？" } }
+      }
+    },
+    "What was the worst punishment your parents ever gave you?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die schlimmste Strafe, die deine Eltern dir jemals gegeben haben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the worst punishment your parents ever gave you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el peor castigo que te dieron tus padres?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle a été la pire punition que tes parents t’aient jamais donnée ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la punizione peggiore che i tuoi genitori ti hanno mai dato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "両親から受けた一番ひどい罰は何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님께 받은 가장 심한 벌은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den verste straffen foreldrene dine noen gang ga deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de ergste straf die je ouders je ooit gaven?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najgorsza kara, jaką dali ci twoi rodzice?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a pior punição que seus pais te deram?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det värsta straffet dina föräldrar någonsin gav dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке було найгірше покарання, яке тобі дали батьки?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你父母给过你最严厉的惩罚是什么？" } }
+      }
+    },
+    "What was the first 'big' news event you remember understanding?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das erste große Nachrichtenereignis, das du verstanden hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the first 'big' news event you remember understanding?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el primer gran evento de noticias que recuerdas haber entendido?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le premier « grand » événement médiatique dont tu te souviens avoir compris ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il primo grande evento di cronaca che ricordi di aver capito?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "理解したと記憶している最初の「大きな」ニュースは何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이해했던 첫 번째 '큰' 뉴스 사건은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den første 'store' nyhetshendelsen du husker å ha forstått?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de eerste 'grote' nieuwsgebeurtenis die je je herinnert te begrijpen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie było pierwsze „duże” wydarzenie, które pamiętasz, że zrozumiałeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o primeiro grande evento noticioso que você lembra de ter entendido?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den första 'stora' nyhetshändelsen du minns att du förstod?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка перша «велика» новинна подія, яку ти пам’ятаєш і розумів?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你记得自己理解的第一个“重大”新闻事件是什么？" } }
+      }
+    },
+    "What's a story your family tells about you that you don't remember?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Geschichte erzählt deine Familie über dich, an die du dich nicht erinnerst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a story your family tells about you that you don't remember?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué historia cuenta tu familia sobre ti que no recuerdas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle histoire ta famille raconte-t-elle sur toi dont tu ne te souviens pas ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale storia racconta la tua famiglia su di te che non ricordi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "家族が話す、あなたが覚えていない話は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가족이 이야기하지만 당신이 기억하지 못하는 이야기는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken historie forteller familien din om deg som du ikke husker?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk verhaal vertelt jouw familie over jou dat jij je niet herinnert?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką historię o tobie opowiada twoja rodzina, a ty jej nie pamiętasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual história sua família conta sobre você que você não lembra?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken historia berättar din familj om dig som du inte minns?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку історію про тебе розповідає родина, а ти її не пам’ятаєш?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你家讲过的关于你的哪个故事你自己却记不起来了？" } }
+      }
+    },
+    "What was your favorite thing to check out from the library?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein liebster Gegenstand, den du dir in der Bibliothek ausgeliehen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite thing to check out from the library?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué era lo que más te gustaba sacar de la biblioteca?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu’aimais-tu le plus emprunter à la bibliothèque ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua cosa preferita da prendere in prestito in biblioteca?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "図書館で借りるのが一番好きだったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "도서관에서 빌리던 것 중 가장 좋아했던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favorittting å låne på biblioteket?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete ding om te lenen van de bibliotheek?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co najbardziej lubiałeś wypożyczać z biblioteki?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era sua coisa favorita para pegar emprestado na biblioteca?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var din favoritsak att låna på biblioteket?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що тобі найбільше подобалось брати в бібліотеці?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢从图书馆借什么东西？" } }
+      }
+    },
+    "What's a fashion trend you enthusiastically participated in as a kid?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Modetrend hast du als Kind begeistert mitgemacht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a fashion trend you enthusiastically participated in as a kid?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué tendencia de moda seguiste con entusiasmo de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle tendance mode as-tu suivie avec enthousiasme étant enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale tendenza della moda hai seguito con entusiasmo da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に熱中して参加したファッショントレンドは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 열정적으로 참여했던 패션 트렌드는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken motetrend deltok du entusiastisk i som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Aan welke modetrend deed je enthousiast mee als kind?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jakim trendzie mody z entuzjazmem uczestniczyłeś jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual tendência de moda você seguiu com entusiasmo quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken modetrend deltog du entusiastiskt i som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який модний тренд ти захоплено підтримував у дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候热情参与过什么时尚潮流？" } }
+      }
+    },
+    "What's the best camp or summer program you ever attended?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das beste Camp oder Sommerprogramm, das du je besucht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best camp or summer program you ever attended?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el mejor campamento o programa de verano al que asististe?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été le meilleur camp ou programme d’été auquel tu as participé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il miglior campo o programma estivo a cui hai partecipato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今まで参加した最高のキャンプや夏のプログラムは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "참가했던 캠프나 여름 프로그램 중 가장 좋았던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den beste leiren eller sommeren du noen gang har deltatt på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de beste zomerkamp of zomerprogramma die je ooit hebt gevolgd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki był najlepszy obóz lub program letni, w którym uczestniczyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o melhor acampamento ou programa de verão que você participou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den bästa sommarlägret eller sommarprogrammet du någonsin deltog i?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найкращий табір чи літня програма, в яких ти брав участь?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你参加过的最好的夏令营或暑期项目是什么？" } }
+      }
+    },
+    "What did you want to be for Halloween the most times?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was wolltest du an Halloween am häufigsten sein?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What did you want to be for Halloween the most times?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué querías ser para Halloween la mayoría de las veces?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu’as-tu voulu être pour Halloween le plus souvent ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa volevi essere per Halloween più spesso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ハロウィンで一番なりたかったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "할로윈에 가장 자주 되고 싶었던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva ønsket du å være på Halloween flest ganger?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat wilde jij de meeste keren zijn met Halloween?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kim chciałeś być w Halloween najczęściej?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você mais quis ser no Halloween?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad ville du vara på Halloween flest gånger?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Ким ти найчастіше хотів бути на Геловін?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你万圣节最常想装扮成什么？" } }
+      }
+    },
+    "What's a time you felt like a black sheep in your own family?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich wie das schwarze Schaf in deiner eigenen Familie gefühlt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you felt like a black sheep in your own family?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te sentiste como la oveja negra de tu propia familia?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand as-tu eu l’impression d’être le mouton noir de ta propre famille ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando ti sei sentito come la pecora nera della tua famiglia?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分の家族の中で黒い羊のように感じたのはいつですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가족 중에서 자신만 따돌림당한다고 느꼈던 때는 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du deg som et svart får i din egen familie?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde jij je het zwarte schaap in je eigen familie?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy czułeś się jak czarna owca we własnej rodzinie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você se sentiu a ovelha negra da sua própria família?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du dig som ett svart får i din egen familj?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ти відчув себе білою вороною у власній родині?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么时候你觉得自己是家里的“害群之马”？" } }
+      }
+    },
+    "What was your favorite after-school snack?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein liebster Snack nach der Schule?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite after-school snack?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu merienda favorita después del colegio?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel était ton goûter préféré après l’école ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua merenda preferita dopo la scuola?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "放課後のおやつで一番好きだったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "방과 후 가장 좋아했던 간식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favorittmatbit etter skolen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete snack na school?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja ulubiona przekąska po szkole?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era seu lanche favorito depois da escola?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket var ditt favoritmellanmål efter skolan?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який був твій улюблений перекус після школи?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你放学后最喜欢的零食是什么？" } }
+      }
+    },
+    "What's a question you always asked your parents that annoyed them?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Frage hast du deinen Eltern immer gestellt, die sie genervt hat?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a question you always asked your parents that annoyed them?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pregunta les hacías siempre a tus padres que les molestaba?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle question posais-tu toujours à tes parents et qui les agaçait ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale domanda facevi sempre ai tuoi genitori che li infastidiva?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "いつも両親に聞いて、彼らを困らせていた質問は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님께 항상 물어봐서 짜증나게 했던 질문은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket spørsmål spurte du alltid foreldrene dine om som irriterte dem?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vraag stelde je altijd aan je ouders die hen irriteerde?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie pytanie zawsze zadawałeś rodzicom, które ich denerwowało?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual pergunta você sempre fazia aos seus pais que os irritava?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken fråga frågade du alltid dina föräldrar som irriterade dem?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке питання ти завжди ставив батькам, яке їх дратувало?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你总是问父母哪个问题让他们很烦？" } }
+      }
+    },
+    "What's the most meaningful thing a teacher ever did for you?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Bedeutendste, das ein Lehrer je für dich getan hat?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most meaningful thing a teacher ever did for you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más significativo que un profesor hizo por ti?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus marquante qu’un professeur ait faite pour toi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più significativa che un insegnante ha mai fatto per te?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "先生があなたにしてくれた最も意味のあることは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "선생님이 해준 가장 의미 있는 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest betydningsfulle tingen en lærer noen gang har gjort for deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest betekenisvolle dat een leraar ooit voor je deed?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najbardziej znaczącą rzeczą, jaką zrobił dla ciebie nauczyciel?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a coisa mais significativa que um professor já fez por você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det mest meningsfulla en lärare någonsin gjort för dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найважливішого зробив для тебе вчитель?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "老师为你做过的最有意义的事是什么？" } }
+      }
+    },
+    "What did your 'fort' look like, whether it was in the living room or the backyard?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie sah deine „Festung“ aus, egal ob im Wohnzimmer oder im Hinterhof?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What did your 'fort' look like, whether it was in the living room or the backyard?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo era tu 'fuerte', ya sea en la sala o en el patio trasero?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "À quoi ressemblait ton « fort », que ce soit dans le salon ou dans le jardin ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Com'era il tuo 'fortino', fosse in soggiorno o in giardino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "リビングでも裏庭でも、あなたの「秘密基地」はどんな感じでしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "거실이든 뒤뜰이든, 당신의 '요새'는 어땠나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvordan så «fortet» ditt ut, enten det var i stua eller i hagen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe zag jouw 'fort' eruit, of het nu in de woonkamer of achtertuin was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak wyglądała twoja „forteca”, czy to w salonie, czy na podwórku?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Como era seu 'forte', seja na sala de estar ou no quintal?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur såg ditt 'fort' ut, oavsett om det var i vardagsrummet eller bakgården?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як виглядала твоя «фортеця» — чи у вітальні, чи на задньому дворі?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你的“堡垒”是什么样的（无论是在客厅还是后院）？" } }
+      }
+    },
     "What is the most 'Instagrammable' place you’ve ever been?": {
       "comment": "Travel question",
       "localizations": {
@@ -74744,6 +75644,906 @@
             "value": "你最怀念童年的哪一点？"
           }
         }
+      }
+    },
+    "What was the first record, tape, or CD you ever owned?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die erste Schallplatte, Kassette oder CD, die du jemals besessen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the first record, tape, or CD you ever owned?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el primer disco, casete o CD que tuviste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été ton premier disque, cassette ou CD ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il primo disco, nastro o CD che hai posseduto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "初めて所有したレコード、テープ、またはCDは何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처음으로 소유한 레코드, 테이프, CD는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den første plata, kassetten eller CD-en du eide?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de eerste plaat, cassette of cd die je ooit bezat?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja pierwsza płyta, kaseta lub CD?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o primeiro disco, fita ou CD que você teve?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var den första skivan, kassetten eller CD-skivan du ägde?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була перша платівка, касета чи CD, які ти мав?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你拥有的第一张唱片、磁带或CD是什么？" } }
+      }
+    },
+    "Did your family have a 'Friday night' ritual?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Hatte deine Familie ein Freitagabend-Ritual?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Did your family have a 'Friday night' ritual?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Tu familia tenía algún ritual para los viernes por la noche?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Ta famille avait-elle un rituel du « vendredi soir » ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "La tua famiglia aveva un rituale del venerdì sera?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたの家族には「金曜の夜」の習慣がありましたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가족과 함께하는 '금요일 밤' 의식이 있었나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hadde familien din en «fredagskveld»-tradisjon?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Had jouw gezin een vrijdagavondritueel?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czy twoja rodzina miała rytuał „piątkowego wieczoru”?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Sua família tinha um ritual de 'sexta-feira à noite'?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hade din familj en fredagskvällsritual?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Чи мала ваша родина ритуал «п’ятничного вечора»?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你的家人有“星期五晚上”的固定活动吗？" } }
+      }
+    },
+    "What's a skill you learned as a kid that you never thought you'd use, but do?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist eine Fähigkeit, die du als Kind gelernt hast, von der du dachtest, du würdest sie nie brauchen – aber dann doch?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a skill you learned as a kid that you never thought you'd use, but do?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué habilidad aprendiste de niño que nunca creíste que usarías, pero usas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle compétence as-tu apprise enfant, que tu n’aurais jamais pensé utiliser, mais que tu utilises pourtant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è un'abilità che hai imparato da bambino che non pensavi avresti mai usato, ma invece usi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に学んで、絶対使わないと思っていたけど実際に使っているスキルは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 배웠지만 절대 쓰지 않을 거라 생각했는데 실제로 쓰고 있는 기술은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken ferdighet lærte du som barn som du aldri trodde du ville bruke, men som du faktisk gjør?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vaardigheid leerde je als kind waarvan je dacht die nooit te gebruiken, maar die je nu wel gebruikt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej umiejętności nauczyłeś się jako dziecko, o której myślałeś, że nigdy jej nie użyjesz, a jednak używasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual habilidade você aprendeu quando criança que achou que nunca usaria, mas usa?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken färdighet lärde du dig som barn som du aldrig trodde du skulle använda, men som du gör?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку навичку ти вивчив у дитинстві, яку ніколи не думав, що використаєш, але використовуєш?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候学过哪项你从没想过会用、但确实用到了的技能？" } }
+      }
+    },
+    "What's the best thing you ever won as a child?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Beste, das du als Kind jemals gewonnen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best thing you ever won as a child?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo mejor que ganaste de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure chose que tu aies gagnée étant enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa migliore che hai vinto da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に手に入れた最高の賞品は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 받은 상 중 가장 좋았던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste du noen gang vant som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste dat je als kind ooit hebt gewonnen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najlepszego, co wygrałeś jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a melhor coisa que você ganhou quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa du någonsin vann som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найкращого ти виграв у дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候赢过的最棒的东西是什么？" } }
+      }
+    },
+    "What was the first thing you ever cooked by yourself?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du als erstes allein gekocht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the first thing you ever cooked by yourself?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué fue lo primero que cocinaste tú solo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la première chose que tu as cuisinée tout seul ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la prima cosa che hai cucinato da solo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分一人で初めて料理したものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처음으로 혼자 요리한 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det første du lagde mat helt alene?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was het eerste dat je ooit helemaal alleen kookte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co ugotowałeś po raz pierwszy samodzielnie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a primeira coisa que você cozinhou sozinho?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det första du lagade helt själv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ти приготував самостійно вперше?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你第一次自己做的东西是什么？" } }
+      }
+    },
+    "What's a piece of clothing from your childhood you wish you still had?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Kleidungsstück aus deiner Kindheit wünschst du dir, du hättest es noch?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of clothing from your childhood you wish you still had?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué prenda de tu infancia te gustaría seguir teniendo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel vêtement de ton enfance aimerais-tu encore avoir ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale capo d'abbigliamento della tua infanzia vorresti avere ancora?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に持っていた服で、今もまだ持っていればいいのにと思うものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 옷 중 아직도 가지고 있으면 좋겠다고 생각하는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket plagg fra barndommen skulle du ønske du fortsatt hadde?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk kledingstuk uit je kindertijd wens je dat je nog had?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką część garderoby z dzieciństwa chciałbyś nadal mieć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual peça de roupa da sua infância você gostaria de ainda ter?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket klädesplagg från din barndom önskar du att du fortfarande hade?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який одяг з дитинства ти хотів би все ще мати?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪件衣服你希望现在还留着？" } }
+      }
+    },
+    "What's the funniest thing your sibling or friend ever did?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Lustigste, das dein Geschwister oder Freund je getan hat?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the funniest thing your sibling or friend ever did?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más gracioso que hizo tu hermano o amigo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus drôle que ton frère, ta sœur ou ton ami a jamais faite ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più divertente che tuo fratello, tua sorella o un tuo amico abbia mai fatto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "兄弟や友達がやった一番面白いことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "형제나 친구가 한 일 중 가장 웃긴 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det morsomste søskenet eller vennen din noen gang har gjort?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het grappigste dat je broer, zus of vriend ooit deed?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najśmieszniejszego, co zrobił twoje rodzeństwo lub przyjaciel?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a coisa mais engraçada que seu irmão ou amigo já fez?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det roligaste ditt syskon eller din vän någonsin gjort?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найсмішніше колись зробив твій брат, сестра чи друг?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你的兄弟姐妹或朋友做过的最有趣的事情是什么？" } }
+      }
+    },
+    "What's a kids' movie that scared you more than it should have?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Kinderfilm hat dich mehr erschreckt, als er eigentlich sollte?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a kids' movie that scared you more than it should have?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué película infantil te asustó más de lo que debería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel film pour enfants t’a fait plus peur qu’il n’aurait dû ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale film per bambini ti ha spaventato più del dovuto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "必要以上に怖かった子供向け映画は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "예상보다 더 무서웠던 어린이 영화는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken barnefilm skremte deg mer enn den burde?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke kinderfilm maakte je banger dan nodig was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki film dla dzieci przeraził cię bardziej niż powinien?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual filme infantil te assustou mais do que deveria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken barnfilm skrämde dig mer än den borde ha gjort?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який дитячий фільм налякав тебе більше, ніж мав би?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪部儿童电影吓你的程度超出了它本该有的？" } }
+      }
+    },
+    "What was your favorite 'sick day' activity when you stayed home from school?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war deine Lieblingsbeschäftigung an einem „Krankheitstag“, wenn du zu Hause geblieben bist?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite 'sick day' activity when you stayed home from school?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu actividad favorita en un 'día de enfermedad' cuando te quedabas en casa sin ir al colegio?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle était ton activité préférée lors d’un « jour de maladie » à la maison ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua attività preferita nei 'giorni di malattia' a casa da scuola?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "学校を休んで家にいた時の好きな「病気休暇」の活動は何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "학교에 가지 않고 집에 있었을 때 가장 좋아했던 '병가' 활동은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favoritt «sykdomsskole»-aktivitet når du var hjemme fra skolen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete 'ziek thuis'-activiteit als je niet naar school ging?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja ulubiona aktywność w „dzień chorobowy”, gdy zostałeś w domu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era sua atividade favorita no 'dia de doente' quando ficava em casa?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var din favoritsysselsättning på en 'sjukdag' när du var hemma från skolan?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким було твоє улюблене заняття в «день хвороби», коли ти залишався вдома?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你请假在家时最喜欢的“病假”活动是什么？" } }
+      }
+    },
+    "What's the longest trip you ever took with your family as a kid?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die längste Reise, die du als Kind mit deiner Familie gemacht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the longest trip you ever took with your family as a kid?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el viaje más largo que hiciste con tu familia de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le plus long voyage que tu aies fait avec ta famille étant enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il viaggio più lungo che hai fatto con la tua famiglia da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に家族と行った一番長い旅行は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 가족과 떠난 여행 중 가장 길었던 여행은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den lengste turen du noen gang tok med familien din som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de langste reis die je als kind met je gezin maakte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najdłuższa podróż, jaką odbyłeś z rodziną jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a viagem mais longa que você fez com sua família quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den längsta resan du gjorde med din familj som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була найдовша подорож із родиною в дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候和家人一起旅行最长的一次是去哪里？" } }
+      }
+    },
+    "What was your favorite room in your childhood home?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein Lieblingszimmer in deinem Zuhause aus Kindertagen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite room in your childhood home?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu habitación favorita en la casa de tu infancia?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle était ta pièce préférée dans la maison de ton enfance ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua stanza preferita nella casa della tua infanzia?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃の家で一番好きな部屋はどこでしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 집에서 가장 좋아했던 방은 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket rom var ditt favorittrom i barndomshjemmet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete kamer in het huis van je kindertijd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Który pokój był twoim ulubionym w domu z dzieciństwa?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era seu cômodo favorito na casa da sua infância?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket rum var ditt favoritrum i ditt barndomshem?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка кімната була твоєю улюбленою в дитячому домі?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候在家里最喜欢的房间是哪个？" } }
+      }
+    },
+    "What's a food your parents made that you didn't appreciate until you were older?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Essen deiner Eltern hast du erst zu schätzen gelernt, als du älter warst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a food your parents made that you didn't appreciate until you were older?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué comida que hacían tus padres no apreciaste hasta que fuiste mayor?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel plat préparé par tes parents n’as-tu apprécié qu’en grandissant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale cibo preparato dai tuoi genitori hai imparato ad apprezzare solo da più grande?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "両親が作ってくれた料理で、大人になるまでその良さがわからなかったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님이 만들어 주셨지만 나중에 커서야 감사하게 된 음식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken mat lagde foreldrene dine som du ikke satte pris på før du ble eldre?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk eten maakten je ouders dat je pas waardeerde toen je ouder was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie jedzenie robili twoi rodzice, które doceniłeś dopiero jako starszy?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual comida que seus pais faziam você só passou a apreciar quando ficou mais velho?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken mat lagade dina föräldrar som du inte uppskattade förrän du blev äldre?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку їжу готували батьки, а ти оцінив її лише коли подорослішав?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你父母做的哪样食物是你长大后才懂得欣赏的？" } }
+      }
+    },
+    "What's a mistake your parents made that you learned from?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist ein Fehler, den deine Eltern gemacht haben, und woraus du gelernt hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a mistake your parents made that you learned from?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué error cometieron tus padres del que aprendiste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle erreur tes parents ont-ils commise dont tu as tiré des leçons ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale errore dei tuoi genitori ti ha insegnato qualcosa?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "両親のした過ちで、あなたが学んだことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님이 하신 실수 중에서 당신이 배운 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken feil gjorde foreldrene dine som du lærte av?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke fout maakten je ouders waar je van hebt geleerd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki błąd twoich rodziców był dla ciebie lekcją?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual erro dos seus pais você aprendeu algo com ele?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket misstag gjorde dina föräldrar som du lärde dig av?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку помилку батьків ти зробив своїм уроком?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你父母犯过的哪个错误让你学到了东西？" } }
+      }
+    },
+    "What was the best school field trip you ever went on?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war der beste Schulausflug, den du je gemacht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the best school field trip you ever went on?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue la mejor excursión escolar a la que fuiste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle a été ta meilleure sortie scolaire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la migliore gita scolastica a cui hai partecipato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番良かった学校の遠足は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 좋았던 학교 현장 학습은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den beste skoleturen du noen gang har vært på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de beste schoolreis die je ooit maakte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najlepsza wycieczka szkolna, na której byłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a melhor excursão escolar da sua vida?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den bästa skolutflykten du någonsin varit på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була найкраща шкільна екскурсія, на якій ти був?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你去过的最棒的学校实地考察旅行是哪次？" } }
+      }
+    },
+    "What was the first video game you ever beat?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das erste Videospiel, das du je durchgespielt hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the first video game you ever beat?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el primer videojuego que te pasaste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été le premier jeu vidéo que tu as terminé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il primo videogioco che hai completato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "初めてクリアしたビデオゲームは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처음으로 클리어한 비디오 게임은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det første videospillet du fullførte?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de eerste videogame die je ooit uitspeelde?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką grę wideo ukończyłeś jako pierwszą?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o primeiro videogame que você zerou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket var det första TV-spelet du klarade?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була перша відеогра, яку ти пройшов?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你通关的第一个电子游戏是什么？" } }
+      }
+    },
+    "Who was the first friend you ever made on your own?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wer war der erste Freund, den du ganz allein gefunden hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Who was the first friend you ever made on your own?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Quién fue el primer amigo que hiciste por tu cuenta?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qui a été ton premier ami que tu t’es fait tout seul ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Chi è stato il primo amico che hai trovato da solo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分で初めて作った友達は誰ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "처음으로 스스로 사귄 친구는 누구인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvem var den første vennen du skaffet deg helt på egen hånd?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wie was je eerste vriend die je helemaal zelf maakte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kto był twoim pierwszym przyjacielem, którego zdobyłeś samodzielnie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quem foi o primeiro amigo que você fez sozinho?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vem var den första vännen du skaffade på egen hand?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Хто був першим другом, якого ти знайшов сам?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你自己交的第一个朋友是谁？" } }
+      }
+    },
+    "What's a thing you collected as a kid that would be worth a lot now?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist eine Sache, die du als Kind gesammelt hast und die heute viel wert wäre?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you collected as a kid that would be worth a lot now?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa coleccionabas de niño que ahora valdría mucho?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chose collectionnais-tu enfant qui vaudrait cher aujourd’hui ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa collezionavi da bambino che oggi varrebbe molto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に集めていて、今だったら高値がつきそうなものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 모았던 것 중 지금이라면 큰 가치가 있을 만한 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva samlet du på som barn som ville vært mye verdt nå?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat verzamelde je als kind dat nu veel waard zou zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co zbierałeś jako dziecko, co teraz byłoby wiele warte?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você colecionava quando criança que valeria muito hoje?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad samlade du på som barn som skulle vara värt mycket nu?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ти колекціонував у дитинстві, що зараз мало б велику ціну?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候收集的什么东西现在会很值钱？" } }
+      }
+    },
+    "What's a lesson you learned from getting in trouble?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du daraus gelernt, in Schwierigkeiten zu geraten?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a lesson you learned from getting in trouble?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lección aprendiste de meterte en problemas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle leçon as-tu tirée d’avoir eu des ennuis ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale lezione hai imparato dall'essere nei guai?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "トラブルに巻き込まれて学んだことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "문제를 일으키면서 배운 교훈은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva lærte du av å havne i trøbbel?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat heb je geleerd van problemen krijgen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego nauczyłeś się z wpadania w tarapaty?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que lição você aprendeu ao se meter em confusão?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken läxa lärde du dig av att hamna i trubbel?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якого уроку ти навчився, потрапивши в халепу?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你从惹麻烦中学到了什么教训？" } }
+      }
+    },
+    "What was the most exciting thing about the last day of school?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das Aufregendste am letzten Schultag?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the most exciting thing about the last day of school?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué era lo más emocionante del último día de clases?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle était la chose la plus excitante le dernier jour d’école ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la cosa più eccitante dell'ultimo giorno di scuola?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "学校の最終日で一番ワクワクしたことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "방학 전 마지막 날 가장 신났던 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det mest spennende med siste skoledag?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was het meest opwindende aan de laatste schooldag?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co było najbardziej ekscytującego w ostatnim dniu szkoły?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que havia de mais emocionante no último dia de aula?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det mest spännande med sista skoldagen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що було найцікавішого в останній день школи?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "上学最后一天最让你兴奋的事情是什么？" } }
+      }
+    },
+    "What's a piece of advice a grandparent gave you that stuck?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Ratschlag eines Großelternteils ist dir geblieben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of advice a grandparent gave you that stuck?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué consejo de un abuelo te marcó?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel conseil d’un grand-parent t’est resté ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale consiglio di un nonno ti è rimasto impresso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "祖父母からもらったアドバイスで心に残っているものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "조부모님께서 해주신 조언 중 마음에 남는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket råd ga en besteforelder deg som ble med deg videre?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk advies van een grootouder is je bijgebleven?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka rada dziadków utkwiła ci w pamięci?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual conselho de um avô ou avó ficou com você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket råd gav en mor- eller farförälder dig som fastnade?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка порада від дідуся чи бабусі залишилася з тобою?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "祖父母给你的哪条建议让你一直铭记？" } }
+      }
+    },
+    "What was your favorite 'hand-me-down'?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein liebstes „Second-Hand“-Kleidungsstück?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite 'hand-me-down'?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue tu 'ropa heredada' favorita?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel était ton « vêtement récupéré » préféré ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era il tuo capo 'passato' preferito?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "好きなお下がりは何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 좋아했던 '물려받은 물건'은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favoritt «arvet-ting»?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete 'hand-me-down'?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja ulubiona „rzecz po kimś”?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi seu 'herdado' favorito?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var din favorit-'ärvda pryl'?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка була твоя улюблена «передана річ»?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢的“二手传家宝”是什么？" } }
+      }
+    },
+    "What's something you built as a child that you were proud of?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du als Kind gebaut, worauf du stolz warst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's something you built as a child that you were proud of?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué construiste de niño que te enorgulleciera?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu’as-tu construit enfant dont tu étais fier ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa hai costruito da bambino di cui eri orgoglioso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に作って誇りに思っているものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 만들어서 자랑스러웠던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva bygde du som barn som du var stolt av?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat bouwde je als kind waar je trots op was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co zbudowałeś jako dziecko, z czego byłeś dumny?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você construiu quando criança e do qual se orgulhava?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad byggde du som barn som du var stolt över?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ти побудував у дитинстві, чим пишався?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候造过什么让你骄傲的东西？" } }
+      }
+    },
+    "What was the most trouble you got into at school that your parents never found out about?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war der größte Ärger, den du in der Schule hattest und von dem deine Eltern nie erfuhren?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the most trouble you got into at school that your parents never found out about?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el mayor problema que tuviste en la escuela del que tus padres nunca se enteraron?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la pire punition que tu aies eue à l’école et dont tes parents n’ont jamais rien su ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il più grande guaio a scuola di cui i tuoi genitori non hanno mai saputo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "学校で一番ひどいトラブルに巻き込まれたことは何ですか？（両親にはバレませんでした）" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "학교에서 부모님께 들키지 않은 가장 큰 문제는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det verste trøbbelet du havnet i på skolen som foreldrene dine aldri fikk vite om?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de grootste moeilijkheid op school waar je ouders nooit achter kwamen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie były największe kłopoty w szkole, o których twoi rodzice nigdy się nie dowiedzieli?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a maior enrascada na escola que seus pais nunca descobriram?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det största trubbel du hamnade i i skolan som dina föräldrar aldrig fick reda på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Які найбільші проблеми в школі залишилися невідомими твоїм батькам?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在学校里遇到的最大的麻烦（父母从未发现）是什么？" } }
+      }
+    },
+    "What's a commercial jingle from your childhood you still remember?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Werbejingle aus deiner Kindheit kennst du noch?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a commercial jingle from your childhood you still remember?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué jingle publicitario de tu infancia aún recuerdas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel jingle publicitaire de ton enfance te rappelles-tu encore ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale jingle pubblicitario della tua infanzia ricordi ancora?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃のCMソングで今でも覚えているものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 광고 음악 중 아직도 기억나는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken reklamemelodi fra barndommen husker du fortsatt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke reclamejingle uit je kindertijd ken je nog?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką piosenkę reklamową z dzieciństwa wciąż pamiętasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual jingle de comercial da sua infância você ainda lembra?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken reklamjingel från din barndom minns du fortfarande?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який рекламний джингл з дитинства ти досі пам’ятаєш?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪段广告歌你现在还记得？" } }
+      }
+    },
+    "What's a hobby you did as a kid that you'd like to pick up again?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchem Hobby aus deiner Kindheit würdest du gerne wieder nachgehen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a hobby you did as a kid that you'd like to pick up again?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué hobby que tenías de niño te gustaría retomar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel loisir avais-tu enfant et aimerais-tu reprendre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale hobby che facevi da bambino ti piacerebbe riprendere?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃やっていて、もう一度始めたい趣味は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 했던 취미 중 다시 시작하고 싶은 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken hobby drev du med som barn som du gjerne vil begynne med igjen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke hobby deed je als kind die je weer zou willen oppakken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie hobby z dzieciństwa chciałbyś podjąć na nowo?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual hobby que você tinha quando criança gostaria de retomar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken hobby hade du som barn som du skulle vilja börja med igen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким хобі з дитинства ти хотів би зайнятися знову?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪个爱好你想重新拾起来？" } }
+      }
+    },
+    "What was the most surprising gift you ever received as a kid?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das überraschendste Geschenk, das du als Kind bekommen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the most surprising gift you ever received as a kid?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el regalo más sorprendente que recibiste de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été le cadeau le plus surprenant que tu aies reçu enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il regalo più sorprendente che hai ricevuto da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃にもらった一番驚いたプレゼントは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 받은 선물 중 가장 놀라웠던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den mest overraskende gaven du fikk som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was het meest verrassende cadeau dat je als kind kreeg?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki był najbardziej zaskakujący prezent, który dostałeś jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o presente mais surpreendente que você ganhou quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den mest överraskande presenten du fick som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найнесподіваніший подарунок ти отримав у дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候收到的最惊喜的礼物是什么？" } }
+      }
+    },
+    "What's a lesson you learned from a pet you had growing up?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du von einem Haustier gelernt, das du in deiner Kindheit hattest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a lesson you learned from a pet you had growing up?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lección aprendiste de una mascota que tuviste mientras crecías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle leçon as-tu apprise d’un animal de compagnie que tu as eu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale lezione hai imparato da un animale domestico che hai avuto da piccolo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃飼っていたペットから学んだことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 키웠던 반려동물에게서 배운 교훈은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva lærte du av et kjæledyr du hadde da du vokste opp?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat heb je geleerd van een huisdier dat je had tijdens je jeugd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego nauczyło cię zwierzę, które miałeś w dzieciństwie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que lição você aprendeu com um animal de estimação que teve enquanto crescia?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken läxa lärde du dig av ett husdjur du hade när du växte upp?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якого уроку ти навчився від домашнього улюбленця, який був у тебе в дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你从成长过程中养过的宠物身上学到了什么？" } }
+      }
+    },
+    "What's a 'kids only' club or secret society you started?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen „Nur für Kinder“-Club oder geheimen Bund hast du gegründet?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'kids only' club or secret society you started?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué club 'solo para niños' o sociedad secreta creaste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel club « réservé aux enfants » ou société secrète as-tu lancé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale club 'solo bambini' o società segreta hai fondato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたが始めた「子供限定」のクラブや秘密結社は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신이 만든 '어린이 전용' 클럽이나 비밀 결사는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken «bare for barn»-klubb eller hemmelig klubb startet du?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke 'alleen voor kinderen'-club of geheime club ben jij begonnen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki klub „tylko dla dzieci” lub tajne stowarzyszenie założyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual clube 'só para crianças' ou sociedade secreta você começou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken 'bara barn'-klubb eller hemlig klubb startade du?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який клуб «тільки для дітей» або таємне товариство ти заснував?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你发起过什么“仅限儿童”的俱乐部或秘密团体？" } }
+      }
+    },
+    "What was your favorite rainy day activity?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war deine Lieblingsbeschäftigung an Regentagen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite rainy day activity?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu actividad favorita para los días de lluvia?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle était ton activité préférée les jours de pluie ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua attività preferita nei giorni di pioggia?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "雨の日の好きな過ごし方は何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비 오는 날 가장 좋아했던 활동은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favorittaktivitet på en regnværsdag?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete regenachtige dag activiteit?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja ulubiona aktywność w deszczowy dzień?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era sua atividade favorita em dias chuvosos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var din favoritsysselsättning en regnig dag?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким було твоє улюблене заняття в дощовий день?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢的雨天活动是什么？" } }
+      }
+    },
+    "Who was the strictest teacher you ever had?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wer war der strengste Lehrer, den du je hattest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Who was the strictest teacher you ever had?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Quién fue el profesor más estricto que tuviste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été ton professeur le plus strict ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Chi è stato l'insegnante più severo che hai mai avuto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番厳しかった先生は誰ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 엄격했던 선생님은 누구인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvem var den strengeste læreren du noen gang har hatt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wie was de strengste leraar die je ooit hebt gehad?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kto był twoim najbardziej surowym nauczycielem?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quem foi o professor mais rígido que você já teve?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vem var den strängaste läraren du någonsin haft?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Хто був найсуворішим учителем, який у тебе був?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你遇到过最严厉的老师是谁？" } }
+      }
+    },
+    "What's a song that was popular when you were 12 that you still love?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Lied war populär, als du 12 warst, und das du immer noch liebst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a song that was popular when you were 12 that you still love?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué canción era popular cuando tenías 12 años y aún te encanta?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chanson populaire quand tu avais 12 ans aimes-tu encore ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale canzone era popolare quando avevi 12 anni e che ancora ami?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "12歳の時に流行っていて、今でも好きな曲は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "12살 때 유행했던 노래 중 아직도 좋아하는 곡은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken sang var populær da du var 12 år som du fortsatt elsker?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk nummer was populair toen je 12 was en waar je nog steeds van houdt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka piosenka była popularna, gdy miałeś 12 lat i wciąż ją kochasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual música era popular quando você tinha 12 anos e você ainda ama?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken låt var populär när du var 12 som du fortfarande älskar?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка пісня була популярною, коли тобі було 12, і ти досі її любиш?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你12岁时流行、现在仍然喜欢的歌曲是什么？" } }
+      }
+    },
+    "What was your first sleepover like?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie war deine erste Übernachtungsparty?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your first sleepover like?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo fue tu primera pijamada?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Comment s’est passée ta première soirée pyjama ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Com'è stato il tuo primo pigiama party?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "初めてのお泊まり会はどうでしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "첫 번째 친구 집에서의 밤샘은 어땠나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvordan var din første overnatting?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe was je eerste logeerpartijtje?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak wyglądało twoje pierwsze nocowanie u kolegi?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Como foi sua primeira festa do pijama?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur var din första övernattning?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як пройшла твоя перша нічівка?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你第一次在朋友家过夜感觉如何？" } }
+      }
+    },
+    "What's a thing your family did that you thought was normal but wasn't?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hat deine Familie getan, das du für normal hieltest, aber nicht war?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing your family did that you thought was normal but wasn't?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa hacía tu familia que pensabas que era normal pero no lo era?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chose faisait ta famille que tu pensais normale mais qui ne l’était pas ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa faceva la tua famiglia che pensavi fosse normale ma non lo era?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "家族がやっていたことで、普通だと思っていたけど実はそうではなかったことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가족이 했던 일 중 당연하다고 생각했지만 실제로는 그렇지 않았던 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva gjorde familien din som du trodde var normalt, men som ikke var det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat deed jouw gezin dat jij normaal vond maar niet was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co robiła twoja rodzina, co myślałeś, że jest normalne, ale nie było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que sua família fazia que você achava normal mas não era?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad gjorde din familj som du trodde var normalt men inte var det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що робила твоя родина, що ти вважав нормальним, але це не було таким?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你家做过的哪件事你以为是正常的但其实不是？" } }
+      }
+    },
+    "What's the most physically adventurous thing you did as a kid?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das abenteuerlichste körperliche Ding, das du als Kind gemacht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most physically adventurous thing you did as a kid?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué fue lo más aventurero físicamente que hiciste de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus physiquement aventureuse que tu aies faite enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la cosa più fisicamente avventurosa che hai fatto da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃にやった一番冒険的な身体的活動は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적에 한 가장 모험적인 신체 활동은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det mest fysiske vågale du gjorde som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest fysiek avontuurlijke dat je als kind deed?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co było najbardziej fizycznie odważną rzeczą, którą zrobiłeś jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a coisa fisicamente mais aventureira que você fez quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det mest fysiskt äventyrliga du gjorde som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка найбільш фізично авантюрна річ, яку ти зробив у дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候做过的最冒险的体力活动是什么？" } }
+      }
+    },
+    "What was your favorite 'lunchbox' meal?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein liebstes „Lunchbox“-Essen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite 'lunchbox' meal?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu comida favorita para la 'lonchera'?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel était ton repas préféré pour la « boîte à lunch » ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era il tuo pasto preferito nel 'porta pranzo'?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "好きな「弁当箱」の食事は何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 좋아했던 '도시락' 음식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favoritt «matpakke»-måltid?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete 'broodtrommel'-maaltijd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki był twój ulubiony posiłek z „drugiego śniadania”?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era sua refeição favorita na 'lancheira'?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var din favorit 'matsäckslåda'-måltid?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою була твоя улюблена страва в «ланч-боксі»?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢的“午餐盒”餐食是什么？" } }
+      }
+    },
+    "What's a time you felt truly grown up as a child?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich als Kind wirklich erwachsen gefühlt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you felt truly grown up as a child?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te sentiste realmente adulto siendo niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand as-tu vraiment eu l’impression d’être adulte étant enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando ti sei sentito veramente grande da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に本当に大人になったと感じた瞬間はいつですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 정말 어른이 되었다고 느꼈던 순간은 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du deg virkelig voksen som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde jij je als kind echt volwassen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy poczułeś się naprawdę dorosły jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você se sentiu verdadeiramente adulto quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du dig verkligen vuxen som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли в дитинстві ти відчув себе справді дорослим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候哪个时刻让你觉得自己真正长大了？" } }
+      }
+    },
+    "What was the best thing about your neighborhood growing up?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das Beste an deiner Nachbarschaft, als du aufwuchst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the best thing about your neighborhood growing up?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué era lo mejor de tu vecindario mientras crecías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel était le meilleur aspect de ton quartier quand tu grandissais ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la cosa migliore del tuo quartiere mentre crescevi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "育った近所で一番良かったことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "성장하면서 살았던 동네에서 가장 좋았던 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det beste med nabolaget ditt da du vokste opp?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was het beste aan jouw buurt toen je opgroeide?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co było najlepszego w twojej okolicy, gdy dorastałeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a melhor coisa sobre o seu bairro enquanto você crescia?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det bästa med ditt grannskap när du växte upp?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що було найкращим у твоєму районі, коли ти ріс?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你成长过程中所在的社区最棒的是什么？" } }
+      }
+    },
+    "What's a childhood possession you regret getting rid of?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Besitz aus deiner Kindheit bereust du, weggeworfen zu haben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a childhood possession you regret getting rid of?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué posesión de tu infancia te arrepientes de haber tirado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quel objet de ton enfance regrettes-tu de t’être débarrassé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Di quale oggetto della tua infanzia ti penti di esserti sbarazzato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "捨てて後悔している子供の頃の所有物は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "버린 것을 후회하는 어릴 적 소지품은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken barndomsgjenstand angrer du på at du kvittet deg med?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Van welk bezit uit je kindertijd heb je spijt dat je het weg hebt gedaan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej rzeczy z dzieciństwa żałujesz, że się pozbyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De qual objeto da sua infância você se arrepende de ter se desfeito?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken barndomsgrej ångrar du att du gjorde dig av med?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якою дитячою річчю ти шкодуєш, що позбувся?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪样东西现在后悔扔掉了？" } }
+      }
+    },
+    "What was the worst punishment your parents ever gave you?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die schlimmste Strafe, die deine Eltern dir jemals gegeben haben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the worst punishment your parents ever gave you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el peor castigo que te dieron tus padres?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle a été la pire punition que tes parents t’aient jamais donnée ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la punizione peggiore che i tuoi genitori ti hanno mai dato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "両親から受けた一番ひどい罰は何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님께 받은 가장 심한 벌은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den verste straffen foreldrene dine noen gang ga deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de ergste straf die je ouders je ooit gaven?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najgorsza kara, jaką dali ci twoi rodzice?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a pior punição que seus pais te deram?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var det värsta straffet dina föräldrar någonsin gav dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке було найгірше покарання, яке тобі дали батьки?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你父母给过你最严厉的惩罚是什么？" } }
+      }
+    },
+    "What was the first 'big' news event you remember understanding?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das erste große Nachrichtenereignis, das du verstanden hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was the first 'big' news event you remember understanding?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el primer gran evento de noticias que recuerdas haber entendido?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le premier « grand » événement médiatique dont tu te souviens avoir compris ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il primo grande evento di cronaca che ricordi di aver capito?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "理解したと記憶している最初の「大きな」ニュースは何でしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이해했던 첫 번째 '큰' 뉴스 사건은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var den første 'store' nyhetshendelsen du husker å ha forstått?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de eerste 'grote' nieuwsgebeurtenis die je je herinnert te begrijpen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie było pierwsze „duże” wydarzenie, które pamiętasz, że zrozumiałeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o primeiro grande evento noticioso que você lembra de ter entendido?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den första 'stora' nyhetshändelsen du minns att du förstod?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка перша «велика» новинна подія, яку ти пам’ятаєш і розумів?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你记得自己理解的第一个“重大”新闻事件是什么？" } }
+      }
+    },
+    "What's a story your family tells about you that you don't remember?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Geschichte erzählt deine Familie über dich, an die du dich nicht erinnerst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a story your family tells about you that you don't remember?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué historia cuenta tu familia sobre ti que no recuerdas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle histoire ta famille raconte-t-elle sur toi dont tu ne te souviens pas ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale storia racconta la tua famiglia su di te che non ricordi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "家族が話す、あなたが覚えていない話は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가족이 이야기하지만 당신이 기억하지 못하는 이야기는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken historie forteller familien din om deg som du ikke husker?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk verhaal vertelt jouw familie over jou dat jij je niet herinnert?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką historię o tobie opowiada twoja rodzina, a ty jej nie pamiętasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual história sua família conta sobre você que você não lembra?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken historia berättar din familj om dig som du inte minns?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку історію про тебе розповідає родина, а ти її не пам’ятаєш?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你家讲过的关于你的哪个故事你自己却记不起来了？" } }
+      }
+    },
+    "What was your favorite thing to check out from the library?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein liebster Gegenstand, den du dir in der Bibliothek ausgeliehen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite thing to check out from the library?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué era lo que más te gustaba sacar de la biblioteca?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu’aimais-tu le plus emprunter à la bibliothèque ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua cosa preferita da prendere in prestito in biblioteca?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "図書館で借りるのが一番好きだったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "도서관에서 빌리던 것 중 가장 좋아했던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favorittting å låne på biblioteket?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete ding om te lenen van de bibliotheek?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co najbardziej lubiałeś wypożyczać z biblioteki?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era sua coisa favorita para pegar emprestado na biblioteca?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var din favoritsak att låna på biblioteket?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що тобі найбільше подобалось брати в бібліотеці?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢从图书馆借什么东西？" } }
+      }
+    },
+    "What's a fashion trend you enthusiastically participated in as a kid?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Modetrend hast du als Kind begeistert mitgemacht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a fashion trend you enthusiastically participated in as a kid?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué tendencia de moda seguiste con entusiasmo de niño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle tendance mode as-tu suivie avec enthousiasme étant enfant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale tendenza della moda hai seguito con entusiasmo da bambino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に熱中して参加したファッショントレンドは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 때 열정적으로 참여했던 패션 트렌드는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken motetrend deltok du entusiastisk i som barn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Aan welke modetrend deed je enthousiast mee als kind?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jakim trendzie mody z entuzjazmem uczestniczyłeś jako dziecko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual tendência de moda você seguiu com entusiasmo quando criança?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken modetrend deltog du entusiastiskt i som barn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який модний тренд ти захоплено підтримував у дитинстві?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候热情参与过什么时尚潮流？" } }
+      }
+    },
+    "What's the best camp or summer program you ever attended?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das beste Camp oder Sommerprogramm, das du je besucht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best camp or summer program you ever attended?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál fue el mejor campamento o programa de verano al que asististe?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été le meilleur camp ou programme d’été auquel tu as participé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato il miglior campo o programma estivo a cui hai partecipato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今まで参加した最高のキャンプや夏のプログラムは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "참가했던 캠프나 여름 프로그램 중 가장 좋았던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den beste leiren eller sommeren du noen gang har deltatt på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de beste zomerkamp of zomerprogramma die je ooit hebt gevolgd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki był najlepszy obóz lub program letni, w którym uczestniczyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o melhor acampamento ou programa de verão que você participou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken var den bästa sommarlägret eller sommarprogrammet du någonsin deltog i?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найкращий табір чи літня програма, в яких ти брав участь?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你参加过的最好的夏令营或暑期项目是什么？" } }
+      }
+    },
+    "What did you want to be for Halloween the most times?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was wolltest du an Halloween am häufigsten sein?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What did you want to be for Halloween the most times?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué querías ser para Halloween la mayoría de las veces?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu’as-tu voulu être pour Halloween le plus souvent ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa volevi essere per Halloween più spesso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ハロウィンで一番なりたかったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "할로윈에 가장 자주 되고 싶었던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva ønsket du å være på Halloween flest ganger?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat wilde jij de meeste keren zijn met Halloween?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kim chciałeś być w Halloween najczęściej?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você mais quis ser no Halloween?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad ville du vara på Halloween flest gånger?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Ким ти найчастіше хотів бути на Геловін?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你万圣节最常想装扮成什么？" } }
+      }
+    },
+    "What's a time you felt like a black sheep in your own family?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich wie das schwarze Schaf in deiner eigenen Familie gefühlt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you felt like a black sheep in your own family?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te sentiste como la oveja negra de tu propia familia?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand as-tu eu l’impression d’être le mouton noir de ta propre famille ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando ti sei sentito come la pecora nera della tua famiglia?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分の家族の中で黒い羊のように感じたのはいつですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가족 중에서 자신만 따돌림당한다고 느꼈던 때는 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du deg som et svart får i din egen familie?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde jij je het zwarte schaap in je eigen familie?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy czułeś się jak czarna owca we własnej rodzinie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você se sentiu a ovelha negra da sua própria família?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du dig som ett svart får i din egen familj?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ти відчув себе білою вороною у власній родині?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么时候你觉得自己是家里的“害群之马”？" } }
+      }
+    },
+    "What was your favorite after-school snack?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war dein liebster Snack nach der Schule?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What was your favorite after-school snack?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál era tu merienda favorita después del colegio?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel était ton goûter préféré après l’école ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual era la tua merenda preferita dopo la scuola?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "放課後のおやつで一番好きだったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "방과 후 가장 좋아했던 간식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var din favorittmatbit etter skolen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was jouw favoriete snack na school?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była twoja ulubiona przekąska po szkole?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual era seu lanche favorito depois da escola?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket var ditt favoritmellanmål efter skolan?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який був твій улюблений перекус після школи?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你放学后最喜欢的零食是什么？" } }
+      }
+    },
+    "What's a question you always asked your parents that annoyed them?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Frage hast du deinen Eltern immer gestellt, die sie genervt hat?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a question you always asked your parents that annoyed them?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pregunta les hacías siempre a tus padres que les molestaba?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle question posais-tu toujours à tes parents et qui les agaçait ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale domanda facevi sempre ai tuoi genitori che li infastidiva?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "いつも両親に聞いて、彼らを困らせていた質問は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님께 항상 물어봐서 짜증나게 했던 질문은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket spørsmål spurte du alltid foreldrene dine om som irriterte dem?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vraag stelde je altijd aan je ouders die hen irriteerde?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie pytanie zawsze zadawałeś rodzicom, które ich denerwowało?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual pergunta você sempre fazia aos seus pais que os irritava?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken fråga frågade du alltid dina föräldrar som irriterade dem?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке питання ти завжди ставив батькам, яке їх дратувало?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你总是问父母哪个问题让他们很烦？" } }
+      }
+    },
+    "What's the most meaningful thing a teacher ever did for you?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Bedeutendste, das ein Lehrer je für dich getan hat?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most meaningful thing a teacher ever did for you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más significativo que un profesor hizo por ti?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus marquante qu’un professeur ait faite pour toi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più significativa che un insegnante ha mai fatto per te?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "先生があなたにしてくれた最も意味のあることは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "선생님이 해준 가장 의미 있는 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest betydningsfulle tingen en lærer noen gang har gjort for deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest betekenisvolle dat een leraar ooit voor je deed?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najbardziej znaczącą rzeczą, jaką zrobił dla ciebie nauczyciel?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a coisa mais significativa que um professor já fez por você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det mest meningsfulla en lärare någonsin gjort för dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найважливішого зробив для тебе вчитель?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "老师为你做过的最有意义的事是什么？" } }
+      }
+    },
+    "What did your 'fort' look like, whether it was in the living room or the backyard?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie sah deine „Festung“ aus, egal ob im Wohnzimmer oder im Hinterhof?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What did your 'fort' look like, whether it was in the living room or the backyard?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo era tu 'fuerte', ya sea en la sala o en el patio trasero?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "À quoi ressemblait ton « fort », que ce soit dans le salon ou dans le jardin ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Com'era il tuo 'fortino', fosse in soggiorno o in giardino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "リビングでも裏庭でも、あなたの「秘密基地」はどんな感じでしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "거실이든 뒤뜰이든, 당신의 '요새'는 어땠나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvordan så «fortet» ditt ut, enten det var i stua eller i hagen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe zag jouw 'fort' eruit, of het nu in de woonkamer of achtertuin was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak wyglądała twoja „forteca”, czy to w salonie, czy na podwórku?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Como era seu 'forte', seja na sala de estar ou no quintal?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur såg ditt 'fort' ut, oavsett om det var i vardagsrummet eller bakgården?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як виглядала твоя «фортеця» — чи у вітальні, чи на задньому дворі?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你的“堡垒”是什么样的（无论是在客厅还是后院）？" } }
       }
     },
     "What's one thing you want to accomplish in the next five years?": {
