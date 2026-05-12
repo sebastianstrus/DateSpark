@@ -35,10 +35,10 @@ struct SplashView: View {
                     VStack(spacing: 16) {
                         // Wordmark
                         HStack(spacing: 0) {
-                            Text("Date")
+                            Text(verbatim: "Date")
                                 .font(.dsDisplay(44, weight: .ultraLight))
                                 .foregroundColor(Color.dsPrimary)
-                            Text("Spark")
+                            Text(verbatim: "Spark")
                                 .font(.dsDisplay(44, weight: .light))
                                 .foregroundStyle(LinearGradient.dsGoldGradient)
                         }
