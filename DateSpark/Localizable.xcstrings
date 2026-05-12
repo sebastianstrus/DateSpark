@@ -47255,6 +47255,957 @@
         }
       }
     },
+    "What's a non-romantic relationship that has shaped who you are?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a non-romantic relationship that has shaped who you are?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche nicht-romantische Beziehung hat dich zu dem gemacht, der du bist?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué relación no romántica ha moldeado quién eres?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle relation non romantique a façonné la personne que vous êtes ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale relazione non romantica ha plasmato la persona che sei?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたを形作った恋愛以外の人間関係は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신을 형성한 비연애 관계는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket ikke-romantisk forhold har formet den du er?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke niet-romantische relatie heeft jou gevormd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka relacja niеromantyczna ukształtowała twoją osobowość?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual relacionamento não romântico moldou quem você é?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken icke-romantisk relation har format vem du är?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Які неромантичні стосунки сформували вас як особистість?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪段非浪漫关系塑造了今天的你？" } }
+      }
+    },
+    "What's a 'thank you' you've never said but want to?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'thank you' you've never said but want to?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Für was möchtest du dich bedanken, hast es aber nie getan?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué 'gracias' nunca has dicho pero te gustaría decir?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel « merci » n'avez-vous jamais dit mais aimeriez-vous dire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale 'grazie' non hai mai detto ma vorresti dire?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "言ったことがないけど言いたい「ありがとう」は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "한 번도 하지 않았지만 하고 싶은 '고마워'는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken 'takk' har du aldri sagt, men ønsker å si?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke 'dankjewel' heb je nooit gezegd maar wil je wel zeggen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Za co chciałbyś podziękować, a nigdy tego nie zrobiłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual 'obrigado' você nunca disse, mas gostaria de dizer?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket 'tack' har du aldrig sagt men vill säga?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "За що ви хотіли б подякувати, але ніколи не дякували?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪句「谢谢」你从没说过却想说？" } }
+      }
+    },
+    "What does 'being there for someone' actually look like to you?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What does 'being there for someone' actually look like to you?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie sieht für dich „für jemanden da sein“ tatsächlich aus?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo es para ti 'estar ahí para alguien' realmente?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "À quoi ressemble concrètement « être là pour quelqu'un » pour vous ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Che cosa significa per te 'esserci per qualcuno' nella pratica?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "「誰かのためにいる」とは、あなたにとって具体的にどのようなことですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "'누군가에게 힘이 되어 준다'는 것이 실제로 어떤 모습인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvordan ser 'å være der for noen' ut for deg i praksis?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe ziet 'er voor iemand zijn' er voor jou in de praktijk uit?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak dla ciebie wygląda 'bycie dla kogoś'?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Como é 'estar presente para alguém' na prática para você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur ser 'att finnas där för någon' ut för dig i praktiken?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як для вас виглядає «бути поруч із кимось» на практиці?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "对你来说，「陪伴某人」实际是什么样的？" } }
+      }
+    },
+    "What's a small way you show love that you wish was reciprocated?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a small way you show love that you wish was reciprocated?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie zeigst du auf kleine Weise Liebe und wünschst dir, dass sie erwidert wird?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pequeña forma de mostrar amor te gustaría que fuera correspondida?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle petite façon de montrer votre amour aimeriez-vous voir être réciproque ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale piccolo gesto d'amore che fai vorresti fosse ricambiato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたが愛情を示す小さな方法で、返してほしいと思うものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신이 사랑을 표현하는 작은 방식 중 되받았으면 하는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken liten måte viser du kjærlighet som du skulle ønske ble gjengjeldt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke kleine manier toon jij liefde waarvan je wenst dat die wordt beantwoord?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki drobny sposób okazywania miłości chciałbyś, żeby był odwzajemniony?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual pequena forma de demonstrar amor você gostaria que fosse correspondida?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket litet sätt visar du kärlek som du önskar blev besvarad?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким маленьким способом ви виявляєте любов і хотіли б отримати взаємність?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你用哪种小方式表达爱意，并希望得到回应？" } }
+      }
+    },
+    "What's a boundary you've set that you're proud of?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a boundary you've set that you're proud of?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Auf welche gesetzte Grenze bist du stolz?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué límite has establecido del que te sientes orgulloso?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle limite avez-vous fixée dont vous êtes fier/fière ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale limite hai stabilito di cui vai fiero?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "誇りに思っている、自分が設定した境界線は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신이 설정한 경계 중 자랑스러운 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken grense har du satt som du er stolt over?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke grens die je hebt gesteld ben je trots?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką granicę wyznaczyłeś, z której jesteś dumny?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual limite você estabeleceu do qual se orgulha?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken gräns har du satt som du är stolt över?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Які особисті кордони ви встановили і пишаєтеся цим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你设定的哪个界限让你感到自豪？" } }
+      }
+    },
+    "What's a sign that a friendship has run its course?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a sign that a friendship has run its course?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Woran erkennst du, dass eine Freundschaft ihr Ende gefunden hat?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué señal indica que una amistad ha llegado a su fin?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le signe qu'une amitié a vécu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è un segnale che un'amicizia è giunta al termine?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "友情が終わったサインは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "우정이 끝났다는 신호는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er et tegn på at et vennskap har løpt sin gang?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is een teken dat een vriendschap voorbij is?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest znak, że przyjaźń dobiegła końca?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o sinal de que uma amizade chegou ao fim?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är ett tecken på att en vänskap har gjort sitt?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка ознака того, що дружба вичерпала себе?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么迹象表明一段友谊已经走到尽头？" } }
+      }
+    },
+    "What's the best thing about being single, if you've experienced it?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best thing about being single, if you've experienced it?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Beste am Singledasein, falls du es erlebt hast?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo mejor de estar soltero, si lo has experimentado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le meilleur aspect du célibat, si vous l'avez vécu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa migliore dell'essere single, se lo hai vissuto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "独身でいることの一番良い点は何ですか（経験した場合）？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "솔로로 지내면서 가장 좋은 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste med å være singel, hvis du har opplevd det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste aan single zijn, als je het hebt meegemaakt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najlepszego w byciu singlem, jeśli tego doświadczyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a melhor coisa de ser solteiro, se você já viveu isso?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa med att vara singel, om du har upplevt det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найкраще у самотності, якщо ви це переживали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "单身最好的一点是什么（如果你经历过）？" } }
+      }
+    },
+    "What's the hardest thing about being part of a couple, if you have been?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the hardest thing about being part of a couple, if you have been?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Schwierigste an einer Paarbeziehung, falls du eine hattest?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más difícil de ser parte de una pareja, si lo has sido?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le plus difficile dans le fait de faire partie d'un couple, si vous l'avez été ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più difficile dell'essere in coppia, se lo sei stato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "カップルの一部でいることの最も難しい点は何ですか（経験した場合）？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "커플의 일원으로 지내면서 가장 어려운 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det vanskeligste med å være i et parforhold, hvis du har vært det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het moeilijkste aan deel uitmaken van een stel, als je dat bent geweest?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najtrudniejsze w byciu w związku, jeśli byłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a coisa mais difícil de fazer parte de um casal, se você já fez?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det svåraste med att vara i ett parförhållande, om du har varit det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найважче у стосунках з партнером, якщо ви мали такий досвід?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "作为情侣中最难的部分是什么（如果你有过）？" } }
+      }
+    },
+    "What's a risk you took in a relationship that paid off?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a risk you took in a relationship that paid off?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Risiko in einer Beziehung hast du eingegangen, das sich ausgezahlt hat?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué riesgo tomaste en una relación que valió la pena?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel risque avez-vous pris dans une relation qui a porté ses fruits ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale rischio hai corso in una relazione che ha dato i suoi frutti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "関係においてうまくいったリスクは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "관계에서 감수한 위험 중 성공한 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken risiko tok du i et forhold som lønnet seg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk risico nam je in een relatie dat de moeite waard was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie ryzyko w związku się opłaciło?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual risco você assumiu em um relacionamento que valeu a pena?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken risk tog du i en relation som lönade sig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який ризик у стосунках виправдав себе?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在感情中冒过的哪个风险最终得到了回报？" } }
+      }
+    },
+    "What's something you've learned from a friendship ending?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's something you've learned from a friendship ending?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du aus dem Ende einer Freundschaft gelernt?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué has aprendido de una amistad que terminó?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'avez-vous appris de la fin d'une amitié ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa hai imparato dalla fine di un'amicizia?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "友情の終わりから学んだことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "우정의 끝에서 배운 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva har du lært fra et vennskap som tok slutt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat heb je geleerd van een vriendschap die eindigde?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego nauczyło cię zakończenie przyjaźni?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você aprendeu com o fim de uma amizade?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad har du lärt dig av att en vänskap tog slut?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Чого ви навчилися після завершення дружби?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你从一段友谊的结束中学到了什么？" } }
+      }
+    },
+    "What's a way you've surprised yourself with your own capacity for love?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way you've surprised yourself with your own capacity for love?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Womit hast du dich selbst bezüglich deiner Fähigkeit zu lieben überrascht?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿De qué manera te has sorprendido con tu propia capacidad de amar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quelle manière vous êtes-vous surpris avec votre propre capacité d'aimer ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In che modo ti sei sorpreso con la tua capacità di amare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分の愛情の深さに驚いたことはどのような時ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신의 사랑 능력에 스스로 놀란 적은 어떤 때인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken måte har du overrasket deg selv med din egen kapasitet for kjærlighet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke manier heb je jezelf verrast met je eigen vermogen tot liefhebben?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak zaskoczyłeś siebie własną zdolnością do kochania?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que maneira você surpreendeu a si mesmo com sua própria capacidade de amar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt har du överraskat dig själv med din egen förmåga att älska?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Чим ви здивували себе щодо власної здатності любити?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在爱的能力上怎样让自己感到惊讶？" } }
+      }
+    },
+    "What's a problem you can't solve with love, but wish you could?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a problem you can't solve with love, but wish you could?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Problem kannst du nicht mit Liebe lösen, wünschtest es aber?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué problema no puedes resolver con amor, pero te gustaría poder hacerlo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel problème ne pouvez-vous pas résoudre avec l'amour, mais aimeriez-vous pouvoir le faire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale problema non puoi risolvere con l'amore, ma vorresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "愛では解決できないけれど、できたらいいのにと思う問題は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사랑으로 해결할 수 없지만, 할 수 있다면 좋겠다고 생각하는 문제는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket problem kan du ikke løse med kjærlighet, men skulle ønske du kunne?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk probleem kun je niet oplossen met liefde, maar wou je dat wel?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiego problemu nie można rozwiązać miłością, ale chciałbyś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual problema você não consegue resolver com amor, mas gostaria de poder?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket problem kan du inte lösa med kärlek, men önskar att du kunde?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку проблему не можна розв'язати любов'ю, але хотілося б?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个问题你无法用爱解决，但希望可以？" } }
+      }
+    },
+    "What's a small moment that made you feel deeply connected to humanity?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a small moment that made you feel deeply connected to humanity?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher kleine Moment ließ dich tief mit der Menschheit verbunden fühlen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pequeño momento te hizo sentir profundamente conectado con la humanidad?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel petit moment vous a fait sentir profondément connecté à l'humanité ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale piccolo momento ti ha fatto sentire profondamente connesso all'umanità?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "人類との深いつながりを感じた小さな瞬間は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "인류와 깊이 연결되었다고 느꼈던 작은 순간은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket lite øyeblikk fikk deg til å føle deg dypt forbundet med menneskeheten?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk klein moment zorgde ervoor dat je je diep verbonden voelde met de mensheid?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka mała chwila sprawiła, że poczułeś głęboką więź z ludzkością?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que pequeno momento fez você se sentir profundamente conectado à humanidade?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket litet ögonblick fick dig att känna dig djupt förbunden med mänskligheten?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який маленький момент змусив вас відчути глибокий зв'язок із людством?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个小瞬间让你感到与人类 deeply connected？" } }
+      }
+    },
+    "What's a piece of yourself you've kept hidden from those closest to you?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of yourself you've kept hidden from those closest to you?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Teil deiner selbst hast du vor deinen engsten Vertrauten verborgen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué parte de ti has mantenido oculta de los más cercanos?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle partie de vous avez-vous cachée à vos proches ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale parte di te hai nascosto a chi ti è più vicino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "最も親しい人々から隠している自分の一面は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 가까운 사람들에게 숨겨온 자신의 모습은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken del av deg selv har du skjult for de nærmeste?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk deel van jezelf heb je verborgen gehouden voor degenen die het dichtst bij je staan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką część siebie ukrywasz przed najbliższymi?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que pedaço de si mesmo você manteve escondido das pessoas mais próximas?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken del av dig själv har du hållit gömd för dina närmaste?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку частину себе ви приховували від найближчих людей?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你对最亲近的人隐藏了自己的哪一部分？" } }
+      }
+    },
+    "What's a way you've changed how you express love as you've gotten older?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way you've changed how you express love as you've gotten older?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie hast du deine Art, Liebe auszudrücken, im Laufe der Jahre verändert?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo has cambiado tu forma de expresar amor a medida que envejeces?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Comment avez-vous changé votre façon d'exprimer l'amour en vieillissant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In che modo hai cambiato il modo di esprimere l'amore con l'età?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "年を重ねるにつれて、愛情表現はどのように変わりましたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "나이가 들면서 사랑을 표현하는 방식이 어떻게 변했나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken måte har du endret hvordan du uttrykker kjærlighet når du har blitt eldre?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke manier is jouw manier van liefde tonen veranderd naarmate je ouder bent geworden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak zmieniłeś swój sposób okazywania miłości z wiekiem?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que maneira você mudou a forma como expressa amor à medida que envelheceu?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt har du förändrat hur du uttrycker kärlek när du har blivit äldre?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як ви змінили спосіб вираження любові з віком?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "随着年龄增长，你表达爱的方式发生了怎样的变化？" } }
+      }
+    },
+    "What's a time you chose yourself over a relationship, and was it right?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you chose yourself over a relationship, and was it right?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich für dich selbst statt für eine Beziehung entschieden – und war das richtig?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te elegiste a ti mismo sobre una relación, y fue lo correcto?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand avez-vous choisi vous-même plutôt qu'une relation, et était-ce la bonne décision ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando hai scelto te stesso invece di una relazione, ed è stata la scelta giusta?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分自身を関係よりも優先したのはいつですか？それは正しかったですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "관계보다 자신을 선택한 때는 언제였고, 그것이 옳았나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når valgte du deg selv fremfor et forhold, og var det riktig?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer koos je voor jezelf boven een relatie, en was dat de juiste keuze?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy wybrałeś siebie zamiast związku i czy to była dobra decyzja?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você se escolheu em vez de um relacionamento, e foi a decisão certa?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När valde du dig själv framför en relation, och var det rätt?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви обрали себе замість стосунків, і чи це було правильно?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么时候你选择了自己而不是一段关系，这样对吗？" } }
+      }
+    },
+    "What's a 'love language' you've discovered you need that you didn't know about?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'love language' you've discovered you need that you didn't know about?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche „Liebesprache“ hast du bei dir entdeckt, von der du nichts wusstest?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué 'lenguaje de amor' has descubierto que necesitas y que no sabías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel « langage d'amour » avez-vous découvert avoir besoin, dont vous ignoriez l'existence ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale 'linguaggio dell'amore' hai scoperto di avere bisogno e di cui non sapevi nulla?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分に必要だと気づいた「愛の言語」で、知らなかったものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "필요하다는 것을 알게 된 '사랑의 언어' 중 몰랐던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket 'kjærlighetsspråk' har du oppdaget at du trenger som du ikke visste om?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke 'liefdestaal' ben je bij jezelf tegengekomen die je nodig hebt, maar niet kende?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki 'język miłości' odkryłeś, że jest ci potrzebny, a o którym nie wiedziałeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual 'linguagem do amor' você descobriu que precisa e não sabia?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket 'kärleksspråk' har du upptäckt att du behöver som du inte visste om?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку «мову любові» ви виявили, що вам потрібна, про яку не знали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你发现自己需要哪种以前不知道的「爱的语言」？" } }
+      }
+    },
+    "What's a moment you felt completely accepted by someone?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a moment you felt completely accepted by someone?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich von jemandem vollkommen akzeptiert gefühlt?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te sentiste completamente aceptado por alguien?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel moment vous a fait sentir complètement accepté par quelqu'un ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando ti sei sentito completamente accettato da qualcuno?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "誰かに完全に受け入れられたと感じた瞬間は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "누군가에게 완전히 받아들여졌다고 느낀 순간은 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du deg fullstendig akseptert av noen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde je je volledig geaccepteerd door iemand?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy poczułeś się całkowicie zaakceptowany przez kogoś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o momento em que você se sentiu completamente aceito por alguém?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du dig helt accepterad av någon?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви відчули, що хтось повністю вас приймає?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个时刻你感到被某人完全接纳？" } }
+      }
+    },
+    "What's a promise you've kept to yourself that matters?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a promise you've kept to yourself that matters?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Versprechen hast du dir selbst gegeben, das wichtig ist?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué promesa te has hecho a ti mismo que importa?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle promesse vous êtes-vous faite, qui compte vraiment ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale promessa hai fatto a te stesso che conta?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分にした大切な約束は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "스스로에게 한 중요한 약속은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket løfte har du holdt til deg selv som betyr noe?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke belofte aan jezelf heb je gehouden die ertoe doet?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką obietnicę złożyłeś sobie, która ma znaczenie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual promessa você fez a si mesmo que é importante?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket löfte har du hållit till dig själv som betyder något?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку обіцянку ви дали собі, що має значення?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你对自己许下的哪个重要承诺兑现了？" } }
+      }
+    },
+    "What's a fight you had that made the relationship stronger?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a fight you had that made the relationship stronger?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Streit hat eure Beziehung gestärkt?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pelea tuviste que hizo más fuerte la relación?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle dispute avez-vous eue qui a renforcé la relation ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale litigio ha reso più forte la relazione?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "関係を強くした喧嘩は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "관계를 더 강하게 만든 싸움은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken krangel gjorde forholdet sterkere?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke ruzie maakte de relatie sterker?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kłótnia, która wzmocniła związek?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual briga que você teve tornou o relacionamento mais forte?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket bråk gjorde relationen starkare?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка сварка зробила стосунки міцнішими?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪次争吵反而让关系更牢固了？" } }
+      }
+    },
+    "What's a thing you do for others that you rarely do for yourself?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you do for others that you rarely do for yourself?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was tust du für andere, das du selten für dich selbst tust?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué haces por los demás que rara vez haces por ti mismo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chose faites-vous pour les autres que vous faites rarement pour vous-même ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa fai per gli altri che raramente fai per te stesso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "他人のためにしていることで、自分自身にはめったにしないことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다른 사람을 위해 하면서 자신에게는 거의 하지 않는 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva gjør du for andre som du sjelden gjør for deg selv?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat doe jij voor anderen wat je zelden voor jezelf doet?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co robisz dla innych, czego rzadko robisz dla siebie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você faz pelos outros que raramente faz por si mesmo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad gör du för andra som du sällan gör för dig själv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ви робите для інших, але рідко для себе?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你为别人做的哪件事，却很少为自己做？" } }
+      }
+    },
+    "What's a question you wish more people would ask you?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a question you wish more people would ask you?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Frage wünschst du dir, dass sie dir mehr Menschen stellen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pregunta te gustaría que más personas te hicieran?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle question aimeriez-vous que plus de gens vous posent ?" } }
+        ,
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale domanda vorresti che più persone ti facessero?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "もっと多くの人に聞いてほしい質問は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "더 많은 사람들이 물어봤으면 하는 질문은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket spørsmål skulle du ønske flere stilte deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vraag wou je dat meer mensen je stelden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie pytanie chciałbyś, żeby więcej osób ci zadawało?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual pergunta você gostaria que mais pessoas fizessem a você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken fråga önskar du att fler människor ställde till dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке питання ви хотіли б, щоб більше людей вам ставили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望更多人问你哪个问题？" } }
+      }
+    },
+    "What's a way you've been a bad friend in the past, and what did you learn?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way you've been a bad friend in the past, and what did you learn?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann warst du in der Vergangenheit ein schlechter Freund – und was hast du gelernt?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo has sido un mal amigo en el pasado y qué aprendiste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quelle manière avez-vous été un mauvais ami dans le passé, et qu'avez-vous appris ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In che modo sei stato un cattivo amico in passato, cosa hai imparato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "過去にどのように悪い友人でしたか？何を学びましたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "과연에 당신이 나쁜 친구였던 방식은 무엇이며, 무엇을 배웠나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken måte har du vært en dårlig venn tidligere, og hva lærte du?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke manier ben je in het verleden een slechte vriend geweest, en wat heb je ervan geleerd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jaki sposób byłeś złym przyjacielem i czego się nauczyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que maneira você foi um mau amigo no passado e o que aprendeu?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt har du varit en dålig vän tidigare, och vad lärde du dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким ви були поганим другом у минулому і чого навчилися?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你过去在哪些方面是个坏朋友？你学到了什么？" } }
+      }
+    },
+    "What's a moment you felt truly understood by someone who didn't speak your language?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a moment you felt truly understood by someone who didn't speak your language?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich von jemandem wirklich verstanden gefühlt, der deine Sprache nicht spricht?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué momento te sentiste verdaderamente comprendido por alguien que no hablaba tu idioma?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel moment vous a fait sentir vraiment compris par quelqu'un qui ne parle pas votre langue ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando ti sei sentito veramente capito da qualcuno che non parlava la tua lingua?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "言葉が通じない誰かに本当に理解されたと感じた瞬間は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신의 언어를 모르는 누군가에게 진정으로 이해받았다고 느낀 순간은 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du deg virkelig forstått av noen som ikke snakket ditt språk?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde je je echt begrepen door iemand die jouw taal niet sprak?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy poczułeś się naprawdę zrozumiany przez kogoś, kto nie mówi twoim językiem?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual momento você se sentiu verdadeiramente compreendido por alguém que não falava seu idioma?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du dig verkligen förstådd av någon som inte talade ditt språk?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви відчули, що вас справді зрозумів той, хто не розмовляє вашою мовою?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个时刻你感到被一个不懂你语言的人真正理解了？" } }
+      }
+    },
+    "What's a fear about being loved that you have?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a fear about being loved that you have?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Angst hast du davor, geliebt zu werden?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué miedo tienes acerca de ser amado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle peur avez-vous concernant le fait d'être aimé(e) ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale paura hai riguardo all'essere amato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "愛されることについての恐怖は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사랑받는 것에 대한 두려움은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken frykt har du for å bli elsket?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke angst heb je over geliefd worden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego boisz się w byciu kochanym?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que medo você tem sobre ser amado?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken rädsla har du för att bli älskad?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який страх щодо того, щоб бути коханим, у вас є?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "对于被爱，你有什么恐惧？" } }
+      }
+    },
+    "What's a small act of rebellion you do that is an act of self-love?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a small act of rebellion you do that is an act of self-love?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen kleinen Akt der Rebellion tust du, der Selbstliebe ist?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pequeño acto de rebelión haces que es un acto de amor propio?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel petit acte de rébellion faites-vous qui est un acte d'amour de soi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale piccolo atto di ribellione fai che è un atto di amore per te stesso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自己愛の行為として行う小さな反抗行為は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자기 사랑의 행위로서 하는 작은 반항은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken liten opprørshandling gjør du som er en handling av selvkjærlighet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke kleine daad van rebellie doe jij die een daad van zelfliefde is?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki mały akt buntu jest dla ciebie aktem miłości własnej?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual pequeno ato de rebelião você faz que é um ato de amor-próprio?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken liten revolt gör du som är en handling av självkärlek?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який маленький акт бунту ви робите як акт любові до себе?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你做的哪个小小的反叛行为是一种自爱？" } }
+      }
+    },
+    "What's a way you've had to grieve someone who is still alive?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way you've had to grieve someone who is still alive?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie hast du um jemanden getrauert, der noch lebt?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué forma has tenido de llorar a alguien que todavía está vivo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Comment avez-vous dû faire le deuil de quelqu'un qui est encore vivant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Come hai dovuto soffrire per qualcuno che è ancora vivo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "まだ生きている誰かを悲しむ必要があった経験は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아직 살아 있는 누군가를 애도해야 했던 방식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken måte har du måttet sørge over noen som fortsatt lever?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke manier heb je moeten rouwen om iemand die nog leeft?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak opłakiwałeś kogoś, kto wciąż żyje?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que maneira você teve que sofrer por alguém que ainda está vivo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt har du fått sörja någon som fortfarande lever?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як вам довелося сумувати за кимось, хто ще живий?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你曾以什么方式为一个还在世的人感到悲伤？" } }
+      }
+    },
+    "What's a 'deal-maker' for you in a friendship that isn't about shared interests?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'deal-maker' for you in a friendship that isn't about shared interests?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist für dich ein „Deal-Maker“ in einer Freundschaft, der nichts mit gemeinsamen Interessen zu tun hat?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es un 'factor decisivo' para ti en una amistad que no se trata de intereses compartidos?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'est-ce qui scelle une amitié pour vous, qui ne concerne pas les intérêts communs ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è un 'elemento decisivo' per te in un'amicizia che non riguarda interessi condivisi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "共通の趣味ではない、友情における「決め手」は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "공통 관심사가 아닌, 우정에서 당신의 '결정적 요소'는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er en 'avgjørende faktor' for deg i et vennskap som ikke handler om felles interesser?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is voor jou een 'deal-maker' in een vriendschap dat niets met gedeelde interesses te maken heeft?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest dla ciebie „przesłanką” w przyjaźni, która nie dotyczy wspólnych zainteresowań?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que é um 'fator decisivo' para você em uma amizade que não envolve interesses em comum?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är en 'avgörande faktor' för dig i en vänskap som inte handlar om gemensamma intressen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що для вас є «вирішальним фактором» у дружбі, який не стосується спільних інтересів?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "在友谊中，哪个与共同兴趣无关的「决定因素」对你很重要？" } }
+      }
+    },
+    "What's a time you felt unconditional love, either giving or receiving?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you felt unconditional love, either giving or receiving?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du bedingungslose Liebe erfahren – entweder gebend oder empfangend?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo sentiste amor incondicional, ya sea dando o recibiendo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand avez-vous ressenti un amour inconditionnel, que ce soit en donnant ou en recevant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando hai provato amore incondizionato, sia dando che ricevendo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "無条件の愛を感じたのはいつですか（与える側・受け取る側どちらでも）？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "무조건적인 사랑을 느낀 때는 언제인가요? 주거나 받을 때 모두?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du ubetinget kjærlighet, enten ved å gi eller motta?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde je onvoorwaardelijke liefde, of dat nu geven of ontvangen was?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy poczułeś bezwarunkową miłość, dając lub otrzymując?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você sentiu amor incondicional, seja dando ou recebendo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du ovillkorlig kärlek, antingen genom att ge eller ta emot?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви відчули безумовну любов, даючи чи отримуючи?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你什么时候感受到无条件的爱（给予或接受）？" } }
+      }
+    },
+    "What's a belief about love you had to unlearn?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a belief about love you had to unlearn?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Glaubenssatz über Liebe musstest du verlernen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué creencia sobre el amor tuviste que desaprender?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle croyance sur l'amour avez-vous dû désapprendre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale convinzione sull'amore hai dovuto disimparare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "愛についてのどの信念を学び直す必要がありましたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사랑에 대한 어떤 믿음을 배우지 않아도 되었나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken overbevisning om kjærlighet måtte du avlære?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke overtuiging over liefde moest je afleren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie przekonanie o miłości musiałeś oduczyć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual crença sobre o amor você teve que desaprender?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken övertygelse om kärlek var du tvungen att avlära dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке переконання про любов вам довелося позбутися?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "关于爱的哪种观念是你必须摒弃的？" } }
+      }
+    },
+    "What's the most important thing you can do daily to maintain a loving relationship?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most important thing you can do daily to maintain a loving relationship?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Wichtigste, das du täglich tun kannst, um eine liebevolle Beziehung zu erhalten?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más importante que puedes hacer a diario para mantener una relación amorosa?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus importante que vous puissiez faire quotidiennement pour maintenir une relation aimante ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più importante che puoi fare ogni giorno per mantenere una relazione amorevole?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "愛情あふれる関係を維持するために毎日できる最も重要なことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사랑하는 관계를 유지하기 위해 매일 할 수 있는 가장 중요한 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det viktigste du kan gjøre daglig for å opprettholde et kjærlig forhold?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het belangrijkste dat je dagelijks kunt doen om een liefdevolle relatie te behouden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co najważniejszego możesz robić codziennie, aby utrzymać kochający związek?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a coisa mais importante que você pode fazer diariamente para manter um relacionamento amoroso?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det viktigaste du kan göra dagligen för att upprätthålla en kärleksfull relation?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найважливіше ви можете робити щодня, щоб підтримувати любовні стосунки?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "为了维持充满爱的关系，你每天能做的最重要的一件事是什么？" } }
+      }
+    },
+    "What's a way your relationship with your parents has affected your other relationships?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way your relationship with your parents has affected your other relationships?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie hat deine Beziehung zu deinen Eltern deine anderen Beziehungen beeinflusst?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿De qué manera tu relación con tus padres ha afectado a tus otras relaciones?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quelle manière votre relation avec vos parents a-t-elle affecté vos autres relations ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In che modo il tuo rapporto con i tuoi genitori ha influenzato le altre tue relazioni?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "両親との関係は、他の人間関係にどのような影響を与えましたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부모님과의 관계가 다른 관계에 어떤 영향을 미쳤나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken måte har forholdet ditt til foreldrene dine påvirket dine andre relasjoner?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke manier heeft jouw relatie met je ouders je andere relaties beïnvloed?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jaki sposób twoja relacja z rodzicami wpłynęła na inne związki?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que maneira seu relacionamento com seus pais afetou seus outros relacionamentos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt har din relation med dina föräldrar påverkat dina andra relationer?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як ваші стосунки з батьками вплинули на інші ваші стосунки?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你与父母的关系以什么方式影响了你的其他关系？" } }
+      }
+    },
+    "What's a small thing someone does that instantly makes you feel cared for?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a small thing someone does that instantly makes you feel cared for?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche kleine Geste eines anderen sorgt sofort dafür, dass du dich umsorgt fühlst?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pequeña cosa hace alguien que te hace sentir cuidado instantáneamente?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle petite chose quelqu'un fait qui vous fait instantanément sentir aimé(e) et pris(e) en charge ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale piccola cosa fa qualcuno che ti fa sentire immediatamente curato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "誰かのどんな小さな行動が、すぐにあなたを大切にされていると感じさせますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "누군가의 어떤 작은 행동이 당신을 즉시 돌봄 받는다고 느끼게 하나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken liten ting gjør noen som umiddelbart får deg til å føle deg ivaretatt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk klein ding doet iemand waardoor jij je meteen verzorgd voelt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki drobiazg sprawia, że natychmiast czujesz się zaopiekowany?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que pequena coisa alguém faz que instantaneamente faz você se sentir cuidado?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken liten sak gör någon som direkt får dig att känna dig omhändertagen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка маленька дія іншої людини змушує вас одразу відчути турботу?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "别人做的哪件小事会让你立刻感到被关心？" } }
+      }
+    },
+    "What's a time you chose kindness over being right, and how did it feel?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you chose kindness over being right, and how did it feel?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du Freundlichkeit statt Recht haben gewählt – und wie hat es sich angefühlt?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo elegiste la amabilidad sobre tener razón, y cómo te sentiste?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand avez-vous choisi la gentillesse plutôt que d'avoir raison, et comment vous êtes-vous senti(e) ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando hai scelto la gentilezza invece di avere ragione, e come ti sei sentito?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "正しさよりも優しさを選んだのはいつですか？その時の気持ちはどうでしたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "옳음보다 친절을 선택한 때는 언제였고, 느낌이 어땠나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når valgte du vennlighet fremfor å ha rett, og hvordan føltes det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer koos je voor vriendelijkheid in plaats van gelijk hebben, en hoe voelde dat?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy wybrałeś życzliwość zamiast racji i jak się z tym czułeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você escolheu a gentileza em vez de estar certo, e como se sentiu?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När valde du vänlighet framför att ha rätt, och hur kändes det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви обрали доброту замість правоти, і які були відчуття?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么时候你选择了善意而不是正确？感觉如何？" } }
+      }
+    },
+    "What's a fear you have about getting older in relation to love?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a fear you have about getting older in relation to love?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Angst hast du in Bezug auf das Älterwerden und die Liebe?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué miedo tienes acerca de envejecer en relación con el amor?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle peur avez-vous concernant le vieillissement en rapport avec l'amour ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale paura hai riguardo all'invecchiamento in relazione all'amore?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "年を取ることと愛に関してどんな恐怖がありますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "나이 들어감과 사랑에 관한 두려움은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken frykt har du om å bli eldre i forhold til kjærlighet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke angst heb je over ouder worden in relatie tot liefde?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego obawiasz się w starzeniu się w kontekście miłości?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que medo você tem sobre envelhecer em relação ao amor?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken rädsla har du om att bli äldre i relation till kärlek?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який страх у вас щодо старіння в контексті любові?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "关于变老和爱情，你有什么恐惧？" } }
+      }
+    },
+    "What's something you forgive easily in others but not in yourself?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's something you forgive easily in others but not in yourself?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was vergibst du anderen leicht, dir selbst aber nicht?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa perdonas fácilmente en los demás pero no en ti mismo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chose pardonnez-vous facilement aux autres mais pas à vous-même ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa perdoni facilmente negli altri ma non in te stesso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "他人には簡単に許せるけど、自分には許せないことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다른 사람에게는 쉽게 용서하지만 자신에게는 용서하지 못하는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva tilgir du lett hos andre, men ikke hos deg selv?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat vergeef je anderen gemakkelijk, maar jezelf niet?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co łatwo wybaczasz innym, ale nie sobie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você perdoa facilmente nos outros, mas não em si mesmo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad förlåter du lätt hos andra men inte hos dig själv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ви легко прощаєте іншим, але не собі?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪件事你容易原谅别人，却不能原谅自己？" } }
+      }
+    },
+    "What's a secret to maintaining a long friendship?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a secret to maintaining a long friendship?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist dein Geheimnis für eine langjährige Freundschaft?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el secreto para mantener una larga amistad?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le secret pour entretenir une longue amitié ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il segreto per mantenere una lunga amicizia?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "長く友情を維持する秘訣は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오랜 우정을 유지하는 비결은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er hemmeligheten for å opprettholde et langt vennskap?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het geheim om een lange vriendschap te behouden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest sekret długiej przyjaźni?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o segredo para manter uma longa amizade?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är hemligheten för att upprätthålla en lång vänskap?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який секрет підтримання довгої дружби?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "维持长久友谊的秘诀是什么？" } }
+      }
+    },
+    "What's a way you've had to fight for a relationship you believed in?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way you've had to fight for a relationship you believed in?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie musstest du für eine Beziehung kämpfen, an die du geglaubt hast?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿De qué manera has tenido que luchar por una relación en la que creías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quelle manière avez-vous dû vous battre pour une relation en laquelle vous croyiez ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In che modo hai dovuto lottare per una relazione in cui credevi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "信じている関係のために戦わなければならなかった方法は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신이 믿는 관계를 위해 싸워야 했던 방식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken måte har du måttet kjempe for et forhold du trodde på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke manier heb je moeten vechten voor een relatie waarin je geloofde?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak musiałeś walczyć o związek, w który wierzyłeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que maneira você teve que lutar por um relacionamento em que acreditava?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt har du fått kämpa för en relation du trodde på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як вам довелося боротися за стосунки, в які ви вірили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你曾以何种方式为你坚信的关系而战？" } }
+      }
+    },
+    "What's a thing you envy about how other people love?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you envy about how other people love?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was beneidest du an der Art, wie andere Menschen lieben?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué envidias de la forma en que otras personas aman?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'est-ce que vous enviez dans la façon dont les autres aiment ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa invidi del modo in cui amano le altre persone?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "他の人の愛し方で羨ましいと思うことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다른 사람들이 사랑하는 방식 중 부러운 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva misunner du ved hvordan andre mennesker elsker?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat benijdt je aan hoe andere mensen liefhebben?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego zazdrościsz w tym, jak inni kochają?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você inveja na maneira como outras pessoas amam?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad avundas du med hur andra människor älskar?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Чому ви заздрите в тому, як люблять інші люди?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "别人爱的方式中，你羡慕什么？" } }
+      }
+    },
+    "What's a piece of relationship advice you'd give to a younger version of yourself?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of relationship advice you'd give to a younger version of yourself?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Beziehungsrat würdest du deinem jüngeren Ich geben?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué consejo de relación le darías a una versión más joven de ti mismo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel conseil relationnel donneriez-vous à une version plus jeune de vous-même ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale consiglio sulle relazioni daresti a una versione più giovane di te?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "若い自分にどんな関係のアドバイスをしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "젊은 시절의 자신에게 해주고 싶은 관계 조언은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket forholdsråd ville du gitt til en yngre versjon av deg selv?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk relatieradvies zou je aan een jongere versie van jezelf geven?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką radę dotyczącą związków dałbyś młodszej wersji siebie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual conselho de relacionamento você daria a uma versão mais jovem de si mesmo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket relationsråd skulle du ge till en yngre version av dig själv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку пораду щодо стосунків ви дали б молодшій версії себе?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你会给年轻时的自己什么感情建议？" } }
+      }
+    },
+    "What's a time you felt truly vulnerable and it was okay?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you felt truly vulnerable and it was okay?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich wirklich verletzlich gefühlt – und es war in Ordnung?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te sentiste realmente vulnerable y estuvo bien?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand vous êtes-vous senti(e) vraiment vulnérable et que c'était acceptable ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando ti sei sentito veramente vulnerabile ed è andato tutto bene?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "本当に傷つきやすいと感じても大丈夫だったのはいつですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "정말 취약하다고 느꼈지만 괜찮았던 때는 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du deg virkelig sårbar, og det var greit?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde je je echt kwetsbaar en was het oké?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy czułeś się naprawdę bezbronny i było dobrze?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você se sentiu verdadeiramente vulnerável e ficou tudo bem?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du dig riktigt sårbar och det var okej?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви відчули справжню вразливість, і це було нормально?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么时候你感到真正的脆弱，但也没关系？" } }
+      }
+    },
+    "What's a way you've sabotaged your own happiness in a relationship?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way you've sabotaged your own happiness in a relationship?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie hast du dein eigenes Glück in einer Beziehung sabotiert?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿De qué manera has saboteado tu propia felicidad en una relación?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quelle manière avez-vous saboté votre propre bonheur dans une relation ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In che modo hai sabotato la tua felicità in una relazione?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "関係の中で自分の幸せをどのように台無しにしましたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "관계에서 자신의 행복을 망친 방식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken måte har du sabotert din egen lykke i et forhold?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke manier heb je je eigen geluk in een relatie gesaboteerd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak sabotowałeś swoje własne szczęście w związku?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que maneira você sabotou sua própria felicidade em um relacionamento?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt har du saboterat din egen lycka i en relation?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як ви саботували власне щастя у стосунках?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你以什么方式破坏了自己在感情中的幸福？" } }
+      }
+    },
+    "What's a thing you love about humanity in general?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you love about humanity in general?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was liebst du im Allgemeinen an der Menschheit?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa amas de la humanidad en general?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'aimez-vous chez l'humanité en général ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa ami dell'umanità in generale?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "人類全般について、あなたが愛していることは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "인류 전체에 대해 당신이 사랑하는 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er noe du elsker med menneskeheten generelt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat hou je over het algemeen aan de mensheid?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co kochasz w ludzkości ogólnie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você ama na humanidade em geral?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad älskar du med mänskligheten i allmänhet?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ви любите в людстві загалом?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "总的来说，你爱人类的哪一点？" } }
+      }
+    },
+    "What's a moment you felt overwhelming pride for someone you love?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a moment you felt overwhelming pride for someone you love?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du überwältigenden Stolz für jemanden empfunden, den du liebst?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué momento sentiste un orgullo abrumador por alguien que amas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand avez-vous ressenti une fierté immense pour quelqu'un que vous aimez ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando hai provato un orgoglio travolgente per qualcuno che ami?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "愛する誰かに圧倒的な誇りを感じた瞬間は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사랑하는 누군가에게 압도적인 자부심을 느꼈던 순간은 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når følte du overveldende stolthet for noen du elsker?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde je overweldigende trots voor iemand van wie je houdt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy poczułeś ogromną dumę z kogoś, kogo kochasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual momento você sentiu um orgulho imenso por alguém que ama?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När kände du överväldigande stolthet för någon du älskar?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви відчули величезну гордість за когось, кого любите?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个时刻你为你爱的人感到无比自豪？" } }
+      }
+    },
+    "What's a ritual you share with a loved one that is sacred to you?" : {
+      "comment" : "Love & Life – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a ritual you share with a loved one that is sacred to you?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Ritual teilst du mit einem geliebten Menschen, das dir heilig ist?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué ritual compartes con un ser querido que es sagrado para ti?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel rituel partagez-vous avec un être cher qui vous est sacré ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale rituale condividi con una persona cara che è sacro per te?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "大切な人と共有していて、あなたにとって神聖な儀式は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사랑하는 사람과 나누는, 당신에게 신성한 의식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken ritual deler du med en du er glad i som er hellig for deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk ritueel deel je met een dierbare dat heilig voor je is?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki rytuał dzielisz z bliską osobą, który jest dla ciebie święty?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual ritual você compartilha com um ente querido que é sagrado para você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken ritual delar du med en älskad som är helig för dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким ритуалом ви ділитеся з коханою людиною, який є священним для вас?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你与爱人分享的、对你来说神圣的仪式是什么？" } }
+      }
+    },
+    "What's a time you realized you were the 'toxic' one in a dynamic?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a time you realized you were the 'toxic' one in a dynamic?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du gemerkt, dass du der 'toxische' Teil in einer Beziehung warst?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te diste cuenta de que eras el 'tóxico' en una dinámica?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand avez-vous réalisé que vous étiez la personne « toxique » dans une dynamique relationnelle ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando hai capito di essere la persona 'tossica' in una dinamica?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分が人間関係において「有害な側」だと気づいたのはいつですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신이 관계에서 '유해한' 쪽이라는 것을 깨달은 때는 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når innså du at du var den 'giftige' i en dynamikk?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer besefte je dat jij de 'toxische' was in een relatie?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy zdałeś sobie sprawę, że to ty byłeś 'toksyczny' w relacji?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você percebeu que era a pessoa 'tóxica' em uma dinâmica?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När insåg du att du var den 'giftiga' i en relation?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви зрозуміли, що ви були «токсичною» стороною у стосунках?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么时候你意识到自己在一段关系中是有毒的一方？" } }
+      }
+    },
+    "What's a thing you hope never changes in your closest relationships?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you hope never changes in your closest relationships?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hoffst du, ändert sich nie in deinen engsten Beziehungen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué esperas que nunca cambie en tus relaciones más cercanas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'espérez-vous qui ne change jamais dans vos relations les plus proches ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa speri non cambi mai nelle tue relazioni più strette?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "最も親しい関係において、変わらないでほしいことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 가까운 관계에서 변하지 않았으면 하는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva håper du aldri endrer seg i dine nærmeste relasjoner?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat hoop je dat nooit verandert in je meest intieme relaties?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co, masz nadzieję, nigdy się nie zmieni w twoich najbliższych relacjach?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você espera que nunca mude em seus relacionamentos mais próximos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad hoppas du aldrig förändras i dina närmaste relationer?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що, на вашу думку, ніколи не повинно змінюватися у ваших найближчих стосунках?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "在你最亲密的关系中，你希望什么永远不变？" } }
+      }
+    },
+    "What's a way you've used silence to communicate?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way you've used silence to communicate?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Auf welche Weise hast du Stille genutzt, um zu kommunizieren?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿De qué manera has usado el silencio para comunicarte?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quelle manière avez-vous utilisé le silence pour communiquer ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In che modo hai usato il silenzio per comunicare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "沈黙を使ってコミュニケーションを取った方法は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "침묵을 사용하여 소통한 방식은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "På hvilken måte har du brukt stillhet til å kommunisere?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke manier heb je stilte gebruikt om te communiceren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jaki sposób używałeś ciszy do komunikacji?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que maneira você usou o silêncio para se comunicar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt har du använt tystnad för att kommunicera?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як ви використовували тишу для спілкування?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你曾用什么方式用沉默来沟通？" } }
+      }
+    },
+    "What's a thing you love about yourself that took a long time to appreciate?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you love about yourself that took a long time to appreciate?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was liebst du an dir selbst, das du lange nicht zu schätzen wusstest?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa amas de ti mismo que te tomó mucho tiempo apreciar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'aimez-vous chez vous-même que vous avez mis longtemps à apprécier ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa ami di te stesso che hai impiegato molto tempo ad apprezzare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "長い時間をかけてようやく評価できるようになった、自分の好きなところは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오랜 시간이 지나서야 깨닫게 된, 자신에 대해 사랑하는 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det du elsker ved deg selv som det tok lang tid å sette pris på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat hou je van jezelf waar je lang over hebt gedaan om te waarderen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co kochasz w sobie, a docenienie tego zajęło ci dużo czasu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você ama em si mesmo que levou muito tempo para apreciar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad älskar du hos dig själv som tog lång tid att uppskatta?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ви любите в собі, що потребувало багато часу, щоб оцінити?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你花了很长时间才懂得欣赏自己的哪一点？" } }
+      }
+    },
+    "What's the most 'alive' you've ever felt in the presence of another person?" : {
+      "comment" : "Love & Life – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most 'alive' you've ever felt in the presence of another person?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wann hast du dich in der Gegenwart eines anderen Menschen am „lebendigsten“ gefühlt?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuándo te has sentido más 'vivo' en presencia de otra persona?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quand vous êtes-vous senti(e) le plus « vivant(e) » en présence d'une autre personne ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quando ti sei sentito più 'vivo' in presenza di un'altra persona?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "他の人の前で、これまでで最も「生きている」と感じたのはどんな時ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다른 사람 앞에서 가장 '살아있다'고 느꼈던 때는 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Når har du følt deg mest 'levende' i nærvær av en annen person?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wanneer voelde je je het meest 'levend' in het bijzijn van een ander?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kiedy czułeś się najbardziej 'żywy' w obecności innej osoby?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quando você se sentiu mais 'vivo' na presença de outra pessoa?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "När har du känt dig som mest 'levande' i närheten av en annan person?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Коли ви відчули себе найбільш «живим» у присутності іншої людини?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "在另一个人面前，你感到最有「活力」的时刻是什么时候？" } }
+      }
+    },
     "What is one thing you’re working on improving about yourself?": {
       "comment": "Category: dreams, Depth: deep",
       "localizations": {
@@ -49289,6 +50240,906 @@
             "value": "当我们到达一个新地方时，你第一件想做的事是什么？"
           }
         }
+      }
+    },
+    "What's a place you've visited that felt like stepping into a postcard?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Ort hast du besucht, der sich anfühlte wie ein Postkartenmotiv?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place you've visited that felt like stepping into a postcard?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar has visitado que parecía una postal?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit as-tu visité qui ressemblait à une carte postale vivante ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto hai visitato che sembrava uscito da una cartolina?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ポストカードに飛び込んだような気分になる、訪れた場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "엽서 속으로 들어간 듯한 느낌을 준 여행지는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted har du besøkt som føltes som å tre inn i et postkort?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek voelde alsof je een ansichtkaart in liep?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie miejsce odwiedziłeś/aś, które wydawało się jak wyjęte z pocztówki?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar você visitou que pareceu ter saído de um cartão-postal?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats kändes som att kliva in i ett vykort?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце ви відвідали, що нагадувало листівку, яка ожила?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你去过的哪个地方感觉像走进了明信片里？" } }
+      }
+    },
+    "What's a travel souvenir you actually use?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Reisesouvenir benutzt du tatsächlich?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a travel souvenir you actually use?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué souvenir de viaje usas realmente?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel souvenir de voyage utilises-tu vraiment ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale souvenir di viaggio usi davvero?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "実際に使っている旅行のお土産は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "실제로 사용하는 여행 기념품은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken reisesouvenir bruker du faktisk?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk reissouvenir gebruik je daadwerkelijk?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką pamiątkę z podróży faktycznie używasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lembrança de viagem você realmente usa?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken resesouvenir använder du faktiskt?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який сувенір з подорожі ви справді використовуєте?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个旅行纪念品你实际会用到？" } }
+      }
+    },
+    "What's the biggest cultural shock you've experienced in your own country?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war der größte Kulturschock, den du in deinem eigenen Land erlebt hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the biggest cultural shock you've experienced in your own country?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál ha sido el mayor choque cultural que has experimentado en tu propio país?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel a été le plus grand choc culturel dans ton propre pays ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stato lo shock culturale più grande nel tuo stesso paese?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自国で経験した最大のカルチャーショックは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자국에서 경험한 가장 큰 문화적 충격은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var det største kultursjokket du har opplevd i ditt eget land?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was de grootste cultuurschok in je eigen land?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki był największy szok kulturowy, którego doświadczyłeś/aś we własnym kraju?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi o maior choque cultural que você viveu no seu próprio país?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den största kulturchocken du upplevt i ditt eget land?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найбільший культурний шок ви пережили у своїй країні?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在自己国家经历的最大文化冲击是什么？" } }
+      }
+    },
+    "What's a 'tourist trap' you think everyone should see once anyway?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Touristenfalle sollte deiner Meinung nach jeder einmal gesehen haben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'tourist trap' you think everyone should see once anyway?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué 'trampa para turistas' crees que todo el mundo debería ver al menos una vez?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel 'piège à touristes' tout le monde devrait voir au moins une fois selon toi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale 'trappola per turisti' pensi che tutti dovrebbero vedere almeno una volta?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "誰でも一度は見るべきだと思う「観光名所の罠」は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "한 번쯤은 모두 봐야 한다고 생각하는 '관광 함정'은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken 'turistfelle' synes du alle bør oppleve minst en gang?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke 'toeristenval' vind je dat iedereen toch minstens één keer moet zien?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Którą 'pułapkę turystyczną' każdy powinien zobaczyć chociaż raz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual 'armadilha de turista' você acha que todo mundo deveria ver pelo menos uma vez?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken 'turistfälla' tycker du alla borde se minst en gång?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку 'туристичну пастку', на вашу думку, кожен має побачити хоча б раз?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个「游客陷阱」你认为每个人都应该至少看一次？" } }
+      }
+    },
+    "Do you prefer a rigid itinerary or a loose list of possibilities?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bevorzugst du einen strikten Reiseplan oder eine lockere Liste von Möglichkeiten?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Do you prefer a rigid itinerary or a loose list of possibilities?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Prefieres un itinerario rígido o una lista flexible de posibilidades?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Préfères-tu un itinéraire rigide ou une liste souple de possibilités ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Preferisci un itinerario rigido o una lista flessibile di possibilità?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "厳密な旅程と緩やかな可能性のリスト、どちらが好きですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "빡빡한 일정과 느슨한 가능성 목록 중 무엇을 선호하나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Foretrekker du en stiv reiserute eller en løs liste over muligheter?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Heb je liever een strikt reisschema of een losse lijst met mogelijkheden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Wolisz sztywny plan podróży czy luźną listę możliwości?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Você prefere um itinerário rígido ou uma lista solta de possibilidades?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Föredrar du en strikt resplan eller en lös lista med möjligheter?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Ви надаєте перевагу жорсткому маршруту чи вільному списку можливостей?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你更喜欢严格的行程还是松散的可能性清单？" } }
+      }
+    },
+    "What's the best window seat view you've ever had on a plane?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die beste Aussicht vom Fensterplatz im Flugzeug?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best window seat view you've ever had on a plane?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la mejor vista desde el asiento de ventanilla que has tenido en un avión?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la plus belle vue depuis un hublot que tu aies eue ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la migliore vista dal finestrino che hai mai avuto su un aereo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "飛行機の窓側の席から見た最高の景色は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비행기에서 창가 좌석으로 본 최고의 뷰는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den beste utsikten fra vindussetet du har hatt på et fly?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste uitzicht vanuit een raamstoel dat je ooit in een vliegtuig had?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki był najlepszy widok z miejsca przy oknie w samolocie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual a melhor vista do assento na janela que você já teve em um avião?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den bästa fönsterplatsutsikten du haft på ett flygplan?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найкращий вид з місця біля вікна в літаку ви мали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在飞机靠窗座位上看过最好的景色是什么？" } }
+      }
+    },
+    "What's a dish you tried abroad that you've unsuccessfully tried to recreate at home?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Gericht hast du im Ausland probiert und zu Hause vergeblich nachzukochen versucht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a dish you tried abroad that you've unsuccessfully tried to recreate at home?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué plato probaste en el extranjero que has intentado recrear en casa sin éxito?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel plat as-tu goûté à l'étranger que tu as essayé en vain de refaire chez toi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale piatto hai provato all'estero che hai cercato di rifare a casa senza successo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "海外で試して、家で再現しようとしてうまくいかなかった料理は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "해외에서 먹어보고 집에서 재현하려 했지만 실패한 요리는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken rett prøvde du i utlandet som du mislykkes med å lage hjemme?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk gerecht proefde je in het buitenland dat je thuis niet succesvol kon namaken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką potrawę spróbowałeś/aś za granicą, której nie udało ci się odtworzyć w domu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual prato você experimentou no exterior e tentou recriar em casa sem sucesso?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken rätt provade du utomlands som du misslyckats med att återskapa hemma?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку страву ви скуштували за кордоном і безуспішно намагалися відтворити вдома?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在国外尝过哪道菜，回家后尝试复刻却失败了？" } }
+      }
+    },
+    "What's a place that exceeded your expectations so much it ruined other similar places?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Ort hat deine Erwartungen so sehr übertroffen, dass er andere ähnliche Orte für dich ruiniert hat?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place that exceeded your expectations so much it ruined other similar places?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar superó tanto tus expectativas que arruinó otros lugares similares?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit a tellement dépassé tes attentes qu'il a gâché d'autres lieux similaires ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto ha superato così tanto le tue aspettative da rovinare altri posti simili?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "期待をはるかに超え、他の似たような場所を台無しにしてしまった場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "기대를 너무 뛰어넘어 다른 비슷한 장소들을 망쳐버린 곳은 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted overgikk forventningene dine så mye at det ødela andre lignende steder?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek overtrof je verwachtingen zo erg dat het andere vergelijkbare plekken verpestte?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które miejsce tak bardzo przekroczyło twoje oczekiwania, że zepsuło inne podobne miejsca?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar superou tanto suas expectativas que estragou outros lugares semelhantes?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats överträffade dina förväntningar så mycket att den förstörde andra liknande platser?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце настільки перевершило ваші очікування, що зіпсувало інші подібні місця?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个地方远超你的预期，以至于毁了其他类似的地方？" } }
+      }
+    },
+    "What's the longest you've ever gone without speaking your native language?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie lange bist du schon ohne deine Muttersprache ausgekommen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the longest you've ever gone without speaking your native language?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuánto tiempo has estado sin hablar tu idioma nativo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la plus longue période sans parler ta langue natale ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il periodo più lungo senza parlare la tua lingua madre?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "母国語を話さずに過ごした最長期間はどのくらいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모국어를 하지 않고 지낸 가장 긴 기간은 언제인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvor lenge har du gått uten å snakke morsmålet ditt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe lang ben je ooit geweest zonder je moedertaal te spreken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak długo wytrzymałeś/aś bez mówienia w swoim ojczystym języku?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual o maior tempo que você ficou sem falar seu idioma nativo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur länge har du varit utan att prata ditt modersmål?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як довго ви найдовше не розмовляли своєю рідною мовою?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最长多久没有说母语？" } }
+      }
+    },
+    "What's a 'must-have' item in your travel bag that isn't a phone or charger?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Gegenstand in deiner Reisetasche ist ein Muss (außer Handy und Ladegerät)?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'must-have' item in your travel bag that isn't a phone or charger?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué artículo es imprescindible en tu bolso de viaje que no sea teléfono o cargador?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel objet 'indispensable' as-tu dans ton sac de voyage (hors téléphone et chargeur) ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale oggetto 'indispensabile' hai nella borsa da viaggio che non sia telefono o caricabatterie?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "電話や充電器以外で、旅行バッグに必須のアイテムは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "휴대폰이나 충전기가 아닌 여행 가방에 '필수'로 넣는 물건은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken 'must-have'-gjenstand har du i reisebaggen som ikke er telefon eller lader?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is een 'must-have' in je reistas dat geen telefoon of oplader is?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka rzecz w torbie podróżnej jest dla ciebie 'must-have' (oprócz telefonu i ładowarki)?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual item é 'obrigatório' na sua mala de viagem que não seja telefone ou carregador?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket 'måste-ha'-föremål har du i din resväska som inte är en telefon eller laddare?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка 'необхідна' річ у вашій дорожній сумці, окрім телефону чи зарядного пристрою?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你的旅行包里除了手机和充电器外，哪个是「必备」物品？" } }
+      }
+    },
+    "What's a city you're glad you visited before it became too famous?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Stadt hast du glücklicherweise besucht, bevor sie zu berühmt wurde?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a city you're glad you visited before it became too famous?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué ciudad te alegra haber visitado antes de que se volviera demasiado famosa?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle ville es-tu content d'avoir visitée avant qu'elle ne devienne trop célèbre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Di quale città sei contento di aver visitato prima che diventasse troppo famosa?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あまり有名になる前に訪れてよかったと思う都市はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "너무 유명해지기 전에 방문한 것이 다행인 도시는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken by er du glad for at du besøkte før den ble for berømt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke stad ben je blij dat je bezocht voordat het te beroemd werd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie miasto cieszysz się, że odwiedziłeś/aś, zanim stało się zbyt sławne?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual cidade você está feliz por ter visitado antes que se tornasse famosa demais?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken stad är du glad att du besökte innan den blev för berömd?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місто ви раді, що відвідали, перш ніж воно стало надто відомим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个城市你很庆幸在它变得太出名之前去过？" } }
+      }
+    },
+    "What's the most spontaneous travel decision you've ever made?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die spontanste Reiseentscheidung, die du je getroffen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most spontaneous travel decision you've ever made?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la decisión de viaje más espontánea que has tomado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la décision de voyage la plus spontanée que tu aies prise ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è stata la decisione di viaggio più spontanea che hai mai preso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番衝動的に決めた旅行の決断は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 즉흥적으로 내린 여행 결정은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest spontane reisebeslutningen du noen gang har tatt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de meest spontane reisbeslissing die je ooit hebt genomen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najbardziej spontaniczna decyzja podróżnicza, jaką podjąłeś/aś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a decisão de viagem mais espontânea que você já tomou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket är det mest spontana resebeslutet du någonsin tagit?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке найспонтанніше рішення щодо подорожі ви коли-небудь приймали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你做过最随性的旅行决定是什么？" } }
+      }
+    },
+    "What's a piece of advice for flying that you swear by?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Flugtipp befolgst du strikt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of advice for flying that you swear by?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué consejo para volar sigues a rajatabla?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel conseil pour voler suis-tu à la lettre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale consiglio per volare segui ciecamente?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "飛行機に乗る際に絶対に守っているアドバイスは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비행기에 관한 조언 중 반드시 따르는 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket flyråd sverger du til?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk vliegtip zweer je bij?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Której rady dotyczącej latania zawsze przestrzegasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual conselho sobre voar você segue à risca?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket råd om flygning svär du vid?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку пораду щодо польотів ви неухильно дотримуєтесь?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪条乘机建议你深信不疑？" } }
+      }
+    },
+    "What's a landscape that made you feel incredibly small?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Landschaft hat dich unglaublich klein fühlen lassen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a landscape that made you feel incredibly small?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué paisaje te hizo sentir increíblemente pequeño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel paysage t'a fait sentir incroyablement petit ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale paesaggio ti ha fatto sentire incredibilmente piccolo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分がとても小さく感じられる風景は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "엄청나게 작아진 기분이 들게 한 풍경은 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket landskap fikk deg til å føle deg utrolig liten?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk landschap deed je je ongelooflijk klein voelen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki krajobraz sprawił, że poczułeś/aś się niesamowicie mały?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual paisagem fez você se sentir incrivelmente pequeno?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket landskap fick dig att känna dig otroligt liten?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який пейзаж змусив вас почуватися неймовірно маленькими?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪片景色让你感到自己极其渺小？" } }
+      }
+    },
+    "What's a travel accessory that changed everything for you?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Reiseaccessoire hat für dich alles verändert?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a travel accessory that changed everything for you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué accesorio de viaje cambió todo para ti?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel accessoire de voyage a tout changé pour toi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale accessorio da viaggio ha cambiato tutto per te?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたの旅を変えた旅行アクセサリーは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 것을 바꿔놓은 여행 액세서리는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket reisetilbehør forandret alt for deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk reisaccessoire veranderde alles voor jou?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki gadżet podróżny zmienił dla ciebie wszystko?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual acessório de viagem mudou tudo para você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket resetillbehör förändrade allt för dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який дорожній аксесуар змінив для вас усе?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个旅行配件对你来说改变了一切？" } }
+      }
+    },
+    "What's a place you'd recommend to someone looking for solitude?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Ort würdest du jemandem empfehlen, der Ruhe sucht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place you'd recommend to someone looking for solitude?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar recomendarías a alguien que busca soledad?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit recommanderais-tu à quelqu'un en quête de solitude ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto consiglieresti a qualcuno che cerca solitudine?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "静けさを求める人におすすめの場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "고독을 찾는 사람에게 추천하고 싶은 장소는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted vil du anbefale til noen som søker ensomhet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek zou je aanraden aan iemand die op zoek is naar eenzaamheid?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie miejsce poleciłbyś komuś szukającemu samotności?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar você recomendaria para alguém que procura solidão?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats skulle du rekommendera till någon som söker ensamhet?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце ви б рекомендували тому, хто шукає спокою та самотності?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你会向寻求独处的人推荐哪个地方？" } }
+      }
+    },
+    "What's a local custom from somewhere you visited that you wish you could adopt?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen lokalen Brauch aus einer Reise wünschst du dir für zu Hause?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a local custom from somewhere you visited that you wish you could adopt?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué costumbre local de algún lugar que visitaste te gustaría adoptar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle coutume locale d'un endroit visité aimerais-tu adopter ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale usanza locale di un posto che hai visitato vorresti poter adottare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "訪れた場所の習慣で、自分も取り入れたいと思うものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "방문했던 곳의 현지 관습 중 채택하고 싶은 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken lokal skikk fra et sted du besøkte skulle du ønske du kunne adoptere?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke lokale gewoonte uit een bezochte plek zou je willen overnemen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Który lokalny zwyczaj z miejsca, które odwiedziłeś/aś, chciałbyś/chciałabyś przejąć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual costume local de algum lugar que você visitou gostaria de adotar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken lokal sed från en plats du besökt önskar du att du kunde anamma?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який місцевий звичай із місця, яке ви відвідали, ви хотіли б перейняти?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你去过的地方中，哪种当地习俗你希望能采用？" } }
+      }
+    },
+    "What's the worst thing that's ever happened to your luggage?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Schlimmste, das deinem Gepäck je passiert ist?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the worst thing that's ever happened to your luggage?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo peor que le ha pasado a tu equipaje?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la pire chose qui soit arrivée à tes bagages ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa peggiore che sia mai successa al tuo bagaglio?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "荷物に起きた最悪の出来事は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "짐에 일어난 최악의 상황은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det verste som har skjedd med bagasjen din?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het ergste dat er ooit met je bagage is gebeurd?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co najgorszego przydarzyło się twojemu bagażowi?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual a pior coisa que já aconteceu com sua bagagem?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det värsta som har hänt ditt bagage?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найгірше траплялося з вашим багажем?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你的行李发生过最糟糕的事情是什么？" } }
+      }
+    },
+    "What's a place that felt dangerous but turned out to be wonderful?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Ort fühlte sich gefährlich an, war aber wunderbar?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place that felt dangerous but turned out to be wonderful?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar parecía peligroso pero resultó ser maravilloso?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit semblait dangereux mais s'est avéré merveilleux ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto sembrava pericoloso ma si è rivelato meraviglioso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "危険に感じたけれど、実際は素晴らしかった場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "위험하게 느껴졌지만 실제로는 훌륭했던 장소는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted føltes farlig, men viste seg å være fantastisk?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek voelde gevaarlijk maar bleek geweldig?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie miejsce wydawało się niebezpieczne, ale okazało się wspaniałe?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar parecia perigoso, mas acabou sendo maravilhoso?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats kändes farlig men visade sig vara underbar?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце здавалося небезпечним, але виявилося чудовим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个地方起初感觉危险，结果却很棒？" } }
+      }
+    },
+    "What's the best thing you've ever eaten from a street vendor?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das Beste, was du je von einem Straßenhändler gegessen hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best thing you've ever eaten from a street vendor?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo mejor que has comido de un vendedor ambulante?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure chose que tu aies mangée chez un marchand de rue ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa migliore che tu abbia mai mangiato da un venditore ambulante?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ストリートベンダーで食べたもので一番美味しかったのは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "노점상에서 먹은 음식 중 가장 맛있었던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste du noen gang har spist fra en gateselger?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste dat je ooit van een straatverkoper hebt gegeten?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co było najlepszego, co jadłeś/aś od ulicznego sprzedawcy?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual a melhor coisa que você já comeu de um vendedor ambulante?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa du någonsin har ätit från en gatumarknad?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найсмачнішого ви коли-небудь їли у вуличного торговця?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你从街头小贩那里吃过最好吃的东西是什么？" } }
+      }
+    },
+    "What's a mode of transportation you enjoy just for the experience, not the speed?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Verkehrsmittel genießt du einfach wegen der Erfahrung, nicht der Geschwindigkeit?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a mode of transportation you enjoy just for the experience, not the speed?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué medio de transporte disfrutas solo por la experiencia, no por la velocidad?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel moyen de transport apprécies-tu pour l'expérience, pas la vitesse ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale mezzo di trasporto ti piace per l'esperienza, non per la velocità?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "スピードではなく、体験そのものを楽しめる交通手段は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "속도가 아니라 경험 자체를 즐기는 교통 수단은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket transportmiddel liker du bare for opplevelsen, ikke farten?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk vervoermiddel geniet je puur voor de ervaring, niet de snelheid?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki środek transportu lubisz tylko dla doświadczenia, a nie prędkości?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual meio de transporte você gosta pela experiência, não pela velocidade?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket transportmedel njuter du av för upplevelsen, inte hastigheten?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яким видом транспорту ви насолоджуєтеся заради досвіду, а не швидкості?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪种交通方式你只是为了体验而享受，而不是为了速度？" } }
+      }
+    },
+    "What's a piece of architecture that took your breath away?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Bauwerk hat dir den Atem geraubt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of architecture that took your breath away?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué obra arquitectónica te dejó sin aliento?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel bâtiment t'a coupé le souffle ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale opera architettonica ti ha tolto il fiato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "息をのむほど美しい建築物は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "숨이 막힐 정도로 아름다웠던 건축물은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket byggverk tok pusten fra deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk architectonisch stuk nam je adem weg?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Który budynek zaparł ci dech w piersiach?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual obra de arquitetura tirou seu fôlego?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken arkitektur tog andan ur dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка архітектурна споруда перехопила вам подих?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个建筑让你叹为观止？" } }
+      }
+    },
+    "What's a skill that becomes surprisingly important when you travel?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Fähigkeit wird auf Reisen überraschend wichtig?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a skill that becomes surprisingly important when you travel?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué habilidad se vuelve sorprendentemente importante cuando viajas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle compétence devient étonnamment importante en voyage ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale abilità diventa sorprendentemente importante quando viaggi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "旅行中に驚くほど重要になるスキルは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "여행할 때 놀랍도록 중요해지는 기술은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken ferdighet blir overraskende viktig når du reiser?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vaardigheid wordt verrassend belangrijk als je reist?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka umiejętność staje się zaskakująco ważna podczas podróży?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual habilidade se torna surpreendentemente importante ao viajar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken färdighet blir överraskande viktig när du reser?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка навичка стає напрочуд важливою під час подорожей?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪项技能在旅行时会变得出奇地重要？" } }
+      }
+    },
+    "What's a place you went to based on a movie or book, and was it worth it?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Ort hast du wegen eines Films oder Buchs besucht und war es das wert?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place you went to based on a movie or book, and was it worth it?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar visitaste basado en una película o libro, y valió la pena?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit as-tu visité à cause d'un film ou d'un livre, et cela en valait-il la peine ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto hai visitato ispirato da un film o libro, e ne è valsa la pena?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "映画や本がきっかけで行った場所はどこですか？行った価値はありましたか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "영화나 책을 보고 가게 된 장소는 어디이며, 갈 만한 가치가 있었나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted dro du til basert på en film eller bok, og var det verdt det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek bezocht je op basis van een film of boek, en was het de moeite waard?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie miejsce odwiedziłeś/aś przez film lub książkę i czy było warto?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar você visitou por causa de um filme ou livro, e valeu a pena?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats besökte du på grund av en film eller bok, och var det värt det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце ви відвідали на основі фільму чи книги, і чи варте воно того?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你因为哪部电影或书去了某个地方，值得吗？" } }
+      }
+    },
+    "What's a travel hack that most people don't know?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Reisehack kennen die meisten Menschen nicht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a travel hack that most people don't know?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué truco de viaje la mayoría de la gente no conoce?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel astuce de voyage la plupart des gens ne connaissent-ils pas ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale trucco da viaggio la maggior parte delle persone non conosce?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ほとんどの人が知らない旅行の裏技は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "대부분의 사람들이 모르는 여행 꿀팁은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket reisetriks kjenner ikke de fleste til?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke reistruc kennen de meeste mensen niet?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki trik podróżniczy nie jest znany większości ludzi?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual truque de viagem a maioria das pessoas não conhece?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket resetips känner de flesta inte till?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який туристичний лайфхак більшість людей не знає?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个旅行妙招是大多数人都不知道的？" } }
+      }
+    },
+    "What's a place you'd never go back to, but are glad you saw?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Ort würdest du nie wieder besuchen, bist aber froh, ihn gesehen zu haben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place you'd never go back to, but are glad you saw?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar no volverías a visitar, pero te alegra haber visto?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit ne voudrais-tu plus revoir, mais es-tu content de l'avoir vu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto non rivisiteresti mai, ma sei contento di aver visto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "二度と行きたくないけど、見られてよかったと思う場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다시는 가고 싶지 않지만, 그래도 봐서 다행인 장소는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted vil du aldri dra tilbake til, men er glad for at du så?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek zou je nooit meer teruggaan, maar ben je blij dat je hebt gezien?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie miejsce, do którego już nigdy nie wrócisz, cieszysz się, że zobaczyłeś/aś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar você não voltaria, mas está feliz por ter visto?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats skulle du aldrig återvända till, men är glad att du såg?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце ви більше ніколи не відвідаєте, але раді, що побачили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个地方你永远不会再去，但又庆幸自己看过？" } }
+      }
+    },
+    "What's the most interesting tour you've ever taken?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war die interessanteste Tour, die du je gemacht hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most interesting tour you've ever taken?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la excursión más interesante que has hecho?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la visite la plus intéressante que tu aies faite ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il tour più interessante che tu abbia mai fatto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番面白かったツアーは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 흥미로웠던 투어는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest interessante omvisningen du noen gang har tatt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de meest interessante tour die je ooit hebt gedaan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najciekawsza wycieczka z przewodnikiem, na jakiej byłeś/aś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual o tour mais interessante que você já fez?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den mest intressanta rundturen du någonsin gjort?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найцікавіший тур ви коли-небудь брали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你参加过的最有意思的旅行团是哪个？" } }
+      }
+    },
+    "What's a geographic feature (waterfall, canyon, glacier) that seemed unreal?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches geografische Merkmal (Wasserfall, Canyon, Gletscher) wirkte unwirklich?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a geographic feature (waterfall, canyon, glacier) that seemed unreal?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué accidente geográfico (cascada, cañón, glaciar) parecía irreal?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel élément géographique (cascade, canyon, glacier) semblait irréel ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale caratteristica geografica (cascata, canyon, ghiacciaio) sembrava irreale?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "現実とは思えなかった地理的特徴（滝、峡谷、氷河）は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비현실적으로 느껴졌던 지형적 특징(폭포, 협곡, 빙하)은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket geografisk trekk (foss, canyon, isbre) virket ureelt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk geografisch kenmerk (waterval, kloof, gletsjer) leek onwerkelijk?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Która cecha geograficzna (wodospad, kanion, lodowiec) wydawała się nierealna?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual característica geográfica (cachoeira, cânion, geleira) parecia irreal?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket geografiskt drag (vattenfall, kanjon, glaciär) verkade overkligt?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка географічна особливість (водоспад, каньйон, льодовик) здавалася нереальною?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个地理特征（瀑布、峡谷、冰川）看起来不真实？" } }
+      }
+    },
+    "What's a thing you do to feel more like a local when you travel?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was tust du, um dich auf Reisen mehr wie ein Einheimischer zu fühlen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you do to feel more like a local when you travel?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué haces para sentirte más como un local cuando viajas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Que fais-tu pour te sentir plus comme un local en voyage ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa fai per sentirti più come un locale quando viaggi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "旅行中に現地の人により近づくためにしていることは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "여행할 때 현지인처럼 느껴지기 위해 하는 일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva gjør du for å føle deg mer som en lokal når du reiser?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat doe je om je meer als een local te voelen tijdens het reizen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co robisz, aby poczuć się bardziej jak miejscowy podczas podróży?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você faz para se sentir mais como um local ao viajar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad gör du för att känna dig mer som en lokal när du reser?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ви робите, щоб почуватися більш місцевим під час подорожей?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "旅行时你会做什么来让自己感觉更像当地人？" } }
+      }
+    },
+    "What's a place that was physically difficult to reach, but worth it?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Ort war körperlich schwer zu erreichen, aber die Mühe wert?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place that was physically difficult to reach, but worth it?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar fue físicamente difícil de alcanzar, pero valió la pena?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit était physiquement difficile à atteindre, mais en valait la peine ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto era fisicamente difficile da raggiungere, ma ne valeva la pena?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "体力的に到達するのが難しかったけど、行く価値があった場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "도달하기 physically 어려웠지만, 그만한 가치가 있었던 장소는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted var fysisk vanskelig å nå, men verdt det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek was fysiek moeilijk te bereiken, maar de moeite waard?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które miejsce było fizycznie trudno dostępne, ale warte wysiłku?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar foi fisicamente difícil de alcançar, mas valeu a pena?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats var fysiskt svår att nå, men värt det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце було фізично важкодоступним, але вартим того?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个地方身体上难以到达，但很值得？" } }
+      }
+    },
+    "What's a travel memory that makes you laugh now, but didn't then?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "An welche Reiseerinnerung lachst du heute, aber damals nicht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a travel memory that makes you laugh now, but didn't then?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué recuerdo de viaje te hace reír ahora, pero no entonces?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel souvenir de voyage te fait rire aujourd'hui, mais pas à l'époque ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale ricordo di viaggio ti fa ridere ora, ma non allora?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今では笑えるけど、当時は笑えなかった旅行の思い出は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "지금은 웃음이 나지만 당시에는 그렇지 않았던 여행 추억은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket reiseminner får deg til å le nå, men ikke den gangen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke reisherinnering doet je nu lachen, maar toen niet?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które wspomnienie z podróży teraz wywołuje uśmiech, ale wtedy nie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual memória de viagem te faz rir agora, mas não na época?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket reseminne får dig att skratta nu, men inte då?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка подорожня спогада викликає у вас сміх зараз, але не тоді?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个旅行回忆现在让你发笑，但当时却没有？" } }
+      }
+    },
+    "What's a country's flag that you think is particularly beautiful?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Flagge eines Landes findest du besonders schön?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a country's flag that you think is particularly beautiful?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué bandera de un país crees que es particularmente hermosa?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel drapeau trouves-tu particulièrement beau ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale bandiera di un paese pensi sia particolarmente bella?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "特に美しいと思う国の旗はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "특히 아름답다고 생각하는 나라의 국기는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket lands flagg synes du er spesielt vakkert?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vlag van een land vind je bijzonder mooi?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Która flaga państwowa jest według ciebie szczególnie piękna?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual bandeira de país você acha particularmente bonita?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket lands flagga tycker du är särskilt vacker?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Прапор якої країни, на вашу думку, особливо красивий?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你觉得哪个国家的国旗特别漂亮？" } }
+      }
+    },
+    "What's a material possession you've lost while traveling that you still miss?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen materiellen Besitz hast du auf Reisen verloren und vermisst immer noch?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a material possession you've lost while traveling that you still miss?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué posesión material perdiste mientras viajabas que todavía extrañas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel bien matériel as-tu perdu en voyage et qui te manque encore ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale bene materiale hai perso durante un viaggio che ti manca ancora?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "旅行中に失くして、今でも惜しいと思う持ち物は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "여행 중 잃어버려서 아직도 아쉬운 물건은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken eiendel mistet du på reise som du fortsatt savner?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk bezit ben je kwijtgeraakt tijdens het reizen en mis je nog steeds?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką rzecz zgubiłeś/aś podczas podróży, za którą wciąż tęsknisz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual bem material você perdeu viajando e ainda sente falta?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken materiell ägodel förlorade du på resa som du fortfarande saknar?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку матеріальну річ ви втратили під час подорожі і досі шкодуєте?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在旅行中丢失的哪件物品至今仍让你感到遗憾？" } }
+      }
+    },
+    "What's a type of weather you love experiencing in a new place?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Wetterart liebst du an einem neuen Ort zu erleben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a type of weather you love experiencing in a new place?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué tipo de clima te encanta experimentar en un lugar nuevo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel type de météo aimes-tu vivre dans un nouvel endroit ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale tipo di tempo ami sperimentare in un nuovo posto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "新しい場所で体験するのが好きな天気のタイプは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "새로운 장소에서 경험하고 싶은 날씨 유형은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva slags vær elsker du å oppleve på et nytt sted?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk soort weer ervaar je graag op een nieuwe plek?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką pogodę uwielbiasz doświadczać w nowym miejscu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que tipo de clima você adora experimentar em um lugar novo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken typ av väder älskar du att uppleva på en ny plats?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку погоду ви любите відчувати в новому місці?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最爱在新地方体验哪种天气？" } }
+      }
+    },
+    "What's a museum that completely changed your perspective on something?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Museum hat deine Sicht auf etwas völlig verändert?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a museum that completely changed your perspective on something?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué museo cambió por completo tu perspectiva sobre algo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel musée a complètement changé ton point de vue sur quelque chose ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale museo ha completamente cambiato la tua prospettiva su qualcosa?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "何かに対する視点を完全に変えた博物館はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "무언가에 대한 관점을 완전히 바꿔놓은 박물관은 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket museum endret fullstendig perspektivet ditt på noe?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk museum veranderde je kijk op iets volledig?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które muzeum całkowicie zmieniło twoje spojrzenie na coś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual museu mudou completamente sua perspectiva sobre algo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket museum förändrade ditt perspektiv på något helt?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який музей повністю змінив ваше ставлення до чогось?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个博物馆完全改变了你对某件事的看法？" } }
+      }
+    },
+    "What's a 'rest day' look like for you on a vacation?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie sieht für dich ein 'Ruhetag' im Urlaub aus?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'rest day' look like for you on a vacation?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo es un 'día de descanso' para ti en vacaciones?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "À quoi ressemble un 'jour de repos' pour toi en vacances ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Com'è per te un 'giorno di riposo' in vacanza?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "休暇中の「休息日」とはどのようなものですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "휴가 중 '휴식일'은 어떤 모습인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvordan ser en 'hviledag' ut for deg på ferie?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe ziet een 'rustdag' er voor jou uit op vakantie?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak wygląda dla ciebie 'dzień odpoczynku' na wakacjach?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Como é um 'dia de descanso' para você nas férias?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur ser en 'vilodag' ut för dig på semester?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як виглядає для вас 'день відпочинку' у відпустці?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "对你来说，度假中的「休息日」是什么样的？" } }
+      }
+    },
+    "What's a place that felt timeless?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Ort fühlte sich zeitlos an?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place that felt timeless?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar te pareció atemporal?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit semblait intemporel ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto sembrava senza tempo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "時代を超越したように感じられた場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시간을 초월한 느낌이 들었던 장소는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted føltes tidløst?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek voelde tijdloos?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które miejsce wydawało się ponadczasowe?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar parecia atemporal?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats kändes tidlös?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце здавалося поза часом?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个地方让你感到永恒？" } }
+      }
+    },
+    "What's the most interesting airport you've ever been in?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war der interessanteste Flughafen, in dem du je warst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most interesting airport you've ever been in?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el aeropuerto más interesante en el que has estado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est l'aéroport le plus intéressant où tu sois allé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è l'aeroporto più interessante in cui sei mai stato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番面白かった空港はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 흥미로웠던 공항은 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest interessante flyplassen du noen gang har vært på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de meest interessante luchthaven waar je ooit bent geweest?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które lotnisko było dla ciebie najbardziej interesujące?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual o aeroporto mais interessante em que você já esteve?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den mest intressanta flygplatsen du någonsin varit på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найцікавіший аеропорт, де ви коли-небудь були?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你去过的最有趣的机场是哪个？" } }
+      }
+    },
+    "What's a historical site you visited that felt incredibly present?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche historische Stätte, die du besucht hast, fühlte sich unglaublich gegenwärtig an?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a historical site you visited that felt incredibly present?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué sitio histórico que visitaste se sintió increíblemente presente?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel site historique as-tu visité qui semblait incroyablement présent ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale sito storico che hai visitato sembrava incredibilmente presente?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "訪れた史跡で、非常に生々しく感じられたものはどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "방문한 역사적 장소 중 놀랍도록 생생하게 느껴졌던 곳은 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket historisk sted du besøkte føltes utrolig nærværende?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke historische plek die je bezocht voelde ongelooflijk aanwezig?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które miejsce historyczne, które odwiedziłeś/aś, wydawało się niesamowicie obecne?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual site histórico que você visitou parecia incrivelmente presente?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken historisk plats du besökte kändes otroligt närvarande?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке історичне місце, яке ви відвідали, здавалося неймовірно живим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你参观过的哪个历史遗迹感觉极其身临其境？" } }
+      }
+    },
+    "What's the best conversation you've had with a taxi or rideshare driver?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das beste Gespräch, das du mit einem Taxi- oder Fahrdienstfahrer hattest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best conversation you've had with a taxi or rideshare driver?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la mejor conversación que has tenido con un taxista o conductor de viaje compartido?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure conversation que tu aies eue avec un chauffeur de taxi ou VTC ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la migliore conversazione che hai avuto con un tassista o autista di ridesharing?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "タクシーやライドシェアの運転手とした最高の会話は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "택시나 라이드셰어 기사와 나눈 최고의 대화는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den beste samtalen du har hatt med en drosje- eller samkjøringssjåfør?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste gesprek dat je hebt gehad met een taxi- of ritdeelchauffeur?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka była najlepsza rozmowa z taksówkarzem lub kierowcą Ubera?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual a melhor conversa que você já teve com um motorista de táxi ou aplicativo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den bästa konversationen du haft med en taxi- eller samåkningsförare?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка найкраща розмова у вас була з таксистом або водієм каршерингу?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你和出租车或网约车司机最好的对话是什么？" } }
+      }
+    },
+    "What's a place you felt instantly comfortable in, for no clear reason?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "An welchem Ort hast du dich ohne ersichtlichen Grund sofort wohlgefühlt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place you felt instantly comfortable in, for no clear reason?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿En qué lugar te sentiste instantáneamente cómodo, sin una razón clara?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Dans quel endroit t'es-tu senti instantanément à l'aise, sans raison claire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In quale posto ti sei sentito subito a tuo agio, senza una chiara ragione?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "明確な理由もなく、すぐに居心地が良くなった場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "뚜렷한 이유 없이 즉시 편안함을 느꼈던 장소는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted følte du deg umiddelbart komfortabel i, uten noen klar grunn?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke plek voelde je je meteen op je gemak, zonder duidelijke reden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W którym miejscu od razu poczułeś/aś się komfortowo bez wyraźnego powodu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Em qual lugar você se sentiu instantaneamente confortável, sem motivo claro?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats kändes du genast bekväm i, utan tydlig anledning?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "У якому місці ви миттєво відчули комфорт без очевидної причини?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个地方让你莫名地瞬间感到舒适？" } }
+      }
+    },
+    "What's a souvenir you regret not buying?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Souvenir bereust du nicht gekauft zu haben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a souvenir you regret not buying?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué souvenir lamentas no haber comprado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel souvenir regrettes-tu de ne pas avoir acheté ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale souvenir rimpiangi di non aver comprato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "買わなかったことを後悔しているお土産は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사지 않은 것을 후회하는 기념품은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken souvenir angrer du på at du ikke kjøpte?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk souvenir heb je spijt dat je niet hebt gekocht?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej pamiątki żałujesz, że nie kupiłeś/aś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lembrança você se arrepende de não ter comprado?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken souvenir ångrar du att du inte köpte?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який сувенір ви шкодуєте, що не купили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个纪念品你后悔没有买？" } }
+      }
+    },
+    "What's a travel-related fear you've overcome?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche reisebezogene Angst hast du überwunden?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a travel-related fear you've overcome?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué miedo relacionado con los viajes has superado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle peur liée aux voyages as-tu surmontée ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale paura legata ai viaggi hai superato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "克服した旅行関連の恐怖は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "극복한 여행 관련 두려움은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken reiserelatert frykt har du overvunnet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke reisgerelateerde angst heb je overwonnen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki lęk związany z podróżami pokonałeś/aś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual medo relacionado a viagens você superou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken reserelaterad rädsla har du övervunnit?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який страх, пов'язаний з подорожами, ви подолали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你克服了哪种与旅行相关的恐惧？" } }
+      }
+    },
+    "What's a thing you pack too much of every single time?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was packst du jedes Mal zu viel ein?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a thing you pack too much of every single time?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa empacas de más cada vez?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chose emportes-tu trop à chaque fois ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa metti sempre troppo nello zaino ogni volta?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "毎回詰め込みすぎてしまうものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "매번 너무 많이 싸는 물건은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva pakker du for mye av hver eneste gang?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat pak je elke keer te veel in?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co pakujesz za każdym razem za dużo?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você sempre leva demais toda vez?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad packar du för mycket av varje gång?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ви щоразу пакуєте занадто багато?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你每次都会打包过多的东西是什么？" } }
+      }
+    },
+    "What's a destination that's better in the off-season?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Reiseziel ist in der Nebensaison besser?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a destination that's better in the off-season?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué destino es mejor en temporada baja?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle destination est meilleure hors saison ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale destinazione è migliore in bassa stagione?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "オフシーズンの方が良い旅行先はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비수기에 더 좋은 여행지는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken destinasjon er bedre i lavsesongen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke bestemming is beter in het laagseizoen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Który kierunek jest lepszy poza sezonem?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual destino é melhor na baixa temporada?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken destination är bättre under lågsäsong?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце призначення краще в міжсезоння?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个目的地淡季去更好？" } }
+      }
+    },
+    "What's a local festival or celebration you'd love to experience?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches lokale Fest oder welche Feier würdest du gerne erleben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a local festival or celebration you'd love to experience?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué festival o celebración local te encantaría experimentar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle fête ou célébration locale aimerais-tu vivre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale festival o celebrazione locale ti piacerebbe vivere?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "体験してみたい地元の祭りや祝賀行事は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "경험해보고 싶은 지역 축제나 기념일은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken lokal festival eller feiring vil du gjerne oppleve?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk lokaal festival of viering zou je graag meemaken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie lokalne święto lub uroczystość chciałbyś/chciałabyś przeżyć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual festival ou celebração local você adoraria vivenciar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken lokal festival eller firande skulle du älska att uppleva?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місцеве свято чи урочистість ви хотіли б пережити?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你渴望体验哪个当地节日或庆典？" } }
+      }
+    },
+    "What's a smell that always reminds you of a specific trip?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Geruch erinnert dich immer an eine bestimmte Reise?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a smell that always reminds you of a specific trip?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué olor te recuerda siempre a un viaje específico?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle odeur te rappelle toujours un voyage spécifique ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale odore ti ricorda sempre un viaggio specifico?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "特定の旅行をいつも思い出させる匂いは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "특정 여행을 항상 떠오르게 하는 냄새는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken lukt minner deg alltid om en bestemt tur?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke geur herinnert je altijd aan een specifieke reis?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki zapach zawsze przypomina ci konkretną podróż?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual cheiro sempre te lembra uma viagem específica?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken lukt påminner dig alltid om en specifik resa?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який запах завжди нагадує вам про певну подорож?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪种气味总会让你想起某次特定的旅行？" } }
+      }
+    },
+    "What's a place you could happily spend a whole month doing nothing?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "An welchem Ort könntest du glücklich einen ganzen Monat nichts tun?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place you could happily spend a whole month doing nothing?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿En qué lugar podrías pasar felizmente un mes entero sin hacer nada?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Dans quel endroit pourrais-tu passer joyeusement un mois entier à ne rien faire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In quale posto potresti passare felicemente un mese intero senza fare nulla?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "何もせずに丸一ヶ月を幸せに過ごせる場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "한 달 내내 아무것도 하지 않고 행복하게 보낼 수 있는 장소는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted kunne du glad tilbrakt en hel måned med å gjøre ingenting?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke plek zou je gelukkig een hele maand niets doen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W którym miejscu mógłbyś/mogłabyś szczęśliwie spędzić cały miesiąc nic nie robiąc?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Em qual lugar você poderia passar feliz um mês inteiro sem fazer nada?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats skulle du kunna tillbringa en hel månad lyckligt med att göra ingenting?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "У якому місці ви могли б щасливо провести цілий місяць, нічого не роблячи?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个地方你可以开心地待上整整一个月什么都不做？" } }
+      }
+    },
+    "What's the most 'touristy' thing you've ever done that you absolutely loved?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das 'touristenhafteste', was du je gemacht hast und absolut geliebt hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the most 'touristy' thing you've ever done that you absolutely loved?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más 'turístico' que has hecho y que te ha encantado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus 'touristique' que tu aies faite et que tu as adorée ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più 'da turista' che hai mai fatto e che hai assolutamente amato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番「観光的」なことで、絶対に大好きだったことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 '관광객 같은' 일 중에서 정말로 좋았던 것은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det mest 'turistiske' du noen gang har gjort som du elsket?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest 'toeristische' dat je ooit hebt gedaan en waar je absoluut van hield?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co najbardziej 'turystycznego' zrobiłeś/aś i absolutnie pokochałeś/aś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual a coisa mais 'turística' que você já fez e amou totalmente?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det mest 'turistiga' du någonsin gjort som du absolut älskade?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найбільш 'туристичне' ви коли-небудь робили і що вам абсолютно сподобалося?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你做过的最「游客」但又特别喜欢的事情是什么？" } }
+      }
+    },
+    "What's a travel goal that has nothing to do with seeing a landmark?" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Reiseziel hat nichts mit dem Besuch eines Wahrzeichens zu tun?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a travel goal that has nothing to do with seeing a landmark?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué objetivo de viaje no tiene nada que ver con ver un monumento?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel objectif de voyage n'a rien à voir avec la visite d'un monument ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale obiettivo di viaggio non ha nulla a che fare con la visita di un monumento?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ランドマークを見ることとは無関係な旅行の目標は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "랜드마크를 보는 것과 관련 없는 여행 목표는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket reisemål har ingenting med å se et landemerke å gjøre?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is een reisdoel dat niets te maken heeft met het zien van een bezienswaardigheid?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki cel podróży nie ma nic wspólnego z oglądaniem zabytku?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual objetivo de viagem não tem nada a ver com ver um ponto turístico?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket resmål har ingenting med att se ett landmärke att göra?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка подорожня мета не пов'язана з відвідуванням пам'ятки?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个旅行目标与看地标无关？" } }
       }
     },
     "What is the funniest thing you’ve ever seen a child do?": {
