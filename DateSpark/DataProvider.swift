@@ -7,7 +7,7 @@ struct DataProvider: Sendable {
     
     var allQuestions: [Question] {
         [
-            // MARK: Ice Breakers (100)
+            // MARK: Ice Breakers (100) I
             Question(text: "What's a skill you're secretly proud of?", category: .iceBreakers, depth: .light),
             Question(text: "If your life had a theme song, what would it be?", category: .iceBreakers, depth: .light),
             Question(text: "What's the most unusual thing in your home right now?", category: .iceBreakers, depth: .light),
@@ -109,7 +109,7 @@ struct DataProvider: Sendable {
             Question(text: "What is the last book you read?", category: .iceBreakers, depth: .light),
             Question(text: "What is your favorite thing to do on a Saturday night?", category: .iceBreakers, depth: .light),
             
-            // MARK: Dreams & Goals (100)
+            // MARK: Dreams & Goals (100) II
             Question(text: "What's one thing you want to accomplish in the next five years?", category: .dreams, depth: .medium),
             Question(text: "If money were no object, how would you spend your days?", category: .dreams, depth: .medium),
             Question(text: "What's a dream you've held onto since childhood?", category: .dreams, depth: .medium),
@@ -211,7 +211,7 @@ struct DataProvider: Sendable {
             Question(text: "What is a major life milestone you’re looking forward to?", category: .dreams, depth: .medium),
             Question(text: "What is one dream you hope we can achieve together?", category: .dreams, depth: .deep),
             
-            // MARK: Childhood (100)
+            // MARK: Childhood (100) III
             Question(text: "What's your favourite memory from childhood?", category: .childhood, depth: .light),
             Question(text: "What did you want to be when you grew up?", category: .childhood, depth: .light),
             Question(text: "Did you have a best friend growing up? What were they like?", category: .childhood, depth: .medium),
@@ -313,7 +313,7 @@ struct DataProvider: Sendable {
             Question(text: "If you could go back and tell your 10-year-old self one thing, what?", category: .childhood, depth: .deep),
             Question(text: "What’s one thing you miss about being a child?", category: .childhood, depth: .medium),
             
-            // MARK: Deep Thoughts (100)
+            // MARK: Deep Thoughts (100) IV
             Question(text: "What's something you believe that most people disagree with?", category: .deepThoughts, depth: .deep),
             Question(text: "How do you define happiness?", category: .deepThoughts, depth: .deep),
             Question(text: "What's a moment that fundamentally changed your worldview?", category: .deepThoughts, depth: .deep),
@@ -415,7 +415,7 @@ struct DataProvider: Sendable {
             Question(text: "What is something you’re eternally grateful for?", category: .deepThoughts, depth: .deep),
             Question(text: "What is the most 'human' thing you can think of?", category: .deepThoughts, depth: .deep),
             
-            // MARK: Fun & Silly (100)
+            // MARK: Fun & Silly (100) V
             Question(text: "What's the weirdest food combination you secretly enjoy?", category: .funAndSilly, depth: .light),
             Question(text: "If you were a cartoon character, who would you be?", category: .funAndSilly, depth: .light),
             Question(text: "What's your most embarrassing moment you can laugh about now?", category: .funAndSilly, depth: .light),
@@ -517,7 +517,7 @@ struct DataProvider: Sendable {
             Question(text: "What is the most absurd rumor you’ve ever heard about yourself?", category: .funAndSilly, depth: .light),
             Question(text: "If you were a dessert, which one would you be?", category: .funAndSilly, depth: .light),
             
-            // MARK: Travel (100)
+            // MARK: Travel (100) VI
             Question(text: "What's the most beautiful place you've ever been?", category: .travel, depth: .light),
             Question(text: "Do you prefer planned trips or spontaneous adventures?", category: .travel, depth: .light),
             Question(text: "What's a place on your bucket list and why?", category: .travel, depth: .medium),
@@ -619,7 +619,7 @@ struct DataProvider: Sendable {
             Question(text: "What is the next country on your list?", category: .travel, depth: .light),
             Question(text: "What is the first thing you want to do when we land in a new place?", category: .travel, depth: .light),
             
-            // MARK: Love & Life (100)
+            // MARK: Love & Life (100) VII
             Question(text: "What does a healthy relationship look like to you?", category: .loveAndLife, depth: .deep),
             Question(text: "What's something small that makes your day significantly better?", category: .loveAndLife, depth: .light),
             Question(text: "How do you show someone you care about them?", category: .loveAndLife, depth: .medium),
@@ -721,7 +721,7 @@ struct DataProvider: Sendable {
             Question(text: "What is the most 'special' thing we have in common?", category: .loveAndLife, depth: .medium),
             Question(text: "What is one thing you want to make sure we never stop doing?", category: .loveAndLife, depth: .deep),
             
-            // MARK: Hypothetical (100)
+            // MARK: Hypothetical (100) VIII
             Question(text: "If you could have dinner with anyone, living or dead, who would it be?", category: .hypothetical, depth: .light),
             Question(text: "If you woke up as the opposite gender for a day, what's the first thing you'd do?", category: .hypothetical, depth: .light),
             Question(text: "If you could erase one memory, would you?", category: .hypothetical, depth: .deep),
@@ -823,7 +823,7 @@ struct DataProvider: Sendable {
             Question(text: "If you could know the truth about any conspiracy theory, which one?", category: .hypothetical, depth: .medium),
             Question(text: "If you could be anyone for a day, who would you choose?", category: .hypothetical, depth: .medium),
             
-            // MARK: Spicy (100)
+            // MARK: Spicy (165) IX
             Question(text: "What was the very first thing you noticed about me?", category: .spicy, depth: .light),
             Question(text: "What’s your favorite way to be touched?", category: .spicy, depth: .medium),
             Question(text: "Do you believe in 'chemistry' at first sight, or does it grow?", category: .spicy, depth: .light),
@@ -924,6 +924,82 @@ struct DataProvider: Sendable {
             Question(text: "What is the most 'passionate' moment we’ve shared?", category: .spicy, depth: .deep),
             Question(text: "What is your favorite thing to do when we are alone?", category: .spicy, depth: .medium),
             Question(text: "What is the most 'meaningful' touch we share?", category: .spicy, depth: .deep),
+            Question(text: "If we were in a hotel and knew the walls were thin, would that make you quieter or louder?", category: .spicy, depth: .deep),
+            Question(text: "Do you prefer to be looked in the eyes or for your partner to be 'focused' while they’re going down on you?", category: .spicy, depth: .deep),
+            Question(text: "What’s something you’ve always wanted to try but were too shy to ask?", category: .spicy, depth: .deep),
+            Question(text: "Do you enjoy the feeling of being face-f*cked, or do you prefer to stay in total control of the rhythm and depth?", category: .spicy, depth: .deep),
+            Question(text: "Is there a specific 'extra' element—like music, videos, or toys—that you think would enhance our intimacy?", category: .spicy, depth: .medium),
+            Question(text: "If we were in a semi-public place, like a dark cinema or a park, what’s the furthest you’d want to go?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about being woken up by me touching you or going down on you?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about watching yourself or me in a mirror while we’re making love?", category: .spicy, depth: .medium),
+            Question(text: "Have you ever fantasized about trying anal, or is it something you’ve already decided you love (or hate)?", category: .spicy, depth: .deep),
+            Question(text: "When it comes to anal play, do you prefer to take it slow and be in total control, or do you like the intensity of being taken?", category: .spicy, depth: .deep),
+            Question(text: "Have you ever tried ice or wax play, or is that something you'd be open to exploring?", category: .spicy, depth: .medium),
+            Question(text: "What’s your favorite thing to do with me when we’re both naked and slippery in the shower?", category: .spicy, depth: .deep),
+            Question(text: "What’s the one thing I could do to make you lose your mind instantly?", category: .spicy, depth: .deep),
+            Question(text: "If I were to walk in on you in the shower right now, what’s the first thing you’d want me to do to you?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite way to be touched?", category: .spicy, depth: .medium),
+            Question(text: "When we’re in 69, do you find it easy to focus on your own pleasure, or does giving me pleasure take over your mind?", category: .spicy, depth: .deep),
+            Question(text: "What is your biggest turn-on in a person’s personality?", category: .spicy, depth: .medium),
+            Question(text: "What’s the most adventurous place you’ve ever been intimate?", category: .spicy, depth: .deep),
+            Question(text: "What’s a secret fantasy you’ve never told anyone?", category: .spicy, depth: .deep),
+            Question(text: "Do you prefer to be the one taking charge or being taken care of?", category: .spicy, depth: .medium),
+            Question(text: "What’s the best compliment you’ve ever received in the bedroom?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite part of my body?", category: .spicy, depth: .light),
+            Question(text: "How do you feel about face-sitting? Do you prefer to be the one taking control from above or the one being completely smothered below?", category: .spicy, depth: .deep),
+            Question(text: "What’s your 'guilty pleasure' when it comes to romance?", category: .spicy, depth: .medium),
+            Question(text: "If we were alone right now, what would we be doing?", category: .spicy, depth: .deep),
+            Question(text: "What’s the most scandalous thing you’ve ever done?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite time of day for intimacy?", category: .spicy, depth: .medium),
+            Question(text: "What’s the best kiss you’ve ever had like?", category: .spicy, depth: .medium),
+            Question(text: "What’s your favorite place to be kissed?", category: .spicy, depth: .medium),
+            Question(text: "How many dates does it usually take for you to feel comfortable being intimate?", category: .spicy, depth: .medium),
+            Question(text: "If you could change one thing about our date so far to make it more 'spicy,' what would it be?", category: .spicy, depth: .deep),
+            Question(text: "What’s your favorite way to wake up with a partner?", category: .spicy, depth: .medium),
+            Question(text: "What’s the most revealing thing you’re willing to tell me right now?", category: .spicy, depth: .deep),
+            Question(text: "What part of your body is the most sensitive?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about eye contact during intimate moments?", category: .spicy, depth: .medium),
+
+            Question(text: "When it comes to deepthroating, do you prefer to push your limits or stay in a comfortable zone where you can breathe easily?", category: .spicy, depth: .deep),
+            Question(text: "Would you rather I tell you exactly what I’m going to do to you, or be completely surprised by every move I make?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about having your hair pulled during doggy style — is it a turn-on or a hard limit?", category: .spicy, depth: .deep),
+            Question(text: "If I wanted to finish on your face or chest, would that make you feel dirty in a good way or just dirty?", category: .spicy, depth: .deep),
+            Question(text: "When giving oral, do you get more turned on by the taste and smell, or by the sounds I make?", category: .spicy, depth: .deep),
+
+
+            Question(text: "How would you react if I whispered in your ear that I want to f*ck your throat later — would that excite you or scare you?", category: .spicy, depth: .deep),
+            Question(text: "Do you prefer anal to be slow and sensual, or fast and raw with lots of lube and dirty talk?", category: .spicy, depth: .deep),
+            Question(text: "Would you let me tie your wrists to the bed while I go down on you, so you can’t touch me until I say so?", category: .spicy, depth: .deep),
+            Question(text: "When you're on top riding me, do you like to lean forward and make out, or sit up so I can watch your body move?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about being spanked hard enough to leave red marks — is that intimacy or punishment to you?", category: .spicy, depth: .deep),
+
+
+            Question(text: "If I wanted to use a blindfold on you and tease you for 20 minutes without penetration, would that be torture or paradise?", category: .spicy, depth: .deep),
+            Question(text: "Do you prefer to swallow or have me pull out and finish somewhere else on your body?", category: .spicy, depth: .deep),
+            Question(text: "Would you be into me talking you through anal — telling you exactly when to push back and when to stay still?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about my thumb pressing just below your tailbone during doggy style — does that make you want more anal play?", category: .spicy, depth: .deep),
+            Question(text: "If we were in an elevator alone for 30 seconds, what’s the limit of what you’d let me do to you?", category: .spicy, depth: .deep),
+
+
+            Question(text: "Do you like the feeling of being completely filled — mouth, pussy/ass, and hands full — or is that overstimulating for you?", category: .spicy, depth: .deep),
+            Question(text: "When I’m eating you out, do you prefer flat tongue wide strokes or a pointed tongue focused right on your clit?", category: .spicy, depth: .deep),
+            Question(text: "Would you be turned on if I told you I masturbated earlier thinking about what we might do tonight?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about dirty talk during anal — does it help you relax or make you clench up?", category: .spicy, depth: .deep),
+            Question(text: "If I wanted to use a butt plug on you during oral sex, would that be too much or just right?", category: .spicy, depth: .deep),
+
+
+            Question(text: "Do you like the taste of yourself on my lips after I kiss you following going down on you?", category: .spicy, depth: .deep),
+            Question(text: "Would you rather be woken up by me sliding inside you slowly, or by my mouth between your legs?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about me pulling out right before I come and rubbing myself against your clit to finish?", category: .spicy, depth: .deep),
+            Question(text: "If I grabbed your hips and pulled you back onto me harder during missionary, would that make you feel desired or controlled?", category: .spicy, depth: .deep),
+            Question(text: "Do you prefer receiving oral with your legs wide open and me watching your face, or with your thighs squeezing my head?", category: .spicy, depth: .deep),
+
+
+            Question(text: "Would you let me record just the sound of us having sex — no video, just your moans and our bodies — to listen to later?", category: .spicy, depth: .deep),
+            Question(text: "How do you feel about me putting my fingers in your mouth while I’m inside you — does that feel intimate or degrading?", category: .spicy, depth: .deep),
+            Question(text: "If I told you I’ve thought about licking you from your perineum all the way up your spine, what would your reaction be?", category: .spicy, depth: .deep),
+            Question(text: "Do you prefer to be completely naked while I’m still partly dressed, or do you want us both equally exposed?", category: .spicy, depth: .deep),
+            Question(text: "Would you be into a game where you have to beg me to let you come, and I decide if and when you're allowed to?", category: .spicy, depth: .deep),
             
             // MARK: Closeness 36 (36)
             // Set I: Establishing Rapport
