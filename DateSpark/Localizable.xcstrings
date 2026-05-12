@@ -18688,6 +18688,956 @@
         }
       }
     },
+    "If you could broadcast one 10-second video to every screen on Earth, what would it be?" : {
+      "comment" : "hypothetical·deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du ein 10-Sekunden-Video auf jeden Bildschirm der Erde senden könntest, was würde es zeigen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could broadcast one 10-second video to every screen on Earth, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras transmitir un video de 10 segundos a todas las pantallas de la Tierra, ¿qué sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais diffuser une vidéo de 10 secondes sur tous les écrans de la Terre, que montrerait-elle ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi trasmettere un video di 10 secondi su ogni schermo della Terra, cosa sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "地球上のすべての画面で10秒間の動画を流せるなら、どんな内容にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "지구상의 모든 화면에 10초짜리 영상을 송출할 수 있다면, 어떤 영상을 보여주겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne sende en 10-sekunders video til alle skjermer på jorden, hva ville den vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een video van 10 seconden naar elk scherm op aarde kon uitzenden, wat zou het dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł wyemitować 10-sekundowy film na każdy ekran na Ziemi, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse transmitir um vídeo de 10 segundos para todas as telas da Terra, o que ele mostraria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde sända en 10-sekunders video till alla skärmar på jorden, vad skulle den visa?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли транслювати 10-секундне відео на кожен екран на Землі, що б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能向地球上的每个屏幕播放一段10秒的视频，你会播放什么内容？" } }
+      }
+    },
+    "If you could have any question answered about your own future, what would you ask?" : {
+      "comment" : "hypothetical·deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine beliebige Frage über deine eigene Zukunft beantwortet haben könntest, was würdest du fragen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have any question answered about your own future, what would you ask?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras obtener respuesta a cualquier pregunta sobre tu propio futuro, ¿qué preguntarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais obtenir une réponse à n'importe quelle question sur ton propre avenir, que demanderais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere una risposta a qualsiasi domanda sul tuo futuro, cosa chiederesti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分の将来についてどんな質問でも答えてもらえるなら、何を尋ねますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자신의 미래에 관한 어떤 질문이든 답을 얻을 수 있다면, 무엇을 묻겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne få svar på hvilket som helst spørsmål om din egen fremtid, hva ville du spurt om?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je antwoord kon krijgen op elke vraag over je eigen toekomst, wat zou je dan vragen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł uzyskać odpowiedź na dowolne pytanie dotyczące swojej przyszłości, o co byś zapytał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter qualquer pergunta sobre o seu próprio futuro respondida, o que perguntaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde få svar på vilken fråga som helst om din egen framtid, vad skulle du fråga?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли отримати відповідь на будь-яке питання про власне майбутнє, що б ви запитали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能知道关于自己未来的任何一个问题的答案，你会问什么？" } }
+      }
+    },
+    "If you could bring one discontinued snack or drink back, what would it be?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du einen eingestellten Snack oder ein Getränk zurückbringen könntest, was wäre es?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could bring one discontinued snack or drink back, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras traer de vuelta una botana o bebida descontinuada, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais ramener une collation ou une boisson disparue du marché, laquelle choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi riportare in commercio uno snack o una bevanda dismessa, cosa sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "生産終了になったスナックや飲み物を一つ復活させられるとしたら、何を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "단종된 간식이나 음료수를 하나 다시 부활시킬 수 있다면, 무엇을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne bringe tilbake en utgått snack eller drikke, hva ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één stopgezette snack of drank terug kon brengen, wat zou het zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł przywrócić jedną wycofaną przekąskę lub napój, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse trazer de volta um lanche ou bebida descontinuado, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde återinföra en utgången snack eller dryck, vad skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли повернути один знятий з виробництва снек або напій, що б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能让一种已停产的零食或饮料重新上架，你会选什么？" } }
+      }
+    },
+    "If you had to be trapped in a department store overnight, which store would you choose?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du über Nacht in einem Kaufhaus eingesperrt sein müsstest, welches Geschäft würdest du wählen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you had to be trapped in a department store overnight, which store would you choose?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si tuvieras que quedar atrapado en una tienda departamental toda la noche, ¿qué tienda elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu devais être coincé dans un grand magasin pour la nuit, lequel choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se dovessi rimanere intrappolato in un grande magazzino per una notte, quale negozio sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一晩中デパートに閉じ込められるとしたら、どの店を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "백화점에 하룻밤 동안 갇혀야 한다면, 어느 매장을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du måtte være fanget i et varehus over natten, hvilken butikk ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een nacht lang opgesloten zou zitten in een warenhuis, welke winkel zou je dan kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś miał zostać uwięziony w domu towarowym na noc, który sklep byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você tivesse que ficar preso em uma loja de departamentos durante a noite, qual loja escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du var tvungen att vara instängd i ett varuhus över natten, vilken butik skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби вам довелося залишитися на ніч зачиненим в універмазі, який магазин ви б обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你不得不在百货商店里过夜，你会选择哪家店？" } }
+      }
+    },
+    "If you could choose the gender of your first child, would you?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du das Geschlecht deines ersten Kindes wählen könntest, würdest du es tun?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could choose the gender of your first child, would you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras elegir el género de tu primer hijo, ¿lo harías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais choisir le sexe de ton premier enfant, le ferais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi scegliere il sesso del tuo primo figlio, lo faresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "第一子の性別を選べるとしたら、選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "첫째 아이의 성별을 선택할 수 있다면, 선택하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne velge kjønnet på ditt første barn, ville du gjort det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je het geslacht van je eerste kind zou kunnen kiezen, zou je dat dan doen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł wybrać płeć swojego pierwszego dziecka, czy byś to zrobił?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse escolher o gênero do seu primeiro filho, você escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde välja kön på ditt första barn, skulle du göra det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли обрати стать своєї першої дитини, чи скористалися б ви цим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能选择第一个孩子的性别，你会这样做吗？" } }
+      }
+    },
+    "If you could rename the Earth, what would you call it?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du die Erde umbenennen könntest, wie würdest du sie nennen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could rename the Earth, what would you call it?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras renombrar la Tierra, ¿cómo la llamarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais renommer la Terre, comment l'appellerais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi rinominare la Terra, come la chiameresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "地球の名前を変えられるとしたら、何と名付けますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "지구의 이름을 바꿀 수 있다면, 무엇이라고 부르겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne gi jorden et nytt navn, hva ville du kalt den?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je de aarde een andere naam kon geven, hoe zou je haar dan noemen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł zmienić nazwę Ziemi, jak byś ją nazwał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse renomear a Terra, como a chamaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde byta namn på jorden, vad skulle du kalla den?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли перейменувати Землю, як би ви її назвали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能重新命名地球，你会叫它什么？" } }
+      }
+    },
+    "If you could instantly remove one minor annoyance from daily life, what would it be?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du sofort eine kleine Unannehmlichkeit aus dem Alltag entfernen könntest, welche wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could instantly remove one minor annoyance from daily life, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras eliminar instantáneamente una pequeña molestia de la vida diaria, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais supprimer instantanément un petit désagrément du quotidien, lequel serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi rimuovere all'istante un piccolo fastidio dalla vita quotidiana, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "日常生活の小さな悩みを一つ即座に取り除けるなら、何を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "일상생활에서 사소한 불편함 하나를 즉시 없앨 수 있다면, 무엇을 없애겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du øyeblikkelig kunne fjerne en liten plage fra hverdagen, hva ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je meteen één kleine ergernis uit het dagelijks leven kon verwijderen, wat zou het dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł natychmiast usunąć jedną drobną niedogodność z codziennego życia, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse remover instantaneamente um pequeno incômodo da vida cotidiana, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du omedelbart kunde ta bort en liten olägenhet från vardagen, vad skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли миттєво усунути одну дрібну незручність із повсякденного життя, що б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能立即消除日常生活中的一个小烦恼，那会是什么？" } }
+      }
+    },
+    "If you had to listen to one song every time you ate, what would it be?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du jedes Mal, wenn du isst, dasselbe Lied hören müsstest, welches wäre es?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you had to listen to one song every time you ate, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si tuvieras que escuchar una canción cada vez que comes, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu devais écouter une chanson à chaque fois que tu manges, laquelle serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se dovessi ascoltare una canzone ogni volta che mangi, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "食事のたびに同じ曲を聴かなければならないとしたら、どの曲にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "식사할 때마다 한 곡을 들어야 한다면, 어떤 노래를 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du måtte høre på én sang hver gang du spiste, hvilken ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je elke keer dat je at naar hetzelfde liedje moest luisteren, welke zou het dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś musiał słuchać jednej piosenki za każdym razem, gdy jesz, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você tivesse que ouvir uma música toda vez que comesse, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du var tvungen att lyssna på en låt varje gång du åt, vilken skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби вам доводилося слухати одну пісню щоразу, коли ви їсте, якою б вона була?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你每次吃饭时都必须听同一首歌，你会选哪首？" } }
+      }
+    },
+    "If you could have a billboard with any message, what would it say?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine Werbetafel mit einer beliebigen Nachricht haben könntest, was würde darauf stehen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a billboard with any message, what would it say?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener una valla publicitaria con cualquier mensaje, ¿qué diría?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais avoir un panneau d'affichage avec n'importe quel message, que dirait-il ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere un cartellone pubblicitario con qualsiasi messaggio, cosa direbbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "好きなメッセージを書いた看板を掲げられるとしたら、何と書きますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "원하는 메시지를 적은 광고판을 가질 수 있다면, 어떤 내용을 쓰겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt en reklametavle med hvilken som helst melding, hva ville den sagt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een reclamebord met een willekeurige boodschap kon hebben, wat zou er dan op staan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł mieć billboard z dowolnym przekazem, co by na nim napisano?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter um outdoor com qualquer mensagem, o que ele diria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha en reklamskylt med vilket budskap som helst, vad skulle den säga?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли розмістити білборд із будь-яким повідомленням, що б на ньому було написано?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你可以设置一个广告牌，写上任何信息，你会写什么？" } }
+      }
+    },
+    "If you could pause time for everyone but yourself for one hour a day, what would you do with it?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du die Zeit für alle außer dir selbst eine Stunde pro Tag anhalten könntest, was würdest du damit tun?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could pause time for everyone but yourself for one hour a day, what would you do with it?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras pausar el tiempo para todos excepto para ti mismo durante una hora al día, ¿qué harías con ese tiempo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais arrêter le temps pour tout le monde sauf toi-même pendant une heure par jour, qu'en ferais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi fermare il tempo per tutti tranne che per te stesso per un'ora al giorno, cosa faresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "1日1時間、自分以外の全員の時間を止められるとしたら、その時間をどう使いますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "하루에 한 시간 동안 자신을 제외한 모든 사람의 시간을 멈출 수 있다면, 그 시간을 어떻게 사용하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne stoppe tiden for alle andre enn deg selv i en time hver dag, hva ville du gjort med den tiden?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je de tijd voor iedereen behalve jezelf een uur per dag stil kon zetten, wat zou je dan met die tijd doen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł zatrzymać czas dla wszystkich oprócz siebie na godzinę dziennie, co byś z tym zrobił?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse pausar o tempo para todos, exceto para si mesmo, por uma hora por dia, o que faria com esse tempo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde pausa tiden för alla utom dig själv i en timme varje dag, vad skulle du göra med den tiden?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли зупинити час для всіх, крім себе, на одну годину щодня, що б ви зробили за цей час?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你每天能让除自己之外的所有人都暂停时间一小时，你会用这段时间做什么？" } }
+      }
+    },
+    "If you had to eliminate one color from existence, which would you choose?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine Farbe aus der Existenz tilgen müsstest, welche würdest du wählen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you had to eliminate one color from existence, which would you choose?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si tuvieras que eliminar un color de la existencia, ¿cuál elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu devais éliminer une couleur de l'existence, laquelle choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se dovessi eliminare un colore dall'esistenza, quale sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "もし一つの色をこの世から消さなければならないとしたら、どれを選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "하나의 색상을 존재에서 제거해야 한다면, 어떤 색을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du måtte fjerne én farge fra eksistensen, hvilken ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één kleur uit het bestaan zou moeten verwijderen, welke zou je dan kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś musiał wyeliminować jeden kolor z istnienia, który byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você tivesse que eliminar uma cor da existência, qual escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du var tvungen att eliminera en färg från existensen, vilken skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви мали вилучити один колір з існування, який би ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你必须从世界上消除一种颜色，你会选择哪种？" } }
+      }
+    },
+    "If you could have a never-ending supply of one non-essential item, what would it be?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du einen unendlichen Vorrat an einem nicht lebensnotwendigen Gegenstand haben könntest, was wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a never-ending supply of one non-essential item, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener un suministro interminable de un artículo no esencial, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais avoir un approvisionnement infini d'un article non essentiel, lequel serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere una scorta infinita di un oggetto non essenziale, cosa sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "必須ではないアイテムを一つ、無限に供給されるとしたら、何を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "필수가 아닌 물건 하나를 무한정 공급받을 수 있다면, 무엇을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt en uendelig tilførsel av én ikke-essensiell gjenstand, hva ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een oneindige voorraad van één niet-essentieel item kon hebben, wat zou het dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł mieć niekończące się zapasy jednego nieistotnego przedmiotu, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter um suprimento infinito de um item não essencial, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha en oändlig tillgång till en icke-nödvändig sak, vad skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли мати нескінченний запас одного необов'язкового предмета, що б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能无限量供应一种非必需品，你会选什么？" } }
+      }
+    },
+    "If you could read minds, but only for 5 minutes a day, when would you use it?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du Gedanken lesen könntest, aber nur 5 Minuten am Tag, wann würdest du es nutzen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could read minds, but only for 5 minutes a day, when would you use it?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras leer mentes, pero solo por 5 minutos al día, ¿cuándo lo usarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais lire dans les pensées, mais seulement 5 minutes par jour, quand l'utiliserais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi leggere la mente, ma solo per 5 minuti al giorno, quando lo useresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "1日たったの5分だけ人の心が読めるとしたら、いつその能力を使いますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "하루에 5분만 마음을 읽을 수 있다면, 언제 그 능력을 사용하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne lese tanker, men bare i 5 minutter om dagen, når ville du brukt det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je gedachten kon lezen, maar slechts 5 minuten per dag, wanneer zou je het dan gebruiken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł czytać w myślach, ale tylko przez 5 minut dziennie, kiedy byś to robił?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ler mentes, mas apenas por 5 minutos por dia, quando usaria isso?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde läsa tankar, men bara i 5 minuter om dagen, när skulle du använda det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли читати думки, але лише 5 хвилин на день, коли б ви цим скористалися?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能读心，但每天只能读5分钟，你会在什么时候使用？" } }
+      }
+    },
+    "If you could live in the home of any fictional family, which would it be?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du im Haus einer fiktiven Familie leben könntest, bei welcher würde es sein?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could live in the home of any fictional family, which would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras vivir en la casa de cualquier familia ficticia, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais vivre dans la maison d'une famille fictive, laquelle choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi vivere nella casa di una famiglia immaginaria, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "架空の家族の家に住めるとしたら、どの家族の家に住みたいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가상의 가족 집에서 살 수 있다면, 어느 가족의 집을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne bo i hjemmet til en hvilken som helst fiktiv familie, hvilken ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je in het huis van een fictieve familie kon wonen, bij welke zou dat zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł mieszkać w domu dowolnej fikcyjnej rodziny, u kogo byś mieszkał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse morar na casa de qualquer família fictícia, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde bo i hemmet hos vilken fiktiv familj som helst, vilken skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли жити в будинку будь-якої вигаданої родини, яку б ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能住在任何一个虚构家庭的家裡，你会选哪个家庭？" } }
+      }
+    },
+    "If you could make one law that everyone, including you, had to follow, what would it be?" : {
+      "comment" : "hypothetical·deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du ein Gesetz erlassen könntest, das jeder, auch du, befolgen müsste, welches wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could make one law that everyone, including you, had to follow, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras hacer una ley que todos, incluido tú, tuvieran que seguir, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais créer une loi que tout le monde, y compris toi, devrait suivre, quelle serait-elle ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi fare una legge che tutti, compreso te, dovessero seguire, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分を含め、すべての人が従わなければならない法律を一つ作れるとしたら、どんな法律にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자신을 포함한 모든 사람이 따라야 하는 법을 하나 만들 수 있다면, 어떤 법을 만들겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne lage én lov som alle, inkludert deg selv, måtte følge, hva ville den vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één wet kon maken die iedereen, inclusief jijzelf, moest volgen, wat zou die wet dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł stworzyć jedno prawo, którego wszyscy, łącznie z tobą, musieliby przestrzegać, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse criar uma lei que todos, incluindo você, tivessem que seguir, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde skapa en lag som alla, inklusive dig själv, måste följa, vad skulle den vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли створити один закон, якого всі, включаючи вас, мали б дотримуватися, яким би він був?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能制定一条所有人都必须遵守的法律（包括你自己），你会制定什么法律？" } }
+      }
+    },
+    "If you could be guaranteed to win a single competition, what sport or game would you choose?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn dir garantiert wäre, einen einzigen Wettbewerb zu gewinnen, welche Sportart oder welches Spiel würdest du wählen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could be guaranteed to win a single competition, what sport or game would you choose?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si se te garantizara ganar una sola competencia, ¿qué deporte o juego elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu étais assuré de gagner une seule compétition, quel sport ou jeu choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se ti fosse garantito di vincere una singola competizione, quale sport o gioco sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一つの競技で確実に優勝できると約束されたら、どんなスポーツやゲームを選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "단 하나의 대회에서 우승이 보장된다면, 어떤 스포츠나 게임을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du var garantert å vinne en enkelt konkurranse, hvilken idrett eller spill ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je gegarandeerd één wedstrijd zou winnen, welke sport of spel zou je dan kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś miał gwarancję wygranej w jednym konkursie, jaki sport lub grę byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você tivesse a garantia de vencer uma única competição, qual esporte ou jogo escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du garanterat fick vinna en enda tävling, vilken sport eller spel skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби вам гарантували перемогу в одному змаганні, який вид спорту чи гру ви б обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果能保证你在某场比赛中获胜，你会选择哪项运动或游戏？" } }
+      }
+    },
+    "If you could have a conversation with your 10-year-old self, what question would you ask them?" : {
+      "comment" : "hypothetical·deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du mit deinem 10-jährigen Ich sprechen könntest, welche Frage würdest du ihm stellen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a conversation with your 10-year-old self, what question would you ask them?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener una conversación contigo mismo de 10 años, ¿qué pregunta le harías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais parler à toi-même à 10 ans, quelle question lui poserais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi parlare con te stesso a 10 anni, che domanda gli faresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "10歳の自分と話ができるとしたら、どんなことを尋ねますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "10살 때의 자신과 대화할 수 있다면, 어떤 질문을 하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt en samtale med ditt 10 år gamle jeg, hvilket spørsmål ville du spurt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een gesprek kon hebben met je 10-jarige zelf, welke vraag zou je hem/haar dan stellen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł porozmawiać ze sobą z czasów, gdy miałeś 10 lat, o co byś zapytał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse conversar com o seu eu de 10 anos, que pergunta faria a ele?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde prata med ditt 10-åriga jag, vilken fråga skulle du ställa?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли поговорити з собою в 10 років, яке запитання ви б поставили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能和10岁的自己对话，你会问什么问题？" } }
+      }
+    },
+    "If you could add a room to your home that defies physics, what would it be filled with?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du deinem Zuhause einen Raum hinzufügen könntest, der der Physik trotzt, womit wäre er gefüllt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could add a room to your home that defies physics, what would it be filled with?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras agregar una habitación a tu casa que desafíe la física, ¿de qué estaría llena?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais ajouter une pièce à ta maison qui défie la physique, de quoi serait-elle remplie ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi aggiungere una stanza alla tua casa che sfida la fisica, di cosa sarebbe piena?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "物理学に反する部屋を家に一つ追加できるとしたら、その部屋を何で満たしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "물리학을 무시하는 방을 집에 하나 추가할 수 있다면, 그 방을 무엇으로 채우겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne legge til et rom i hjemmet ditt som trosser fysikkens lover, hva ville det vært fylt med?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een kamer aan je huis kon toevoegen die de wetten van de natuurkunde tart, waarmee zou die dan gevuld zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł dodać do swojego domu pomieszczenie, które przeciwstawia się fizyce, czym by było wypełnione?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse adicionar um cômodo à sua casa que desafia a física, com o que ele seria preenchido?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde lägga till ett rum i ditt hem som trotsar fysikens lagar, vad skulle det vara fyllt med?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли додати до свого будинку кімнату, яка кидає виклик фізиці, чим би вона була наповнена?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能在家里添加一个无视物理学的房间，你会用它来装什么？" } }
+      }
+    },
+    "If you could swap places with a famous CEO for a week, who would it be?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du für eine Woche mit einem berühmten CEO tauschen könntest, wer wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could swap places with a famous CEO for a week, who would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras intercambiar lugares con un CEO famoso por una semana, ¿quién sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais échanger ta place avec un PDG célèbre pour une semaine, qui serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi scambiare il posto con un CEO famoso per una settimana, chi sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "1週間だけ有名なCEOと立場を入れ替えられるとしたら、誰を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "일주일 동안 유명한 CEO와 역할을 바꿀 수 있다면, 누구를 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne bytte plass med en kjent administrerende direktør i en uke, hvem ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een week lang van plaats kon ruilen met een beroemde CEO, wie zou dat dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł zamienić się miejscami z sławnym CEO na tydzień, kto by to był?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse trocar de lugar com um CEO famoso por uma semana, quem seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde byta plats med en känd VD i en vecka, vem skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли помінятися місцями з відомим генеральним директором на тиждень, хто б це був?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能和一个著名的CEO互换身份一周，你会选谁？" } }
+      }
+    },
+    "If you could live in any movie's aesthetic world, not the plot, which movie would you choose?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du in der ästhetischen Welt eines beliebigen Films leben könntest, nicht in der Handlung, welchen Film würdest du wählen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could live in any movie's aesthetic world, not the plot, which movie would you choose?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras vivir en el mundo estético de cualquier película, no en la trama, ¿qué película elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais vivre dans l'univers esthétique d'un film, pas dans son scénario, quel film choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi vivere nel mondo estetico di un film, non nella trama, quale film sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "プロットではなく、映画の美的世界に住めるとしたら、どの映画を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "줄거리가 아닌 영화의 미적 세계에서 살 수 있다면, 어떤 영화를 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne leve i en hvilken som helst films estetiske verden, ikke handlingen, hvilken film ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je in de esthetische wereld van een film kon leven, niet in het plot, welke film zou je dan kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł żyć w estetycznym świecie dowolnego filmu, a nie w fabule, który film byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse viver no mundo estético de qualquer filme, não no enredo, qual filme escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde leva i en films estetiska värld, inte handlingen, vilken film skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли жити в естетичному світі будь-якого фільму, а не в його сюжеті, який би фільм ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能生活在一部电影的美学世界里（而不是剧情里），你会选哪部电影？" } }
+      }
+    },
+    "If you had to wear a sign around your neck with one sentence written on it, what would it say?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du ein Schild um den Hals tragen müsstest, auf dem ein Satz steht, was würde darauf stehen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you had to wear a sign around your neck with one sentence written on it, what would it say?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si tuvieras que usar un letrero alrededor del cuello con una frase escrita, ¿qué diría?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu devais porter une pancarte autour du cou avec une phrase écrite dessus, que dirait-elle ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se dovessi indossare un cartello al collo con una frase scritta sopra, cosa direbbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一言書かれた札を首から下げなければならないとしたら、何と書きますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "한 문장이 적힌 팻말을 목에 걸고 다녀야 한다면, 그 문장은 무엇이겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du måtte ha et skilt rundt halsen med én setning skrevet på, hva ville det stått?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een bordje om je nek moest dragen met één zin erop, wat zou er dan op staan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś musiał nosić na szyi tabliczkę z jednym zdaniem, co by na niej napisano?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você tivesse que usar um cartaz no pescoço com uma frase escrita, o que ele diria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du var tvungen att bära en skylt runt halsen med en mening skriven på den, vad skulle den säga?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби вам довелося носити на шиї табличку з одним реченням, що б на ній було написано?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你必须在脖子上挂一个牌子，上面写着一句话，你会写什么？" } }
+      }
+    },
+    "If you could instantly know the truth about one unsolved mystery, which would you pick?" : {
+      "comment" : "hypothetical·deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du sofort die Wahrheit über ein ungelöstes Rätsel erfahren könntest, welches würdest du wählen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could instantly know the truth about one unsolved mystery, which would you pick?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras saber al instante la verdad sobre un misterio no resuelto, ¿cuál elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais connaître instantanément la vérité sur un mystère non résolu, lequel choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi sapere all'istante la verità su un mistero irrisolto, quale sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "未解決の謎について瞬時に真実を知ることができるなら、どの謎を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "미해결 미스터리에 대한 진실을 즉시 알 수 있다면, 어떤 것을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du øyeblikkelig kunne vite sannheten om ett uløst mysterium, hvilket ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je onmiddellijk de waarheid over één onopgelost mysterie kon weten, welke zou je dan kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł natychmiast poznać prawdę o jednej nierozwiązanej tajemnicy, którą byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse saber instantaneamente a verdade sobre um mistério não resolvido, qual escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du omedelbart kunde få veta sanningen om ett olöst mysterium, vilket skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли миттєво дізнатися правду про одну нерозгадану таємницю, яку б ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能立即知道某个未解之谜的真相，你会选哪个？" } }
+      }
+    },
+    "If you could have a dinner party where every guest was a different species of animal, what would be on the menu?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine Dinnerparty geben könntest, bei der jeder Gast eine andere Tierart wäre, was stünde auf der Speisekarte?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a dinner party where every guest was a different species of animal, what would be on the menu?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener una cena donde cada invitado fuera una especie diferente de animal, ¿qué habría en el menú?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais organiser un dîner où chaque invité serait une espèce animale différente, qu'y aurait-il au menu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi organizzare una cena in cui ogni ospite è una specie animale diversa, cosa ci sarebbe nel menu?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "すべてのゲストが異なる種類の動物であるディナーパーティーを開くとしたら、メニューは何にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 손님이 서로 다른 동물 종인 만찬을 연다면, 메뉴에는 무엇이 있겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt et middagsselskap der hver gjest var en annen dyreart, hva ville vært på menyen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een etentje kon houden waarbij elke gast een andere diersoort was, wat zou er dan op het menu staan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł wydać przyjęcie, na którym każdy gość byłby innym gatunkiem zwierzęcia, co znalazłoby się w menu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse dar um jantar onde cada convidado fosse uma espécie diferente de animal, o que estaria no cardápio?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha en middagsbjudning där varje gäst var en annan djurart, vad skulle finnas på menyn?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли влаштувати звану вечерю, де кожен гість був би різним видом тварини, що б було в меню?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能举办一场每位客人都是不同动物的晚宴，菜单上会有什么？" } }
+      }
+    },
+    "If you could press a button that would give you a random $1000 or take $100 from you, would you press it?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du einen Knopf drücken könntest, der dir zufällig 1000 $ gibt oder dir 100 $ wegnimmt, würdest du ihn drücken?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could press a button that would give you a random $1000 or take $100 from you, would you press it?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras presionar un botón que te daría $1000 aleatorios o te quitaría $100, ¿lo presionarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais appuyer sur un bouton qui te donnerait 1000 $ ou t'en prendrait 100 $, le presserais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi premere un pulsante che ti darebbe casualmente 1000 $ o ti toglierebbe 100 $, lo premeresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ランダムに1000ドルを得るか、100ドルを失うボタンを押せるとしたら、押しますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "무작위로 1000달러를 주거나 100달러를 빼앗는 버튼을 누를 수 있다면, 누르시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne trykke på en knapp som ville gi deg tilfeldige 1000 dollar eller ta 100 dollar fra deg, ville du trykket på den?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je op een knop kon drukken die je willekeurig $1000 zou geven of $100 van je zou afnemen, zou je er dan op drukken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł nacisnąć przycisk, który dałby ci losowe 1000 $ lub zabrał 100 $, nacisnąłbyś go?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse apertar um botão que lhe daria $1000 aleatórios ou tiraria $100 de você, você o apertaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde trycka på en knapp som skulle ge dig slumpmässiga 1000 dollar eller ta 100 dollar från dig, skulle du trycka på den?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли натиснути кнопку, яка б випадково дала вам 1000 доларів або забрала 100 доларів, ви б натиснули на неї?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能按下一个按钮，它会随机给你1000美元或拿走你100美元，你会按吗？" } }
+      }
+    },
+    "If you could take a one-way trip to a colony on Mars, would you go?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine Einweg-Reise zu einer Kolonie auf dem Mars unternehmen könntest, würdest du gehen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could take a one-way trip to a colony on Mars, would you go?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras hacer un viaje de ida a una colonia en Marte, ¿irías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais faire un voyage sans retour vers une colonie sur Mars, partirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi fare un viaggio di sola andata verso una colonia su Marte, andresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "火星のコロニーへの片道旅行ができるとしたら、行きますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "화성 식민지로 편도 여행을 떠날 수 있다면, 가시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne ta en enveis tur til en koloni på Mars, ville du dratt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een eenrichtingsreis naar een kolonie op Mars kon maken, zou je dan gaan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł odbyć podróż w jedną stronę do kolonii na Marsie, pojechałbyś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse fazer uma viagem só de ida para uma colônia em Marte, você iria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ta en enkelresa till en koloni på Mars, skulle du åka?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли здійснити подорож в один кінець до колонії на Марсі, ви б поїхали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能踏上前往火星殖民地的单程之旅，你会去吗？" } }
+      }
+    },
+    "If you could be the best in the world at one useless party trick, what would it be?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du der Beste der Welt in einem nutzlosen Partytrick sein könntest, welcher wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could be the best in the world at one useless party trick, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras ser el mejor del mundo en un truco de fiesta inútil, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais être le meilleur du monde à un tour de fête inutile, quel serait-il ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi essere il migliore del mondo in un trucco da festa inutile, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "世界で一番上手くなりたい、役に立たないパーティー・トリックは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "쓸모없는 파티 트릭 하나를 세계 최고로 잘한다면, 어떤 트릭을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne vært best i verden på én unyttig partytriks, hva ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je de beste ter wereld zou kunnen zijn in één nutteloos partytrucje, wat zou het dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł być najlepszy na świecie w jednym bezużytecznym triku imprezowym, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ser o melhor do mundo em um truque de festa inútil, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde vara bäst i världen på ett oanvändbart partytrick, vad skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли бути найкращим у світі в одному марному вечірковому трюку, яким би він був?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能在某项毫无用处的派对把戏上成为世界第一，那会是什么把戏？" } }
+      }
+    },
+    "If you could create a new national holiday, what day would it be and what would we celebrate?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du einen neuen nationalen Feiertag schaffen könntest, welcher Tag wäre es und was würden wir feiern?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could create a new national holiday, what day would it be and what would we celebrate?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras crear un nuevo día festivo nacional, ¿qué día sería y qué celebraríamos?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais créer un nouveau jour férié national, quel jour serait-ce et que fêterions-nous ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi creare una nuova festa nazionale, che giorno sarebbe e cosa celebreremmo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "新しい国民の祝日を作れるとしたら、それは何月何日で、何を祝う日にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "새로운 국경일을 만들 수 있다면, 어떤 날로 정하고 무엇을 축하하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne opprette en ny nasjonal helligdag, hvilken dag ville det vært og hva ville vi feiret?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een nieuwe nationale feestdag kon creëren, welke dag zou het dan zijn en wat zouden we vieren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł stworzyć nowe święto narodowe, jaki to byłby dzień i co byśmy świętowali?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse criar um novo feriado nacional, que dia seria e o que comemoraríamos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde skapa en ny nationell helgdag, vilken dag skulle det vara och vad skulle vi fira?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли створити нове національне свято, який це був би день і що б ми святкували?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能创立一个新的国家节日，它会定在哪一天？我们庆祝什么？" } }
+      }
+    },
+    "If you could erase one emotion from the human experience forever, which would it be?" : {
+      "comment" : "hypothetical·deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine Emotion für immer aus der menschlichen Erfahrung löschen könntest, welche wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could erase one emotion from the human experience forever, which would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras borrar una emoción de la experiencia humana para siempre, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais effacer une émotion de l'expérience humaine pour toujours, laquelle serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi cancellare per sempre un'emozione dall'esperienza umana, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "人間の感情から一つを永遠に消し去られるとしたら、どれを選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "인간의 경험에서 하나의 감정을 영원히 지울 수 있다면, 어떤 감정을 지우겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne slette én følelse fra den menneskelige opplevelsen for alltid, hvilken ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één emotie voor altijd uit de menselijke ervaring kon wissen, welke zou het dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł na zawsze wymazać jedną emocję z ludzkiego doświadczenia, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse apagar para sempre uma emoção da experiência humana, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du för alltid kunde radera en känsla från den mänskliga upplevelsen, vilken skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли назавжди стерти одну емоцію з людського досвіду, яку б ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能永远抹去人类的一种情感，你会选择哪一种？" } }
+      }
+    },
+    "If you could be reincarnated as any non-human thing, what would you be?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du als irgendetwas Nichtmenschliches wiedergeboren werden könntest, was wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could be reincarnated as any non-human thing, what would you be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras reencarnarte en cualquier cosa no humana, ¿qué serías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais te réincarner en n'importe quelle chose non humaine, que serais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi reincarnarti in qualsiasi cosa non umana, cosa saresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "人間以外のものに生まれ変わるとしたら、何になりたいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "인간이 아닌 것으로 환생할 수 있다면, 무엇이 되고 싶습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne bli gjenfødt som en hvilken som helst ikke-menneskelig ting, hva ville du vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je zou kunnen reïncarneren als een niet-menselijk ding, wat zou je dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł odrodzić się jako dowolna nie-ludzka rzecz, czym byś był?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse reencarnar como qualquer coisa não humana, o que seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde återfödas som vilken icke-mänsklig sak som helst, vad skulle du vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли перевтілитися в будь-яку нелюдську річ, ким би ви стали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能转世成为任何非人类的东西，你想成为什么？" } }
+      }
+    },
+    "If you could give a 5-minute speech to the entire world, what topic would you cover?" : {
+      "comment" : "hypothetical·deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine 5-minütige Rede an die ganze Welt halten könntest, welches Thema würdest du behandeln?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could give a 5-minute speech to the entire world, what topic would you cover?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras dar un discurso de 5 minutos al mundo entero, ¿qué tema tratarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais prononcer un discours de 5 minutes devant le monde entier, quel sujet aborderais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi fare un discorso di 5 minuti al mondo intero, quale argomento tratteresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "世界中に向けて5分間のスピーチができるなら、どんなテーマを話しますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "전 세계를 대상으로 5분 연설을 할 수 있다면, 어떤 주제를 다루겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne holde en 5-minutters tale til hele verden, hvilket tema ville du dekket?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een 5-minuten durende toespraak tot de hele wereld mocht houden, over welk onderwerp zou het dan gaan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł wygłosić 5-minutowe przemówienie do całego świata, jaki temat byś poruszył?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse fazer um discurso de 5 minutos para o mundo inteiro, qual tópico abordaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde hålla ett 5-minuters tal till hela världen, vilket ämne skulle du ta upp?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли виголосити 5-хвилинну промову перед усім світом, яку тему ви б висвітлили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能向全世界发表5分钟的演讲，你会讲什么主题？" } }
+      }
+    },
+    "If you could make one physical change to every human (like blue blood or extra finger), what would it be?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine körperliche Veränderung an jedem Menschen vornehmen könntest (wie blaues Blut oder einen zusätzlichen Finger), welche wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could make one physical change to every human (like blue blood or extra finger), what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras hacer un cambio físico a todos los humanos (como sangre azul o un dedo extra), ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais apporter un changement physique à chaque être humain (comme du sang bleu ou un doigt supplémentaire), lequel serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi fare un cambiamento fisico a ogni essere umano (come sangue blu o un dito in più), quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "すべての人間に一つだけ身体的特徴を変えられるとしたら（例：青い血、指が6本など）、何を変えますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 인간에게 하나의 신체적 변화를 줄 수 있다면 (예: 파란 피, 여섯 손가락), 어떤 변화를 주겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne gjøre én fysisk endring på alle mennesker (som blått blod eller en ekstra finger), hva ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één fysieke verandering aan elk mens zou kunnen aanbrengen (zoals blauw bloed of een extra vinger), wat zou het dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł dokonać jednej fizycznej zmiany u każdego człowieka (takiej jak niebieska krew czy dodatkowy palec), co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse fazer uma mudança física em todos os humanos (como sangue azul ou um dedo extra), qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde göra en fysisk förändring hos varje människa (som blått blod eller ett extra finger), vad skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли внести одну фізичну зміну в кожну людину (як-от блакитна кров або зайвий палець), що б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能对每个人的身体做一个改变（比如蓝色的血或者多一根手指），你会改变什么？" } }
+      }
+    },
+    "If you could have any animal follow you around like a loyal dog, which animal would be the worst?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn jedes Tier dir wie ein treuer Hund folgen könnte, welches Tier wäre das Schlimmste?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have any animal follow you around like a loyal dog, which animal would be the worst?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener cualquier animal siguiéndote como un perro leal, ¿qué animal sería el peor?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais avoir n'importe quel animal qui te suivrait comme un chien fidèle, quel animal serait le pire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere un animale che ti segue come un cane fedele, quale animale sarebbe il peggiore?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "忠実な犬のようにあなたについてくる動物を選べるなら、どんな動物が最悪ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "충성스러운 개처럼 따라다니는 동물을 가질 수 있다면, 어떤 동물이 최악이겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt et hvilket som helst dyr som fulgte etter deg som en lojal hund, hvilket dyr ville vært verst?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een dier achter je aan kon laten lopen als een trouwe hond, welk dier zou dan het ergst zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł mieć dowolne zwierzę podążające za tobą jak lojalny pies, które zwierzę byłoby najgorsze?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter qualquer animal te seguindo como um cão leal, qual animal seria o pior?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha vilket djur som helst som följde efter dig som en lojal hund, vilket djur skulle vara värst?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби будь-яка тварина могла ходити за вами, як вірний собака, яка тварина була б найгіршою?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能让任何动物像忠实的狗一样跟着你，哪种动物最糟糕？" } }
+      }
+    },
+    "If you could be a master of one instrument you've never played, which would it be?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du ein Meister eines Instruments sein könntest, das du nie gespielt hast, welches wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could be a master of one instrument you've never played, which would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras ser un maestro de un instrumento que nunca has tocado, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais être un maître d'un instrument que tu n'as jamais joué, lequel serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi essere un maestro di uno strumento che non hai mai suonato, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一度も演奏したことのない楽器の達人になれるとしたら、どの楽器を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "한 번도 연주해본 적 없는 악기의 달인이 될 수 있다면, 어떤 악기를 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne vært mester på ett instrument du aldri har spilt, hvilket ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een meester zou kunnen zijn van een instrument dat je nog nooit hebt bespeeld, welke zou het dan zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł być mistrzem jednego instrumentu, na którym nigdy nie grałeś, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ser um mestre de um instrumento que nunca tocou, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde vara mästare på ett instrument du aldrig har spelat, vilket skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли стати майстром одного інструменту, на якому ніколи не грали, який би це був інструмент?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能成为某样从未学过的乐器的演奏大师，你会选哪种乐器？" } }
+      }
+    },
+    "If you could have a 30-minute conversation with your pet, what's the first thing you'd ask?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du ein 30-minütiges Gespräch mit deinem Haustier führen könntest, was wäre das Erste, was du fragen würdest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a 30-minute conversation with your pet, what's the first thing you'd ask?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener una conversación de 30 minutos con tu mascota, ¿qué es lo primero que le preguntarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais avoir une conversation de 30 minutes avec ton animal de compagnie, quelle serait la première chose que tu demanderais ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere una conversazione di 30 minuti con il tuo animale domestico, qual è la prima cosa che chiederesti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ペットと30分間会話できるなら、最初に何を尋ねますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "반려동물과 30분 동안 대화할 수 있다면, 가장 먼저 무엇을 묻겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt en 30-minutters samtale med kjæledyret ditt, hva er det første du ville spurt om?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een gesprek van 30 minuten met je huisdier kon hebben, wat zou je dan het eerst vragen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł przeprowadzić 30-minutową rozmowę ze swoim zwierzakiem, o co zapytałbyś jako pierwsze?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter uma conversa de 30 minutos com seu animal de estimação, qual seria a primeira coisa que perguntaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha en 30-minuters konversation med ditt husdjur, vad är det första du skulle fråga?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли поговорити зі своїм улюбленцем 30 хвилин, що б ви запитали в першу чергу?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能和你的宠物进行30分钟的对话，你会先问什么？" } }
+      }
+    },
+    "If you could instantly become fluent in a dead language, which would you choose?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du sofort eine tote Sprache fließend sprechen könntest, welche würdest du wählen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could instantly become fluent in a dead language, which would you choose?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras volverte instantáneamente fluido en un idioma muerto, ¿cuál elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais instantanément parler couramment une langue morte, laquelle choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi diventare immediatamente fluente in una lingua morta, quale sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "死語を瞬時に流暢に話せるようになるとしたら、どの言語を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "죽은 언어를 즉시 유창하게 구사할 수 있다면, 어떤 언어를 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du øyeblikkelig kunne bli flytende i et dødt språk, hvilket ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je meteen vloeiend een dode taal kon spreken, welke zou je dan kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł natychmiast biegle władać martwym językiem, który byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse se tornar instantaneamente fluente em um idioma morto, qual escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du omedelbart kunde bli flytande i ett dött språk, vilket skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли миттєво опанувати мертву мову, яку б ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能瞬间流利掌握一门死语言，你会选哪种语言？" } }
+      }
+    },
+    "If you could have a never-ending dream every time you slept, what would that dream be about?" : {
+      "comment" : "hypothetical·medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du jedes Mal, wenn du schläfst, einen nie endenden Traum haben könntest, worum würde dieser Traum gehen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a never-ending dream every time you slept, what would that dream be about?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener un sueño interminable cada vez que durmieras, ¿de qué trataría ese sueño?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais faire un rêve sans fin chaque fois que tu dors, de quoi parlerait ce rêve ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi fare un sogno senza fine ogni volta che dormi, di cosa parlerebbe questo sogno?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "眠るたびに無限に続く夢を見られるとしたら、その夢はどんな内容ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "잠잘 때마다 끝나지 않는 꿈을 꿀 수 있다면, 그 꿈은 어떤 내용이겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne ha en endeløs drøm hver gang du sov, hva ville den drømmen handle om?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je elke keer dat je sliep een eindeloze droom kon hebben, waar zou die droom dan over gaan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł mieć niekończący się sen za każdym razem, gdy śpisz, o czym byłby ten sen?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter um sonho infinito toda vez que dormisse, sobre o que seria esse sonho?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha en oändlig dröm varje gång du sov, vad skulle den drömmen handla om?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли бачити нескінченний сон щоразу, коли спите, про що б був цей сон?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你每次睡觉都能做一个永不结束的梦，那会是什么样的梦？" } }
+      }
+    },
+    "If you could add a level to Maslow's Hierarchy of Needs, what would be at the top?" : {
+      "comment" : "hypothetical·deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine Ebene zu Maslows Bedürfnispyramide hinzufügen könntest, was wäre an der Spitze?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could add a level to Maslow's Hierarchy of Needs, what would be at the top?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras agregar un nivel a la Pirámide de Maslow, ¿qué habría en la cima?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais ajouter un niveau à la pyramide des besoins de Maslow, que mettrais-tu au sommet ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi aggiungere un livello alla piramide dei bisogni di Maslow, cosa ci sarebbe in cima?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "マズローの欲求段階説に一段階追加できるなら、最上位に何を置きますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "매슬로우의 욕구 단계에 한 단계를 추가할 수 있다면, 최상위에 무엇을 두겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne legge til et nivå i Maslows behovspyramide, hva ville vært på toppen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een niveau toe kon voegen aan de piramide van Maslow, wat zou er dan bovenaan staan?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł dodać poziom do piramidy potrzeb Maslowa, co znalazłoby się na szczycie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse adicionar um nível à Hierarquia de Necessidades de Maslow, o que estaria no topo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde lägga till en nivå i Maslows behovstrappa, vad skulle vara högst upp?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли додати рівень до піраміди потреб Маслоу, що б було на вершині?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能在马斯洛需求层次理论中增加一个层级，最顶层会是什么？" } }
+      }
+    },
+    "If you could be instantly hired for any job you want, with no experience needed, what would you apply for?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du sofort für jeden Job eingestellt werden könntest, den du möchtest, ohne Erfahrung, für welche Stelle würdest du dich bewerben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could be instantly hired for any job you want, with no experience needed, what would you apply for?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras ser contratado al instante para cualquier trabajo que quieras, sin necesidad de experiencia, ¿para qué aplicarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais être embauché instantanément pour n'importe quel emploi que tu veux, sans expérience nécessaire, pour quel poste postulerais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi essere assunto immediatamente per qualsiasi lavoro tu voglia, senza esperienza necessaria, per cosa ti candideresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "経験がなくても、望むどんな仕事にも即採用されるなら、何に応募しますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "경험 없이 원하는 어떤 일에든 즉시 채용될 수 있다면, 어떤 직종에 지원하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du øyeblikkelig kunne bli ansatt i hvilken som helst jobb du vil, uten behov for erfaring, hva ville du søkt på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je meteen aangenomen zou kunnen worden voor elke baan die je wilt, zonder ervaring, waar zou je dan voor solliciteren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł zostać natychmiast zatrudniony do dowolnej pracy, bez doświadczenia, o jaką byś się ubiegał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ser contratado instantaneamente para qualquer emprego que desejasse, sem necessidade de experiência, para qual se candidataria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du omedelbart kunde bli anställd för vilket jobb du vill, utan erfarenhet, vad skulle du söka?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби вас могли миттєво найняти на будь-яку роботу, яку ви захочете, без необхідного досвіду, на яку посаду ви б подали заявку?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能立即被任何你想要的工作录用，且不需要经验，你会申请什么工作？" } }
+      }
+    },
+    "If you could have a clone that only did your chores, what's the first thing you'd make it do?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du einen Klon haben könntest, der nur deine Hausarbeit erledigt, was wäre das Erste, was du ihn tun lassen würdest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a clone that only did your chores, what's the first thing you'd make it do?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener un clon que solo hiciera tus tareas, ¿qué es lo primero que le harías hacer?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais avoir un clone qui ne ferait que tes tâches ménagères, quelle serait la première chose que tu lui ferais faire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere un clone che fa solo le tue faccende, qual è la prima cosa che gli faresti fare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたの代わりに家事だけをするクローンを作れるとしたら、最初に何をさせますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "집안일만 하는 클론을 가질 수 있다면, 가장 먼저 무엇을 시키겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt en klon som bare gjorde husarbeidet ditt, hva er det første du ville fått den til å gjøre?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een kloon kon hebben die alleen jouw klusjes deed, wat zou je hem dan het eerst laten doen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł mieć klona, który robiłby tylko twoje obowiązki, co kazałbyś mu zrobić jako pierwsze?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter um clone que só fizesse suas tarefas, qual seria a primeira coisa que mandaria ele fazer?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha en klon som bara gjorde dina sysslor, vad är det första du skulle få den att göra?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли мати клона, який би виконував лише ваші домашні справи, що б ви змусили його зробити в першу чергу?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能拥有一个只做家务的克隆人，你会让它做的第一件事是什么？" } }
+      }
+    },
+    "If you could insert yourself into any painting as a background character, which painting?" : {
+      "comment" : "hypothetical·light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du dich als Hintergrundfigur in ein Gemälde einfügen könntest, in welches?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could insert yourself into any painting as a background character, which painting?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras insertarte en cualquier pintura como personaje de fondo, ¿qué pintura?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais t'insérer dans n'importe quel tableau en tant que personnage d'arrière-plan, lequel choisirais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi inserirti in un dipinto come personaggio di sfondo, quale dipinto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "背景キャラクターとして、どんな絵画の中に自分を挿入できますか？どの絵を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "배경 인물로 어떤 그림에 자신을 삽입할 수 있다면, 어떤 그림을 선택하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne sette deg selv inn i et hvilket som helst maleri som en bakgrunnskarakter, hvilket maleri?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je jezelf als achtergrondpersonage in een schilderij kon invoegen, welk schilderij?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł wstawić się do dowolnego obrazu jako postać z tła, który obraz byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse se inserir em qualquer pintura como um personagem de fundo, qual pintura?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde sätta in dig själv i vilken målning som helst som en bakgrundskaraktär, vilken målning?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли вставити себе в будь-яку картину як другорядного персонажа, яку б картину ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能把自己作为背景角色插入到任何一幅画中，你会选哪幅画？" } }
+      }
+    },
+    "If you could have any piece of technology from science fiction be real, what would you pick?" : {
+      "comment" : "Hypothetical – Light",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have any piece of technology from science fiction be real, what would you pick?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du ein beliebiges Science-Fiction-Technologie real haben könntest, welches würdest du nehmen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener real cualquier tecnología de ciencia ficción, ¿cuál elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez rendre réelle une technologie de science-fiction, laquelle choisiriez-vous ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere reale una qualsiasi tecnologia della fantascienza, quale sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "SFの技術を一つ実現できるとしたら、どれを選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "공상 과학 기술 중 하나를 실제로 가질 수 있다면 무엇을 고르시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne gjort hvilken som helst science fiction-teknologi ekte, hvilken ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één stukje sciencefictiontechnologie echt kon maken, welke zou je kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł sprawić, że dowolna technologia z science fiction stałaby się rzeczywista, co byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse tornar real qualquer tecnologia de ficção científica, qual escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde göra en science fiction-teknik verklig, vilken skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли зробити реальною будь-яку технологію з наукової фантастики, що б ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能让科幻中的任何一种技术成为现实，你会选什么？" } }
+      }
+    },
+    "If you could make one rule that every restaurant had to follow, what would it be?" : {
+      "comment" : "Hypothetical – Light",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could make one rule that every restaurant had to follow, what would it be?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine Regel machen könntest, die jedes Restaurant befolgen müsste, welche wäre das?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras hacer una regla que todos los restaurantes tuvieran que seguir, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez imposer une règle que tous les restaurants devraient suivre, quelle serait-elle ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi fare una regola che tutti i ristoranti dovrebbero seguire, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "全てのレストランが守るべきルールを一つ作れるとしたら、何にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 레스토랑이 따라야 하는 규칙을 하나 만들 수 있다면 무엇으로 하겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne lage én regel som alle restauranter måtte følge, hva ville den vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één regel kon maken die elk restaurant moet volgen, wat zou die zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł wprowadzić jedną zasadę, której musiałyby przestrzegać wszystkie restauracje, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse criar uma regra que todos os restaurantes tivessem que seguir, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde införa en regel som alla restauranger måste följa, vad skulle den vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли ввести одне правило, якого мають дотримуватися всі ресторани, яким би воно було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能制定一条所有餐厅都必须遵守的规定，会是什么？" } }
+      }
+    },
+    "If you could have a second passport from any country in the world, which would you choose?" : {
+      "comment" : "Hypothetical – Light",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a second passport from any country in the world, which would you choose?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du einen zweiten Pass aus einem beliebigen Land der Welt haben könntest, welches würdest du wählen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener un segundo pasaporte de cualquier país del mundo, ¿cuál elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez avoir un second passeport d'un pays au monde, lequel choisiriez-vous ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere un secondo passaporto da qualsiasi paese del mondo, quale sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "世界のどの国のパスポートでも追加で持てるとしたら、どこを選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "세계 어느 나라의 여권이라도 하나 더 가질 수 있다면 어느 나라를 선택하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt et nytt pass fra et hvilket som helst land i verden, hvilket ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een tweede paspoort van elk land ter wereld kon hebben, welke zou je kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł mieć drugi paszport z dowolnego kraju na świecie, który byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter um segundo passaporte de qualquer país do mundo, qual escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha ett andra pass från valfritt land i världen, vilket skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли мати другий паспорт будь-якої країни світу, яку б ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能拥有世界上任何一个国家的第二本护照，你会选哪个？" } }
+      }
+    },
+    "If you could host Saturday Night Live, who would be the musical guest?" : {
+      "comment" : "Hypothetical – Light",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could host Saturday Night Live, who would be the musical guest?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du Saturday Night Live moderieren könntest, wer wäre der musikalische Gast?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras presentar Saturday Night Live, ¿quién sería el invitado musical?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez animer Saturday Night Live, quel serait l'invité musical ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi condurre Saturday Night Live, chi sarebbe l'ospite musicale?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "もしあなたがサタデー・ナイト・ライブのホストを務められるとしたら、音楽ゲストは誰にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "새터데이 나이트 라이브의 호스트가 될 수 있다면 뮤지컬 게스트는 누구로 하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne vært programleder for Saturday Night Live, hvem ville vært den musikalske gjesten?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je Saturday Night Live mocht presenteren, wie zou dan de muzikale gast zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł prowadzić Saturday Night Live, kto byłby gościem muzycznym?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse apresentar o Saturday Night Live, quem seria o convidado musical?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde vara värd för Saturday Night Live, vem skulle vara den musikaliska gästen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли вести Saturday Night Live, хто б став музичним гостем?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能主持《周六夜现场》，音乐嘉宾会是谁？" } }
+      }
+    },
+    "If you could bring one fictional gadget to life, what would it be?" : {
+      "comment" : "Hypothetical – Light",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could bring one fictional gadget to life, what would it be?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du ein fiktives Gerät zum Leben erwecken könntest, welches wäre es?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras dar vida a un gadget ficticio, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez donner vie à un gadget fictif, lequel serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi portare in vita un gadget immaginario, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "架空のガジェットを一つ実現できるとしたら、何にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가상의 장치 하나를 실제로 만들 수 있다면 무엇으로 하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne bringe én fiktiv dings til live, hva ville den vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één fictief gadget tot leven kon brengen, welke zou dat zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł ożywić jedno fikcyjne urządzenie, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse trazer à vida um gadget fictício, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde väcka en fiktiv pryl till liv, vad skulle den vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли оживити один вигаданий гаджет, що б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能让一个虚构的小工具成真，会是什么？" } }
+      }
+    },
+    "If you could have a 10-minute warning before any natural disaster, would you want it?" : {
+      "comment" : "Hypothetical – Medium",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a 10-minute warning before any natural disaster, would you want it?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine 10-minütige Vorwarnung vor jeder Naturkatastrophe haben könntest, würdest du sie wollen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener una advertencia de 10 minutos antes de cualquier desastre natural, ¿la querrías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez avoir un avertissement de 10 minutes avant toute catastrophe naturelle, le voudriez-vous ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere un preavviso di 10 minuti prima di qualsiasi disastro naturale, lo vorresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "どんな自然災害の前に10分の警告を受けられるとしたら、望みますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자연 재해 발생 10분 전에 경고를 받을 수 있다면 원하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne hatt et 10-minutters varsel før enhver naturkatastrofe, ville du ønsket det?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je 10 minuten van tevoren gewaarschuwd kon worden voor een natuurramp, zou je dat willen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł otrzymać 10-minutowe ostrzeżenie przed każdą klęską żywiołową, czy chciałbyś go?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter um aviso de 10 minutos antes de qualquer desastre natural, você o quereria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde få en 10-minuters varning före en naturkatastrof, skulle du vilja ha den?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли мати 10-хвилинне попередження перед будь-яким стихійним лихом, чи хотіли б ви його?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能在任何自然灾害前提前10分钟收到预警，你想要吗？" } }
+      }
+    },
+    "If you could add a new sense to the human body, what would it detect?" : {
+      "comment" : "Hypothetical – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could add a new sense to the human body, what would it detect?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du dem menschlichen Körper einen neuen Sinn hinzufügen könntest, was würde er wahrnehmen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras agregar un nuevo sentido al cuerpo humano, ¿qué detectaría?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez ajouter un nouveau sens au corps humain, que détecterait-il ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi aggiungere un nuovo senso al corpo umano, cosa rileverebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "人間の体に新しい感覚を追加できるとしたら、それは何を感知しますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "인간의 몸에 새로운 감각을 추가할 수 있다면, 그것은 무엇을 감지하게 하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne legge til en ny sans til menneskekroppen, hva ville den registrere?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een nieuw zintuig aan het menselijk lichaam zou kunnen toevoegen, wat zou het detecteren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł dodać nowy zmysł do ludzkiego ciała, co by wykrywał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse adicionar um novo sentido ao corpo humano, o que ele detectaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde lägga till ett nytt sinne till människokroppen, vad skulle det upptäcka?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли додати нове чуття до людського тіла, що б воно виявляло?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能给人体增加一种新的感官，它会探测到什么？" } }
+      }
+    },
+    "If you could live in a different historical period for a year, but as the opposite gender, which period?" : {
+      "comment" : "Hypothetical – Deep",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could live in a different historical period for a year, but as the opposite gender, which period?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du für ein Jahr in einer anderen historischen Epoche leben könntest, aber als das andere Geschlecht, welche Epoche wäre das?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras vivir un año en un período histórico diferente, pero como el género opuesto, ¿qué período?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez vivre un an dans une autre période historique, mais dans le genre opposé, laquelle choisiriez-vous ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi vivere per un anno in un periodo storico diverso, ma come il genere opposto, quale periodo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "別の歴史時代に、しかも異性として1年間暮らせるとしたら、どの時代を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다른 역사적 시대에서 반대 성별로 1년 동안 살 수 있다면, 어느 시대를 선택하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne leve i en annen historisk periode i ett år, men som det motsatte kjønn, hvilken periode?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een jaar in een andere historische periode zou kunnen leven, maar als het andere geslacht, welke periode?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł żyć przez rok w innym okresie historycznym, ale jako przeciwna płeć, jaki okres byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse viver por um ano em um período histórico diferente, mas como o gênero oposto, qual período?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde leva i en annan historisk period i ett år, men som motsatt kön, vilken period?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли жити в іншому історичному періоді рік, але як протилежна стать, який би період обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能以相反性别在另一个历史时期生活一年，你会选哪个时期？" } }
+      }
+    },
+    "If you could be the hero of any myth or legend, which would you choose?" : {
+      "comment" : "Hypothetical – Light",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could be the hero of any myth or legend, which would you choose?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du der Held eines beliebigen Mythos oder einer Legende sein könntest, welchen würdest du wählen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras ser el héroe de cualquier mito o leyenda, ¿cuál elegirías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez être le héros d'un mythe ou d'une légende, lequel choisiriez-vous ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi essere l'eroe di qualsiasi mito o leggenda, quale sceglieresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "どんな神話や伝説の英雄にもなれるとしたら、どれを選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어떤 신화나 전설의 영웅이 될 수 있다면 무엇을 선택하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne være helten i en hvilken som helst myte eller legende, hvilken ville du valgt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je de held van een mythe of legende kon zijn, welke zou je kiezen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł być bohaterem dowolnego mitu lub legendy, co byś wybrał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ser o herói de qualquer mito ou lenda, qual escolheria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde vara hjälten i en myt eller legend, vilken skulle du välja?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли бути героєм будь-якого міфу чи легенди, що б ви обрали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能成为任何神话或传说中的英雄，你会选哪个？" } }
+      }
+    },
+    "If you could have a statue of yourself built anywhere in the world, where would you put it?" : {
+      "comment" : "Hypothetical – Light",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a statue of yourself built anywhere in the world, where would you put it?" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du irgendwo auf der Welt eine Statue von dir errichten lassen könntest, wo würdest du sie aufstellen?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener una estatua tuya en cualquier lugar del mundo, ¿dónde la pondrías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si vous pouviez faire construire une statue de vous n'importe où dans le monde, où la placeriez-vous ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi farti costruire una statua in qualsiasi parte del mondo, dove la metteresti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分の銅像を世界のどこかに建てられるとしたら、どこに置きますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "세계 어디에나 자신의 동상을 세울 수 있다면 어디에 두시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne få reist en statue av deg selv hvor som helst i verden, hvor ville du plassert den?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je ergens ter wereld een standbeeld van jezelf zou kunnen laten bouwen, waar zou je het neerzetten?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł postawić swoje posąg w dowolnym miejscu na świecie, gdzie byś go umieścił?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter uma estátua sua em qualquer lugar do mundo, onde a colocaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde få en staty av dig själv rest var som helst i världen, var skulle du placera den?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли встановити власну статую в будь-якому місці світу, де б ви її розмістили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能在世界任何地方建造一座自己的雕像，你会把它放在哪里？" } }
+      }
+    },
     "If you could be the first person to do something, what would it be?": {
       "localizations": {
         "de": {
