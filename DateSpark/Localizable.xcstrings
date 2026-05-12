@@ -1958,7 +1958,7 @@
       }
     },
     "Bookmark questions that spark something real. Return to your collection whenever you need the right words." : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2047,7 +2047,7 @@
       }
     },
     "Build Your\\nCollection" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2402,7 +2402,7 @@
       }
     },
     "Categories" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2667,7 +2667,7 @@
       }
     },
     "Childhood" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -3110,7 +3110,7 @@
       }
     },
     "Collect" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -3816,7 +3816,7 @@
       }
     },
     "Deep Thoughts" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -3905,7 +3905,7 @@
       }
     },
     "Deeper\\nConversations" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -5507,7 +5507,7 @@
       }
     },
     "Discover" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -5596,7 +5596,7 @@
       }
     },
     "Discover each other's ambitions" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -10219,7 +10219,7 @@
       }
     },
     "Dreams & Goals" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -10398,7 +10398,7 @@
       }
     },
     "Easy, light questions to warm up" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -10747,7 +10747,7 @@
       }
     },
     "Fun & Silly" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -10836,7 +10836,7 @@
       }
     },
     "Fun memories from growing up" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -10925,7 +10925,7 @@
       }
     },
     "Get philosophical together" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -15608,7 +15608,7 @@
       }
     },
     "Hypothetical" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -15697,7 +15697,7 @@
       }
     },
     "Ice Breakers" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -34473,7 +34473,7 @@
       }
     },
     "Language" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -34562,7 +34562,7 @@
       }
     },
     "Laugh and be playful" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -34651,7 +34651,7 @@
       }
     },
     "Legal" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -34828,7 +34828,7 @@
       }
     },
     "Love & Life" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -35179,7 +35179,7 @@
       }
     },
     "My Questions" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -35352,7 +35352,7 @@
       }
     },
     "Navigate" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -35531,7 +35531,7 @@
       }
     },
     "Nothing saved\\nyet." : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -36322,7 +36322,7 @@
       }
     },
     "Saved" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -36499,7 +36499,7 @@
       }
     },
     "Scientific path to falling in love" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -36678,7 +36678,7 @@
       }
     },
     "Session\\nComplete" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -36767,7 +36767,7 @@
       }
     },
     "Settings" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -37379,7 +37379,7 @@
       }
     },
     "Sound" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -37645,7 +37645,7 @@
       }
     },
     "Spicy" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -38088,7 +38088,7 @@
       }
     },
     "Spin the wheel to discover a category,\\nor browse all ten themes." : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -38265,7 +38265,7 @@
       }
     },
     "Swipe right when a question resonates. Swipe left to pass. Every card is a doorway — open the ones that call to you." : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -38354,7 +38354,7 @@
       }
     },
     "Swipe\\nFreely" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -38871,7 +38871,7 @@
       }
     },
     "Ten\\nCategories" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -39048,7 +39048,7 @@
       }
     },
     "The 36 Experience" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -39225,7 +39225,7 @@
       }
     },
     "Thoughtfully crafted questions designed to move past small talk — for first dates, old friends, and every meaningful encounter." : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -39314,7 +39314,7 @@
       }
     },
     "Travel" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -39403,7 +39403,7 @@
       }
     },
     "Turn up the heat and flirt" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -39846,7 +39846,7 @@
       }
     },
     "Welcome" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -45102,7 +45102,7 @@
       }
     },
     "What if...?" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -61792,7 +61792,7 @@
       }
     },
     "What matters most to you?" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -92342,7 +92342,7 @@
       }
     },
     "Where would\\nyou like to begin?" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -96163,7 +96163,7 @@
       }
     },
     "Your personal prompts" : {
-      "extractionState" : "manual",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
