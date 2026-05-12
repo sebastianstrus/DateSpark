@@ -45000,6 +45000,956 @@
         }
       }
     },
+    "What's a job you think you'd be unexpectedly great at?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bei welchem Job wärst du unerwartet großartig?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a job you think you'd be unexpectedly great at?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué trabajo crees que se te daría inesperadamente bien?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel métier penses-tu que tu réussirais exceptionnellement bien ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale lavoro pensi che saresti incredibilmente bravo a fare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "思いがけず自分が得意だと思う仕事は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "뜻밖에 잘할 것 같은 직업은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken jobb tror du du ville vært uventet flink til?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Bij welke baan denk je dat je onverwacht goed zou zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką pracę myślisz, że wykonywałbyś nieoczekiwanie świetnie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual trabalho você acha que seria inesperadamente bom?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket jobb tror du att du oväntat skulle vara bra på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку роботу, на вашу думку, ви несподівано добре виконували б?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你觉得哪份工作你会出乎意料地擅长？" } }
+      }
+    },
+    "What's a personal record you'd like to break?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen persönlichen Rekord würdest du gerne brechen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a personal record you'd like to break?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué récord personal te gustaría romper?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel record personnel aimerais-tu battre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale record personale vorresti battere?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "どのような自己記録を更新したいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "깨고 싶은 개인 기록이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken personlig rekord vil du gjerne slå?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk persoonlijk record zou je willen breken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki rekord osobisty chciałbyś pobić?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual recorde pessoal você gostaria de quebrar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket personligt rekord skulle du vilja slå?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який особистий рекорд ви хотіли б побити?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想打破哪项个人记录？" } }
+      }
+    },
+    "If you could design a new course for a school curriculum, what would it be?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du einen neuen Kurs für den Schullehrplan entwerfen könntest, was wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could design a new course for a school curriculum, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras diseñar un nuevo curso para el plan de estudios escolar, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais concevoir un nouveau cours pour un programme scolaire, ce serait quoi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi progettare un nuovo corso per un curriculum scolastico, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "学校のカリキュラムに新しいコースをデザインできるとしたら、どんな内容にしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "학교 교과 과정에 새 과목을 디자인할 수 있다면 어떤 과목을 만들겠어요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne designe et nytt fag i skolen, hva ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je een nieuwe cursus voor een schoolcurriculum mocht ontwerpen, wat zou die zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł zaprojektować nowy przedmiot w szkole, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse criar um novo curso para o currículo escolar, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du fick designa en ny kurs i skolans läroplan, vad skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли розробити новий курс для шкільної програми, що б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能为学校课程设计一门新课，会是什么？" } }
+      }
+    },
+    "What's a problem in the world you wish you had the power to solve?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Problem der Welt wünschst du dir, die Macht zu haben, es zu lösen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a problem in the world you wish you had the power to solve?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué problema del mundo deseas tener el poder de resolver?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel problème dans le monde aimerais-tu avoir le pouvoir de résoudre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale problema del mondo vorresti avere il potere di risolvere?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "解決する力を持ちたいと思う世界的な問題は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "해결할 힘이 있으면 좋겠다고 생각하는 세상의 문제는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket problem i verden skulle du ønske du hadde makten til å løse?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk probleem in de wereld wou je dat je de macht had om op te lossen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki problem na świecie chciałbyś mieć moc rozwiązać?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual problema no mundo você gostaria de ter o poder de resolver?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket problem i världen önskar du att du hade makten att lösa?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку проблему у світі ви хотіли б мати змогу вирішити?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望自己能解决世界上的哪个问题？" } }
+      }
+    },
+    "What's a small habit you want to build that you think would improve your life significantly?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche kleine Angewohnheit möchtest du dir aneignen, die dein Leben deutlich verbessern würde?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a small habit you want to build that you think would improve your life significantly?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pequeño hábito quieres desarrollar que creas que mejoraría significativamente tu vida?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle petite habitude veux-tu adopter et qui améliorerait significativement ta vie ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale piccola abitudine vuoi costruire che pensi migliorerebbe significativamente la tua vita?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "身につけたいと思っている、生活を大きく改善する小さな習慣は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "삶을 크게 개선할 것 같은 작은 습관 하나를 들이고 싶다면 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken liten vane vil du bygge opp som du tror ville forbedret livet ditt betydelig?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke kleine gewoonte wil je aanleren waarvan je denkt dat je leven er aanzienlijk beter van wordt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki mały nawyk chcesz wypracować, który Twoim zdaniem znacznie poprawiłby Twoje życie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual pequeno hábito você quer criar que acha que melhoraria significativamente sua vida?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken liten vana vill du bygga upp som du tror skulle förbättra ditt liv avsevärt?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку маленьку звичку ви хочете виробити, яка, на вашу думку, значно покращить ваше життя?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想养成哪个能显著改善生活的小习惯？" } }
+      }
+    },
+    "What’s a childhood dream you've come close to achieving?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Kindheitstraum hast du fast erreicht?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What’s a childhood dream you've come close to achieving?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué sueño de la infancia has estado cerca de lograr?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel rêve d'enfance as-tu presque réalisé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale sogno d'infanzia sei stato vicino a realizzare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "実現間近だった子供の頃の夢は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이룰 뻔했던 어릴 적 꿈이 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken barndomsdrøm har du vært nær å oppnå?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke kinderdroom heb je bijna bereikt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie marzenie z dzieciństwa udało ci się prawie spełnić?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual sonho de infância você chegou perto de realizar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken barndomsdröm har du varit nära att uppnå?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку дитячу мрію ви майже здійснили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你差点实现了哪个童年梦想？" } }
+      }
+    },
+    "If you could have a conversation with your 80-year-old self, what would you ask?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du mit deinem 80-jährigen Ich sprechen könntest, was würdest du fragen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a conversation with your 80-year-old self, what would you ask?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras conversar contigo mismo de 80 años, ¿qué le preguntarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais parler à toi-même à 80 ans, que lui demanderais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi parlare con te stesso a 80 anni, cosa chiederesti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "80歳の自分と会話できるなら、何を尋ねますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "80세의 자신과 대화할 수 있다면 무엇을 묻겠어요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne snakke med deg selv som 80-åring, hva ville du spurt om?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je met je 80-jarige zelf zou kunnen praten, wat zou je dan vragen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł porozmawiać ze sobą z przyszłości (80 lat), o co byś zapytał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse conversar com seu eu de 80 anos, o que perguntaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde prata med ditt 80-åriga jag, vad skulle du fråga?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли поговорити з собою 80-річним, про що б запитали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能和80岁的自己对话，你会问什么？" } }
+      }
+    },
+    "What's an experience you want to have that requires no money at all?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Erfahrung möchtest du machen, die überhaupt kein Geld kostet?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's an experience you want to have that requires no money at all?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué experiencia quieres tener que no requiera dinero en absoluto?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle expérience veux-tu vivre qui ne nécessite absolument aucun argent ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale esperienza vuoi vivere che non richiede assolutamente denaro?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "お金がまったくかからない経験で、してみたいことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "돈이 전혀 들지 않는 경험 중에 해보고 싶은 것이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken opplevelse vil du ha som ikke koster penger i det hele tatt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke ervaring wil je meemaken waarvoor helemaal geen geld nodig is?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie doświadczenie chcesz przeżyć, które nie wymaga żadnych pieniędzy?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que experiência você quer ter que não exija dinheiro algum?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken upplevelse vill du ha som inte kräver några pengar alls?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який досвід ви хочете отримати, що не потребує жодних грошей?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想要拥有哪段完全不需要花钱的经历？" } }
+      }
+    },
+    "What's a creative project you've been mentally planning for years?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "An welchem kreativen Projekt planst du seit Jahren mental?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a creative project you've been mentally planning for years?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué proyecto creativo has estado planeando mentalmente durante años?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel projet créatif planifies-tu mentalement depuis des années ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale progetto creativo hai pianificato mentalmente per anni?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "何年も頭の中で計画しているクリエイティブなプロジェクトは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "몇 년 동안 머릿속으로 구상해 온 창의적인 프로젝트가 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket kreativt prosjekt har du planlagt mentalt i årevis?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Aan welk creatief project ben je al jaren mentaal aan het plannen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki kreatywny projekt planujesz mentalnie od lat?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual projeto criativo você tem planejado mentalmente por anos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket kreativt projekt har du planerat mentalt i flera år?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який творчий проект ви плануєте подумки роками?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你多年来一直在心里计划哪个创意项目？" } }
+      }
+    },
+    "What does 'balance' look like for you in an ideal week?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie sieht für dich 'Balance' in einer idealen Woche aus?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What does 'balance' look like for you in an ideal week?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cómo se ve el 'equilibrio' para ti en una semana ideal?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "À quoi ressemble l'équilibre pour toi dans une semaine idéale ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Che aspetto ha l'equilibrio per te in una settimana ideale?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "理想の週における「バランス」とはどのようなものですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이상적인 한 주에서 '균형'은 어떤 모습인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvordan ser 'balanse' ut for deg i en ideell uke?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe ziet 'balans' er voor jou uit in een ideale week?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak dla ciebie wygląda 'równowaga' w idealnym tygodniu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Como é o 'equilíbrio' para você em uma semana ideal?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur ser 'balans' ut för dig under en idealisk vecka?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як виглядає для вас 'баланс' в ідеальному тижні?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "在理想的一周里，你的“平衡”是什么样的？" } }
+      }
+    },
+    "What's a fear you want to conquer, not because it's rational, but because it's holding you back?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Angst möchtest du überwinden, nicht weil sie rational ist, sondern weil sie dich zurückhält?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a fear you want to conquer, not because it's rational, but because it's holding you back?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué miedo quieres conquistar, no porque sea racional, sino porque te está frenando?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle peur veux-tu surmonter, non pas parce qu'elle est rationnelle, mais parce qu'elle te retient ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale paura vuoi conquistare, non perché razionale, ma perché ti trattiene?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "合理的だからではなく、自分を妨げているから克服したい恐怖は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "합리적이어서가 아니라 자신을 붙잡고 있기 때문에 극복하고 싶은 두려움은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken frykt vil du overvinne, ikke fordi den er rasjonell, men fordi den holder deg tilbake?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke angst wil je overwinnen, niet omdat die rationeel is, maar omdat die je tegenhoudt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki strach chcesz pokonać, nie dlatego, że jest racjonalny, ale dlatego, że cię powstrzymuje?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual medo você quer conquistar, não porque é racional, mas porque está te impedindo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken rädsla vill du övervinna, inte för att den är rationell, utan för att den håller dig tillbaka?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який страх ви хочете подолати, не тому, що він раціональний, а тому що він стримує вас?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想克服哪个恐惧——不是因为合理，而是因为它阻碍了你？" } }
+      }
+    },
+    "If you could master one form of art, what would it be?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du eine Kunstform meistern könntest, welche wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could master one form of art, what would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras dominar una forma de arte, ¿cuál sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais maîtriser une forme d'art, laquelle serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi padroneggiare una forma d'arte, quale sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "1つの芸術形態を極められるとしたら、何を選びますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "하나의 예술 분야를 마스터할 수 있다면 무엇을 하겠어요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne mestre én kunstform, hva ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één kunstvorm zou kunnen beheersen, welke zou dat zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł opanować jedną formę sztuki, co by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse dominar uma forma de arte, qual seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde bemästra en konstform, vilken skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли опанувати одну форму мистецтва, що б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能精通一种艺术形式，你会选什么？" } }
+      }
+    },
+    "What's a cause you'd volunteer for if you had unlimited time?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Für welche Sache würdest du dich ehrenamtlich engagieren, wenn du unendlich viel Zeit hättest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a cause you'd volunteer for if you had unlimited time?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Por qué causa serías voluntario si tuvieras tiempo ilimitado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Pour quelle cause serais-tu bénévole si tu avais du temps illimité ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Per quale causa faresti volontariato se avessi tempo illimitato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "無限の時間があるなら、どのような活動にボランティアとして参加したいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시간이 무한하다면 어떤 일에 자원봉사하고 싶으신가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken sak ville du frivillig jobbet for hvis du hadde ubegrenset tid?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Voor welk goed doel zou je vrijwilligerswerk doen als je onbeperkt tijd had?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Dla jakiej sprawy zostałbyś wolontariuszem, gdybyś miał nieograniczony czas?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Para qual causa você seria voluntário se tivesse tempo ilimitado?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken sak skulle du volontärarbeta för om du hade obegränsad tid?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Для якої справи ви б волонтерили, якби мали безмежний час?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你有无限时间，你会为哪个事业做志愿者？" } }
+      }
+    },
+    "What's a moment in your life you wish you could re-do with the knowledge you have now?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Moment in deinem Leben würdest du gerne mit deinem jetzigen Wissen wiederholen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a moment in your life you wish you could re-do with the knowledge you have now?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué momento de tu vida te gustaría poder repetir con el conocimiento que tienes ahora?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel moment de ta vie aimerais-tu revivre avec les connaissances que tu as aujourd'hui ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale momento della tua vita vorresti poter rifare con la conoscenza che hai ora?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今の知識を持ってやり直したい人生の瞬間は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "지금의 지식을 가지고 다시 해보고 싶은 인생의 순간이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket øyeblikk i livet ditt skulle du ønske du kunne gjøre om med den kunnskapen du har nå?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk moment in je leven zou je opnieuw willen doen met de kennis die je nu hebt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki moment w swoim życiu chciałbyś powtórzyć z obecną wiedzą?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual momento da sua vida você gostaria de poder refazer com o conhecimento que tem agora?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket ögonblick i ditt liv önskar du att du kunde göra om med den kunskap du har nu?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який момент у вашому житті ви хотіли б переграти з тими знаннями, що маєте зараз?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望用现在的知识重新来过的人生瞬间是什么？" } }
+      }
+    },
+    "What's a physical challenge you'd like to accomplish?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche körperliche Herausforderung möchtest du meistern?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a physical challenge you'd like to accomplish?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué desafío físico te gustaría lograr?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel défi physique aimerais-tu accomplir ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale sfida fisica vorresti completare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "達成したい身体的な挑戦は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "해내고 싶은 신체적 도전이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken fysisk utfordring vil du gjerne gjennomføre?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke fysieke uitdaging zou je willen volbrengen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie wyzwanie fizyczne chciałbyś osiągnąć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual desafio físico você gostaria de realizar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken fysisk utmaning skulle du vilja klara av?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке фізичне випробування ви хотіли б подолати?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想完成哪个体能挑战？" } }
+      }
+    },
+    "What's a title you'd love to have (e.g., 'Doctor', 'Captain', 'President')?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Titel würdest du liebend gerne haben (z.B. 'Doktor', 'Kapitän', 'Präsident')?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a title you'd love to have (e.g., 'Doctor', 'Captain', 'President')?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué título te encantaría tener (p.ej., 'Doctor', 'Capitán', 'Presidente')?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel titre aimerais-tu avoir (par ex., 'Docteur', 'Capitaine', 'Président') ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Che titolo ti piacerebbe avere (es. 'Dottore', 'Capitano', 'Presidente')?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "どんな肩書きが欲しいですか？（例：「博士」「船長」「社長」）" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "갖고 싶은 직함이 있나요? (예: '박사', '선장', '대통령')" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken tittel ville du elsket å ha (f.eks. 'Doktor', 'Kaptein', 'President')?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke titel zou je graag hebben (bv. 'Doctor', 'Kapitein', 'President')?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki tytuł chciałbyś mieć (np. 'Doktor', 'Kapitan', 'Prezydent')?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual título você adoraria ter (ex.: 'Doutor', 'Capitão', 'Presidente')?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken titel skulle du älska att ha (t.ex. 'Doktor', 'Kapten', 'President')?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який титул ви хотіли б мати (наприклад, 'Доктор', 'Капітан', 'Президент')?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望拥有什么头衔（例如“博士”、“船长”、“主席”）？" } }
+      }
+    },
+    "What's a tradition you want to start for your future family or friend group?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Tradition möchtest du für deine zukünftige Familie oder Freundesgruppe beginnen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a tradition you want to start for your future family or friend group?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué tradición quieres iniciar para tu futura familia o grupo de amigos?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle tradition veux-tu lancer pour ta future famille ou ton groupe d'amis ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale tradizione vuoi iniziare per la tua futura famiglia o gruppo di amici?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "将来の家族や友人グループのために始めたい習慣は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "미래의 가족이나 친구들을 위해 시작하고 싶은 전통이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken tradisjon vil du starte for din fremtidige familie eller vennegjeng?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke traditie wil je beginnen voor je toekomstige familie of vriendengroep?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką tradycję chcesz rozpocząć dla swojej przyszłej rodziny lub grupy przyjaciół?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que tradição você quer começar para sua futura família ou grupo de amigos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken tradition vill du starta för din framtida familj eller vänkrets?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку традицію ви хочете започаткувати для своєї майбутньої родини чи групи друзів?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想为未来的家人或朋友群体开始什么传统？" } }
+      }
+    },
+    "What's a piece of technology you hope is invented in your lifetime?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Technologie hoffst du, dass sie noch zu deinen Lebzeiten erfunden wird?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a piece of technology you hope is invented in your lifetime?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué tecnología esperas que se invente durante tu vida?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle technologie espères-tu voir inventée de ton vivant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale tecnologia speri venga inventata durante la tua vita?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "生涯のうちに発明されてほしい技術は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "평생 내에 발명되길 바라는 기술이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken teknologi håper du blir oppfunnet i løpet av din levetid?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke technologie hoop je dat er in jouw leven wordt uitgevonden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką technologię masz nadzieję, że wynajdą za twojego życia?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual tecnologia você espera que seja inventada durante a sua vida?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken teknologi hoppas du blir uppfunnen under din livstid?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку технологію ви сподіваєтесь, буде винайдено за вашого життя?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望有生之年能发明出哪种技术？" } }
+      }
+    },
+    "What's a skill you think would make the world a better place if everyone learned it?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Fähigkeit würde deiner Meinung nach die Welt zu einem besseren Ort machen, wenn sie jeder erlernen würde?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a skill you think would make the world a better place if everyone learned it?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué habilidad crees que haría del mundo un lugar mejor si todos la aprendieran?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle compétence penses-tu rendrait le monde meilleur si tout le monde l'apprenait ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale abilità pensi renderebbe il mondo un posto migliore se tutti la imparassero?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "誰もが学べば世界がより良くなるとあなたが思うスキルは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모두가 배우면 세상이 더 나은 곳이 될 것 같은 기술은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken ferdighet tror du ville gjort verden til et bedre sted hvis alle lærte den?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vaardigheid zou volgens jou de wereld een betere plek maken als iedereen die zou leren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka umiejętność, Twoim zdaniem, uczyniłaby świat lepszym, gdyby każdy się jej nauczył?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual habilidade você acha que tornaria o mundo um lugar melhor se todos a aprendessem?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken färdighet tror du skulle göra världen bättre om alla lärde sig den?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка навичка, на вашу думку, зробила б світ кращим, якби кожен її опанував?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你觉得哪项技能如果人人都学会，世界会变得更美好？" } }
+      }
+    },
+    "What's a goal you're currently pursuing that no one knows about?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Ziel verfolgst du derzeit, von dem niemand weiß?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a goal you're currently pursuing that no one knows about?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué objetivo estás persiguiendo actualmente del que nadie sabe?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel objectif poursuis-tu actuellement que personne ne connaît ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale obiettivo stai attualmente perseguendo che nessuno conosce?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "誰も知らない、現在追求している目標は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아무도 모르게 현재 추구하고 있는 목표가 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket mål jobber du mot som ingen vet om?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk doel ben je momenteel aan het nastreven waar niemand van weet?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki cel obecnie realizujesz, o którym nikt nie wie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual objetivo você está perseguindo atualmente que ninguém sabe?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket mål strävar du efter just nu som ingen känner till?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку мету ви зараз переслідуєте, про яку ніхто не знає?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你目前正在追求哪个不为人知的目标？" } }
+      }
+    },
+    "What's the best 'bad' advice you've ever received?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist der beste 'schlechte' Ratschlag, den du je erhalten hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's the best 'bad' advice you've ever received?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el mejor 'mal' consejo que has recibido?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le meilleur 'mauvais' conseil que tu aies jamais reçu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il miglior 'cattivo' consiglio che tu abbia mai ricevuto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までに受けた「悪い」アドバイスで最高のものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "받은 적 있는 '나쁜' 조언 중 최고는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste 'dårlige' rådet du noen gang har fått?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste 'slechte' advies dat je ooit hebt gekregen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka jest najlepsza 'zła' rada, jaką kiedykolwiek otrzymałeś?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o melhor 'mau' conselho que você já recebeu?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa 'dåliga' rådet du någonsin har fått?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка найкраща 'погана' порада ви коли-небудь отримували?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你收到过的最好的“坏”建议是什么？" } }
+      }
+    },
+    "What's a luxury you want to earn for yourself?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Luxus möchtest du dir selbst verdienen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a luxury you want to earn for yourself?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lujo quieres ganarte por ti mismo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel luxe veux-tu mériter par toi-même ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale lusso vuoi guadagnarti da solo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分で手に入れたい贅沢は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "스스로 얻고 싶은 호사는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken luksus vil du gjerne fortjene selv?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke luxe wil je voor jezelf verdienen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki luksus chcesz sam na siebie zarobić?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual luxo você quer conquistar por si mesmo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken lyx vill du förtjäna själv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку розкіш ви хочете заробити для себе?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想为自己赢得什么样的奢侈品？" } }
+      }
+    },
+    "What's a memory you want to create in the next 12 months?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Erinnerung möchtest du in den nächsten 12 Monaten schaffen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a memory you want to create in the next 12 months?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué recuerdo quieres crear en los próximos 12 meses?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel souvenir veux-tu créer dans les 12 prochains mois ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale ricordo vuoi creare nei prossimi 12 mesi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今後12ヶ月のうちに作りたい思い出は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앞으로 12개월 안에 만들고 싶은 추억이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket minne vil du skape i løpet av de neste 12 månedene?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke herinnering wil je de komende 12 maanden creëren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie wspomnienie chcesz stworzyć w ciągu najbliższych 12 miesięcy?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que memória você quer criar nos próximos 12 meses?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket minne vill du skapa under de närmaste 12 månaderna?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який спогад ви хочете створити в наступні 12 місяців?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在未来12个月内想创造什么回忆？" } }
+      }
+    },
+    "What's a lesson you hope to teach your future children or mentees?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Lektion hoffst du, deinen zukünftigen Kindern oder Schützlingen beibringen zu können?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a lesson you hope to teach your future children or mentees?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lección esperas enseñar a tus futuros hijos o aprendices?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle leçon espères-tu enseigner à tes futurs enfants ou mentorés ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale lezione speri di insegnare ai tuoi futuri figli o allievi?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "将来の子供やメンティーに教えたいと思っていることは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "미래의 자녀나 멘티에게 가르치고 싶은 교훈이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken lære håper du å lære dine fremtidige barn eller mentees?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke les hoop je je toekomstige kinderen of mentees te leren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej lekcji masz nadzieję nauczyć swoje przyszłe dzieci lub podopiecznych?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que lição você espera ensinar aos seus futuros filhos ou mentorados?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken lärdom hoppas du kunna lära dina framtida barn eller adept?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якого уроку ви сподіваєтесь навчити своїх майбутніх дітей чи підопічних?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望教给未来孩子或学员的教训是什么？" } }
+      }
+    },
+    "What's a place you want to see before it changes forever?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Ort möchtest du sehen, bevor er sich für immer verändert?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a place you want to see before it changes forever?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lugar quieres ver antes de que cambie para siempre?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel endroit veux-tu voir avant qu'il ne change pour toujours ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale posto vuoi vedere prima che cambi per sempre?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "永遠に変わる前に見ておきたい場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "영원히 변하기 전에 보고 싶은 장소가 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket sted vil du se før det forandrer seg for alltid?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke plek wil je zien voordat die voor altijd verandert?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie miejsce chcesz zobaczyć, zanim zmieni się na zawsze?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual lugar você quer ver antes que mude para sempre?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken plats vill du se innan den förändras för alltid?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке місце ви хочете побачити, перш ніж воно зміниться назавжди?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想在哪个地方永远改变之前去看一看？" } }
+      }
+    },
+    "What's a personal mystery you'd like to solve about yourself?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches persönliche Rätsel über dich selbst möchtest du lösen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a personal mystery you'd like to solve about yourself?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué misterio personal te gustaría resolver sobre ti mismo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel mystère personnel aimerais-tu résoudre à propos de toi-même ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale mistero personale vorresti risolvere su te stesso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分自身について解決したい個人的な謎は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자신에 대해 풀고 싶은 개인적인 미스터리가 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket personlig mysterium vil du gjerne løse om deg selv?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk persoonlijk mysterie over jezelf zou je willen oplossen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką osobistą tajemnicę chciałbyś rozwiązać na swój temat?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual mistério pessoal você gostaria de resolver sobre si mesmo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket personligt mysterium skulle du vilja lösa om dig själv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку особисту таємницю про себе ви хотіли б розгадати?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想解开关于自己的哪个个人谜团？" } }
+      }
+    },
+    "What's a collaboration you'd love to be a part of?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bei welcher Zusammenarbeit würdest du gerne dabei sein?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a collaboration you'd love to be a part of?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿En qué colaboración te encantaría participar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "À quelle collaboration aimerais-tu participer ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Di quale collaborazione ti piacerebbe far parte?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "どのようなコラボレーションに参加してみたいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어떤 협업에 참여하고 싶으신가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket samarbeid ville du elsket å være en del av?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Bij welke samenwerking zou je graag betrokken zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jakiej współpracy chciałbyś uczestniczyć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De qual colaboração você adoraria fazer parte?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket samarbete skulle du älska att vara en del av?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "У якій співпраці ви хотіли б взяти участь?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你很想参与什么样的合作？" } }
+      }
+    },
+    "What's a non-traditional measure of success that matters to you?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist ein nicht-traditioneller Maßstab für Erfolg, der dir wichtig ist?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a non-traditional measure of success that matters to you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué medida de éxito no tradicional es importante para ti?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle mesure de succès non traditionnelle compte pour toi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale misura non tradizionale di successo è importante per te?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたにとって重要な、非伝統的な成功の尺度は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신에게 중요한 비전통적 성공 척도는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er et utradisjonelt mål på suksess som betyr noe for deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is voor jou een niet-traditionele maatstaf voor succes die ertoe doet?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka nietradycyjna miara sukcesu ma dla ciebie znaczenie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual medida não tradicional de sucesso é importante para você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är ett icke-traditionellt mått på framgång som betyder något för dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який нетрадиційний показник успіху є важливим для вас?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "对你来说，什么非传统的成功衡量标准很重要？" } }
+      }
+    },
+    "What's a daily annoyance you dream of eliminating?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche tägliche Belästigung träumst du davon zu beseitigen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a daily annoyance you dream of eliminating?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué molestia diaria sueñas con eliminar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle nuisance quotidienne rêves-tu d'éliminer ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale fastidio quotidiano sogni di eliminare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "なくしたいと思っている日常の悩みは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "없애고 싶은 일상적인 성가심이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken daglig plage drømmer du om å bli kvitt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke dagelijkse ergernis droom je ervan te elimineren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej codziennej niedogodności marzysz o pozbyciu się?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual incômodo diário você sonha em eliminar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken daglig olägenhet drömmer du om att eliminera?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якої щоденної прикрощі ви мрієте позбутися?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你梦想消除哪个日常烦恼？" } }
+      }
+    },
+    "What's an award or recognition you secretly covet?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Auszeichnung oder Anerkennung begehrst du heimlich?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's an award or recognition you secretly covet?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué premio o reconocimiento codicias en secreto?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle récompense ou reconnaissance convoites-tu secrètement ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale premio o riconoscimento brami segretamente?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "密かに欲しいと思っている賞や評価は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "은밀히 탐내는 상이나 인정은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken pris eller anerkjennelse begjærer du i hemmelighet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke prijs of erkenning begeer je stiekem?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką nagrodę lub uznanie potajemnie pożądasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual prêmio ou reconhecimento você cobiça secretamente?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket pris eller erkännande åtrår du i hemlighet?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку нагороду чи визнання ви таємно прагнете?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你暗自觊觎哪个奖项或认可？" } }
+      }
+    },
+    "What's a story you want to be able to tell in ten years?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Geschichte möchtest du in zehn Jahren erzählen können?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a story you want to be able to tell in ten years?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué historia quieres poder contar en diez años?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle histoire veux-tu pouvoir raconter dans dix ans ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale storia vuoi poter raccontare tra dieci anni?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "10年後に語れるようになりたい話は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "10년 후에 들려줄 수 있으면 좋겠는 이야기가 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken historie vil du kunne fortelle om ti år?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk verhaal wil je over tien jaar kunnen vertellen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką historię chcesz móc opowiedzieć za dziesięć lat?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que história você quer poder contar em dez anos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken historia vill du kunna berätta om tio år?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку історію ви хочете мати змогу розповісти через десять років?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望十年后能讲出哪个故事？" } }
+      }
+    },
+    "If you could have a second home anywhere, where would you want it to be?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du überall ein zweites Zuhause haben könntest, wo sollte es sein?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could have a second home anywhere, where would you want it to be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras tener una segunda casa en cualquier lugar, ¿dónde te gustaría que estuviera?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais avoir une résidence secondaire n'importe où, où voudrais-tu qu'elle soit ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi avere una seconda casa ovunque, dove vorresti che fosse?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "どこにでもセカンドホームを持てるとしたら、どこにしたいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어디든지 세컨드 하우스를 가질 수 있다면 어디에 갖고 싶으신가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne ha et andrehjem hvor som helst, hvor ville du at det skulle være?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je overal een tweede thuis zou kunnen hebben, waar zou je dat dan willen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł mieć drugi dom gdziekolwiek, gdzie byś go chciał?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse ter uma segunda casa em qualquer lugar, onde gostaria que fosse?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ha ett andra hem var som helst, var skulle du vilja ha det?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли мати другий будинок де завгодно, де б ви хотіли, щоб він був?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你可以在任何地方拥有第二个家，你希望在哪里？" } }
+      }
+    },
+    "What's a skill you think is becoming extinct that you want to preserve?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Fähigkeit, die deiner Meinung nach ausstirbt, möchtest du bewahren?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a skill you think is becoming extinct that you want to preserve?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué habilidad que crees que se está extinguiendo quieres preservar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle compétence penses-tu être en voie d'extinction et que tu veux préserver ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale abilità pensi stia diventando estinta e vuoi preservare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "絶滅しつつあると思うスキルで、あなたが守りたいものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사라져 가고 있다고 생각하는 기술 중에서 보존하고 싶은 것이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken ferdighet tror du er i ferd med å dø ut og som du vil bevare?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vaardigheid waarvan je denkt dat die uitsterft, wil je behouden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką umiejętność, która Twoim zdaniem wymiera, chcesz zachować?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual habilidade que você acha que está se tornando extinta e você quer preservar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken färdighet tror du håller på att dö ut som du vill bevara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку навичку, яка, на вашу думку, зникає, ви хочете зберегти?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你认为哪项正在消失的技能是你想保留下来的？" } }
+      }
+    },
+    "What's a question you hope you have the answer to in five years?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Auf welche Frage hoffst du, in fünf Jahren die Antwort zu haben?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a question you hope you have the answer to in five years?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué pregunta esperas tener respondida en cinco años?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "À quelle question espères-tu avoir la réponse dans cinq ans ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "A quale domanda speri di avere una risposta tra cinque anni?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "5年後に答えを持っていることを願う質問は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "5년 안에 답을 알았으면 하는 질문이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket spørsmål håper du å ha svaret på om fem år?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welke vraag hoop je over vijf jaar het antwoord te hebben?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Na jakie pytanie masz nadzieję poznać odpowiedź za pięć lat?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que pergunta você espera ter a resposta em cinco anos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken fråga hoppas du ha svaret på om fem år?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "На яке запитання ви сподіваєтесь мати відповідь через п’ять років?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望在五年内得到哪个问题的答案？" } }
+      }
+    },
+    "What's a routine you wish you could stick to?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Routine wünschst du dir, sie durchhalten zu können?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a routine you wish you could stick to?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué rutina te gustaría poder mantener?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle routine aimerais-tu pouvoir suivre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale routine vorresti riuscire a mantenere?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "続けられたらいいのにと思う習慣は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "계속 지켰으면 하는 루틴이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken rutine skulle du ønske du kunne holde deg til?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke routine wou je dat je kon volhouden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej rutyny chciałbyś się trzymać?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual rotina você gostaria de conseguir manter?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken rutin önskar du att du kunde hålla dig till?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якого режиму ви хотіли б дотримуватися?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望自己能坚持哪个日常惯例？" } }
+      }
+    },
+    "What's a 'dream job' you had as a kid that you still think about sometimes?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Von welchem 'Traumjob' aus deiner Kindheit denkst du manchmal noch?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'dream job' you had as a kid that you still think about sometimes?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué 'trabajo soñado' tenías de niño que todavía piensas a veces?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel 'métier de rêve' avais-tu étant enfant et auquel tu penses encore parfois ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale 'lavoro dei sogni' avevi da bambino a cui a volte pensi ancora?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "子供の頃に夢見ていた「仕事」で、今でも時々考えるものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어릴 적 가졌던 '꿈의 직업' 중 가끔씩 떠오르는 것이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken 'drømmejobb' hadde du som barn som du fortsatt tenker på iblant?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke 'droombaan' had je als kind waar je nog wel eens aan denkt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "O jakiej 'wymarzonej pracy' z dzieciństwa czasem jeszcze myślisz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual 'trabalho dos sonhos' você tinha quando criança e ainda pensa às vezes?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket 'drömjobb' hade du som barn som du ibland fortfarande tänker på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Про яку 'роботу мрії' з дитинства ви іноді ще думаєте?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你小时候的哪个“梦想工作”现在偶尔还会想起？" } }
+      }
+    },
+    "What's a way you want to surprise someone you love?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie möchtest du jemanden überraschen, den du liebst?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a way you want to surprise someone you love?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿De qué manera quieres sorprender a alguien que amas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quelle façon veux-tu surprendre quelqu'un que tu aimes ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In che modo vuoi sorprendere qualcuno che ami?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "愛する人をどのように驚かせたいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사랑하는 사람을 어떻게 깜짝 놀라게 해주고 싶나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvordan vil du overraske noen du er glad i?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe wil je iemand verrassen van wie je houdt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jaki sposób chcesz zaskoczyć kogoś, kogo kochasz?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "De que forma você quer surpreender alguém que ama?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "På vilket sätt vill du överraska någon du älskar?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як ви хочете здивувати когось, кого любите?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想用什么方式给你爱的人一个惊喜？" } }
+      }
+    },
+    "What's a limit you want to push past?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Grenze möchtest du überschreiten?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a limit you want to push past?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué límite quieres superar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle limite veux-tu dépasser ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale limite vuoi superare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "乗り越えたい限界は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "넘어서고 싶은 한계는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken grense vil du presse deg forbi?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke grens wil je overschrijden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką granicę chcesz przekroczyć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual limite você quer ultrapassar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken gräns vill du pressa dig förbi?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку межу ви хочете подолати?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想突破哪个极限？" } }
+      }
+    },
+    "What's a purchase over $500 that you want to save up for?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Für welchen Kauf über $500 möchtest du sparen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a purchase over $500 that you want to save up for?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué compra de más de 500 dólares quieres ahorrar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel achat de plus de 500 $ veux-tu économiser pour ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Per quale acquisto di oltre $500 vuoi risparmiare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "500ドル以上の買い物で、貯金したいものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "500달러가 넘는 구매 중 모아서 사고 싶은 것이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket kjøp på over 500 dollar vil du spare til?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Voor welke aankoop van meer dan 500 dollar wil je sparen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Na jaki zakup powyżej 500 dolarów chcesz zaoszczędzić?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual compra acima de $500 você quer economizar para fazer?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket köp på över 500 dollar vill du spara till?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "На яку покупку понад 500 доларів ви хочете накопичити?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想存钱购买哪件超过500美元的东西？" } }
+      }
+    },
+    "What's a moment of pure joy you want to replicate?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Moment reiner Freude möchtest du wiederholen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a moment of pure joy you want to replicate?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué momento de pura alegría quieres replicar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel moment de pure joie veux-tu reproduire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale momento di pura gioia vuoi replicare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "再現したい純粋な喜びの瞬間は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "재현하고 싶은 순수한 기쁨의 순간이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket øyeblikk av ren glede vil du gjenskape?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk moment van pure vreugde wil je herbeleven?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki moment czystej radości chcesz powtórzyć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual momento de pura alegria você quer replicar?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket ögonblick av ren glädje vill du återskapa?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який момент чистої радості ви хочете повторити?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想重现哪个纯粹的欢乐时刻？" } }
+      }
+    },
+    "What's a book you think everyone should read and why?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Buch sollte deiner Meinung nach jeder lesen und warum?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a book you think everyone should read and why?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué libro crees que todos deberían leer y por qué?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel livre penses-tu que tout le monde devrait lire et pourquoi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale libro pensi che tutti dovrebbero leggere e perché?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "誰もが読むべきだと思う本とその理由は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모두가 읽어야 한다고 생각하는 책과 그 이유는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken bok tror du alle burde lese og hvorfor?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk boek denk je dat iedereen zou moeten lezen en waarom?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką książkę uważasz, że każdy powinien przeczytać i dlaczego?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual livro você acha que todos deveriam ler e porquê?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken bok tycker du alla borde läsa och varför?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку книгу, на вашу думку, кожен має прочитати і чому?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你认为每个人都应该读哪本书？为什么？" } }
+      }
+    },
+    "What's a 'bucket list' item that doesn't involve travel?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist ein Punkt auf deiner Bucket List, der kein Reisen beinhaltet?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'bucket list' item that doesn't involve travel?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué elemento de tu 'lista de deseos' no implica viajar?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel élément de ta 'liste de choses à faire avant de mourir' n'implique pas de voyage ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale elemento della 'lista dei desideri' non implica viaggiare?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "旅行を伴わない「バケットリスト」の項目は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "여행이 필요하지 않은 '버킷 리스트' 항목이 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er en ting på 'bucket listen' din som ikke innebærer reise?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk 'bucketlist'-item heeft niets met reizen te maken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka pozycja z 'listy marzeń' nie wymaga podróżowania?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual item da 'lista de desejos' não envolve viagem?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är en 'bucket list'-grej som inte handlar om att resa?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який пункт у вашому 'списку бажань' не передбачає подорожей?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪项“遗愿清单”内容与旅行无关？" } }
+      }
+    },
+    "What's a professional risk you want to take?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches berufliche Risiko möchtest du eingehen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a professional risk you want to take?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué riesgo profesional quieres correr?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel risque professionnel veux-tu prendre ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale rischio professionale vuoi correre?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "どのような仕事上のリスクを取りたいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "감수하고 싶은 직업적 위험이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken profesjonell risiko vil du ta?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk professioneel risico wil je nemen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie ryzyko zawodowe chcesz podjąć?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual risco profissional você quer correr?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken professionell risk vill du ta?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який професійний ризик ви хочете взяти?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想承担哪个职业风险？" } }
+      }
+    },
+    "What's a relationship you want to invest more time in?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "In welche Beziehung möchtest du mehr Zeit investieren?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a relationship you want to invest more time in?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿En qué relación quieres invertir más tiempo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Dans quelle relation veux-tu investir plus de temps ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In quale relazione vuoi investire più tempo?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "もっと時間をかけて育てたい人間関係は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "더 많은 시간을 투자하고 싶은 관계가 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket forhold vil du investere mer tid i?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "In welke relatie wil je meer tijd investeren?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jaką relację chcesz zainwestować więcej czasu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Em qual relacionamento você quer investir mais tempo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken relation vill du investera mer tid i?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "У які стосунки ви хочете вкласти більше часу?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想在哪个关系中投入更多时间？" } }
+      }
+    },
+    "What's a talent you have that you'd like to turn into a side business?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Talent hast du, das du gerne in ein Nebengeschäft verwandeln würdest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a talent you have that you'd like to turn into a side business?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué talento tienes que te gustaría convertir en un negocio secundario?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel talent as-tu que tu aimerais transformer en activité secondaire ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale talento hai che vorresti trasformare in un'attività secondaria?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "副業にしたいと思う自分の才能は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부업으로 만들고 싶은 자신의 재능이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket talent har du som du gjerne vil gjøre om til en sidevirksomhet?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk talent heb je dat je om zou willen zetten in een side business?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki talent chciałbyś zamienić w dodatkowy biznes?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual talento você tem que gostaria de transformar em um negócio paralelo?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken talang har du som du skulle vilja göra om till en sidoverksamhet?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який у вас талант, який ви хотіли б перетворити на побічний бізнес?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你拥有哪个你想把它变成副业的才能？" } }
+      }
+    },
+    "What's a fear you have that you wish you could give to someone else for a day?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Vor welcher Angst hast du, die du gerne für einen Tag jemand anderem geben könntest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a fear you have that you wish you could give to someone else for a day?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué miedo tienes que te gustaría poder darle a alguien más por un día?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle peur as-tu que tu aimerais pouvoir donner à quelqu'un d'autre pour une journée ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale paura hai che vorresti poter dare a qualcun altro per un giorno?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一日だけ他の人にあげられたらいいのにと思う恐怖は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "하루만 다른 사람에게 줄 수 있으면 좋겠다고 생각하는 두려움이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken frykt har du som du skulle ønske du kunne gi til noen andre for en dag?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke angst heb je die je voor een dag aan iemand anders zou willen geven?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki strach chciałbyś móc oddać komuś innemu na jeden dzień?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual medo você tem que gostaria de poder dar a outra pessoa por um dia?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken rädsla har du som du önskar att du kunde ge till någon annan för en dag?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якого страху ви маєте, який хотіли б передати комусь іншому на день?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望可以把哪个恐惧暂时转给别人一天？" } }
+      }
+    },
+    "What's a milestone you're most looking forward to in the next decade?" : {
+      "comment" : "Category: dreams, Depth: medium",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Meilenstein in den nächsten zehn Jahren freust du dich am meisten?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a milestone you're most looking forward to in the next decade?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué hito esperas con más ilusión en la próxima década?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle étape importante as-tu le plus hâte de vivre dans la prochaine décennie ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale traguardo attendi con più ansia nel prossimo decennio?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今後10年でもっとも楽しみにしているマイルストーンは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앞으로 10년 안에 가장 기대되는 이정표는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken milepæl ser du mest frem til i løpet av det neste tiåret?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke mijlpaal verheug je je het meest op in het komende decennium?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki kamień milowy najbardziej Cię ekscytuje w nadchodzącej dekadzie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual marco você mais espera na próxima década?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken milstolpe ser du mest fram emot under nästa decennium?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якої віхи ви найбільше чекаєте в наступному десятилітті?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "未来十年你最期待的里程碑是什么？" } }
+      }
+    },
+    "What's a food or dish you've always wanted to learn to make perfectly?" : {
+      "comment" : "Category: dreams, Depth: light",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Essen oder Gericht wolltest du schon immer perfekt kochen lernen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a food or dish you've always wanted to learn to make perfectly?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué comida o plato siempre has querido aprender a hacer perfectamente?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel plat ou aliment as-tu toujours voulu apprendre à faire parfaitement ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale cibo o piatto hai sempre voluto imparare a fare perfettamente?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "完璧に作れるようになりたいとずっと思ってきた料理は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "완벽하게 만들고 싶었던 음식이나 요리가 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken mat eller rett har du alltid ønsket å lære å lage perfekt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk eten of gerecht heb je altijd al perfect willen leren maken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie danie zawsze chciałeś nauczyć się robić idealnie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual comida ou prato você sempre quis aprender a fazer perfeitamente?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken mat eller rätt har du alltid velat lära dig att laga perfekt?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку їжу чи страву ви завжди хотіли навчитися готувати ідеально?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你一直想学会完美烹饪哪道食物或菜肴？" } }
+      }
+    },
+    "What's a 'what if' scenario you want to turn into 'what's next'?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches 'Was-wäre-wenn'-Szenario möchtest du in 'Was kommt als nächstes' verwandeln?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a 'what if' scenario you want to turn into 'what's next'?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué escenario de 'y si...' quieres convertir en 'qué sigue'?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel scénario de 'et si' veux-tu transformer en 'et ensuite' ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale scenario del 'e se' vuoi trasformare in 'cosa succede dopo'?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "「もしも」のシナリオを「次はこれ」に変えたいものは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "'만약에' 시나리오를 '다음 단계'로 바꾸고 싶은 것이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket 'hva hvis'-scenario vil du gjøre om til 'hva blir det neste'?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk 'wat als'-scenario wil je omzetten in 'wat nu'?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki scenariusz 'co jeśli' chcesz zamienić w 'co dalej'?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual cenário de 'e se' você quer transformar em 'o que vem depois'?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket 'tänk om'-scenario vill du göra om till 'vad blir nästa'?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який сценарій 'а що, якщо' ви хочете перетворити на 'що далі'?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你想把哪个“如果……”变成“接下来呢”？" } }
+      }
+    },
+    "What's a dream you have that feels selfish, but you want it anyway?" : {
+      "comment" : "Category: dreams, Depth: deep",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Von welchem Traum, der sich egoistisch anfühlt, träumst du trotzdem?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What's a dream you have that feels selfish, but you want it anyway?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué sueño tienes que se siente egoísta, pero lo quieres de todas formas?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel rêve as-tu qui semble égoïste, mais que tu veux quand même ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale sogno hai che sembra egoista, ma che vuoi comunque?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分勝手に感じられるけど、それでも欲しいと思う夢は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이기적으로 느껴지지만 그래도 원하는 꿈이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken drøm har du som føles egoistisk, men som du vil ha likevel?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke droom voelt egoïstisch, maar wil je toch hebben?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie marzenie, które wydaje się samolubne, i tak chcesz spełnić?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual sonho você tem que parece egoísta, mas mesmo assim você o quer?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken dröm har du som känns självisk, men du vill ha den ändå?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка мрія, що здається егоїстичною, але ви все одно її хочете?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你有什么感觉自私但仍然想要的梦想？" } }
+      }
+    },
     "What is one item on your bucket list?": {
       "comment": "Ice Breakers - Light question",
       "localizations": {
@@ -57895,6 +58845,907 @@
         }
       }
     },
+    "What's a small, simple thing that made you smile recently?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist eine kleine, einfache Sache, die dich kürzlich zum Lächeln gebracht hat?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué cosa pequeña y sencilla te hizo sonreír recientemente?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle petite chose simple t'a fait sourire récemment ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale piccola cosa semplice ti ha fatto sorridere di recente?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "最近、あなたを笑顔にした小さなシンプルなことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "최근에 당신을 미소 짓게 한 작고 단순한 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er en liten, enkel ting som fikk deg til å smile i det siste?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is een klein, eenvoudig ding dat je onlangs aan het glimlachen bracht?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka mała, prosta rzecz sprawiła, że ostatnio się uśmiechnąłeś?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a coisa pequena e simples que fez você sorrir recentemente?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är en liten, enkel sak som fick dig att le nyligen?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка маленька проста річ нещодавно викликала у вас посмішку?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "最近有什么小而简单的事情让你笑了？" } }
+          }
+        },
+        "If you could instantly become an expert in one obscure topic, what would it be?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du sofort Experte in einem obskuren Thema werden könntest, welches wäre es?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras convertirte instantáneamente en experto en un tema oscuro, ¿cuál sería?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais devenir instantanément expert dans un sujet obscur, lequel serait-ce ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi diventare subito esperto in un tema oscuro, quale sarebbe?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "すぐにあるニッチな分野の専門家になれるとしたら、何を選びますか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "즉시 하나의 난해한 주제에 대한 전문가가 될 수 있다면, 무엇을 선택하시겠습니까?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du øyeblikkelig kunne bli ekspert på et obskurt emne, hva ville det vært?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je direct expert zou kunnen worden in een obscuur onderwerp, wat zou het zijn?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł natychmiast stać się ekspertem w jakiejś mało znanej dziedzinie, co by to było?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse se tornar instantaneamente um especialista em um tópico obscuro, qual seria?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du omedelbart kunde bli expert på ett ovanligt ämne, vad skulle det vara?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли миттєво стати експертом в одній маловідомій темі, що б це було?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能立即成为一个冷门话题的专家，你会选什么？" } }
+          }
+        },
+        "What’s a trend from the past you wish would come back?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Trend aus der Vergangenheit sollte deiner Meinung nach zurückkommen?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué tendencia del pasado te gustaría que volviera?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle tendance du passé aimerais-tu voir revenir ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale tendenza del passato vorresti tornasse?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "過去のトレンドで、復活してほしいものは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "과거의 트렌드 중 다시 돌아왔으면 하는 것이 있다면?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken trend fra fortiden skulle du ønske kom tilbake?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke trend uit het verleden zou je willen dat terugkomt?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki trend z przeszłości chciałbyś, żeby wrócił?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual tendência do passado você gostaria que voltasse?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken trend från det förflutna önskar du skulle komma tillbaka?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який тренд із минулого ви б хотіли, щоб повернувся?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望过去的哪种趋势能回来？" } }
+          }
+        },
+        "What's the best thing you've bought for less than $20?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Beste, was du für unter 20 Dollar gekauft hast?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo mejor que has comprado por menos de $20?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure chose que tu aies achetée pour moins de 20 $ ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa migliore che hai comprato per meno di $20?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "20ドル未満で買ったもので一番良かったものは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "20달러 미만으로 산 것 중 가장 좋았던 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste du har kjøpt for under $20?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste dat je hebt gekocht voor minder dan $20?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka jest najlepsza rzecz, jaką kupiłeś za mniej niż 20 dolarów?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a melhor coisa que você comprou por menos de $20?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa du har köpt för under $20?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найкраще ви купили менш ніж за 20 доларів?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你花不到20美元买到的最好的东西是什么？" } }
+          }
+        },
+        "What's a sound that you find incredibly satisfying?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Geräusch findest du unglaublich befriedigend?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué sonido te resulta increíblemente satisfactorio?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel son trouves-tu incroyablement satisfaisant ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale suono trovi incredibilmente soddisfacente?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "非常に満足感のある音は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "엄청나게 만족스러운 소리는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken lyd synes du er utrolig tilfredsstillende?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk geluid vind jij ongelooflijk bevredigend?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki dźwięk jest dla ciebie niezwykle satysfakcjonujący?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que som você acha incrivelmente satisfatório?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket ljud tycker du är otroligt tillfredsställande?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який звук ви вважаєте неймовірно приємним?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪种声音让你觉得非常惬意？" } }
+          }
+        },
+        "What's something you do that's old-fashioned?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was tust du, das altmodisch ist?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué haces que sea anticuado?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est une chose que tu fais et qui est démodée ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa fai che è antiquata?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたがしている昔ながらのことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신이 하는 구식인 일은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er noe du gjør som er gammeldags?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat doe jij dat ouderwets is?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co robisz, co jest staroświeckie?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você faz que é antiquado?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är något du gör som är gammaldags?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ви робите такого, що є старомодним?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你做的什么事比较老派？" } }
+          }
+        },
+        "What's a movie you love that most people have never heard of?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Film liebst du, von dem die meisten noch nie gehört haben?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué película te encanta que la mayoría nunca ha oído hablar?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel film aimes-tu et que la plupart des gens n'ont jamais entendu ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale film ami che la maggior parte delle persone non ha mai sentito nominare?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "ほとんどの人が聞いたことがない、あなたのお気に入りの映画は？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "대부분의 사람들이 들어본 적 없는, 당신이 사랑하는 영화는?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken film elsker du som de fleste aldri har hørt om?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke film vind jij geweldig waar de meeste mensen nog nooit van gehoord hebben?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki film kochasz, o którym większość ludzi nigdy nie słyszała?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual filme você ama que a maioria das pessoas nunca ouviu falar?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken film älskar du som de flesta aldrig har hört talas om?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який фільм ви любите, про який більшість людей ніколи не чула?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪部你喜欢的电影是大多数人从未听说过的？" } }
+          }
+        },
+        "What's your favorite way to waste time when you're procrastinating?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie verbringst du am liebsten deine Zeit, wenn du prokrastinierst?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es tu forma favorita de perder el tiempo cuando procrastinas?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est ta façon préférée de perdre ton temps quand tu procrastines ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il tuo modo preferito di perdere tempo quando procrastini?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "先延ばしにするときの、お気に入りの時間の潰し方は？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "일을 미룰 때 가장 좋아하는 시간 보내는 방법은?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er din favorittmåte å kaste bort tid på når du somler?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is jouw favoriete manier om tijd te verspillen als je aan het uitstellen bent?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest twój ulubiony sposób na marnowanie czasu, gdy prokrastynujesz?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a sua maneira favorita de perder tempo quando está procrastinando?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är ditt favoritsätt att slösa tid på när du prokrastinerar?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який ваш улюблений спосіб витрачати час, коли ви зволікаєте?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "拖延时你最喜欢用什么方式消磨时间？" } }
+          }
+        },
+        "What's a piece of clothing you feel most like yourself in?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "In welchem Kleidungsstück fühlst du dich am meisten wie du selbst?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué prenda de ropa te hace sentir más tú mismo?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Dans quel vêtement te sens-tu le plus toi-même ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale capo di abbigliamento ti fa sentire più te stesso?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "一番自分らしくいられる服は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 자신다움을 느끼게 하는 옷은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket plagg føler du deg mest deg selv i?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "In welk kledingstuk voel jij je het meest jezelf?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jakim ubraniu czujesz się najbardziej sobą?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Em qual peça de roupa você se sente mais você mesmo?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket plagg känner du dig mest som dig själv i?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "У якому одязі ви почуваєтеся найбільше собою?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "穿哪件衣服时你感觉最像自己？" } }
+          }
+        },
+        "What's the worst haircut you've ever seen on someone else?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war der schlimmste Haarschnitt, den du je bei jemand anderem gesehen hast?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el peor corte de pelo que has visto en otra persona?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la pire coupe de cheveux que tu aies jamais vue sur quelqu'un d'autre ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il peggior taglio di capelli che tu abbia mai visto su qualcun altro?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "他人で見た中で最悪のヘアカットは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "다른 사람에게서 본 최악의 헤어스타일은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den verste hårklippen du noen gang har sett på noen andre?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het ergste kapsel dat je ooit bij iemand anders hebt gezien?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka jest najgorsza fryzura, jaką widziałeś u kogoś innego?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o pior corte de cabelo que você já viu em outra pessoa?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är den värsta frisyr du någonsin sett på någon annan?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка найгірша зачіска, яку ви коли-небудь бачили на комусь іншому?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在别人身上见过的最糟糕的发型是什么？" } }
+          }
+        },
+        "What's a brand you're loyal to for no good reason?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Marke bist du ohne guten Grund treu?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué marca te es fiel sin una buena razón?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "À quelle marque es-tu fidèle sans bonne raison ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "A quale marca sei fedele senza una buona ragione?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "特に理由もなく応援しているブランドは？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "특별한 이유 없이 충성하는 브랜드는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket merke er du lojal til uten god grunn?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk merk ben je zonder goede reden trouw aan?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej marce jesteś lojalny bez konkretnego powodu?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "A qual marca você é leal sem nenhuma boa razão?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket märke är du lojal mot utan någon bra anledning?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якому бренду ви віддані без вагомої причини?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个品牌你没有特别理由却一直很忠诚？" } }
+          }
+        },
+        "If you could replace all the grass in the world with something else, what would it be?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du alles Gras der Welt durch etwas anderes ersetzen könntest, was wäre das?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras reemplazar todo el césped del mundo con otra cosa, ¿qué sería?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais remplacer toute l'herbe du monde par autre chose, quoi ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi sostituire tutta l'erba del mondo con qualcos'altro, cosa sarebbe?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "世界中の草を別のものに変えられるとしたら、何にしますか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "세상의 모든 잔디를 다른 것으로 바꿀 수 있다면, 무엇으로 바꾸겠습니까?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne erstatte alt gress i verden med noe annet, hva ville det vært?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je al het gras ter wereld door iets anders zou kunnen vervangen, wat zou het zijn?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł zastąpić całą trawę na świecie czymś innym, co by to było?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse substituir toda a grama do mundo por outra coisa, o que seria?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde ersätta allt gräs i världen med något annat, vad skulle det vara?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли замінити всю траву у світі на щось інше, що б це було?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能把全世界的草都换成别的东西，你会换什么？" } }
+          }
+        },
+        "What's the most interesting documentary you've seen recently?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist die interessanteste Dokumentation, die du kürzlich gesehen hast?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el documental más interesante que has visto recientemente?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le documentaire le plus intéressant que tu aies vu récemment ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il documentario più interessante che hai visto di recente?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "最近見た最も興味深いドキュメンタリーは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "최근에 본 가장 흥미로운 다큐멘터리는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest interessante dokumentaren du har sett i det siste?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de meest interessante documentaire die je recentelijk hebt gezien?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest najciekawszy dokument, jaki widziałeś ostatnio?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o documentário mais interessante que você viu recentemente?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den mest intressanta dokumentären du har sett nyligen?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найцікавіший документальний фільм ви нещодавно бачили?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最近看过的最有趣的纪录片是什么？" } }
+          }
+        },
+        "What's a skill you have that's totally useless in the modern world?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Fähigkeit besitzt du, die in der modernen Welt völlig nutzlos ist?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué habilidad tienes que sea totalmente inútil en el mundo moderno?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle compétence as-tu qui est totalement inutile dans le monde moderne ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Che abilità hai che è totalmente inutile nel mondo moderno?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "現代の世界では全く役に立たない、あなたのスキルは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "현대 사회에서 전혀 쓸모없는 당신의 기술은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken ferdighet har du som er helt ubrukelig i den moderne verden?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke vaardigheid heb jij die totaal nutteloos is in de moderne wereld?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką umiejętność posiadasz, która jest całkowicie bezużyteczna we współczesnym świecie?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual habilidade você tem que é totalmente inútil no mundo moderno?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken färdighet har du som är helt oanvändbar i den moderna världen?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка у вас навичка є абсолютно марною в сучасному світі?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你有什么技能在现代社会完全没用？" } }
+          }
+        },
+        "What's the best thing that happened to you last week?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das Beste, was dir letzte Woche passiert ist?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo mejor que te pasó la semana pasada?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure chose qui t'est arrivée la semaine dernière ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa migliore che ti è successa la scorsa settimana?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "先週、あなたに起こった最高の出来事は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "지난주에 있었던 가장 좋은 일은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste som skjedde med deg forrige uke?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste dat je vorige week is overkomen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co najlepszego przydarzyło ci się w zeszłym tygodniu?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a melhor coisa que aconteceu com você na semana passada?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa som hände dig förra veckan?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найкраще сталося з вами минулого тижня?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "上周发生在你身上最好的事情是什么？" } }
+          }
+        },
+        "What's a common pet peeve that you actually don't mind?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist eine allgemeine Unart, die dich tatsächlich nicht stört?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es algo que suele molestar a la gente pero a ti no te importa?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est une chose qui énerve généralement les gens mais que tu ne supportes pas vraiment ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è una seccatura comune che in realtà non ti dà fastidio?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "よくある些細な腹立たしさの中で、実は気にならないものは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "흔한 짜증나는 일 중 실제로는 신경 쓰이지 않는 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er en vanlig irritasjonsmoment du egentlig ikke bryr deg om?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is een veelvoorkomende ergernis die jij eigenlijk niet erg vindt?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest powszechnie irytujące, ale tobie nie przeszkadza?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é uma irritação comum que você realmente não se importa?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är en vanlig sak som irriterar andra men som du faktiskt inte bryr dig om?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що загалом дратує людей, але вас насправді не турбує?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪种常见的烦人小事你其实并不在意？" } }
+          }
+        },
+        "What’s the first thing you’d buy if you became a millionaire tomorrow?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was würdest du als Erstes kaufen, wenn du morgen Millionär würdest?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo primero que comprarías si te hicieras millonario mañana?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la première chose que tu achèterais si tu devenais millionnaire demain ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale sarebbe la prima cosa che compreresti se diventassi milionario domani?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "明日億万長者になったら、最初に何を買いますか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "내일 백만장자가 된다면 가장 먼저 사고 싶은 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det første du ville kjøpt hvis du ble millionær i morgen?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat zou jij als eerste kopen als je morgen miljonair zou worden?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co kupiłbyś w pierwszej kolejności, gdybyś jutro został milionerem?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a primeira coisa que você compraria se se tornasse milionário amanhã?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det första du skulle köpa om du blev miljonär imorgon?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що б ви купили в першу чергу, якби завтра стали мільйонером?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你明天成了百万富翁，你最先会买什么？" } }
+          }
+        },
+        "What's a song you secretly know all the lyrics to?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Song kennst du heimlich auswendig?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué canción te sabes todas las letras en secreto?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chanson connais-tu secrètement par cœur ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale canzone conosci segretamente a memoria?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "内緒で全部の歌詞を覚えている曲は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "비밀스럽게 모든 가사를 알고 있는 노래는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken sang kan du i hemmelighet alle tekstene til?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Van welk liedje ken je stiekem alle teksten?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką piosenkę potajemnie znasz całą na pamięć?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual música você secretamente sabe a letra toda?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken låt kan du i hemlighet alla texter till?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку пісню ви таємно знаєте напам'ять?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪首歌你偷偷地记住了所有歌词？" } }
+          }
+        },
+        "What's the most unusual gift you've ever received?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war das ungewöhnlichste Geschenk, das du jemals erhalten hast?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el regalo más inusual que has recibido?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le cadeau le plus inhabituel que tu aies jamais reçu ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il regalo più insolito che tu abbia mai ricevuto?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番変わったプレゼントは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "받은 선물 중 가장 특이했던 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den merkeligste gaven du noen gang har fått?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest ongewone cadeau dat je ooit hebt gekregen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest najbardziej nietypowy prezent, jaki otrzymałeś?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o presente mais incomum que você já recebeu?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den mest ovanliga presenten du någonsin fått?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найнезвичайніший подарунок ви отримували?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你收到过的最不寻常的礼物是什么？" } }
+          }
+        },
+        "What's a word you struggle to spell correctly?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Bei welchem Wort tust du dir schwer, es richtig zu schreiben?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué palabra te cuesta deletrear correctamente?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel mot as-tu du mal à épeler correctement ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale parola fai fatica a scrivere correttamente?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "正しいスペルを覚えるのが難しい単語は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "맞춤법이 어려운 단어는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket ord sliter du med å stave riktig?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk woord vind jij moeilijk om correct te spellen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie słowo sprawia ci trudność w poprawnej pisowni?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual palavra você tem dificuldade de soletrar corretamente?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket ord har du svårt att stava rätt?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке слово вам важко правильно вимовляти/писати?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个单词你很难拼对？" } }
+          }
+        },
+        "What's your favorite 'bad' movie?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist dein Lieblings-„schlechter“ Film?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es tu película 'mala' favorita?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est ton film 'nul' préféré ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il tuo film 'brutto' preferito?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "お気に入りの「悪い」映画は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 좋아하는 '망작' 영화는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er din favoritt-'dårlige' film?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is jouw favoriete 'slechte' film?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest twój ulubiony 'zły' film?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o seu filme 'ruim' favorito?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är din favorit-'dåliga' film?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який ваш улюблений 'поганий' фільм?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢的‘烂片’是哪一部？" } }
+          }
+        },
+        "What's a podcast that always makes your commute better?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Podcast macht deine Fahrt zur Arbeit immer besser?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué podcast siempre mejora tu viaje?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel podcast rend toujours ton trajet meilleur ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale podcast rende sempre migliore il tuo viaggio?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "通勤時間をいつも良くしてくれるポッドキャストは？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "출퇴근 길을 항상 즐겁게 해주는 팟캐스트는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken podcast gjør alltid pendlingen din bedre?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke podcast maakt jouw woon-werkverkeer altijd beter?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki podcast zawsze umila ci dojazdy?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual podcast sempre torna seu trajeto melhor?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken podcast gör alltid din pendling bättre?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який подкаст завжди робить вашу дорогу на роботу кращою?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个播客总是让你的通勤变得更愉快？" } }
+          }
+        },
+        "What's something that was a phase for most people but stuck with you?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was war bei den meisten Menschen nur eine Phase, ist aber bei dir geblieben?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué fue una fase para la mayoría de las personas pero se quedó contigo?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'est-ce qui a été une phase pour la plupart des gens mais qui t'est resté ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa per la maggior parte delle persone è stata solo una fase, ma è rimasta con te?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "ほとんどの人にとっては一過性のものだったけど、あなたには定着したことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "대부분에게는 한 시절의 유행이었지만, 당신에게는 남아 있는 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva var en fase for de fleste, men ble værende hos deg?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat was voor de meeste mensen een fase, maar bleef bij jou hangen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co było fazą dla większości ludzi, ale przy tobie zostało?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que foi uma fase para a maioria das pessoas, mas ficou com você?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad var en fas för de flesta människor men fastnade hos dig?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що для більшості людей було лише етапом, але залишилося з вами?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么事对大多数人来说只是一阵风，但却成了你的长期习惯？" } }
+          }
+        },
+        "What's the most outdated piece of tech you still use?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das veralteteste Technikgerät, das du noch benutzt?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la tecnología más anticuada que todavía usas?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est l'appareil technologique le plus obsolète que tu utilises encore ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il pezzo di tecnologia più obsoleto che usi ancora?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今でも使っている最も時代遅れのテクノロジーは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "아직도 사용하는 가장 구식 기술은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest utdaterte teknologien du fortsatt bruker?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest verouderde technologische ding dat je nog steeds gebruikt?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest najbardziej przestarzały sprzęt technologiczny, którego nadal używasz?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a peça de tecnologia mais desatualizada que você ainda usa?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den mest föråldrade teknikpryl du fortfarande använder?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найбільш застарілий технологічний пристрій ви все ще використовуєте?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你还在使用的最过时的科技产品是什么？" } }
+          }
+        },
+        "What's the last thing you did for the first time?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du das letzte Mal zum ersten Mal getan?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué fue lo último que hiciste por primera vez?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la dernière chose que tu as faite pour la première fois ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è l'ultima cosa che hai fatto per la prima volta?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "最後に初めてやったことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "마지막으로 처음 해본 일은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det siste du gjorde for første gang?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het laatste dat je voor het eerst deed?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co zrobiłeś ostatnio po raz pierwszy?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a última coisa que você fez pela primeira vez?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det senaste du gjorde för första gången?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що ви востаннє зробили вперше?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最后一次第一次做的事情是什么？" } }
+          }
+        },
+        "What's a physical feature you get complimented on most?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Auf welches körperliche Merkmal wirst du am häufigsten angesprochen?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué rasgo físico es por el que más te halagan?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle caractéristique physique reçois-tu le plus de compliments ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale caratteristica fisica riceve più complimenti?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "一番褒められる体の特徴は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 많이 칭찬받는 신체적 특징은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket fysisk trekk får du flest komplimenter for?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Op welk fysiek kenmerk krijg jij de meeste complimenten?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Za jaką cechę fizyczną najczęściej dostajesz komplementy?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual característica física você mais recebe elogios?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket fysiskt drag får du flest komplimanger för?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "За яку фізичну особливість вас найчастіше хвалять?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你哪个身体部位最常被夸奖？" } }
+          }
+        },
+        "Who is a person you follow online that always makes your day better?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Wem folgst du online, der deinen Tag immer besser macht?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿A quién sigues en línea que siempre mejora tu día?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qui suis-tu en ligne qui rend toujours ta journée meilleure ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Chi segui online che ti rende sempre la giornata migliore?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "オンラインでフォローしている人で、いつもあなたの日を良くしてくれる人は誰ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "온라인에서 팔로우하는 사람 중 항상 당신의 하루를 더 좋게 만드는 사람은 누구인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvem følger du på nettet som alltid gjør dagen din bedre?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wie volg je online die jouw dag altijd beter maakt?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Kogo obserwujesz w internecie, kto zawsze poprawia ci dzień?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Quem é uma pessoa que você segue online que sempre melhora o seu dia?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vem är en person du följer online som alltid gör din dag bättre?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Кого ви читаєте в інтернеті, хто завжди робить ваш день кращим?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在网上关注的哪个人总能让你的一天变得更好？" } }
+          }
+        },
+        "What's the messiest room in your home right now?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist der unordentlichste Raum in deinem Zuhause?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la habitación más desordenada de tu casa en este momento?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la pièce la plus en désordre chez toi en ce moment ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la stanza più disordinata della tua casa in questo momento?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今、あなたの家で一番散らかっている部屋はどこですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "지금 당신 집에서 가장 지저분한 방은 어디인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det mest rotete rommet i hjemmet ditt akkurat nå?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de rommeligste kamer in jouw huis op dit moment?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Który pokój w twoim domu jest teraz najbardziej zagracony?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o cômodo mais bagunçado da sua casa agora?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket är det mest röriga rummet i ditt hem just nu?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка кімната у вашому домі зараз найбезладніша?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "现在你家哪个房间最乱？" } }
+          }
+        },
+        "What's a luxury you'd happily pay for when traveling?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Für welchen Luxus würdest du auf Reisen gerne bezahlen?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué lujo pagarías felizmente cuando viajas?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Pour quel luxe serais-tu heureux de payer en voyage ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale lusso pagheresti volentieri quando viaggi?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "旅行中に喜んでお金を出す贅沢は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "여행할 때 기꺼이 비용을 지불할 의향이 있는 럭셔리는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken luksus vil du gjerne betale for når du reiser?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Voor welke luxe betaal je graag als je reist?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Za jaki luksus chętnie zapłacisz podczas podróży?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual luxo você pagaria feliz ao viajar?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken lyx skulle du gärna betala för när du reser?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "За яку розкіш ви із задоволенням заплатите під час подорожі?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "旅行时你愿意花钱享受哪种奢侈？" } }
+          }
+        },
+        "What's something that's much harder than it looks?" : {
+          "comment" : "Question from iceBreakers category, medium depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist viel schwieriger, als es aussieht?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es mucho más difícil de lo que parece?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'est-ce qui est beaucoup plus difficile qu'il n'y paraît ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa è molto più difficile di quanto sembri?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "見た目よりもはるかに難しいことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "보기보다 훨씬 어려운 일은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er mye vanskeligere enn det ser ut til?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is veel moeilijker dan het eruitziet?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest znacznie trudniejsze niż się wydaje?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que é muito mais difícil do que parece?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är mycket svårare än det ser ut?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що набагато важче, ніж здається?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么事比看起来难得多？" } }
+          }
+        },
+        "What's the best thing you've ever found at a thrift store?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Beste, das du jemals in einem Secondhand-Laden gefunden hast?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo mejor que has encontrado en una tienda de segunda mano?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure chose que tu aies jamais trouvée dans une friperie ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa migliore che tu abbia mai trovato in un negozio dell'usato?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "中古店で見つけた最高のものは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "중고 가게에서 찾은 가장 좋은 물건은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste du noen gang har funnet på en bruktbutikk?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste dat je ooit in een kringloopwinkel hebt gevonden?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka jest najlepsza rzecz, jaką znalazłeś w sklepie z używaną odzieżą?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a melhor coisa que você já encontrou em um brechó?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa du någonsin har hittat i en secondhandbutik?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку найкращу річ ви коли-небудь знаходили в комісійному магазині?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你在旧货店淘到过的最好的东西是什么？" } }
+          }
+        },
+        "What's a childhood cartoon you could still quote today?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Zeichentrickfilm aus deiner Kindheit könntest du heute noch zitieren?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué dibujo animado de la infancia podrías seguir citando hoy?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel dessin animé de ton enfance pourrais-tu encore citer aujourd'hui ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale cartone animato dell'infanzia potresti ancora citare oggi?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今でもセリフを言える子供の頃のアニメは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "아직도 대사를 인용할 수 있는 어린 시절 만화는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken barndomstegneserie kunne du sitert i dag?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke tekenfilm uit je kindertijd zou je vandaag nog kunnen citeren?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki dziecięcy serial animowany wciąż mógłbyś cytować?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual desenho animado da infância você ainda poderia citar hoje?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken barntecknad serie skulle du fortfarande kunna citera idag?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який дитячий мультфільм ви могли б цитувати й сьогодні?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪部童年动画你今天还能引用里面的台词？" } }
+          }
+        },
+        "What's the biggest waste of money you see people buying?" : {
+          "comment" : "Question from iceBreakers category, medium depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist deiner Meinung nach die größte Geldverschwendung, die Leute kaufen?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la mayor pérdida de dinero que ves que la gente compra?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la plus grande perte d'argent que tu vois les gens acheter ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il più grande spreco di denaro che vedi comprare alle persone?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "人々が買っているもので、最大の無駄遣いは何だと思いますか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "사람들이 사는 것 중 가장 큰 돈 낭비라고 생각하는 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det største sløseriet med penger du ser folk kjøpe?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is volgens jou de grootste geldverspilling die mensen kopen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka jest twoim zdaniem największa strata pieniędzy, na którą ludzie się godzą?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o maior desperdício de dinheiro que você vê as pessoas comprando?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det största slöseriet med pengar du ser folk köpa?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що, на вашу думку, є найбільшим марнуванням грошей, яке люди купують?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你觉得人们买什么东西最浪费钱？" } }
+          }
+        },
+        "What's a 'life hack' you use almost daily?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen ‚Lifehack‘ verwendest du fast täglich?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué 'truco de vida' usas casi a diario?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel 'astuce de vie' utilises-tu presque quotidiennement ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale 'life hack' usi quasi ogni giorno?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "ほぼ毎日使っている「ライフハック」は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "거의 매일 사용하는 '라이프 해킹'이 있다면?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket 'life hack' bruker du nesten daglig?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke 'life hack' gebruik jij bijna dagelijks?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiego 'life hacka' używasz prawie codziennie?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual 'dica de vida' você usa quase diariamente?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket 'life hack' använder du nästan dagligen?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який 'лайфхак' ви використовуєте майже щодня?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你几乎每天都在用的‘生活妙招’是什么？" } }
+          }
+        },
+        "What's a food texture you can't stand?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Lebensmitteltextur kannst du nicht ausstehen?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué textura de comida no soportas?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle texture alimentaire ne supportes-tu pas ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale consistenza del cibo non sopporti?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "我慢できない食べ物の食感は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "참을 수 없는 음식의 질감은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken mattekstur tåler du ikke?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke textuur van eten kun jij niet verdragen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej tekstury jedzenia nie znosisz?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual textura de comida você não suporta?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken mattextur tål du inte?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку текстуру їжі ви не виносите?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪种食物的口感是你无法忍受的？" } }
+          }
+        },
+        "What's something you're terrible at but love doing anyway?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was kannst du überhaupt nicht, liebst es aber trotzdem zu tun?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿En qué eres malo pero te encanta hacerlo de todos modos?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Dans quoi es-tu mauvais mais que tu aimes quand même faire ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "In cosa sei terribile ma ami comunque fare?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたは苦手だけど、それでもやるのが好きなことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "서투르지만 그래도 즐겁게 하는 일은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er du fryktelig dårlig på, men elsker å gjøre likevel?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Waarin ben je vreselijk slecht, maar doe je het toch graag?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "W czym jesteś beznadziejny, ale i tak uwielbiasz to robić?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "No que você é terrível, mas adora fazer mesmo assim?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är du urusel på men älskar att göra ändå?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "У чому ви жахливі, але все одно любите цим займатися?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "什么事你很不在行但仍然喜欢做？" } }
+          }
+        },
+        "What's the longest line you've ever stood in?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Wofür hast du schon in der längsten Schlange gestanden?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la fila más larga en la que has estado?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la plus longue file d'attente dans laquelle tu as fait la queue ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la fila più lunga in cui tu abbia mai fatto la coda?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番長く並んだのは何の列ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "가장 오래 서 있었던 줄은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den lengste køen du noen gang har stått i?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de langste rij waarin je ooit hebt gestaan?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "W jakiej najdłuższej kolejce stałeś?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a maior fila em que você já ficou?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den längsta kö du någonsin har stått i?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "У якій найдовшій черзі ви коли-небудь стояли?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你排过的最长的队是哪个？" } }
+          }
+        },
+        "What's a holiday you think deserves more attention?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Feiertag verdient deiner Meinung nach mehr Aufmerksamkeit?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué día festivo crees que merece más atención?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle fête mérite selon toi plus d'attention ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale festività pensi meriti più attenzione?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "もっと注目されるべきだと思う祝日は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "더 많은 관심을 받아야 한다고 생각하는 휴일은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken høytid synes du fortjener mer oppmerksomhet?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke feestdag verdient volgens jou meer aandacht?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które święto twoim zdaniem zasługuje na większą uwagę?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual feriado você acha que merece mais atenção?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken helgdag tycker du förtjänar mer uppmärksamhet?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке свято, на вашу думку, заслуговує на більшу увагу?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你认为哪个节日应该得到更多关注？" } }
+          }
+        },
+        "What's the best news you've gotten in the past month?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was waren die besten Nachrichten, die du im letzten Monat erhalten hast?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la mejor noticia que has recibido en el último mes?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure nouvelle que tu aies reçue le mois dernier ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la migliore notizia che hai ricevuto nell'ultimo mese?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "過去1ヶ月で受け取った最高の知らせは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "지난 한 달간 받은 소식 중 가장 좋았던 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er de beste nyhetene du har fått den siste måneden?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste nieuws dat je de afgelopen maand hebt gekregen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką najlepszą wiadomość otrzymałeś w ciągu ostatniego miesiąca?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual foi a melhor notícia que você recebeu no último mês?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den bästa nyheten du har fått den senaste månaden?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка найкраща новина, яку ви отримали за останній місяць?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "过去一个月你收到的最好消息是什么？" } }
+          }
+        },
+        "What's a kitchen utensil you can't live without?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Auf welches Küchenutensil könntest du nicht verzichten?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué utensilio de cocina no podrías dejar de usar?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quel ustensile de cuisine ne pourrais-tu pas te passer ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale utensile da cucina non potresti mai lasciare?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "なくてはならないキッチンツールは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "없으면 안 되는 주방 도구는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket kjøkkenredskap kan du ikke leve uten?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk keukengerei kun jij niet missen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiego przyboru kuchennego nie możesz się wyzbyć?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual utensílio de cozinha você não consegue viver sem?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket köksredskap kan du inte leva utan?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Без якого кухонного приладдя ви не можете обійтися?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你离不开哪个厨房用具？" } }
+          }
+        },
+        "What's something you believed as a teenager that embarrasses you now?" : {
+          "comment" : "Question from iceBreakers category, medium depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du als Teenager geglaubt, das dich heute peinlich berührt?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué creías cuando eras adolescente que te avergüenza ahora?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'est-ce que tu croyais quand tu étais adolescent qui t'embarrasse maintenant ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa pensavi da adolescente che ora ti imbarazza?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "ティーンエイジャーの頃に信じていたことで、今は恥ずかしいことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "10대 때 믿었던 것 중 지금은 부끄러운 것이 있다면?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva trodde du som tenåring som flau deg ut nå?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat geloofde jij als tiener waar je je nu voor schaamt?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "W co wierzyłeś jako nastolatek, a co teraz cię zawstydza?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você acreditava quando era adolescente que te envergonha agora?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad trodde du på som tonåring som du skäms för nu?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "У що ви вірили в підлітковому віці, чого вам тепер соромно?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你青少年时期相信的什么现在让你觉得尴尬？" } }
+          }
+        },
+        "What's the most surprising thing about being your current age?" : {
+          "comment" : "Question from iceBreakers category, medium depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Überraschendste an deinem jetzigen Alter?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más sorprendente de tener tu edad actual?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus surprenante à propos de ton âge actuel ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più sorprendente della tua età attuale?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今の年齢で一番驚くべきことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "지금의 나이에 대해 가장 놀라운 점은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det mest overraskende med å være din nåværende alder?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest verrassende aan jouw huidige leeftijd?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest najbardziej zaskakujące w twoim obecnym wieku?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a coisa mais surpreendente sobre ter a sua idade atual?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det mest överraskande med att vara din nuvarande ålder?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що найдивовижніше у вашому теперішньому віці?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "关于你现在年龄最让你惊讶的事情是什么？" } }
+          }
+        },
+        "What's a 'grown-up' skill you still haven't mastered?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche ‚Erwachsenenfähigkeit‘ hast du immer noch nicht gemeistert?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué habilidad de 'adulto' todavía no has dominado?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle compétence d' 'adulte' n'as-tu toujours pas maîtrisée ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale abilità 'da adulti' non hai ancora imparato?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "まだ習得していない「大人の」スキルは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "아직도 숙달하지 못한 '어른' 스킬은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken 'voksen'-ferdighet har du fortsatt ikke mestret?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke 'volwassen' vaardigheid heb je nog niet onder de knie?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej 'dorosłej' umiejętności wciąż nie opanowałeś?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual habilidade de 'adulto' você ainda não dominou?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken 'vuxen'-färdighet har du fortfarande inte bemästrat?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку 'дорослу' навичку ви досі не опанували?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你还没掌握哪种‘成年人’技能？" } }
+          }
+        },
+        "What's a piece of advice you give often but struggle to follow yourself?" : {
+          "comment" : "Question from iceBreakers category, medium depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welchen Rat gibst du oft, aber tust dich selbst schwer, ihn zu befolgen?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué consejo das a menudo pero te cuesta seguir tú mismo?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel conseil donnes-tu souvent mais as-tu du mal à suivre toi-même ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale consiglio dai spesso ma fai fatica a seguire tu stesso?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "よく人に与えるけど、自分では従うのが難しいアドバイスは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "자주 해주는 조언 중, 자신은 따르기 어려운 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket råd gir du ofte, men sliter med å følge selv?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk advies geef je vaak, maar vind je zelf moeilijk te volgen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej rady często udzielasz, ale sam masz problem z jej przestrzeganiem?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual conselho você dá frequentemente, mas tem dificuldade de seguir você mesmo?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket råd ger du ofta men har svårt att följa själv?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку пораду ви часто даєте, але самій важко її дотримуватися?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你经常给别人什么建议，但自己却很难做到？" } }
+          }
+        },
+        "What's a family tradition from a friend's house you wish you'd grown up with?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Familientradition aus dem Haus eines Freundes wünschst du dir, damit aufgewachsen zu sein?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué tradición familiar de la casa de un amigo te gustaría haber tenido en tu infancia?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle tradition familiale chez un ami aurais-tu aimé avoir dans ton enfance ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale tradizione familiare a casa di un amico avresti voluto avere durante la tua infanzia?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "友達の家の家族の伝統で、自分も育ちたかったと思うものは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "친구 집의 가족 전통 중, 자신도 그렇게 자랐으면 하는 것이 있다면?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken familietradisjon fra en venns hus skulle du ønske du hadde vokst opp med?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke familietraditie uit het huis van een vriend had jij graag gehad?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakiej tradycji rodzinnej z domu przyjaciela żałujesz, że nie miałeś w dzieciństwie?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual tradição familiar da casa de um amigo você gostaria de ter vivenciado?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken familjetradition från en väns hus önskar du att du hade vuxit upp med?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку сімейну традицію з дому друга ви б хотіли, щоб мали в дитинстві?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你希望自己在什么样的朋友家的家庭传统中长大？" } }
+          }
+        },
+        "What's the best 'free' thing you've ever gotten?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Beste, das du jemals „umsonst“ bekommen hast?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la mejor cosa 'gratis' que has recibido?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la meilleure chose 'gratuite' que tu aies jamais eue ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la migliore cosa 'gratuita' che tu abbia mai ottenuto?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までに手に入れた最高の「無料」のものは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "받은 '공짜' 물건 중 가장 좋았던 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det beste 'gratis'-tinget du noen gang har fått?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het beste 'gratis' dat je ooit hebt gekregen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka jest najlepsza 'darmowa' rzecz, jaką kiedykolwiek dostałeś?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a melhor coisa 'grátis' que você já conseguiu?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det bästa 'gratis' du någonsin har fått?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яку найкращу 'безкоштовну' річ ви коли-небудь отримували?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你得到过的最好的‘免费’东西是什么？" } }
+          }
+        },
+        "What's a piece of art (song, painting, film) that changed how you see things?" : {
+          "comment" : "Question from iceBreakers category, medium depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welches Kunstwerk (Lied, Gemälde, Film) hat deine Sichtweise verändert?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué obra de arte (canción, pintura, película) cambió tu forma de ver las cosas?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle œuvre d'art (chanson, peinture, film) a changé ta façon de voir les choses ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale opera d'arte (canzone, dipinto, film) ha cambiato il tuo modo di vedere le cose?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたのものの見方を変えた芸術作品（曲、絵画、映画）は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신의 시각을 바꾼 예술 작품(노래, 그림, 영화)은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilket kunstverk (sang, maleri, film) endret måten du ser ting på?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk kunstwerk (nummer, schilderij, film) veranderde jouw kijk op dingen?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie dzieło sztuki (piosenka, obraz, film) zmieniło twoje postrzeganie rzeczy?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual obra de arte (música, pintura, filme) mudou a sua maneira de ver as coisas?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilket konstverk (sång, målning, film) förändrade hur du ser på saker?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який витвір мистецтва (пісня, картина, фільм) змінив ваше бачення світу?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪件艺术品（歌曲、画作、电影）改变了你看待事物的方式？" } }
+          }
+        },
+        "What's the most comfortable piece of furniture you've ever owned?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das bequemste Möbelstück, das du je besessen hast?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el mueble más cómodo que has tenido?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est le meuble le plus confortable que tu aies jamais possédé ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il mobile più comodo che tu abbia mai posseduto?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今まで所有した中で一番快適な家具は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "소유했던 가구 중 가장 편안했던 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest komfortable møbelet du noen gang har hatt?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is het meest comfortabele meubelstuk dat je ooit hebt gehad?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest najwygodniejszy mebel, jaki kiedykolwiek miałeś?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o móvel mais confortável que você já teve?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är den mest bekväma möbeln du någonsin har ägt?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Які найзручніші меблі ви коли-небудь мали?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你拥有过的最舒适的家具是什么？" } }
+          }
+        },
+        "What's a tourist attraction that's actually worth the hype?" : {
+          "comment" : "Question from iceBreakers category, light depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Touristenattraktion ist den Hype tatsächlich wert?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué atracción turística realmente vale la pena?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle attraction touristique vaut vraiment le battage médiatique ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale attrazione turistica vale davvero la pena?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "誇大広告に値する観光名所は何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "실제로 가볼 만한 관광 명소는 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken turistattraksjon er faktisk verdt hypen?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke toeristische attractie is de hype daadwerkelijk waard?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Która atrakcja turystyczna jest rzeczywiście warta swojej sławy?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual atração turística realmente vale a pena a fama?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken turistattraktion är faktiskt värd hypen?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка туристична пам'ятка дійсно варта галасу?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪个旅游景点确实名副其实？" } }
+          }
+        },
+        "What's something you're glad you didn't have to grow up with?" : {
+          "comment" : "Question from iceBreakers category, medium depth",
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Worüber bist du froh, dass du nicht damit aufwachsen musstest?" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "¿De qué te alegras de no haber tenido que crecer?" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "De quoi es-tu content de ne pas avoir dû grandir avec ?" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Di cosa sei felice di non essere cresciuto?" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "育ちながら経験しなくて良かったと思うことは何ですか？" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "성장하면서 겪지 않아도 되어서 다행이라고 생각하는 것은 무엇인가요?" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er du glad for at du slapp å vokse opp med?" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Waar ben je blij dat je niet mee bent opgegroeid?" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Z czego cieszysz się, że nie musiałeś dorastać?" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Do que você está feliz por não ter crescido com isso?" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är du glad över att du slapp växa upp med?" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Чому ви раді, що вам не довелося з цим зростати?" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你庆幸自己没有在成长过程中经历什么事？" } }
+          }
+        },
+        
     "What is your favorite thing to do when we are alone?": {
       "localizations": {
         "de": {
