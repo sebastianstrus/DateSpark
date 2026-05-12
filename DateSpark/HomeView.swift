@@ -356,7 +356,7 @@ struct RecapQuestionCard: View {
 
             VStack(alignment: .leading, spacing: 8) {
                 // Question text
-                Text(question.text)
+                Text(question.localizedText)
                     .font(.dsLabel(15, weight: .regular))
                     .foregroundColor(Color.dsPrimary)
                     .lineSpacing(4)

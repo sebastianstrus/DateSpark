@@ -85,7 +85,7 @@ struct ShareableQuestionView: View {
                     .padding(.top, 20)
                 
                 // Question text - centered content
-                Text(question.text)
+                Text(question.localizedText)
                     .font(.dsDisplay(42, weight: .light))
                     .foregroundColor(Color.dsPrimary)
                     .lineSpacing(9)

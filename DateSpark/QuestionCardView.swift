@@ -191,7 +191,7 @@ struct QuestionCardView: View {
 
                 // ── Question text ─────────────────────────────────────────
                 // Fills remaining space; font scales down if text is very long
-                Text(question.text)
+                Text(question.localizedText)
                     .font(.dsDisplay(24, weight: .light))
                     .foregroundColor(Color.dsPrimary)
                     .lineSpacing(7)

@@ -232,7 +232,7 @@ struct QuestionListRow: View {
                 .frame(width: 52)
 
             VStack(alignment: .leading, spacing: 8) {
-                Text(question.text)
+                Text(question.localizedText)
                     .font(.dsLabel(16, weight: .regular))
                     .foregroundColor(Color.dsPrimary)
                     .lineSpacing(5)

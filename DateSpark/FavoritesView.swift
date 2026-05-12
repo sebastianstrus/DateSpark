@@ -164,7 +164,7 @@ struct FavoriteQuestionRow: View {
                 Spacer().frame(width: 18)
 
                 VStack(alignment: .leading, spacing: 7) {
-                    Text(question.text)
+                    Text(question.localizedText)
                         .font(.dsLabel(15, weight: .regular))
                         .foregroundColor(Color.dsPrimary)
                         .lineSpacing(4)

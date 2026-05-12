@@ -24,3 +24,11 @@ extension QuestionDepth {
         LocalizedStringKey(rawValue)
     }
 }
+
+@MainActor
+extension Question {
+    /// Localized question text
+    var localizedText: LocalizedStringKey {
+        LocalizedStringKey(text)
+    }
+}
