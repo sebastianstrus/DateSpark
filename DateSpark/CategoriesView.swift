@@ -10,6 +10,7 @@ fileprivate func dismissKeyboard() {
 struct CategoriesView: View {
     @Environment(AppState.self) private var appState
     @State private var selectedCategory: QuestionCategory? = nil
+    @State private var showPaywall = false
 
     var body: some View {
         ZStack {
@@ -48,8 +49,14 @@ struct CategoriesView: View {
                             ForEach(Array(categories.enumerated()), id: \.element.id) { index, cat in
                                 CategoryRowView(category: cat, index: index + 1) {
                                     HapticManager.shared.buttonTap()
-                                    withAnimation(.spring(response: 0.4, dampingFraction: 0.8)) {
-                                        selectedCategory = cat
+                                    
+                                    // Check if category requires premium and user doesn't have it
+                                    if cat.requiresPremium && !appState.isPremium {
+                                        showPaywall = true
+                                    } else {
+                                        withAnimation(.spring(response: 0.4, dampingFraction: 0.8)) {
+                                            selectedCategory = cat
+                                        }
                                     }
                                 }
                                 if index < categories.count - 1 {
@@ -63,6 +70,9 @@ struct CategoriesView: View {
             }
         }
         .animation(.spring(response: 0.4, dampingFraction: 0.82), value: selectedCategory)
+        .sheet(isPresented: $showPaywall) {
+            PaywallView()
+        }
     }
 }
 
@@ -78,6 +88,10 @@ struct CategoryRowView: View {
     private var countText: Int {
         if category == .custom { return appState.customQuestions.count }
         return DataProvider.shared.questions(for: category).count
+    }
+    
+    private var isLocked: Bool {
+        category.requiresPremium && !appState.isPremium
     }
 
     var body: some View {
@@ -103,21 +117,36 @@ struct CategoryRowView: View {
 
                 // Text
                 VStack(alignment: .leading, spacing: 4) {
-                    Text(category.localizedName)
-                        .font(.dsDisplay(19, weight: .light))
-                        .foregroundColor(Color.dsPrimary)
-                    Text("\(countText) questions")
+                    HStack(spacing: 8) {
+                        Text(category.localizedName)
+                            .font(.dsDisplay(19, weight: .light))
+                            .foregroundColor(Color.dsPrimary)
+                        
+                        if isLocked {
+                            Image(systemName: "lock.fill")
+                                .font(.system(size: 10, weight: .light))
+                                .foregroundStyle(LinearGradient.dsGoldGradient)
+                        }
+                    }
+                    Text(isLocked ? "5 preview questions" : "\(countText) questions")
                         .font(.dsLabel(11, weight: .regular))
                         .foregroundColor(Color.dsTertiary)
                 }
 
                 Spacer()
 
-                // Arrow
-                Image(systemName: "arrow.right")
-                    .font(.system(size: 12, weight: .light))
-                    .foregroundColor(Color.dsTertiary)
-                    .padding(.trailing, 24)
+                // Arrow or Crown
+                if isLocked {
+                    Image(systemName: "crown.fill")
+                        .font(.system(size: 12, weight: .light))
+                        .foregroundStyle(LinearGradient.dsGoldGradient)
+                        .padding(.trailing, 24)
+                } else {
+                    Image(systemName: "arrow.right")
+                        .font(.system(size: 12, weight: .light))
+                        .foregroundColor(Color.dsTertiary)
+                        .padding(.trailing, 24)
+                }
             }
             .padding(.vertical, 20)
         }
@@ -143,7 +172,14 @@ struct CategoryDetailView: View {
 
     private var questions: [Question] {
         if category == .custom { return appState.customQuestions }
-        return DataProvider.shared.questions(for: category)
+        return DataProvider.shared.questionsForDisplay(
+            for: category,
+            isPremium: appState.isPremium
+        )
+    }
+    
+    private var isLocked: Bool {
+        category.requiresPremium && !appState.isPremium
     }
 
     var body: some View {
@@ -180,11 +216,29 @@ struct CategoryDetailView: View {
                     .padding(.bottom, 16)
 
                     VStack(alignment: .leading, spacing: 5) {
-                        Text(category.localizedName)
-                            .font(.dsLabel(9))
-                            .tracking(3.5)
-                            .textCase(.uppercase)
-                            .foregroundColor(category.accentColor)
+                        HStack(spacing: 8) {
+                            Text(category.localizedName)
+                                .font(.dsLabel(9))
+                                .tracking(3.5)
+                                .textCase(.uppercase)
+                                .foregroundColor(category.accentColor)
+                            
+                            if isLocked {
+                                HStack(spacing: 4) {
+                                    Image(systemName: "lock.fill")
+                                        .font(.system(size: 7))
+                                    Text("PREVIEW")
+                                        .font(.dsLabel(7))
+                                        .tracking(2)
+                                }
+                                .foregroundStyle(LinearGradient.dsGoldGradient)
+                                .padding(.horizontal, 6)
+                                .padding(.vertical, 3)
+                                .background(Color.dsGold.opacity(0.1))
+                                .clipShape(Capsule())
+                            }
+                        }
+                        
                         Text(category.localizedDescription)
                             .font(.dsDisplay(26, weight: .light))
                             .foregroundColor(Color.dsPrimary)

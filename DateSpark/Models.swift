@@ -67,6 +67,11 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .custom:       "Your personal prompts"
         }
     }
+    
+    /// Ice Breakers is always free, everything else requires premium
+    var requiresPremium: Bool {
+        self != .iceBreakers
+    }
 }
 
 // MARK: - QuestionDepth

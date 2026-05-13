@@ -1481,4 +1481,43 @@ struct DataProvider: Sendable {
         let shuffled = allQuestions.shuffled()
         return Array(shuffled.prefix(30))
     }
+    
+    /// Returns questions filtered by premium status
+    /// - Free users: Ice Breakers = full access, others = first 5 questions
+    /// - Premium users: full access to everything
+    @MainActor
+    func questionsForDisplay(for category: QuestionCategory, isPremium: Bool) -> [Question] {
+        let allQuestions = questions(for: category)
+        
+        // Ice Breakers is always free - full access
+        if category == .iceBreakers {
+            return allQuestions
+        }
+        
+        // Premium users get everything
+        if isPremium {
+            return allQuestions
+        }
+        
+        // Free users get first 5 questions as preview for premium categories
+        return Array(allQuestions.prefix(5))
+    }
+    
+    /// Returns shuffled questions filtered by premium status
+    @MainActor
+    func shuffledQuestionsForDisplay(for category: QuestionCategory, isPremium: Bool) -> [Question] {
+        // Ice Breakers is always free
+        if category == .iceBreakers {
+            return shuffledQuestions(for: category)
+        }
+        
+        // Premium users get the full shuffled set
+        if isPremium {
+            return shuffledQuestions(for: category)
+        }
+        
+        // Free users get first 5 questions as preview
+        let allQuestions = questions(for: category)
+        return Array(allQuestions.prefix(5))
+    }
 }

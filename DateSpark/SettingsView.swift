@@ -3,6 +3,11 @@ import SwiftUI
 @MainActor
 struct SettingsView: View {
     @Environment(AppState.self) private var appState
+    @State private var purchaseManager = PurchaseManager.shared
+    @State private var showPaywall = false
+    @State private var isRestoring = false
+    @State private var showRestoreAlert = false
+    @State private var restoreMessage = ""
     
     var body: some View {
         ZStack {
@@ -30,6 +35,101 @@ struct SettingsView: View {
                     HairlineDivider()
                     
                     VStack(spacing: 24) {
+                        // Premium Status / Unlock
+                        if appState.isPremium {
+                            SettingsSection(title: "Premium") {
+                                HStack {
+                                    VStack(alignment: .leading, spacing: 4) {
+                                        HStack(spacing: 6) {
+                                            Image(systemName: "crown.fill")
+                                                .font(.system(size: 12))
+                                                .foregroundStyle(LinearGradient.dsGoldGradient)
+                                            Text("Premium Active")
+                                                .font(.dsLabel(15, weight: .medium))
+                                                .foregroundColor(Color.dsPrimary)
+                                        }
+                                        Text("Thank you for your support!")
+                                            .font(.dsLabel(13))
+                                            .foregroundColor(Color.dsSecondary)
+                                    }
+                                    Spacer()
+                                    Image(systemName: "checkmark.circle.fill")
+                                        .font(.system(size: 18))
+                                        .foregroundStyle(LinearGradient.dsGoldGradient)
+                                }
+                                .padding(.horizontal, 20)
+                                .padding(.vertical, 16)
+                                .background(
+                                    LinearGradient(
+                                        colors: [Color.dsGold.opacity(0.08), Color.dsGold.opacity(0.03)],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
+                                )
+                                .clipShape(RoundedRectangle(cornerRadius: 12))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 12)
+                                        .stroke(LinearGradient.dsGoldGradient.opacity(0.3), lineWidth: 1)
+                                )
+                            }
+                        } else {
+                            SettingsSection(title: "Premium") {
+                                Button {
+                                    HapticManager.shared.buttonTap()
+                                    showPaywall = true
+                                } label: {
+                                    HStack {
+                                        VStack(alignment: .leading, spacing: 4) {
+                                            HStack(spacing: 6) {
+                                                Image(systemName: "crown.fill")
+                                                    .font(.system(size: 12))
+                                                    .foregroundStyle(LinearGradient.dsGoldGradient)
+                                                Text("Unlock Premium")
+                                                    .font(.dsLabel(15, weight: .medium))
+                                                    .foregroundColor(Color.dsPrimary)
+                                            }
+                                            Text("1000+ questions • One-time payment")
+                                                .font(.dsLabel(13))
+                                                .foregroundColor(Color.dsSecondary)
+                                        }
+                                        Spacer()
+                                        Image(systemName: "arrow.right")
+                                            .font(.system(size: 12, weight: .medium))
+                                            .foregroundStyle(LinearGradient.dsGoldGradient)
+                                    }
+                                    .padding(.horizontal, 20)
+                                    .padding(.vertical, 16)
+                                    .background(Color.dsSurface)
+                                    .clipShape(RoundedRectangle(cornerRadius: 12))
+                                    .overlay(
+                                        RoundedRectangle(cornerRadius: 12)
+                                            .stroke(LinearGradient.dsGoldGradient.opacity(0.3), lineWidth: 1)
+                                    )
+                                }
+                            }
+                            
+                            // Restore Purchases
+                            Button {
+                                HapticManager.shared.buttonTap()
+                                handleRestorePurchases()
+                            } label: {
+                                HStack {
+                                    Spacer()
+                                    if isRestoring {
+                                        ProgressView()
+                                            .tint(Color.dsSecondary)
+                                    } else {
+                                        Text("Restore Purchases")
+                                            .font(.dsLabel(13))
+                                            .foregroundColor(Color.dsSecondary)
+                                    }
+                                    Spacer()
+                                }
+                                .padding(.vertical, 8)
+                            }
+                            .disabled(isRestoring)
+                        }
+                        
                         // Language Selector
                         SettingsSection(title: "Language") {
                             Button {
@@ -194,6 +294,35 @@ struct SettingsView: View {
                     .padding(.bottom, 120)
                 }
             }
+        }
+        .sheet(isPresented: $showPaywall) {
+            PaywallView()
+        }
+        .alert("Restore Purchases", isPresented: $showRestoreAlert) {
+            Button("OK", role: .cancel) {}
+        } message: {
+            Text(restoreMessage)
+        }
+    }
+    
+    private func handleRestorePurchases() {
+        isRestoring = true
+        
+        Task {
+            do {
+                try await purchaseManager.restorePurchases()
+                if purchaseManager.isPremium {
+                    restoreMessage = "Premium successfully restored!"
+                    HapticManager.shared.success()
+                } else {
+                    restoreMessage = "No previous purchases found."
+                }
+            } catch {
+                restoreMessage = "Failed to restore purchases. Please try again."
+                HapticManager.shared.error()
+            }
+            showRestoreAlert = true
+            isRestoring = false
         }
     }
     

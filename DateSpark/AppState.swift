@@ -10,6 +10,11 @@ final class AppState {
     var hasCompletedOnboarding: Bool {
         didSet { UserDefaults.standard.set(hasCompletedOnboarding, forKey: Keys.onboarding) }
     }
+    
+    // Premium purchase status - delegates to PurchaseManager
+    var isPremium: Bool {
+        PurchaseManager.shared.isPremium
+    }
 
     // Must be reassigned (not mutated in place) for @Observable to fire.
     var favoriteQuestions: [Question] {

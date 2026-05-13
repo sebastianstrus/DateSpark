@@ -79,7 +79,10 @@ struct HomeView: View {
         if category == .custom {
             questions        = appState.customQuestions.shuffled()
         } else {
-            questions        = DataProvider.shared.shuffledQuestions(for: category)
+            questions        = DataProvider.shared.shuffledQuestionsForDisplay(
+                for: category,
+                isPremium: appState.isPremium
+            )
         }
         currentIndex     = 0
         keptQuestions    = []
@@ -276,6 +279,8 @@ struct HomeEmptyStateView: View {
 struct SessionRecapView: View {
     let keptQuestions: [Question]
     let onRestart: () -> Void
+    @Environment(AppState.self) private var appState
+    @State private var showPaywall = false
 
     var body: some View {
         ScrollView {
@@ -321,27 +326,53 @@ struct SessionRecapView: View {
                         .padding(.top, 10)
                     }
 
-                    Button(action: { 
-                        HapticManager.shared.buttonTap()
-                        onRestart() 
-                    }) {
-                        HStack(spacing: 10) {
-                            Text("Shuffle & Restart")
-                                .font(.dsDisplay(17, weight: .regular))
-                            Image(systemName: "arrow.clockwise")
-                                .font(.system(size: 13, weight: .light))
-                        }
-                        .foregroundColor(Color.dsBackground)
-                        .padding(.horizontal, 26)
-                        .padding(.vertical, 15)
-                        .background(
-                            ZStack {
-                                LinearGradient.dsGoldGradient
-                                LinearGradient(colors: [Color.white.opacity(0.1), Color.clear], startPoint: .top, endPoint: .bottom)
+                    VStack(spacing: 12) {
+                        Button(action: { 
+                            HapticManager.shared.buttonTap()
+                            onRestart() 
+                        }) {
+                            HStack(spacing: 10) {
+                                Text("Shuffle & Restart")
+                                    .font(.dsDisplay(17, weight: .regular))
+                                Image(systemName: "arrow.clockwise")
+                                    .font(.system(size: 13, weight: .light))
                             }
-                        )
-                        .clipShape(RoundedRectangle(cornerRadius: 5))
-                        .shadow(color: Color.dsGold.opacity(0.3), radius: 14, x: 0, y: 5)
+                            .foregroundColor(Color.dsBackground)
+                            .padding(.horizontal, 26)
+                            .padding(.vertical, 15)
+                            .background(
+                                ZStack {
+                                    LinearGradient.dsGoldGradient
+                                    LinearGradient(colors: [Color.white.opacity(0.1), Color.clear], startPoint: .top, endPoint: .bottom)
+                                }
+                            )
+                            .clipShape(RoundedRectangle(cornerRadius: 5))
+                            .shadow(color: Color.dsGold.opacity(0.3), radius: 14, x: 0, y: 5)
+                        }
+                        
+                        // Show upgrade prompt for non-premium users
+                        if !appState.isPremium {
+                            Button(action: { 
+                                HapticManager.shared.buttonTap()
+                                showPaywall = true 
+                            }) {
+                                HStack(spacing: 10) {
+                                    Image(systemName: "crown.fill")
+                                        .font(.system(size: 11, weight: .light))
+                                    Text("Unlock 1000+ Questions")
+                                        .font(.dsDisplay(17, weight: .regular))
+                                }
+                                .foregroundColor(Color.dsPrimary)
+                                .padding(.horizontal, 26)
+                                .padding(.vertical, 15)
+                                .background(Color.dsSurface)
+                                .clipShape(RoundedRectangle(cornerRadius: 5))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 5)
+                                        .stroke(LinearGradient.dsGoldGradient, lineWidth: 1)
+                                )
+                            }
+                        }
                     }
                     .padding(.top, 8)
                 }
@@ -349,6 +380,9 @@ struct SessionRecapView: View {
                 .padding(.vertical, 40)
             }
             .frame(maxWidth: .infinity, alignment: .topLeading)
+        }
+        .sheet(isPresented: $showPaywall) {
+            PaywallView()
         }
     }
 }
