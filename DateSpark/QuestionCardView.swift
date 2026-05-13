@@ -412,7 +412,7 @@ struct SwipeTutorialOverlay: View {
                     
                     Text("Swipe left to pass, swipe right to keep\nThere will be recap at the end")
                         .font(.dsLabel(15, weight: .regular))
-                        .foregroundColor(Color.dsSecondary)
+                        .foregroundColor(Color.dsPrimary)
                         .multilineTextAlignment(.center)
                         .lineSpacing(6)
                 }
