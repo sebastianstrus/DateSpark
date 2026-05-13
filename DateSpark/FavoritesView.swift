@@ -128,12 +128,34 @@ struct FavoriteQuestionRow: View {
 
     var body: some View {
         ZStack(alignment: .trailing) {
-            // Delete background
-            Button {
-                withAnimation(.spring()) { appState.toggleFavorite(question) }
-            } label: {
-                HStack {
-                    Spacer()
+            // Swipe action background
+            HStack(spacing: 0) {
+                Spacer()
+                
+                // Share button
+                Button {
+                    if let image = QuestionSharingHelper.generateImage(for: question) {
+                        shareImage = image
+                        showShareSheet = true
+                    }
+                } label: {
+                    VStack(spacing: 4) {
+                        Image(systemName: "square.and.arrow.up")
+                            .font(.system(size: 15, weight: .light))
+                        Text("SHARE")
+                            .font(.dsLabel(8))
+                            .tracking(1.5)
+                    }
+                    .foregroundColor(.white)
+                    .frame(width: 80)
+                    .frame(maxHeight: .infinity)
+                    .background(Color.dsConfirm)
+                }
+                
+                // Delete button
+                Button {
+                    withAnimation(.spring()) { appState.toggleFavorite(question) }
+                } label: {
                     VStack(spacing: 4) {
                         Image(systemName: "trash")
                             .font(.system(size: 15, weight: .light))
@@ -142,10 +164,10 @@ struct FavoriteQuestionRow: View {
                             .tracking(1.5)
                     }
                     .foregroundColor(.white)
-                    .padding(.trailing, 22)
+                    .frame(width: 80)
+                    .frame(maxHeight: .infinity)
+                    .background(Color.dsDecline)
                 }
-                .frame(maxHeight: .infinity)
-                .background(Color.dsDecline)
             }
             .opacity(showDelete ? 1 : 0)
 
@@ -187,25 +209,6 @@ struct FavoriteQuestionRow: View {
                 }
 
                 Spacer()
-                
-                VStack(spacing: 8) {
-                    Button {
-                        if let image = QuestionSharingHelper.generateImage(for: question) {
-                            shareImage = image
-                            showShareSheet = true
-                        }
-                    } label: {
-                        Image(systemName: "square.and.arrow.up")
-                            .font(.system(size: 14, weight: .light))
-                            .foregroundColor(Color.dsTertiary)
-                    }
-                    
-                    Image(systemName: "bookmark.fill")
-                        .font(.system(size: 14, weight: .light))
-                        .foregroundStyle(LinearGradient.dsGoldGradient)
-                }
-                .padding(.trailing, 24)
-                .padding(.top, 3)
             }
             .padding(.vertical, 18)
             .background(Color.dsBackground)
@@ -217,7 +220,7 @@ struct FavoriteQuestionRow: View {
                         let isHorizontalDrag = abs(v.translation.width) > abs(v.translation.height)
                         guard isHorizontalDrag && v.translation.width < 0 else { return }
                         withAnimation(.interactiveSpring()) {
-                            offsetX = max(v.translation.width, -80)
+                            offsetX = max(v.translation.width, -160)
                             showDelete = offsetX < -30
                         }
                     }
@@ -225,7 +228,7 @@ struct FavoriteQuestionRow: View {
                         let isHorizontalDrag = abs(v.translation.width) > abs(v.translation.height)
                         withAnimation(.spring()) {
                             if isHorizontalDrag && v.translation.width < -60 {
-                                offsetX = -80
+                                offsetX = -160
                                 showDelete = true
                             } else {
                                 offsetX = 0
