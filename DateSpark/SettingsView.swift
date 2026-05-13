@@ -203,16 +203,17 @@ struct SettingsView: View {
 
 @MainActor
 struct SettingsSection<Content: View>: View {
-    let title: String
+    let title: LocalizedStringKey
     @ViewBuilder let content: Content
     
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
-            Text(title.uppercased())
+            Text(title)
                 .font(.dsLabel(10))
                 .tracking(2)
                 .foregroundColor(Color.dsSecondary)
                 .padding(.leading, 4)
+                .textCase(.uppercase)
             
             content
         }

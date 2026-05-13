@@ -41569,7 +41569,6 @@
       }
     },
     "Language" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -41747,7 +41746,6 @@
       }
     },
     "Legal" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -45275,7 +45273,6 @@
       }
     },
     "Sound" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -47450,7 +47447,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Samouczek"
+            "value" : "Tutorial"
           }
         },
         "pt-BR" : {
