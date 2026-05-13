@@ -180,9 +180,14 @@ struct SpinWheelView: View {
         try? await Task.sleep(for: .seconds(3.3))
         guard !Task.isCancelled else { return }
 
+        // Normalize rotation to 0-360 range
         let norm  = rotation.truncatingRemainder(dividingBy: 360)
-        let adj   = (360 - norm + 270).truncatingRemainder(dividingBy: 360)
-        let index = Int(adj / (360.0 / Double(categories.count))) % categories.count
+        // Pointer is at -90° in segment coords. Wheel rotates clockwise.
+        // Find which segment is at the pointer: -90° - rotation
+        let pointerAngle = (-90.0 - norm).truncatingRemainder(dividingBy: 360)
+        let adjusted = pointerAngle < 0 ? pointerAngle + 360 : pointerAngle
+        let segmentAngle = (adjusted + 90).truncatingRemainder(dividingBy: 360)
+        let index = Int(segmentAngle / (360.0 / Double(categories.count))) % categories.count
         selectedCategory = categories[index]
 
         withAnimation(.spring(response: 0.4, dampingFraction: 0.8)) {
