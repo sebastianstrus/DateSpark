@@ -3110,94 +3110,94 @@
       }
     },
     "Collect" : {
-          "extractionState" : "manual",
-          "localizations" : {
-            "de" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Sammle"
-              }
-            },
-            "en" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Collect"
-              }
-            },
-            "es" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Recopila"
-              }
-            },
-            "fr" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Collecter"
-              }
-            },
-            "it" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Raccogli"
-              }
-            },
-            "ja" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "収集"
-              }
-            },
-            "ko" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "수집"
-              }
-            },
-            "nb" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Samle"
-              }
-            },
-            "nl" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Verzamel"
-              }
-            },
-            "pl" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Zbieraj"
-              }
-            },
-            "pt-BR" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Coletar"
-              }
-            },
-            "sv" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Samla"
-              }
-            },
-            "uk" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "Збирай"
-              }
-            },
-            "zh-Hans" : {
-              "stringUnit" : {
-                "state" : "translated",
-                "value" : "收集"
-              }
-            }
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sammle"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recopila"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collecter"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raccogli"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "収集"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수집"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samle"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verzamel"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zbieraj"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coletar"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samla"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Збирай"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收集"
+          }
+        }
+      }
+    },
     "Complete this sentence: “I wish I had someone with whom I could share...”" : {
       "comment" : "category: closeness36, depth: deep",
       "extractionState" : "stale",
@@ -42799,6 +42799,718 @@
         }
       }
     },
+    "onboarding.page1.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durchdacht gestaltete Fragen, die über Small Talk hinausgehen – für erste Dates, alte Freunde und jede bedeutungsvolle Begegnung."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thoughtfully crafted questions designed to move past small talk — for first dates, old friends, and every meaningful encounter."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preguntas cuidadosamente elaboradas diseñadas para superar la charla trivial, para primeras citas, viejos amigos y cada encuentro significativo."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Des questions soigneusement élaborées conçues pour aller au-delà des banalités — pour les premiers rendez-vous, les vieux amis et chaque rencontre significative."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domande attentamente elaborate per andare oltre le chiacchiere — per primi appuntamenti, vecchi amici e ogni incontro significativo."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雑談を超えて心に響く質問 — 初デート、旧友、そしてすべての意味のある出会いのために。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가벼운 대화를 넘어선 의미 있는 질문들 — 첫 데이트, 오랜 친구, 그리고 모든 소중한 만남을 위해."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omtenksomt utformede spørsmål designet for å gå utover småprat — for første dates, gamle venner og hvert meningsfullt møte."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorgvuldig samengestelde vragen om voorbij small talk te gaan — voor eerste dates, oude vrienden en elke betekenisvolle ontmoeting."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starannie opracowane pytania, które wykraczają poza pogawędki — na pierwsze randki, dla starych przyjaciół i każde znaczące spotkanie."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perguntas cuidadosamente elaboradas para ir além do papo furado — para primeiros encontros, velhos amigos e todo encontro significativo."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Genomtänkta frågor utformade för att gå bortom småprat — för första dejter, gamla vänner och varje meningsfull träff."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ретельно підібрані запитання, які виходять за межі дрібних розмов — для перших побачень, старих друзів та кожної значущої зустрічі."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精心设计的问题，超越寒暄——适用于初次约会、老友相聚和每一次有意义的相遇。"
+          }
+        }
+      }
+    },
+    "onboarding.page1.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiefere\nGespräche"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deeper\nConversations"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conversaciones\nmás profundas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Des conversations\nplus profondes"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conversazioni\npiù profonde"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "より深い\n会話"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "더 깊은\n대화"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dypere\nsamtaler"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diepere\ngesprekken"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Głębsze\nrozmowy"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conversas\nmais profundas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Djupare\nsamtal"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глибші\nрозмови"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更深入的\n对话"
+          }
+        }
+      }
+    },
+    "onboarding.page2.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von sanften Eisbrechern bis zu tiefgründigen Fragen über Liebe und Leben. Drehen Sie das Rad oder wählen Sie Ihre eigene Richtung."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From gentle ice-breakers to profound questions about love and life. Spin the wheel or choose your own direction."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desde rompehielos suaves hasta preguntas profundas sobre el amor y la vida. Gira la rueda o elige tu propia dirección."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Des brise-glaces doux aux questions profondes sur l'amour et la vie. Faites tourner la roue ou choisissez votre propre direction."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dai rompighiaccio delicati alle domande profonde sull'amore e sulla vita. Gira la ruota o scegli la tua direzione."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "やさしいアイスブレイカーから、愛と人生についての深い質問まで。ルーレットを回すか、自分で方向を選んでください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부드러운 아이스브레이커부터 사랑과 삶에 대한 깊은 질문까지. 휠을 돌리거나 직접 방향을 선택하세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fra milde isbrytere til dype spørsmål om kjærlighet og liv. Spinn hjulet eller velg din egen retning."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Van zachte ijsbrekers tot diepgaande vragen over liefde en leven. Draai aan het wiel of kies je eigen richting."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Od delikatnych lodołamaczy po głębokie pytania o miłość i życie. Zakręć kołem lub wybierz własny kierunek."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De quebra-gelos suaves a perguntas profundas sobre amor e vida. Gire a roda ou escolha sua própria direção."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Från milda isbrytare till djupgående frågor om kärlek och liv. Snurra hjulet eller välj din egen riktning."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Від м'яких розминок до глибоких запитань про кохання та життя. Крутіть колесо або оберіть свій напрямок."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从温和的破冰问题到关于爱与生活的深刻问题。转动轮盘或选择自己的方向。"
+          }
+        }
+      }
+    },
+    "onboarding.page2.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zehn\nKategorien"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ten\nCategories"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diez\ncategorías"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dix\ncatégories"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieci\ncategorie"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10の\nカテゴリー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10가지\n카테고리"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ti\nkategorier"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tien\ncategorieën"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziesięć\nkategorii"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dez\ncategorias"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tio\nkategorier"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Десять\nкатегорій"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "十个\n分类"
+          }
+        }
+      }
+    },
+    "onboarding.page3.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wischen Sie nach rechts, wenn eine Frage Sie anspricht. Wischen Sie nach links, um zu überspringen. Jede Karte ist eine Tür – öffnen Sie die, die Sie rufen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swipe right when a question resonates. Swipe left to pass. Every card is a doorway — open the ones that call to you."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desliza a la derecha cuando una pregunta resuene contigo. Desliza a la izquierda para pasar. Cada tarjeta es una puerta: abre las que te llaman."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glissez à droite quand une question résonne. Glissez à gauche pour passer. Chaque carte est une porte — ouvrez celles qui vous appellent."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorri a destra quando una domanda ti risuona. Scorri a sinistra per passare oltre. Ogni carta è una porta: apri quelle che ti chiamano."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心に響く質問があれば右にスワイプ。スキップするなら左にスワイプ。すべてのカードは扉です — あなたを呼ぶものを開いてください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "질문이 공감되면 오른쪽으로 스와이프하세요. 건너뛰려면 왼쪽으로 스와이프하세요. 모든 카드는 문입니다 — 당신을 부르는 것을 여세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sveip til høyre når et spørsmål resonnerer. Sveip til venstre for å hoppe over. Hvert kort er en dør — åpne de som kaller på deg."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veeg naar rechts als een vraag resoneert. Veeg naar links om over te slaan. Elke kaart is een deur — open degene die je roepen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przesuń w prawo, gdy pytanie do Ciebie przemawia. Przesuń w lewo, by pominąć. Każda karta to drzwi — otwórz te, które do Ciebie wołają."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deslize para a direita quando uma pergunta ressoar. Deslize para a esquerda para passar. Cada cartão é uma porta — abra as que chamam você."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svep åt höger när en fråga resonerar. Svep åt vänster för att hoppa över. Varje kort är en dörr — öppna de som kallar på dig."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Проведіть праворуч, якщо запитання відгукується. Проведіть ліворуч, щоб пропустити. Кожна картка — це двері — відкрийте ті, що кличуть вас."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当问题引起共鸣时向右滑动。向左滑动跳过。每张卡片都是一扇门——打开那些呼唤你的。"
+          }
+        }
+      }
+    },
+    "onboarding.page3.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frei\nwischen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swipe\nFreely"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desliza\nlibremente"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glissez\nlibre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorri\nliberamente"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自由に\nスワイプ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자유롭게\n스와이프"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sveip\nfritt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veeg\nvrij"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przesuwaj\nswobodnie"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deslize\nlivremente"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svep\nfritt"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гортайте\nвільно"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自由\n滑动"
+          }
+        }
+      }
+    },
+    "onboarding.page4.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markieren Sie Fragen, die etwas Echtes auslösen. Kehren Sie zu Ihrer Sammlung zurück, wenn Sie die richtigen Worte brauchen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bookmark questions that spark something real. Return to your collection whenever you need the right words."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda las preguntas que despierten algo real. Vuelve a tu colección cuando necesites las palabras correctas."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marquez les questions qui éveillent quelque chose de réel. Revenez à votre collection quand vous avez besoin des bons mots."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi ai segnalibri le domande che suscitano qualcosa di reale. Torna alla tua raccolta quando hai bisogno delle parole giuste."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本物の何かを呼び起こす質問をブックマークしてください。適切な言葉が必要なときはいつでもコレクションに戻ってください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "진실된 무언가를 불러일으키는 질문을 북마크하세요. 적절한 말이 필요할 때마다 컬렉션으로 돌아오세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bokmerk spørsmål som vekker noe ekte. Gå tilbake til samlingen din når du trenger de rette ordene."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markeer vragen die iets echts oproepen. Keer terug naar je collectie wanneer je de juiste woorden nodig hebt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaznacz pytania, które wywołują coś prawdziwego. Wracaj do swojej kolekcji, gdy potrzebujesz właściwych słów."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marque perguntas que despertam algo real. Volte à sua coleção sempre que precisar das palavras certas."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bokmärk frågor som väcker något äkta. Återvänd till din samling när du behöver de rätta orden."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закладайте запитання, що викликають щось справжнє. Повертайтеся до своєї колекції, коли вам потрібні правильні слова."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收藏能激发真实情感的问题。当你需要合适的话语时，随时回到你的收藏。"
+          }
+        }
+      }
+    },
+    "onboarding.page4.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstellen Sie Ihre\nSammlung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Build Your\nCollection"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Construye tu\ncolección"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Créez votre\ncollection"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Costruisci la tua\nraccolta"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの\nコレクションを"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "컬렉션\n만들기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bygg din\nsamling"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bouw je\ncollectie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zbuduj swoją\nkolekcję"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Construa sua\ncoleção"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bygg din\nsamling"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Створіть свою\nколекцію"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建立你的\n收藏"
+          }
+        }
+      }
+    },
     "PASS" : {
       "comment" : "A label displayed next to a swipe gesture",
       "isCommentAutoGenerated" : true,
@@ -43325,94 +44037,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部移除"
-          }
-        }
-      }
-    },
-    "Tutorial" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tutorial"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tutorial"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tutorial"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tutoriel"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tutorial"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "チュートリアル"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "튜토리얼"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veiledning"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Handleiding"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Samouczek"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tutorial"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Handledning"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Посібник"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "教程"
           }
         }
       }
@@ -46763,6 +47387,94 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "升温并调情"
+          }
+        }
+      }
+    },
+    "Tutorial" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutoriel"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "チュートリアル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "튜토리얼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veiledning"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handleiding"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samouczek"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handledning"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Посібник"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "教程"
           }
         }
       }
@@ -132073,718 +132785,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你的个人问题"
-          }
-        }
-      }
-    },
-    "onboarding.page1.title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tiefere\nGespräche"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deeper\nConversations"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Conversaciones\nmás profundas"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Des conversations\nplus profondes"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Conversazioni\npiù profonde"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "より深い\n会話"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 깊은\n대화"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dypere\nsamtaler"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diepere\ngesprekken"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Głębsze\nrozmowy"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Conversas\nmais profundas"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Djupare\nsamtal"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Глибші\nрозмови"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "更深入的\n对话"
-          }
-        }
-      }
-    },
-    "onboarding.page1.body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Durchdacht gestaltete Fragen, die über Small Talk hinausgehen – für erste Dates, alte Freunde und jede bedeutungsvolle Begegnung."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thoughtfully crafted questions designed to move past small talk — for first dates, old friends, and every meaningful encounter."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preguntas cuidadosamente elaboradas diseñadas para superar la charla trivial, para primeras citas, viejos amigos y cada encuentro significativo."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Des questions soigneusement élaborées conçues pour aller au-delà des banalités — pour les premiers rendez-vous, les vieux amis et chaque rencontre significative."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Domande attentamente elaborate per andare oltre le chiacchiere — per primi appuntamenti, vecchi amici e ogni incontro significativo."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "雑談を超えて心に響く質問 — 初デート、旧友、そしてすべての意味のある出会いのために。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "가벼운 대화를 넘어선 의미 있는 질문들 — 첫 데이트, 오랜 친구, 그리고 모든 소중한 만남을 위해."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Omtenksomt utformede spørsmål designet for å gå utover småprat — for første dates, gamle venner og hvert meningsfullt møte."
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zorgvuldig samengestelde vragen om voorbij small talk te gaan — voor eerste dates, oude vrienden en elke betekenisvolle ontmoeting."
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Starannie opracowane pytania, które wykraczają poza pogawędki — na pierwsze randki, dla starych przyjaciół i każde znaczące spotkanie."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perguntas cuidadosamente elaboradas para ir além do papo furado — para primeiros encontros, velhos amigos e todo encontro significativo."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Genomtänkta frågor utformade för att gå bortom småprat — för första dejter, gamla vänner och varje meningsfull träff."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ретельно підібрані запитання, які виходять за межі дрібних розмов — для перших побачень, старих друзів та кожної значущої зустрічі."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "精心设计的问题，超越寒暄——适用于初次约会、老友相聚和每一次有意义的相遇。"
-          }
-        }
-      }
-    },
-    "onboarding.page2.title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zehn\nKategorien"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ten\nCategories"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diez\ncategorías"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dix\ncatégories"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dieci\ncategorie"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "10の\nカテゴリー"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "10가지\n카테고리"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ti\nkategorier"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tien\ncategorieën"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dziesięć\nkategorii"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dez\ncategorias"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tio\nkategorier"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Десять\nкатегорій"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "十个\n分类"
-          }
-        }
-      }
-    },
-    "onboarding.page2.body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Von sanften Eisbrechern bis zu tiefgründigen Fragen über Liebe und Leben. Drehen Sie das Rad oder wählen Sie Ihre eigene Richtung."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "From gentle ice-breakers to profound questions about love and life. Spin the wheel or choose your own direction."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desde rompehielos suaves hasta preguntas profundas sobre el amor y la vida. Gira la rueda o elige tu propia dirección."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Des brise-glaces doux aux questions profondes sur l'amour et la vie. Faites tourner la roue ou choisissez votre propre direction."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dai rompighiaccio delicati alle domande profonde sull'amore e sulla vita. Gira la ruota o scegli la tua direzione."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "やさしいアイスブレイカーから、愛と人生についての深い質問まで。ルーレットを回すか、自分で方向を選んでください。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "부드러운 아이스브레이커부터 사랑과 삶에 대한 깊은 질문까지. 휠을 돌리거나 직접 방향을 선택하세요."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fra milde isbrytere til dype spørsmål om kjærlighet og liv. Spinn hjulet eller velg din egen retning."
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Van zachte ijsbrekers tot diepgaande vragen over liefde en leven. Draai aan het wiel of kies je eigen richting."
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Od delikatnych lodołamaczy po głębokie pytania o miłość i życie. Zakręć kołem lub wybierz własny kierunek."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "De quebra-gelos suaves a perguntas profundas sobre amor e vida. Gire a roda ou escolha sua própria direção."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Från milda isbrytare till djupgående frågor om kärlek och liv. Snurra hjulet eller välj din egen riktning."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Від м'яких розминок до глибоких запитань про кохання та життя. Крутіть колесо або оберіть свій напрямок."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "从温和的破冰问题到关于爱与生活的深刻问题。转动轮盘或选择自己的方向。"
-          }
-        }
-      }
-    },
-    "onboarding.page3.title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Frei\nwischen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Swipe\nFreely"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desliza\nlibremente"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Glissez\nlibre"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scorri\nliberamente"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "自由に\nスワイプ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "자유롭게\n스와이프"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sveip\nfritt"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veeg\nvrij"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Przesuwaj\nswobodnie"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deslize\nlivremente"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Svep\nfritt"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Гортайте\nвільно"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "自由\n滑动"
-          }
-        }
-      }
-    },
-    "onboarding.page3.body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wischen Sie nach rechts, wenn eine Frage Sie anspricht. Wischen Sie nach links, um zu überspringen. Jede Karte ist eine Tür – öffnen Sie die, die Sie rufen."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Swipe right when a question resonates. Swipe left to pass. Every card is a doorway — open the ones that call to you."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desliza a la derecha cuando una pregunta resuene contigo. Desliza a la izquierda para pasar. Cada tarjeta es una puerta: abre las que te llaman."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Glissez à droite quand une question résonne. Glissez à gauche pour passer. Chaque carte est une porte — ouvrez celles qui vous appellent."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scorri a destra quando una domanda ti risuona. Scorri a sinistra per passare oltre. Ogni carta è una porta: apri quelle che ti chiamano."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "心に響く質問があれば右にスワイプ。スキップするなら左にスワイプ。すべてのカードは扉です — あなたを呼ぶものを開いてください。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "질문이 공감되면 오른쪽으로 스와이프하세요. 건너뛰려면 왼쪽으로 스와이프하세요. 모든 카드는 문입니다 — 당신을 부르는 것을 여세요."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sveip til høyre når et spørsmål resonnerer. Sveip til venstre for å hoppe over. Hvert kort er en dør — åpne de som kaller på deg."
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veeg naar rechts als een vraag resoneert. Veeg naar links om over te slaan. Elke kaart is een deur — open degene die je roepen."
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Przesuń w prawo, gdy pytanie do Ciebie przemawia. Przesuń w lewo, by pominąć. Każda karta to drzwi — otwórz te, które do Ciebie wołają."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deslize para a direita quando uma pergunta ressoar. Deslize para a esquerda para passar. Cada cartão é uma porta — abra as que chamam você."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Svep åt höger när en fråga resonerar. Svep åt vänster för att hoppa över. Varje kort är en dörr — öppna de som kallar på dig."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Проведіть праворуч, якщо запитання відгукується. Проведіть ліворуч, щоб пропустити. Кожна картка — це двері — відкрийте ті, що кличуть вас."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "当问题引起共鸣时向右滑动。向左滑动跳过。每张卡片都是一扇门——打开那些呼唤你的。"
-          }
-        }
-      }
-    },
-    "onboarding.page4.title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erstellen Sie Ihre\nSammlung"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Build Your\nCollection"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Construye tu\ncolección"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Créez votre\ncollection"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Costruisci la tua\nraccolta"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "あなたの\nコレクションを"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "컬렉션\n만들기"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bygg din\nsamling"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bouw je\ncollectie"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zbuduj swoją\nkolekcję"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Construa sua\ncoleção"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bygg din\nsamling"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Створіть свою\nколекцію"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "建立你的\n收藏"
-          }
-        }
-      }
-    },
-    "onboarding.page4.body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Markieren Sie Fragen, die etwas Echtes auslösen. Kehren Sie zu Ihrer Sammlung zurück, wenn Sie die richtigen Worte brauchen."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bookmark questions that spark something real. Return to your collection whenever you need the right words."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Guarda las preguntas que despierten algo real. Vuelve a tu colección cuando necesites las palabras correctas."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Marquez les questions qui éveillent quelque chose de réel. Revenez à votre collection quand vous avez besoin des bons mots."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aggiungi ai segnalibri le domande che suscitano qualcosa di reale. Torna alla tua raccolta quando hai bisogno delle parole giuste."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "本物の何かを呼び起こす質問をブックマークしてください。適切な言葉が必要なときはいつでもコレクションに戻ってください。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "진실된 무언가를 불러일으키는 질문을 북마크하세요. 적절한 말이 필요할 때마다 컬렉션으로 돌아오세요."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bokmerk spørsmål som vekker noe ekte. Gå tilbake til samlingen din når du trenger de rette ordene."
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Markeer vragen die iets echts oproepen. Keer terug naar je collectie wanneer je de juiste woorden nodig hebt."
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zaznacz pytania, które wywołują coś prawdziwego. Wracaj do swojej kolekcji, gdy potrzebujesz właściwych słów."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Marque perguntas que despertam algo real. Volte à sua coleção sempre que precisar das palavras certas."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bokmärk frågor som väcker något äkta. Återvänd till din samling när du behöver de rätta orden."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Закладайте запитання, що викликають щось справжнє. Повертайтеся до своєї колекції, коли вам потрібні правильні слова."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "收藏能激发真实情感的问题。当你需要合适的话语时，随时回到你的收藏。"
           }
         }
       }
