@@ -64,6 +64,7 @@ struct CustomTabBar: View {
                 HStack(spacing: 0) {
                     ForEach(Array(tabs.enumerated()), id: \.offset) { index, tab in
                         Button {
+                            HapticManager.shared.tabChanged()
                             withAnimation(.spring(response: 0.35, dampingFraction: 0.75)) {
                                 selectedTab = index
                             }

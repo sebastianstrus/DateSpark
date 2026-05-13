@@ -229,6 +229,7 @@ struct QuestionCardView: View {
                 HStack(spacing: 0) {
                     // Share button
                     Button {
+                        HapticManager.shared.buttonTap()
                         if let image = QuestionSharingHelper.generateImage(for: question) {
                             shareImage = image
                             showShareSheet = true
@@ -250,6 +251,9 @@ struct QuestionCardView: View {
 
                     // Bookmark button
                     Button {
+                        let willBeFavorite = !appState.isFavorite(question)
+                        HapticManager.shared.favoriteToggled(isFavorite: willBeFavorite)
+                        
                         withAnimation(.spring(response: 0.3, dampingFraction: 0.55)) {
                             favoriteAnimating = true
                             appState.toggleFavorite(question)
@@ -314,8 +318,15 @@ struct QuestionCardView: View {
     private var dragGesture: some Gesture {
         DragGesture()
             .onChanged { v in
+                let newStatus = v.translation.width > 50 ? SwipeStatus.right : v.translation.width < -50 ? SwipeStatus.left : SwipeStatus.none
+                
+                // Trigger haptic when crossing threshold
+                if newStatus != swipeStatus && newStatus != .none {
+                    HapticManager.shared.cardSwipeThresholdReached()
+                }
+                
                 dragOffset  = v.translation
-                swipeStatus = v.translation.width > 50 ? .right : v.translation.width < -50 ? .left : .none
+                swipeStatus = newStatus
             }
             .onEnded { v in
                 if      v.translation.width >  100 { animateOut(direction:  1) }
@@ -329,6 +340,13 @@ struct QuestionCardView: View {
     }
 
     private func animateOut(direction: CGFloat) {
+        // Haptic feedback based on swipe direction
+        if direction > 0 {
+            HapticManager.shared.cardSwipeKeep()
+        } else {
+            HapticManager.shared.cardSwipePass()
+        }
+        
         withAnimation(.spring(response: 0.32, dampingFraction: 0.8)) {
             dragOffset = CGSize(width: direction * 680, height: 0)
         }
@@ -483,6 +501,7 @@ struct SwipeTutorialOverlay: View {
                 
                 // Dismiss button at the bottom
                 Button {
+                    HapticManager.shared.buttonTap()
                     dismissTutorial()
                 } label: {
                     Text("Got it")

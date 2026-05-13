@@ -33,6 +33,7 @@ struct SettingsView: View {
                         // Language Selector
                         SettingsSection(title: "Language") {
                             Button {
+                                HapticManager.shared.buttonTap()
                                 if let url = URL(string: UIApplication.openSettingsURLString) {
                                     UIApplication.shared.open(url)
                                 }
@@ -76,7 +77,11 @@ struct SettingsView: View {
                                 Spacer()
                                 Toggle("", isOn: Binding(
                                     get: { appState.soundEnabled },
-                                    set: { appState.soundEnabled = $0 }
+                                    set: { newValue in
+                                        HapticManager.shared.selection()
+                                        appState.soundEnabled = newValue
+                                        SoundManager.shared.isSoundEnabled = newValue
+                                    }
                                 ))
                                 .tint(Color.dsGold)
                             }
@@ -93,6 +98,7 @@ struct SettingsView: View {
                         // Intro Slides
                         SettingsSection(title: "Tutorial") {
                             Button {
+                                HapticManager.shared.buttonTap()
                                 appState.hasCompletedOnboarding = false
                             } label: {
                                 HStack {
@@ -124,6 +130,7 @@ struct SettingsView: View {
                         SettingsSection(title: "Legal") {
                             VStack(spacing: 12) {
                                 Button {
+                                    HapticManager.shared.buttonTap()
                                     UIApplication.shared.open(AppConfiguration.privacyPolicyURL)
                                 } label: {
                                     HStack {
@@ -146,6 +153,7 @@ struct SettingsView: View {
                                 }
                                 
                                 Button {
+                                    HapticManager.shared.buttonTap()
                                     UIApplication.shared.open(AppConfiguration.termsOfUseURL)
                                 } label: {
                                     HStack {

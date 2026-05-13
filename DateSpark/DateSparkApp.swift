@@ -9,6 +9,10 @@ struct DateSparkApp: App {
         WindowGroup {
             RootView()
                 .environment(appState)
+                .onAppear {
+                    // Sync SoundManager with AppState on launch
+                    SoundManager.shared.isSoundEnabled = appState.soundEnabled
+                }
         }
     }
 }

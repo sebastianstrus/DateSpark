@@ -98,7 +98,10 @@ struct SpinWheelView: View {
 
                         Spacer()
 
-                        Button { onSelect(cat) } label: {
+                        Button { 
+                            HapticManager.shared.buttonTap()
+                            onSelect(cat) 
+                        } label: {
                             HStack(spacing: 8) {
                                 Text("Begin")
                                     .font(.dsDisplay(15, weight: .regular))
@@ -122,7 +125,10 @@ struct SpinWheelView: View {
                     .padding(.vertical, 20)
                     .transition(.opacity.combined(with: .move(edge: .bottom)))
                 } else {
-                    Button { Task { await spin() } } label: {
+                    Button { 
+                        HapticManager.shared.buttonTap()
+                        Task { await spin() } 
+                    } label: {
                         HStack(spacing: 12) {
                             if isSpinning {
                                 ProgressView()
@@ -174,12 +180,40 @@ struct SpinWheelView: View {
         guard !isSpinning else { return }
         isSpinning = true; showResult = false; selectedCategory = nil
 
+        // Play wheel spin sound
+        SoundManager.shared.playWheelSpin()
+        
         let total = Double.random(in: 5...9) * 360 + Double.random(in: 0..<360)
         withAnimation(.interpolatingSpring(stiffness: 16, damping: 9)) { rotation += total }
+
+        // Intensive haptic feedback during spin
+        Task {
+            // Create rhythmic haptic ticks during the spin
+            let tickCount = 20 // Number of haptic ticks during spin
+            let spinDuration = 3.3
+            let tickInterval = spinDuration / Double(tickCount)
+            
+            for i in 0..<tickCount {
+                guard !Task.isCancelled else { return }
+                
+                // Vary intensity - stronger at the beginning, softer towards the end
+                let progress = Double(i) / Double(tickCount)
+                if progress < 0.7 {
+                    HapticManager.shared.wheelSpinTick()
+                } else {
+                    HapticManager.shared.soft()
+                }
+                
+                try? await Task.sleep(for: .seconds(tickInterval))
+            }
+        }
 
         try? await Task.sleep(for: .seconds(3.3))
         guard !Task.isCancelled else { return }
 
+        // Stop the wheel sound
+        SoundManager.shared.stopWheelSpin()
+        
         // Normalize rotation to 0-360 range
         let norm  = rotation.truncatingRemainder(dividingBy: 360)
         // Pointer is at -90° in segment coords. Wheel rotates clockwise.
@@ -189,6 +223,10 @@ struct SpinWheelView: View {
         let segmentAngle = (adjusted + 90).truncatingRemainder(dividingBy: 360)
         let index = Int(segmentAngle / (360.0 / Double(categories.count))) % categories.count
         selectedCategory = categories[index]
+
+        // Success haptic when wheel lands
+        HapticManager.shared.wheelLanded()
+        SoundManager.shared.playSuccess()
 
         withAnimation(.spring(response: 0.4, dampingFraction: 0.8)) {
             showResult = true; isSpinning = false

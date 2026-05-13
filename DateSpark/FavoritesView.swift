@@ -27,7 +27,10 @@ struct FavoritesView: View {
                     }
                     Spacer()
                     if !favoriteQuestions.isEmpty {
-                        Button { showClearAlert = true } label: {
+                        Button { 
+                            HapticManager.shared.buttonTap()
+                            showClearAlert = true 
+                        } label: {
                             Text("Clear all")
                                 .font(.dsLabel(12, weight: .regular))
                                 .foregroundColor(Color.dsDecline.opacity(0.85))
@@ -134,6 +137,7 @@ struct FavoriteQuestionRow: View {
                 
                 // Share button
                 Button {
+                    HapticManager.shared.buttonTap()
                     if let image = QuestionSharingHelper.generateImage(for: question) {
                         shareImage = image
                         showShareSheet = true
@@ -154,6 +158,7 @@ struct FavoriteQuestionRow: View {
                 
                 // Delete button
                 Button {
+                    HapticManager.shared.warning()
                     withAnimation(.spring()) { appState.toggleFavorite(question) }
                 } label: {
                     VStack(spacing: 4) {

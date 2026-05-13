@@ -47,6 +47,7 @@ struct CategoriesView: View {
                             let categories = QuestionCategory.allCases
                             ForEach(Array(categories.enumerated()), id: \.element.id) { index, cat in
                                 CategoryRowView(category: cat, index: index + 1) {
+                                    HapticManager.shared.buttonTap()
                                     withAnimation(.spring(response: 0.4, dampingFraction: 0.8)) {
                                         selectedCategory = cat
                                     }
@@ -156,7 +157,10 @@ struct CategoryDetailView: View {
 
                 VStack(alignment: .leading, spacing: 0) {
                     HStack {
-                        Button(action: onBack) {
+                        Button(action: { 
+                            HapticManager.shared.buttonTap()
+                            onBack() 
+                        }) {
                             HStack(spacing: 7) {
                                 Image(systemName: "chevron.left")
                                     .font(.system(size: 13, weight: .light))
@@ -252,6 +256,8 @@ struct QuestionListRow: View {
             Spacer()
 
             Button {
+                let willBeFavorite = !appState.isFavorite(question)
+                HapticManager.shared.favoriteToggled(isFavorite: willBeFavorite)
                 withAnimation(.spring(response: 0.3, dampingFraction: 0.6)) {
                     appState.toggleFavorite(question)
                 }
@@ -316,6 +322,7 @@ struct CustomQuestionComposer: View {
                     Spacer()
 
                     Button {
+                        HapticManager.shared.success()
                         appState.addCustomQuestion(text: text, depth: depth)
                         text = ""
                         depth = .light

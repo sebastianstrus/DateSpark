@@ -141,7 +141,10 @@ struct HomeHeaderView: View {
 
             HStack(spacing: 10) {
                 if selectedCategory != nil {
-                    Button(action: onClear) {
+                    Button(action: { 
+                        HapticManager.shared.buttonTap()
+                        onClear() 
+                    }) {
                         Image(systemName: "xmark")
                             .font(.system(size: 11, weight: .light))
                             .foregroundColor(Color.dsSecondary)
@@ -154,7 +157,10 @@ struct HomeHeaderView: View {
                     .transition(.scale.combined(with: .opacity))
                 }
 
-                Button(action: onSpin) {
+                Button(action: { 
+                    HapticManager.shared.buttonTap()
+                    onSpin() 
+                }) {
                     HStack(spacing: 7) {
                         Image(systemName: "arrow.clockwise")
                             .font(.system(size: 11))
@@ -230,7 +236,10 @@ struct HomeEmptyStateView: View {
                             .lineSpacing(6)
                     }
 
-                    Button(action: onSpin) {
+                    Button(action: { 
+                        HapticManager.shared.buttonTap()
+                        onSpin() 
+                    }) {
                         HStack(spacing: 10) {
                             Text("Spin the Wheel")
                                 .font(.dsDisplay(17, weight: .regular))
@@ -312,7 +321,10 @@ struct SessionRecapView: View {
                         .padding(.top, 10)
                     }
 
-                    Button(action: onRestart) {
+                    Button(action: { 
+                        HapticManager.shared.buttonTap()
+                        onRestart() 
+                    }) {
                         HStack(spacing: 10) {
                             Text("Shuffle & Restart")
                                 .font(.dsDisplay(17, weight: .regular))
@@ -394,6 +406,7 @@ struct RecapQuestionCard: View {
                     
                     // Share button
                     Button {
+                        HapticManager.shared.buttonTap()
                         if let image = QuestionSharingHelper.generateImage(for: question) {
                             shareImage = image
                             showShareSheet = true
