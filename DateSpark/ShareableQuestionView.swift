@@ -101,10 +101,22 @@ struct ShareableQuestionView: View {
                         .frame(height: 0.8)
                         .opacity(0.25)
                     
-                    Text("Share meaningful moments")
-                        .font(.dsLabel(11, weight: .regular))
-                        .foregroundColor(Color.dsSecondary)
-                        .tracking(1)
+                    VStack(alignment: .leading, spacing: 6) {
+                        Text("The best dates start with the best questions.")
+                            .font(.dsLabel(11, weight: .regular))
+                            .foregroundColor(Color.dsSecondary)
+                            .tracking(0.5)
+                        
+                        Text("Get them on SparkDate.")
+                            .font(.dsLabel(11, weight: .regular))
+                            .foregroundColor(Color.dsSecondary)
+                            .tracking(0.5)
+                        
+                        Text("https://apps.apple.com/us/app/id6760728279")
+                            .font(.dsLabel(10, weight: .regular))
+                            .foregroundColor(Color.dsGold)
+                            .tracking(0.3)
+                    }
                 }
                 .padding(.horizontal, 36)
                 .padding(.bottom, 36)
@@ -140,6 +152,35 @@ struct QuestionSharingHelper {
         // Render the image
         let image = renderer.uiImage
         return image
+    }
+}
+
+// MARK: - Custom Activity Item for Text with Filename
+
+class TextActivityItemSource: NSObject, UIActivityItemSource {
+    let text: String
+    let filename: String
+    
+    init(text: String, filename: String = "DateSpark.txt") {
+        self.text = text
+        self.filename = filename
+        super.init()
+    }
+    
+    func activityViewControllerPlaceholderItem(_ activityViewController: UIActivityViewController) -> Any {
+        return text
+    }
+    
+    func activityViewController(_ activityViewController: UIActivityViewController, itemForActivityType activityType: UIActivity.ActivityType?) -> Any? {
+        return text
+    }
+    
+    func activityViewController(_ activityViewController: UIActivityViewController, subjectForActivityType activityType: UIActivity.ActivityType?) -> String {
+        return filename
+    }
+    
+    func activityViewController(_ activityViewController: UIActivityViewController, dataTypeIdentifierForActivityType activityType: UIActivity.ActivityType?) -> String {
+        return "public.plain-text"
     }
 }
 
