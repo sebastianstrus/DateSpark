@@ -124,9 +124,7 @@ struct SettingsView: View {
                         SettingsSection(title: "Legal") {
                             VStack(spacing: 12) {
                                 Button {
-                                    if let url = URL(string: "https://sebastianstrus.com/documents/datespark/privacy-policy.html") {
-                                        UIApplication.shared.open(url)
-                                    }
+                                    UIApplication.shared.open(AppConfiguration.privacyPolicyURL)
                                 } label: {
                                     HStack {
                                         Text("Privacy Policy")
@@ -148,9 +146,7 @@ struct SettingsView: View {
                                 }
                                 
                                 Button {
-                                    if let url = URL(string: "https://sebastianstrus.com/documents/datespark/terms-of-use.html") {
-                                        UIApplication.shared.open(url)
-                                    }
+                                    UIApplication.shared.open(AppConfiguration.termsOfUseURL)
                                 } label: {
                                     HStack {
                                         Text("Terms of Use")
