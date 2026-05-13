@@ -15,10 +15,10 @@ struct OnboardingView: View {
     @State private var currentPage = 0
 
     private let pages: [OnboardingPage] = [
-        OnboardingPage(number: "01", eyebrowKey: "Welcome",    titleKey: "Deeper\nConversations", bodyKey: "Thoughtfully crafted questions designed to move past small talk — for first dates, old friends, and every meaningful encounter.", symbol: "quote.bubble"),
-        OnboardingPage(number: "02", eyebrowKey: "Discover",   titleKey: "Ten\nCategories",    bodyKey: "From gentle ice-breakers to profound questions about love and life. Spin the wheel or choose your own direction.", symbol: "circle.grid.2x2"),
-        OnboardingPage(number: "03", eyebrowKey: "Navigate",   titleKey: "Swipe\nFreely",        bodyKey: "Swipe right when a question resonates. Swipe left to pass. Every card is a doorway — open the ones that call to you.", symbol: "hand.draw"),
-        OnboardingPage(number: "04", eyebrowKey: "Collect",    titleKey: "Build Your\nCollection", bodyKey: "Bookmark questions that spark something real. Return to your collection whenever you need the right words.", symbol: "bookmark"),
+        OnboardingPage(number: "01", eyebrowKey: "Welcome",    titleKey: "Deeper\nConversations", bodyKey: "onboarding.page1.body", symbol: "quote.bubble"),
+        OnboardingPage(number: "02", eyebrowKey: "Discover",   titleKey: "Ten\nCategories",    bodyKey: "onboarding.page2.body", symbol: "circle.grid.2x2"),
+        OnboardingPage(number: "03", eyebrowKey: "Navigate",   titleKey: "Swipe\nFreely",        bodyKey: "onboarding.page3.body", symbol: "hand.draw"),
+        OnboardingPage(number: "04", eyebrowKey: "Collect",    titleKey: "Build Your\nCollection", bodyKey: "onboarding.page4.body", symbol: "bookmark"),
     ]
 
     var body: some View {
