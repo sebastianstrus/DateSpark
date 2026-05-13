@@ -432,16 +432,15 @@ struct SwipeTutorialOverlay: View {
                                 ))
                                 .rotationEffect(.degrees(45))
                                 .shadow(color: Color.dsDecline.opacity(0.6), radius: 16)
-//                                .border(Color.blue, width: 1)
                                 .padding(.trailing, 8)
+                                
                             
                             Text("PASS")
                                 .font(.dsLabel(16))
                                 .tracking(3.5)
                                 .foregroundColor(Color.dsDecline)
                                 .fontWeight(.semibold)
-                                .padding(.top, 4)
-//                                .border(Color.blue, width: 1)
+                                .padding(.top, 8)
                         }
                         .opacity(leftHandOpacity)
                         .offset(x: leftHandOffset)
@@ -463,16 +462,15 @@ struct SwipeTutorialOverlay: View {
                                 ))
                                 .rotationEffect(.degrees(-45))
                                 .shadow(color: Color.dsConfirm.opacity(0.6), radius: 16)
-//                                .border(Color.blue, width: 1)
                                 .padding(.leading, 8)
+//
                             
                             Text("KEEP")
                                 .font(.dsLabel(16))
                                 .tracking(3.5)
                                 .foregroundColor(Color.dsConfirm)
                                 .fontWeight(.semibold)
-                                .padding(.top, 4)
-//                                .border(Color.blue, width: 1)
+                                .padding(.top, 8)
                         }
                         .opacity(rightHandOpacity)
                         .offset(x: rightHandOffset)
