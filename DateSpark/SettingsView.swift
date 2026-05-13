@@ -124,7 +124,7 @@ struct SettingsView: View {
                         SettingsSection(title: "Legal") {
                             VStack(spacing: 12) {
                                 Button {
-                                    if let url = URL(string: "https://example.com/privacy") {
+                                    if let url = URL(string: "https://sebastianstrus.com/documents/datespark/privacy-policy.html") {
                                         UIApplication.shared.open(url)
                                     }
                                 } label: {
@@ -148,7 +148,7 @@ struct SettingsView: View {
                                 }
                                 
                                 Button {
-                                    if let url = URL(string: "https://example.com/terms") {
+                                    if let url = URL(string: "https://sebastianstrus.com/documents/datespark/terms-of-use.html") {
                                         UIApplication.shared.open(url)
                                     }
                                 } label: {
