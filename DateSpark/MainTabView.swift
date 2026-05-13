@@ -21,7 +21,6 @@ struct MainTabView: View {
                                 .tag(3)
                                 .environment(appState)
                          }
-                        .tabViewStyle(.page(indexDisplayMode: .never))
 
             CustomTabBar(selectedTab: $selectedTab)
         }

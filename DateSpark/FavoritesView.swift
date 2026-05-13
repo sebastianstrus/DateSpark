@@ -211,18 +211,26 @@ struct FavoriteQuestionRow: View {
             .background(Color.dsBackground)
             .offset(x: offsetX)
             .gesture(
-                DragGesture()
+                DragGesture(minimumDistance: 20)
                     .onChanged { v in
-                        guard v.translation.width < 0 else { return }
+                        // Only respond to predominantly horizontal drags
+                        let isHorizontalDrag = abs(v.translation.width) > abs(v.translation.height)
+                        guard isHorizontalDrag && v.translation.width < 0 else { return }
                         withAnimation(.interactiveSpring()) {
                             offsetX = max(v.translation.width, -80)
                             showDelete = offsetX < -30
                         }
                     }
                     .onEnded { v in
+                        let isHorizontalDrag = abs(v.translation.width) > abs(v.translation.height)
                         withAnimation(.spring()) {
-                            if v.translation.width < -60 { offsetX = -80; showDelete = true }
-                            else { offsetX = 0; showDelete = false }
+                            if isHorizontalDrag && v.translation.width < -60 {
+                                offsetX = -80
+                                showDelete = true
+                            } else {
+                                offsetX = 0
+                                showDelete = false
+                            }
                         }
                     }
             )
