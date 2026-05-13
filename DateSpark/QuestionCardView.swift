@@ -424,20 +424,24 @@ struct SwipeTutorialOverlay: View {
                     // Left hand animation (Pass)
                     HStack {
                         VStack(spacing: 8) {
-                            Image(systemName: "hand.point.up.left.fill")
-                                .font(.system(size: 50))
+                            Image(systemName: "hand.point.left.fill")
+                                .font(.system(size: 60))
                                 .foregroundStyle(LinearGradient(
                                     colors: [Color.dsDecline, Color.dsDecline.opacity(0.6)],
                                     startPoint: .topLeading, endPoint: .bottomTrailing
                                 ))
-                                .rotationEffect(.degrees(-15))
+                                .rotationEffect(.degrees(45))
                                 .shadow(color: Color.dsDecline.opacity(0.6), radius: 16)
+//                                .border(Color.blue, width: 1)
+                                .padding(.trailing, 8)
                             
                             Text("PASS")
-                                .font(.dsLabel(12))
+                                .font(.dsLabel(16))
                                 .tracking(3.5)
                                 .foregroundColor(Color.dsDecline)
                                 .fontWeight(.semibold)
+                                .padding(.top, 4)
+//                                .border(Color.blue, width: 1)
                         }
                         .opacity(leftHandOpacity)
                         .offset(x: leftHandOffset)
@@ -451,20 +455,24 @@ struct SwipeTutorialOverlay: View {
                         Spacer()
                         
                         VStack(spacing: 8) {
-                            Image(systemName: "hand.point.up.right.fill")
+                            Image(systemName: "hand.point.right.fill")
                                 .font(.system(size: 50))
                                 .foregroundStyle(LinearGradient(
                                     colors: [Color.dsConfirm, Color.dsConfirm.opacity(0.6)],
                                     startPoint: .topTrailing, endPoint: .bottomLeading
                                 ))
-                                .rotationEffect(.degrees(15))
+                                .rotationEffect(.degrees(-45))
                                 .shadow(color: Color.dsConfirm.opacity(0.6), radius: 16)
+//                                .border(Color.blue, width: 1)
+                                .padding(.leading, 8)
                             
                             Text("KEEP")
-                                .font(.dsLabel(12))
+                                .font(.dsLabel(16))
                                 .tracking(3.5)
                                 .foregroundColor(Color.dsConfirm)
                                 .fontWeight(.semibold)
+                                .padding(.top, 4)
+//                                .border(Color.blue, width: 1)
                         }
                         .opacity(rightHandOpacity)
                         .offset(x: rightHandOffset)
