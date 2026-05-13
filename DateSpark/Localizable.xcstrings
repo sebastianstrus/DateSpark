@@ -3110,94 +3110,94 @@
       }
     },
     "Collect" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sammeln"
+          "extractionState" : "manual",
+          "localizations" : {
+            "de" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Sammle"
+              }
+            },
+            "en" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Collect"
+              }
+            },
+            "es" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Recopila"
+              }
+            },
+            "fr" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Collecter"
+              }
+            },
+            "it" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Raccogli"
+              }
+            },
+            "ja" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "収集"
+              }
+            },
+            "ko" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "수집"
+              }
+            },
+            "nb" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Samle"
+              }
+            },
+            "nl" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Verzamel"
+              }
+            },
+            "pl" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Zbieraj"
+              }
+            },
+            "pt-BR" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Coletar"
+              }
+            },
+            "sv" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Samla"
+              }
+            },
+            "uk" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "Збирай"
+              }
+            },
+            "zh-Hans" : {
+              "stringUnit" : {
+                "state" : "translated",
+                "value" : "收集"
+              }
+            }
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Collect"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recopilar"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Collecter"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raccogli"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "収集"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "수집"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Samle"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verzamelen"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zbierać"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Coletar"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Samla"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Зібрати"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "收集"
-          }
-        }
-      }
-    },
     "Complete this sentence: “I wish I had someone with whom I could share...”" : {
       "comment" : "category: closeness36, depth: deep",
       "extractionState" : "stale",
