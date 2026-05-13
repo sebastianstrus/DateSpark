@@ -155,35 +155,6 @@ struct QuestionSharingHelper {
     }
 }
 
-// MARK: - Custom Activity Item for Text with Filename
-
-class TextActivityItemSource: NSObject, UIActivityItemSource {
-    let text: String
-    let filename: String
-    
-    init(text: String, filename: String = "DateSpark.txt") {
-        self.text = text
-        self.filename = filename
-        super.init()
-    }
-    
-    func activityViewControllerPlaceholderItem(_ activityViewController: UIActivityViewController) -> Any {
-        return text
-    }
-    
-    func activityViewController(_ activityViewController: UIActivityViewController, itemForActivityType activityType: UIActivity.ActivityType?) -> Any? {
-        return text
-    }
-    
-    func activityViewController(_ activityViewController: UIActivityViewController, subjectForActivityType activityType: UIActivity.ActivityType?) -> String {
-        return filename
-    }
-    
-    func activityViewController(_ activityViewController: UIActivityViewController, dataTypeIdentifierForActivityType activityType: UIActivity.ActivityType?) -> String {
-        return "public.plain-text"
-    }
-}
-
 // MARK: - UIActivityViewController Wrapper
 
 struct ActivityViewController: UIViewControllerRepresentable {
