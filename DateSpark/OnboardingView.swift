@@ -15,10 +15,10 @@ struct OnboardingView: View {
     @State private var currentPage = 0
 
     private let pages: [OnboardingPage] = [
-        OnboardingPage(number: "01", eyebrowKey: "Welcome",    titleKey: "Deeper\nConversations", bodyKey: "onboarding.page1.body", symbol: "quote.bubble"),
-        OnboardingPage(number: "02", eyebrowKey: "Discover",   titleKey: "Ten\nCategories",    bodyKey: "onboarding.page2.body", symbol: "circle.grid.2x2"),
-        OnboardingPage(number: "03", eyebrowKey: "Navigate",   titleKey: "Swipe\nFreely",        bodyKey: "onboarding.page3.body", symbol: "hand.draw"),
-        OnboardingPage(number: "04", eyebrowKey: "Collect",    titleKey: "Build Your\nCollection", bodyKey: "onboarding.page4.body", symbol: "bookmark"),
+        OnboardingPage(number: "01", eyebrowKey: "Welcome",    titleKey: "onboarding.page1.title", bodyKey: "onboarding.page1.body", symbol: "quote.bubble"),
+        OnboardingPage(number: "02", eyebrowKey: "Discover",   titleKey: "onboarding.page2.title", bodyKey: "onboarding.page2.body", symbol: "circle.grid.2x2"),
+        OnboardingPage(number: "03", eyebrowKey: "Navigate",   titleKey: "onboarding.page3.title", bodyKey: "onboarding.page3.body", symbol: "hand.draw"),
+        OnboardingPage(number: "04", eyebrowKey: "Collect",    titleKey: "onboarding.page4.title", bodyKey: "onboarding.page4.body", symbol: "bookmark"),
     ]
 
     var body: some View {
