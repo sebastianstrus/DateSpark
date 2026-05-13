@@ -149,7 +149,7 @@ struct FavoriteQuestionRow: View {
                     .foregroundColor(.white)
                     .frame(width: 80)
                     .frame(maxHeight: .infinity)
-                    .background(Color.dsConfirm)
+                    .background(Color.dsGold)
                 }
                 
                 // Delete button
