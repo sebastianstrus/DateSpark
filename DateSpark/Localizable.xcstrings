@@ -43329,6 +43329,9 @@
         }
       }
     },
+    "Rewatch the tutorial" : {
+
+    },
     "Save Question" : {
       "localizations" : {
         "de" : {
@@ -46766,6 +46769,9 @@
           }
         }
       }
+    },
+    "View Intro Slides" : {
+
     },
     "Was there a moment growing up that shaped who you are today?" : {
       "extractionState" : "stale",

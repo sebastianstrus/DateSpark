@@ -90,6 +90,36 @@ struct SettingsView: View {
                             )
                         }
                         
+                        // Intro Slides
+                        SettingsSection(title: "Tutorial") {
+                            Button {
+                                appState.hasCompletedOnboarding = false
+                            } label: {
+                                HStack {
+                                    VStack(alignment: .leading, spacing: 4) {
+                                        Text("View Intro Slides")
+                                            .font(.dsLabel(15))
+                                            .foregroundColor(Color.dsPrimary)
+                                        Text("Rewatch the tutorial")
+                                            .font(.dsLabel(13))
+                                            .foregroundColor(Color.dsSecondary)
+                                    }
+                                    Spacer()
+                                    Image(systemName: "arrow.counterclockwise")
+                                        .font(.system(size: 12, weight: .medium))
+                                        .foregroundColor(Color.dsTertiary)
+                                }
+                                .padding(.horizontal, 20)
+                                .padding(.vertical, 16)
+                                .background(Color.dsSurface)
+                                .clipShape(RoundedRectangle(cornerRadius: 12))
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 12)
+                                        .stroke(Color.dsBorder, lineWidth: 0.8)
+                                )
+                            }
+                        }
+                        
                         // Legal Section
                         SettingsSection(title: "Legal") {
                             VStack(spacing: 12) {
