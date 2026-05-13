@@ -8,6 +8,9 @@ struct QuestionCardDeckView: View {
     @Binding var currentIndex: Int
     let onKeepQuestion: (Question) -> Void
 
+    @Environment(AppState.self) private var appState
+    @State private var showTutorial = false
+
     private var visibleIndices: [Int] {
         Array((currentIndex..<min(currentIndex + 3, questions.count)).reversed())
     }
@@ -70,6 +73,27 @@ struct QuestionCardDeckView: View {
             .frame(maxWidth: .infinity, maxHeight: .infinity)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .overlay(
+            Group {
+                if showTutorial {
+                    SwipeTutorialOverlay(isPresented: $showTutorial)
+                        .transition(.opacity)
+                        .onDisappear {
+                            appState.hasSeenSwipeTutorial = true
+                        }
+                }
+            }
+        )
+        .onAppear {
+            if !appState.hasSeenSwipeTutorial {
+                Task {
+                    try? await Task.sleep(for: .milliseconds(600))
+                    withAnimation(.easeOut(duration: 0.3)) {
+                        showTutorial = true
+                    }
+                }
+            }
+        }
     }
 }
 
@@ -353,6 +377,195 @@ struct SessionProgressBar: View {
             }
         }
         .frame(height: 2)
+    }
+}
+
+// MARK: - Swipe Tutorial Overlay
+
+@MainActor
+struct SwipeTutorialOverlay: View {
+    @Binding var isPresented: Bool
+    @State private var leftHandOpacity: Double = 0
+    @State private var leftHandOffset: CGFloat = 0
+    @State private var rightHandOpacity: Double = 0
+    @State private var rightHandOffset: CGFloat = 0
+    @State private var textOpacity: Double = 0
+    @State private var showLeftAnimation = true
+    
+    var body: some View {
+        ZStack {
+            // Semi-transparent background - less opaque to show the real card behind
+            Color.black.opacity(0.75)
+                .ignoresSafeArea()
+                .onTapGesture {
+                    dismissTutorial()
+                }
+            
+            VStack(spacing: 0) {
+                Spacer()
+                
+                // Title and description at the top
+                VStack(spacing: 16) {
+                    Text("How to Play")
+                        .font(.dsDisplay(28, weight: .light))
+                        .foregroundStyle(LinearGradient.dsGoldGradient)
+                    
+                    Text("Swipe left to pass, swipe right to keep\nThere will be recap at the end")
+                        .font(.dsLabel(15, weight: .regular))
+                        .foregroundColor(Color.dsSecondary)
+                        .multilineTextAlignment(.center)
+                        .lineSpacing(6)
+                }
+                .opacity(textOpacity)
+                .padding(.bottom, 50)
+                
+                // Hand animations positioned over the real card
+                ZStack {
+                    // Left hand animation (Pass)
+                    HStack {
+                        VStack(spacing: 8) {
+                            Image(systemName: "hand.point.up.left.fill")
+                                .font(.system(size: 50))
+                                .foregroundStyle(LinearGradient(
+                                    colors: [Color.dsDecline, Color.dsDecline.opacity(0.6)],
+                                    startPoint: .topLeading, endPoint: .bottomTrailing
+                                ))
+                                .rotationEffect(.degrees(-15))
+                                .shadow(color: Color.dsDecline.opacity(0.6), radius: 16)
+                            
+                            Text("PASS")
+                                .font(.dsLabel(12))
+                                .tracking(3.5)
+                                .foregroundColor(Color.dsDecline)
+                                .fontWeight(.semibold)
+                        }
+                        .opacity(leftHandOpacity)
+                        .offset(x: leftHandOffset)
+                        
+                        Spacer()
+                    }
+                    .padding(.horizontal, 40)
+                    
+                    // Right hand animation (Keep)
+                    HStack {
+                        Spacer()
+                        
+                        VStack(spacing: 8) {
+                            Image(systemName: "hand.point.up.right.fill")
+                                .font(.system(size: 50))
+                                .foregroundStyle(LinearGradient(
+                                    colors: [Color.dsConfirm, Color.dsConfirm.opacity(0.6)],
+                                    startPoint: .topTrailing, endPoint: .bottomLeading
+                                ))
+                                .rotationEffect(.degrees(15))
+                                .shadow(color: Color.dsConfirm.opacity(0.6), radius: 16)
+                            
+                            Text("KEEP")
+                                .font(.dsLabel(12))
+                                .tracking(3.5)
+                                .foregroundColor(Color.dsConfirm)
+                                .fontWeight(.semibold)
+                        }
+                        .opacity(rightHandOpacity)
+                        .offset(x: rightHandOffset)
+                    }
+                    .padding(.horizontal, 40)
+                }
+                .frame(height: 200)
+                
+                Spacer()
+                
+                // Dismiss button at the bottom
+                Button {
+                    dismissTutorial()
+                } label: {
+                    Text("Got it")
+                        .font(.dsDisplay(17, weight: .regular))
+                        .foregroundColor(Color.dsBackground)
+                        .padding(.horizontal, 40)
+                        .padding(.vertical, 14)
+                        .background(
+                            ZStack {
+                                LinearGradient.dsGoldGradient
+                                LinearGradient(
+                                    colors: [Color.white.opacity(0.1), Color.clear],
+                                    startPoint: .top, endPoint: .bottom
+                                )
+                            }
+                        )
+                        .clipShape(RoundedRectangle(cornerRadius: 5))
+                        .shadow(color: Color.dsGold.opacity(0.35), radius: 16, x: 0, y: 6)
+                }
+                .opacity(textOpacity)
+                .padding(.bottom, 80)
+            }
+            .padding(.horizontal, 32)
+        }
+        .onAppear {
+            startAnimationSequence()
+        }
+    }
+    
+    private func startAnimationSequence() {
+        // Fade in text
+        withAnimation(.easeOut(duration: 0.5)) {
+            textOpacity = 1.0
+        }
+        
+        // Start continuous alternating hand animations
+        animateHands()
+    }
+    
+    private func animateHands() {
+        if showLeftAnimation {
+            // Animate left hand (Pass)
+            withAnimation(.easeOut(duration: 0.4)) {
+                leftHandOpacity = 1.0
+                leftHandOffset = 0
+            }
+            
+            withAnimation(.easeInOut(duration: 0.6).delay(0.4)) {
+                leftHandOffset = -80
+            }
+            
+            withAnimation(.easeOut(duration: 0.3).delay(1.0)) {
+                leftHandOpacity = 0
+            }
+            
+            Task {
+                try? await Task.sleep(for: .milliseconds(1500))
+                showLeftAnimation = false
+                animateHands()
+            }
+        } else {
+            // Animate right hand (Keep)
+            withAnimation(.easeOut(duration: 0.4)) {
+                rightHandOpacity = 1.0
+                rightHandOffset = 0
+            }
+            
+            withAnimation(.easeInOut(duration: 0.6).delay(0.4)) {
+                rightHandOffset = 80
+            }
+            
+            withAnimation(.easeOut(duration: 0.3).delay(1.0)) {
+                rightHandOpacity = 0
+            }
+            
+            Task {
+                try? await Task.sleep(for: .milliseconds(1500))
+                leftHandOffset = 0
+                rightHandOffset = 0
+                showLeftAnimation = true
+                animateHands()
+            }
+        }
+    }
+    
+    private func dismissTutorial() {
+        withAnimation(.easeOut(duration: 0.3)) {
+            isPresented = false
+        }
     }
 }
 

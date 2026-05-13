@@ -88,7 +88,12 @@ struct HomeView: View {
         selectedCategory = nil; questions = []; currentIndex = 0; keptQuestions = []
     }
     private func restartDeck() {
-        questions = questions.shuffled(); currentIndex = 0; keptQuestions = []
+        // The 36 Experience should not shuffle on restart
+        if selectedCategory != .closeness36 {
+            questions = questions.shuffled()
+        }
+        currentIndex = 0
+        keptQuestions = []
     }
 }
 

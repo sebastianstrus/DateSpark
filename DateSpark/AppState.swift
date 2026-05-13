@@ -26,6 +26,11 @@ final class AppState {
         didSet { UserDefaults.standard.set(soundEnabled, forKey: Keys.soundEnabled) }
     }
 
+    // Swipe tutorial completion state (persisted)
+    var hasSeenSwipeTutorial: Bool {
+        didSet { UserDefaults.standard.set(hasSeenSwipeTutorial, forKey: Keys.swipeTutorial) }
+    }
+
     // MARK: - Init
 
     init() {
@@ -52,6 +57,9 @@ final class AppState {
         } else {
             self.soundEnabled = UserDefaults.standard.bool(forKey: Keys.soundEnabled)
         }
+
+        // Swipe tutorial defaults to false (not seen)
+        self.hasSeenSwipeTutorial = UserDefaults.standard.bool(forKey: Keys.swipeTutorial)
     }
 
     // MARK: - Favorites API
@@ -112,5 +120,6 @@ final class AppState {
         static let favorites  = "favoriteQuestionIDs"
         static let custom     = "customQuestions"
         static let soundEnabled = "soundEnabled"
+        static let swipeTutorial = "hasSeenSwipeTutorial"
     }
 }

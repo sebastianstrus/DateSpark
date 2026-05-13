@@ -1470,6 +1470,15 @@ struct DataProvider: Sendable {
     }
     
     func shuffledQuestions(for category: QuestionCategory) -> [Question] {
-        questions(for: category).shuffled()
+        let allQuestions = questions(for: category)
+        
+        // The 36 Experience should show all 36 questions in their original order
+        if category == .closeness36 {
+            return allQuestions
+        }
+        
+        // For all other categories, return 30 random questions
+        let shuffled = allQuestions.shuffled()
+        return Array(shuffled.prefix(30))
     }
 }
