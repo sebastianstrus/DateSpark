@@ -359,7 +359,7 @@ struct SessionRecapView: View {
                                 HStack(spacing: 10) {
                                     Image(systemName: "crown.fill")
                                         .font(.system(size: 11, weight: .light))
-                                    Text("Unlock 1000+ Questions")
+                                    Text("Unlock 1400+ Questions")
                                         .font(.dsDisplay(17, weight: .regular))
                                 }
                                 .foregroundColor(Color.dsPrimary)

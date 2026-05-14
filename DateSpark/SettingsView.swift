@@ -88,7 +88,7 @@ struct SettingsView: View {
                                                     .font(.dsLabel(15, weight: .medium))
                                                     .foregroundColor(Color.dsPrimary)
                                             }
-                                            Text("1000+ questions • One-time payment")
+                                            Text("1400+ questions • One-time payment")
                                                 .font(.dsLabel(13))
                                                 .foregroundColor(Color.dsSecondary)
                                         }

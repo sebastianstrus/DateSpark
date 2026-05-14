@@ -66,7 +66,7 @@ struct PaywallView: View {
                             VStack(spacing: 16) {
                                 FeatureRow(
                                     icon: "infinity",
-                                    title: "1000+ Premium Questions",
+                                    title: "1400+ Premium Questions",
                                     description: "Access all categories and depth levels"
                                 )
                                 

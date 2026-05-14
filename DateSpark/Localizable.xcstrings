@@ -545,7 +545,7 @@
     "5 preview questions" : {
 
     },
-    "1000+ questions • One-time payment" : {
+    "1400+ questions • One-time payment" : {
 
     },
     "ADD A QUESTION" : {
@@ -47873,15 +47873,60 @@
         }
       }
     },
-    "Unlock 1000+ Questions" : {
-
-    },
-    "Unlock every\nquestion" : {
-
-    },
-    "Unlock Premium" : {
-
-    },
+    "Unlock 1400+ Questions" : {
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Über 1400 Fragen freischalten" } },
+            "en" : { "stringUnit" : { "state" : "translated", "value" : "Unlock 1400+ Questions" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquea más de 1400 preguntas" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Débloquez plus de 1400 questions" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Sblocca oltre 1400 domande" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "1400以上の質問をアンロック" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "1,400개 이상의 질문 잠금 해제" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Lås opp 1400+ spørsmål" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Ontgrendel meer dan 1400 vragen" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Odblokuj ponad 1400 pytań" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Desbloqueie mais de 1400 perguntas" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Lås upp 1400+ frågor" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Розблокуйте 1400+ запитань" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "解锁 1400+ 个问题" } }
+          }
+        },
+        "Unlock every\nquestion" : {
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Jede Frage\nfreischalten" } },
+            "en" : { "stringUnit" : { "state" : "translated", "value" : "Unlock every\nquestion" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquea cada\npregunta" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Débloquez chaque\nquestion" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Sblocca ogni\ndomanda" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "すべての質問を\nアンロック" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 질문\n잠금 해제" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Lås opp alle\nspørsmål" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Ontgrendel elke\nvraag" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Odblokuj każde\npytanie" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Desbloqueie todas as\nperguntas" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Lås upp varje\nfråga" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Розблокуйте кожне\nзапитання" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "解锁每一个\n问题" } }
+          }
+        },
+        "Unlock Premium" : {
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "Premium freischalten" } },
+            "en" : { "stringUnit" : { "state" : "translated", "value" : "Unlock Premium" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquear Premium" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Débloquer Premium" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Sblocca Premium" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "プレミアムをアンロック" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "프리미엄 잠금 해제" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Lås opp Premium" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Ontgrendel Premium" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Odblokuj Premium" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquear Premium" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Lås upp Premium" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Розблокувати Premium" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "解锁高级版" } }
+          }
+        },
     "Version %@" : {
       "localizations" : {
         "de" : {
