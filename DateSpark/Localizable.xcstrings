@@ -543,11 +543,41 @@
       }
     },
     "5 preview questions" : {
-
-    },
-    "1400+ questions • One-time payment" : {
-
-    },
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "5 Vorschau-Fragen" } },
+            "en" : { "stringUnit" : { "state" : "translated", "value" : "5 preview questions" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "5 preguntas de vista previa" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "5 questions d'aperçu" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "5 domande di anteprima" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "5つのプレビュー質問" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "5개의 미리보기 질문" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "5 forhåndsvisningsspørsmål" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "5 voorbeeldvragen" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "5 pytań podglądu" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "5 perguntas de prévia" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "5 förhandsvisningsfrågor" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "5 пробних запитань" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "5 个预览问题" } }
+          }
+        },
+        "1400+ questions • One-time payment" : {
+          "localizations" : {
+            "de" : { "stringUnit" : { "state" : "translated", "value" : "1400+ Fragen • Einmalige Zahlung" } },
+            "en" : { "stringUnit" : { "state" : "translated", "value" : "1400+ questions • One-time payment" } },
+            "es" : { "stringUnit" : { "state" : "translated", "value" : "Más de 1400 preguntas • Pago único" } },
+            "fr" : { "stringUnit" : { "state" : "translated", "value" : "1400+ questions • Paiement unique" } },
+            "it" : { "stringUnit" : { "state" : "translated", "value" : "Oltre 1400 domande • Pagamento una tantum" } },
+            "ja" : { "stringUnit" : { "state" : "translated", "value" : "1400以上の質問 • 一回限りの支払い" } },
+            "ko" : { "stringUnit" : { "state" : "translated", "value" : "1,400개 이상의 질문 • 일회성 결제" } },
+            "nb" : { "stringUnit" : { "state" : "translated", "value" : "1400+ spørsmål • Engangsbetaling" } },
+            "nl" : { "stringUnit" : { "state" : "translated", "value" : "1400+ vragen • Eenmalige betaling" } },
+            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Ponad 1400 pytań • Płatność jednorazowa" } },
+            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Mais de 1400 perguntas • Pagamento único" } },
+            "sv" : { "stringUnit" : { "state" : "translated", "value" : "1400+ frågor • Engångsbetalning" } },
+            "uk" : { "stringUnit" : { "state" : "translated", "value" : "1400+ запитань • Одноразовий платіж" } },
+            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "1400+ 个问题 • 一次性付款" } }
+          }
+        },
     "ADD A QUESTION" : {
       "localizations" : {
         "de" : {
@@ -11204,6 +11234,95 @@
     },
     "Error" : {
 
+    },
+    "Failed to restore purchases. Please try again." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käufe konnten nicht wiederhergestellt werden. Bitte versuchen Sie es erneut."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to restore purchases. Please try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al restaurar las compras. Por favor, inténtalo de nuevo."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de la restauration des achats. Veuillez réessayer."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile ripristinare gli acquisti. Riprova."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購入の復元に失敗しました。もう一度お試しください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구매 복구에 실패했습니다. 다시 시도해 주세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunne ikke gjenopprette kjøp. Vennligst prøv igjen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herstellen van aankopen mislukt. Probeer het opnieuw."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie udało się przywrócić zakupów. Spróbuj ponownie."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falha ao restaurar compras. Por favor, tente novamente."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det gick inte att återställa köp. Försök igen."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не вдалося відновити покупки. Спробуйте ще раз."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复购买失败。请再试一次。"
+          }
+        }
+      }
     },
     "For what in your life do you feel most grateful?" : {
       "comment" : "category: closeness36, depth: medium",
@@ -42638,6 +42757,95 @@
         }
       }
     },
+    "No previous purchases found." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine vorherigen Käufe gefunden."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No previous purchases found."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontraron compras anteriores."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun achat précédent trouvé."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun acquisto precedente trovato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以前の購入は見つかりませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이전 구매 내역을 찾을 수 없습니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen tidligere kjøp funnet."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen eerdere aankopen gevonden."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie znaleziono poprzednich zakupów."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nenhuma compra anterior encontrada."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga tidigare köp hittades."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Попередніх покупок не знайдено."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未发现之前的购买记录。"
+          }
+        }
+      }
+    },
     "Nothing saved\nyet." : {
       "comment" : "A description of the empty state when the user has no saved favorites.",
       "isCommentAutoGenerated" : true,
@@ -43798,131 +44006,446 @@
       }
     },
     "Premium" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "プレミアム" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "프리미엄" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Premium" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Преміум" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "高级版" } }
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
           }
         },
-        "PREMIUM" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "プレミアム" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "프리미엄" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "PREMIUM" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "ПРЕМІУМ" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "高级版" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
           }
         },
-        "Premium Active" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Premium aktiv" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Premium Active" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Premium activo" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Premium activé" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Premium attivo" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "プレミアム有効" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "프리미엄 활성" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Premium aktiv" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Premium actief" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Premium aktywny" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Premium ativo" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Premium aktiv" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Преміум активний" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "高级版已激活" } }
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
           }
         },
-        "PREVIEW" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "VORSCHAU" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "PREVIEW" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "VISTA PREVIA" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "APERÇU" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "ANTEPRIMA" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "プレビュー" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "미리보기" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "FORHÅNDSVISNING" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "VOORVERTONING" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "PODGLĄD" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "PRÉVIA" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "FÖRHANDSVISNING" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "ПЕРЕГЛЯД" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "预览" } }
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
           }
         },
-        "Premium successfully restored!" : {
-              "localizations" : {
-                "de" : { "stringUnit" : { "state" : "translated", "value" : "Premium erfolgreich wiederhergestellt!" } },
-                "en" : { "stringUnit" : { "state" : "translated", "value" : "Premium successfully restored!" } },
-                "es" : { "stringUnit" : { "state" : "translated", "value" : "¡Premium restaurado con éxito!" } },
-                "fr" : { "stringUnit" : { "state" : "translated", "value" : "Premium restauré avec succès !" } },
-                "it" : { "stringUnit" : { "state" : "translated", "value" : "Premium ripristinato con successo!" } },
-                "ja" : { "stringUnit" : { "state" : "translated", "value" : "プレミアムの復元に成功しました！" } },
-                "ko" : { "stringUnit" : { "state" : "translated", "value" : "프리미엄이 성공적으로 복구되었습니다!" } },
-                "nb" : { "stringUnit" : { "state" : "translated", "value" : "Premium er gjenopprettet!" } },
-                "nl" : { "stringUnit" : { "state" : "translated", "value" : "Premium succesvol hersteld!" } },
-                "pl" : { "stringUnit" : { "state" : "translated", "value" : "Pomyślnie przywrócono Premium!" } },
-                "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Premium restaurado com sucesso!" } },
-                "sv" : { "stringUnit" : { "state" : "translated", "value" : "Premium har återställts!" } },
-                "uk" : { "stringUnit" : { "state" : "translated", "value" : "Premium успішно відновлено!" } },
-                "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "高级版已成功恢复！" } }
-              }
-            },
-            "No previous purchases found." : {
-              "localizations" : {
-                "de" : { "stringUnit" : { "state" : "translated", "value" : "Keine vorherigen Käufe gefunden." } },
-                "en" : { "stringUnit" : { "state" : "translated", "value" : "No previous purchases found." } },
-                "es" : { "stringUnit" : { "state" : "translated", "value" : "No se encontraron compras anteriores." } },
-                "fr" : { "stringUnit" : { "state" : "translated", "value" : "Aucun achat précédent trouvé." } },
-                "it" : { "stringUnit" : { "state" : "translated", "value" : "Nessun acquisto precedente trovato." } },
-                "ja" : { "stringUnit" : { "state" : "translated", "value" : "以前の購入は見つかりませんでした。" } },
-                "ko" : { "stringUnit" : { "state" : "translated", "value" : "이전 구매 내역을 찾을 수 없습니다." } },
-                "nb" : { "stringUnit" : { "state" : "translated", "value" : "Ingen tidligere kjøp funnet." } },
-                "nl" : { "stringUnit" : { "state" : "translated", "value" : "Geen eerdere aankopen gevonden." } },
-                "pl" : { "stringUnit" : { "state" : "translated", "value" : "Nie znaleziono poprzednich zakupów." } },
-                "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Nenhuma compra anterior encontrada." } },
-                "sv" : { "stringUnit" : { "state" : "translated", "value" : "Inga tidigare köp hittades." } },
-                "uk" : { "stringUnit" : { "state" : "translated", "value" : "Попередніх покупок не знайдено." } },
-                "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "未发现之前的购买记录。" } }
-              }
-            },
-            "Failed to restore purchases. Please try again." : {
-              "localizations" : {
-                "de" : { "stringUnit" : { "state" : "translated", "value" : "Käufe konnten nicht wiederhergestellt werden. Bitte versuchen Sie es erneut." } },
-                "en" : { "stringUnit" : { "state" : "translated", "value" : "Failed to restore purchases. Please try again." } },
-                "es" : { "stringUnit" : { "state" : "translated", "value" : "Error al restaurar las compras. Por favor, inténtalo de nuevo." } },
-                "fr" : { "stringUnit" : { "state" : "translated", "value" : "Échec de la restauration des achats. Veuillez réessayer." } },
-                "it" : { "stringUnit" : { "state" : "translated", "value" : "Impossibile ripristinare gli acquisti. Riprova." } },
-                "ja" : { "stringUnit" : { "state" : "translated", "value" : "購入の復元に失敗しました。もう一度お試しください。" } },
-                "ko" : { "stringUnit" : { "state" : "translated", "value" : "구매 복구에 실패했습니다. 다시 시도해 주세요." } },
-                "nb" : { "stringUnit" : { "state" : "translated", "value" : "Kunne ikke gjenopprette kjøp. Vennligst prøv igjen." } },
-                "nl" : { "stringUnit" : { "state" : "translated", "value" : "Herstellen van aankopen mislukt. Probeer het opnieuw." } },
-                "pl" : { "stringUnit" : { "state" : "translated", "value" : "Nie udało się przywrócić zakupów. Spróbuj ponownie." } },
-                "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Falha ao restaurar compras. Por favor, tente novamente." } },
-                "sv" : { "stringUnit" : { "state" : "translated", "value" : "Det gick inte att återställa köp. Försök igen." } },
-                "uk" : { "stringUnit" : { "state" : "translated", "value" : "Не вдалося відновити покупки. Спробуйте ще раз." } },
-                "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "恢复购买失败。请再试一次。" } }
-              }
-            },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレミアム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리미엄"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Преміум"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级版"
+          }
+        }
+      }
+    },
+    "PREMIUM" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレミアム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리미엄"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMIUM"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ПРЕМІУМ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级版"
+          }
+        }
+      }
+    },
+    "Premium Active" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium aktiv"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium Active"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium activo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium activé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium attivo"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレミアム有効"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리미엄 활성"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium aktiv"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium actief"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium aktywny"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium ativo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium aktiv"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Преміум активний"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级版已激活"
+          }
+        }
+      }
+    },
+    "Premium successfully restored!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium erfolgreich wiederhergestellt!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium successfully restored!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Premium restaurado con éxito!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium restauré avec succès !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium ripristinato con successo!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレミアムの復元に成功しました！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리미엄이 성공적으로 복구되었습니다!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium er gjenopprettet!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium succesvol hersteld!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pomyślnie przywrócono Premium!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium restaurado com sucesso!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium har återställts!"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium успішно відновлено!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级版已成功恢复！"
+          }
+        }
+      }
+    },
+    "PREVIEW" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VORSCHAU"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREVIEW"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VISTA PREVIA"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APERÇU"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ANTEPRIMA"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレビュー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "미리보기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FORHÅNDSVISNING"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOORVERTONING"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PODGLĄD"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRÉVIA"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FÖRHANDSVISNING"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ПЕРЕГЛЯД"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览"
+          }
+        }
+      }
+    },
     "Privacy Policy" : {
       "localizations" : {
         "de" : {
@@ -44276,23 +44799,93 @@
       }
     },
     "Restore Purchases" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Käufe wiederherstellen" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Restore Purchases" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Restaurar compras" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Restaurer les achats" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Ripristina acquisti" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "購入を復元" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "구매 복구" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Gjenopprett kjøp" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Aankopen herstellen" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Przywróć zakupy" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Restaurar compras" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Återställ köp" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Відновити покупки" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "恢复购买" } }
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käufe wiederherstellen"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore Purchases"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar compras"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurer les achats"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripristina acquisti"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購入を復元"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구매 복구"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gjenopprett kjøp"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aankopen herstellen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przywróć zakupy"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar compras"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Återställ köp"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відновити покупки"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复购买"
+          }
+        }
+      }
+    },
     "Rewatch the tutorial" : {
       "localizations" : {
         "de" : {
@@ -48003,59 +48596,269 @@
       }
     },
     "Unlock 1400+ Questions" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Über 1400 Fragen freischalten" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Unlock 1400+ Questions" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquea más de 1400 preguntas" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Débloquez plus de 1400 questions" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Sblocca oltre 1400 domande" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "1400以上の質問をアンロック" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "1,400개 이상의 질문 잠금 해제" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Lås opp 1400+ spørsmål" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Ontgrendel meer dan 1400 vragen" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Odblokuj ponad 1400 pytań" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Desbloqueie mais de 1400 perguntas" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Lås upp 1400+ frågor" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Розблокуйте 1400+ запитань" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "解锁 1400+ 个问题" } }
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über 1400 Fragen freischalten"
           }
         },
-        "Unlock every\nquestion" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Jede Frage\nfreischalten" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Unlock every\nquestion" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquea cada\npregunta" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Débloquez chaque\nquestion" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Sblocca ogni\ndomanda" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "すべての質問を\nアンロック" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 질문\n잠금 해제" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Lås opp alle\nspørsmål" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Ontgrendel elke\nvraag" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Odblokuj każde\npytanie" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Desbloqueie todas as\nperguntas" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Lås upp varje\nfråga" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Розблокуйте кожне\nзапитання" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "解锁每一个\n问题" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock 1400+ Questions"
           }
         },
-        "Unlock Premium" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Premium freischalten" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Unlock Premium" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquear Premium" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Débloquer Premium" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Sblocca Premium" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "プレミアムをアンロック" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "프리미엄 잠금 해제" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Lås opp Premium" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Ontgrendel Premium" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Odblokuj Premium" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Desbloquear Premium" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Lås upp Premium" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Розблокувати Premium" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "解锁高级版" } }
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquea más de 1400 preguntas"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débloquez plus de 1400 questions"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca oltre 1400 domande"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400以上の質問をアンロック"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,400개 이상의 질문 잠금 해제"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås opp 1400+ spørsmål"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendel meer dan 1400 vragen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odblokuj ponad 1400 pytań"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloqueie mais de 1400 perguntas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås upp 1400+ frågor"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розблокуйте 1400+ запитань"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解锁 1400+ 个问题"
+          }
+        }
+      }
+    },
+    "Unlock every\nquestion" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jede Frage\nfreischalten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock every\nquestion"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquea cada\npregunta"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débloquez chaque\nquestion"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca ogni\ndomanda"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての質問を\nアンロック"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 질문\n잠금 해제"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås opp alle\nspørsmål"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendel elke\nvraag"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odblokuj każde\npytanie"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloqueie todas as\nperguntas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås upp varje\nfråga"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розблокуйте кожне\nзапитання"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解锁每一个\n问题"
+          }
+        }
+      }
+    },
+    "Unlock Premium" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium freischalten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock Premium"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquear Premium"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débloquer Premium"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca Premium"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレミアムをアンロック"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리미엄 잠금 해제"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås opp Premium"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendel Premium"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odblokuj Premium"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquear Premium"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås upp Premium"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розблокувати Premium"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解锁高级版"
+          }
+        }
+      }
+    },
     "Version %@" : {
       "localizations" : {
         "de" : {
