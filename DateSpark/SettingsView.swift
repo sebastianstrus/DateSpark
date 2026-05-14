@@ -295,7 +295,7 @@ struct SettingsView: View {
                 }
             }
         }
-        .sheet(isPresented: $showPaywall) {
+        .fullScreenCover(isPresented: $showPaywall) {
             PaywallView()
         }
         .alert("Restore Purchases", isPresented: $showRestoreAlert) {

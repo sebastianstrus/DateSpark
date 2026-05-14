@@ -3,6 +3,7 @@ import SwiftUI
 @MainActor
 struct HomeView: View {
     @Environment(AppState.self) private var appState
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @State private var showWheel        = false
     @State private var selectedCategory: QuestionCategory? = nil
     @State private var questions:        [Question]        = []
@@ -64,7 +65,7 @@ struct HomeView: View {
                     withAnimation(.easeIn(duration: 0.25)) { showWheel = false }
                     loadQuestions(for: category)
                 }
-                .frame(maxWidth: 500)
+                .frame(maxWidth: horizontalSizeClass == .regular ? 650 : 500)
                 .padding(.horizontal, 20)
                 .transition(.asymmetric(
                     insertion: .scale(scale: 0.96).combined(with: .opacity),
@@ -381,7 +382,7 @@ struct SessionRecapView: View {
             }
             .frame(maxWidth: .infinity, alignment: .topLeading)
         }
-        .sheet(isPresented: $showPaywall) {
+        .fullScreenCover(isPresented: $showPaywall) {
             PaywallView()
         }
     }

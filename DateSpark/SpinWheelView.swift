@@ -4,12 +4,17 @@ import SwiftUI
 struct SpinWheelView: View {
     let onSelect: @MainActor (QuestionCategory) -> Void
 
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @State private var rotation:         Double            = 0
     @State private var isSpinning:       Bool              = false
     @State private var selectedCategory: QuestionCategory? = nil
     @State private var showResult:       Bool              = false
 
     private let categories = QuestionCategory.allCases.filter { $0 != .custom }
+    
+    private var wheelSize: CGFloat {
+        horizontalSizeClass == .regular ? 400 : 270
+    }
 
     var body: some View {
         VStack(spacing: 0) {
@@ -36,29 +41,30 @@ struct SpinWheelView: View {
             ZStack {
                 // Atmospheric glow behind wheel
                 if let cat = selectedCategory {
-                    GlowOrb(color: cat.accentColor.opacity(0.2), size: 280, blur: 60)
+                    GlowOrb(color: cat.accentColor.opacity(0.2), size: wheelSize + 10, blur: 60)
                         .animation(.easeInOut(duration: 0.6), value: cat.rawValue)
                 }
 
                 WheelGraphic(categories: categories, rotation: rotation)
-                    .frame(width: 270, height: 270)
+                    .frame(width: wheelSize, height: wheelSize)
 
                 // Pointer — gold triangle
                 VStack {
                     Image(systemName: "arrowtriangle.down.fill")
-                        .font(.system(size: 14))
+                        .font(.system(size: horizontalSizeClass == .regular ? 18 : 14))
                         .foregroundStyle(LinearGradient.dsGoldGradient)
                         .shadow(color: Color.dsGold.opacity(0.6), radius: 6)
                         .offset(y: 2)
                     Spacer()
                 }
-                .frame(height: 288)
+                .frame(height: wheelSize + 18)
 
                 // Center cap
                 ZStack {
+                    let capSize: CGFloat = horizontalSizeClass == .regular ? 80 : 58
                     Circle()
                         .fill(Color.dsBackground)
-                        .frame(width: 58, height: 58)
+                        .frame(width: capSize, height: capSize)
                         .overlay(
                             Circle()
                                 .stroke(LinearGradient.dsGoldGradient, lineWidth: 0.8)
@@ -67,7 +73,7 @@ struct SpinWheelView: View {
                     Image("spark")
                             .resizable()
                             .scaledToFit()
-                            .frame(height: 32)
+                            .frame(height: horizontalSizeClass == .regular ? 44 : 32)
                             .tracking(3)
 
                 }
@@ -292,6 +298,8 @@ struct WheelSegment: View {
     let radius:     CGFloat
     let category:   QuestionCategory
     let index:      Int
+    
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
     var body: some View {
         let mid     = (startAngle.radians + endAngle.radians) / 2
@@ -311,7 +319,7 @@ struct WheelSegment: View {
             .fill(index % 2 == 0 ? Color.dsSurface : Color.dsSurfaceHigh)
 
             Image(systemName: category.icon)
-                .font(.system(size: 14, weight: .light))
+                .font(.system(size: horizontalSizeClass == .regular ? 20 : 14, weight: .light))
                 .foregroundColor(category.accentColor.opacity(0.9))
                 .position(labelPos)
         }

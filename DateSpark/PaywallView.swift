@@ -3,6 +3,7 @@ import SwiftUI
 @MainActor
 struct PaywallView: View {
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @State private var purchaseManager = PurchaseManager.shared
     @State private var isProcessing = false
     @State private var errorMessage: String?
@@ -90,7 +91,7 @@ struct PaywallView: View {
                             }
                             .padding(.top, 4)
                         }
-                        .padding(.horizontal, 32)
+                        .padding(.horizontal, horizontalSizeClass == .regular ? 120 : 32)
                         .padding(.top, 20)
                         .padding(.bottom, 24)
                     }
@@ -142,7 +143,7 @@ struct PaywallView: View {
                     }
                     .padding(.top, 2)
                 }
-                .padding(.horizontal, 32)
+                .padding(.horizontal, horizontalSizeClass == .regular ? 120 : 32)
                 .padding(.bottom, 44)
                 .background(
                     LinearGradient(
@@ -159,6 +160,9 @@ struct PaywallView: View {
         } message: {
             Text(errorMessage ?? "An error occurred")
         }
+        .frame(maxWidth: .infinity)
+        .frame(maxHeight: .infinity)
+        .background(Color.dsBackground)
     }
     
     // MARK: - Actions
