@@ -226,7 +226,7 @@ struct SpinWheelView: View {
 
         // Success haptic when wheel lands
         HapticManager.shared.wheelLanded()
-        SoundManager.shared.playSuccess()
+        SoundManager.shared.playSelected()
 
         withAnimation(.spring(response: 0.4, dampingFraction: 0.8)) {
             showResult = true; isSpinning = false

@@ -33,38 +33,30 @@ final class SoundManager {
     }
     
     // MARK: - Wheel Spin Sound
-    
-    /// Play the spinning wheel sound
-    /// Add your sound file to the project with name "wheel_spin.mp3" or "wheel_spin.wav"
     func playWheelSpin() {
-        guard isSoundEnabled else { return }
-        
-        // Try to find the sound file in the bundle
-        // Supports common audio formats: mp3, wav, m4a, caf
-        let soundFileNames = ["wheel_spin", "wheel-spin", "spin", "wheel"]
-        let extensions = ["mp3", "wav", "m4a", "caf", "aiff"]
-        
-        var soundURL: URL?
-        
-        for fileName in soundFileNames {
-            for ext in extensions {
-                if let url = Bundle.main.url(forResource: fileName, withExtension: ext) {
-                    soundURL = url
-                    break
-                }
-            }
-            if soundURL != nil { break }
-        }
-        
-        guard let url = soundURL else {
-            print("Wheel spin sound file not found. Add a file named 'wheel_spin.mp3' (or similar) to the project.")
+        guard isSoundEnabled,
+              let url = Bundle.main.url(forResource: "wheel_spin", withExtension: "mp3") else {
             return
         }
         
         do {
             wheelSpinPlayer = try AVAudioPlayer(contentsOf: url)
-            wheelSpinPlayer?.numberOfLoops = 0 // Play once
             wheelSpinPlayer?.volume = 0.6
+            wheelSpinPlayer?.play()
+        } catch {
+            print("Failed to play wheel spin sound: \(error)")
+        }
+    }
+    
+    func playSelected() {
+        guard isSoundEnabled,
+              let url = Bundle.main.url(forResource: "selected", withExtension: "mp3") else {
+            return
+        }
+        
+        do {
+            wheelSpinPlayer = try AVAudioPlayer(contentsOf: url)
+            wheelSpinPlayer?.volume = 0.2
             wheelSpinPlayer?.play()
         } catch {
             print("Failed to play wheel spin sound: \(error)")
