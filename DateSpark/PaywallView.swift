@@ -66,26 +66,26 @@ struct PaywallView: View {
                             VStack(spacing: 16) {
                                 FeatureRow(
                                     icon: "infinity",
-                                    title: "1400+ Premium Questions",
-                                    description: "Access all categories and depth levels"
+                                    titleKey: "1400+ Premium Questions",
+                                    descriptionKey: "Access all categories and depth levels"
                                 )
                                 
                                 FeatureRow(
                                     icon: "sparkles",
-                                    title: "Unlimited Custom Questions",
-                                    description: "Create and save your own prompts"
+                                    titleKey: "Unlimited Custom Questions",
+                                    descriptionKey: "Create and save your own prompts"
                                 )
                                 
                                 FeatureRow(
                                     icon: "arrow.clockwise",
-                                    title: "Future Updates Included",
-                                    description: "New questions added regularly"
+                                    titleKey: "Future Updates Included",
+                                    descriptionKey: "New questions added regularly"
                                 )
                                 
                                 FeatureRow(
                                     icon: "bookmark.fill",
-                                    title: "Save Unlimited Favorites",
-                                    description: "Build your perfect collection"
+                                    titleKey: "Save Unlimited Favorites",
+                                    descriptionKey: "Build your perfect collection"
                                 )
                             }
                             .padding(.top, 4)
@@ -212,8 +212,8 @@ struct PaywallView: View {
 @MainActor
 struct FeatureRow: View {
     let icon: String
-    let title: String
-    let description: String
+    let titleKey: LocalizedStringKey
+    let descriptionKey: LocalizedStringKey
     
     var body: some View {
         HStack(spacing: 16) {
@@ -227,11 +227,11 @@ struct FeatureRow: View {
             
             // Text
             VStack(alignment: .leading, spacing: 4) {
-                Text(title)
+                Text(titleKey)
                     .font(.dsLabel(15, weight: .medium))
                     .foregroundColor(Color.dsPrimary)
                 
-                Text(description)
+                Text(descriptionKey)
                     .font(.dsLabel(13, weight: .regular))
                     .foregroundColor(Color.dsSecondary)
                     .lineSpacing(3)

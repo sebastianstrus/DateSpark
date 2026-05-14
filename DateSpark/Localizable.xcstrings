@@ -631,7 +631,6 @@
       }
     },
     "1400+ Premium Questions" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -808,7 +807,6 @@
       }
     },
     "Access all categories and depth levels" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2401,7 +2399,6 @@
       }
     },
     "Build your perfect collection" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -3904,7 +3901,6 @@
       }
     },
     "Create and save your own prompts" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -12083,7 +12079,6 @@
       }
     },
     "Future Updates Included" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -43343,7 +43338,6 @@
       }
     },
     "New questions added regularly" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -49443,7 +49437,6 @@
       }
     },
     "Unlimited Custom Questions" : {
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
