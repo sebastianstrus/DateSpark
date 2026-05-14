@@ -8,7 +8,7 @@ class PurchaseManager {
     static let shared = PurchaseManager()
     
     // Product ID - you'll need to create this in App Store Connect
-    private let premiumProductID = "com.datespark.premium"
+    private let premiumProductID = "com.sebastianstrus.datespark.premium"
     
     // Observable properties
     var isPremium: Bool = false
