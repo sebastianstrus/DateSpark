@@ -543,41 +543,359 @@
       }
     },
     "5 preview questions" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "5 Vorschau-Fragen" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "5 preview questions" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "5 preguntas de vista previa" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "5 questions d'aperçu" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "5 domande di anteprima" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "5つのプレビュー質問" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "5개의 미리보기 질문" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "5 forhåndsvisningsspørsmål" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "5 voorbeeldvragen" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "5 pytań podglądu" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "5 perguntas de prévia" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "5 förhandsvisningsfrågor" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "5 пробних запитань" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "5 个预览问题" } }
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 Vorschau-Fragen"
           }
         },
-        "1400+ questions • One-time payment" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "1400+ Fragen • Einmalige Zahlung" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "1400+ questions • One-time payment" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Más de 1400 preguntas • Pago único" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "1400+ questions • Paiement unique" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Oltre 1400 domande • Pagamento una tantum" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "1400以上の質問 • 一回限りの支払い" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "1,400개 이상의 질문 • 일회성 결제" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "1400+ spørsmål • Engangsbetaling" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "1400+ vragen • Eenmalige betaling" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Ponad 1400 pytań • Płatność jednorazowa" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Mais de 1400 perguntas • Pagamento único" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "1400+ frågor • Engångsbetalning" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "1400+ запитань • Одноразовий платіж" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "1400+ 个问题 • 一次性付款" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 preview questions"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 preguntas de vista previa"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 questions d'aperçu"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 domande di anteprima"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5つのプレビュー質問"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5개의 미리보기 질문"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 forhåndsvisningsspørsmål"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 voorbeeldvragen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 pytań podglądu"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 perguntas de prévia"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 förhandsvisningsfrågor"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 пробних запитань"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 个预览问题"
+          }
+        }
+      }
+    },
+    "1400+ Premium Questions" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ Premium-Fragen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ Premium Questions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más de 1400 preguntas premium"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ questions premium"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oltre 1400 domande premium"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400以上のプレミアムな質問"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,400개 이상의 프리미엄 질문"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ Premium-spørsmål"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ Premium-vragen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ponad 1400 pytań premium"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais de 1400 perguntas premium"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ Premiumfrågor"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ преміум-запитань"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ 个高级问题"
+          }
+        }
+      }
+    },
+    "1400+ questions • One-time payment" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ Fragen • Einmalige Zahlung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ questions • One-time payment"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más de 1400 preguntas • Pago único"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ questions • Paiement unique"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oltre 1400 domande • Pagamento una tantum"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400以上の質問 • 一回限りの支払い"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1,400개 이상의 질문 • 일회성 결제"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ spørsmål • Engangsbetaling"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ vragen • Eenmalige betaling"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ponad 1400 pytań • Płatność jednorazowa"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais de 1400 perguntas • Pagamento único"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ frågor • Engångsbetalning"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ запитань • Одноразовий платіж"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1400+ 个问题 • 一次性付款"
+          }
+        }
+      }
+    },
+    "Access all categories and depth levels" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zugriff auf alle Kategorien und Tiefenstufen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Access all categories and depth levels"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accede a todas las categorías y niveles de profundidad"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accédez à toutes les catégories et niveaux de profondeur"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accedi a tutte le categorie e ai livelli di profondità"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてのカテゴリーと難易度レベルにアクセス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 카테고리와 깊이 단계 이용 가능"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilgang til alle kategorier og dybdenivåer"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toegang tot alle categorieën en diepteniveaus"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dostęp do wszystkich kategorii i poziomów głębi"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acesse todas as categorias e níveis de profundidade"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tillgång till alla kategorier och djupnivåer"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доступ до всіх категорій і рівнів глибини"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "访问所有类别和深度级别"
+          }
+        }
+      }
+    },
     "ADD A QUESTION" : {
       "localizations" : {
         "de" : {
@@ -2082,6 +2400,95 @@
         }
       }
     },
+    "Build your perfect collection" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstellen Sie Ihre perfekte Sammlung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Build your perfect collection"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crea tu colección perfecta"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Créez votre collection parfaite"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crea la tua collezione perfetta"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分だけの完璧なコレクションを"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "완벽한 컬렉션 만들기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bygg din perfekte samling"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bouw je perfecte collectie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zbuduj swoją idealną kolekcję"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crie sua coleção perfeita"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bygg din perfekta samling"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Створіть свою ідеальну колекцію"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打造你的完美收藏"
+          }
+        }
+      }
+    },
     "Build Your\\nCollection" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -3492,6 +3899,95 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重要的对话"
+          }
+        }
+      }
+    },
+    "Create and save your own prompts" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigene Prompts erstellen und speichern"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create and save your own prompts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crea y guarda tus propios enunciados"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Créez et enregistrez vos propres questions"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crea e salva i tuoi suggerimenti"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "独自のプロンプトを作成して保存"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "나만의 프롬프트 생성 및 저장"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lag og lagre dine egne spørsmål"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maak en bewaar je eigen prompts"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twórz i zapisuj własne polecenia"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crie e salve seus próprios comandos"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skapa och spara dina egna prompts"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Створюйте та зберігайте власні запитання"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建并保存你自己的提示"
           }
         }
       }
@@ -11582,6 +12078,95 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "成长中的有趣回忆"
+          }
+        }
+      }
+    },
+    "Future Updates Included" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zukünftige Updates inklusive"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Future Updates Included"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizaciones futuras incluidas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mises à jour futures incluses"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiornamenti futuri inclusi"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今後のアップデートも含まれます"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "향후 업데이트 포함"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fremtidige oppdateringer inkludert"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toekomstige updates inbegrepen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przyszłe aktualizacje w cenie"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualizações futuras incluídas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Framtida uppdateringar ingår"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Майбутні оновлення включені"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包含未来的更新"
           }
         }
       }
@@ -42757,6 +43342,95 @@
         }
       }
     },
+    "New questions added regularly" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regelmäßig neue Fragen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New questions added regularly"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuevas preguntas añadidas regularmente"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouvelles questions ajoutées régulièrement"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuove domande aggiunte regolarmente"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しい質問を定期的に追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정기적으로 새로운 질문 추가"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nye spørsmål legges til regelmessig"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regelmatig nieuwe vragen toegevoegd"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regularnie dodawane nowe pytania"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novas perguntas adicionadas regularmente"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nya frågor läggs till regelbundet"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нові запитання додаються регулярно"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "定期添加新问题"
+          }
+        }
+      }
+    },
     "No previous purchases found." : {
       "extractionState" : "stale",
       "localizations" : {
@@ -43825,167 +44499,93 @@
       }
     },
     "One payment. Lifetime access." : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Einmalzahlung. Lebenslanger Zugriff." } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "One payment. Lifetime access." } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Un solo pago. Acceso de por vida." } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Un seul paiement. Accès à vie." } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Un unico pagamento. Accesso a vita." } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "一度のお支払い。無期限アクセス。" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "한 번 결제. 평생 이용." } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Én betaling. Livstidsadgang." } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Eenmalige betaling. Levenslange toegang." } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jedna płatność. Dożywotni dostęp." } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Pagamento único. Acesso vitalício." } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Engångsbetalning. Livstidsåtkomst." } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Один платіж. Довічний доступ." } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "一次性付款。终身访问。" } }
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einmalzahlung. Lebenslanger Zugriff."
           }
         },
-        "1400+ Premium Questions" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "1400+ Premium-Fragen" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "1400+ Premium Questions" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Más de 1400 preguntas premium" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "1400+ questions premium" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Oltre 1400 domande premium" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "1400以上のプレミアムな質問" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "1,400개 이상의 프리미엄 질문" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "1400+ Premium-spørsmål" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "1400+ Premium-vragen" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Ponad 1400 pytań premium" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Mais de 1400 perguntas premium" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "1400+ Premiumfrågor" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "1400+ преміум-запитань" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "1400+ 个高级问题" } }
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One payment. Lifetime access."
           }
         },
-        "Access all categories and depth levels" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Zugriff auf alle Kategorien und Tiefenstufen" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Access all categories and depth levels" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Accede a todas las categorías y niveles de profundidad" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Accédez à toutes les catégories et niveaux de profondeur" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Accedi a tutte le categorie e ai livelli di profondità" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "すべてのカテゴリーと難易度レベルにアクセス" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 카테고리와 깊이 단계 이용 가능" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Tilgang til alle kategorier og dybdenivåer" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Toegang tot alle categorieën en diepteniveaus" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Dostęp do wszystkich kategorii i poziomów głębi" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Acesse todas as categorias e níveis de profundidade" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Tillgång till alla kategorier och djupnivåer" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Доступ до всіх категорій і рівнів глибини" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "访问所有类别和深度级别" } }
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un solo pago. Acceso de por vida."
           }
         },
-        "Unlimited Custom Questions" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Unbegrenzte eigene Fragen" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Unlimited Custom Questions" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Preguntas personalizadas ilimitadas" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Questions personnalisées illimitées" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Domande personalizzate illimitate" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "カスタムの質問が無制限" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "무제한 맞춤 질문" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Ubegrensede egne spørsmål" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Onbeperkt aantal eigen vragen" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Nieograniczona liczba własnych pytań" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Perguntas personalizadas ilimitadas" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Obegränsade egna frågor" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Необмежена кількість власних запитань" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "无限自定义问题" } }
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un seul paiement. Accès à vie."
           }
         },
-        "Create and save your own prompts" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Eigene Prompts erstellen und speichern" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Create and save your own prompts" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Crea y guarda tus propios enunciados" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Créez et enregistrez vos propres questions" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Crea e salva i tuoi suggerimenti" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "独自のプロンプトを作成して保存" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "나만의 프롬프트 생성 및 저장" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Lag og lagre dine egne spørsmål" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Maak en bewaar je eigen prompts" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Twórz i zapisuj własne polecenia" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Crie e salve seus próprios comandos" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Skapa och spara dina egna prompts" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Створюйте та зберігайте власні запитання" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "创建并保存你自己的提示" } }
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un unico pagamento. Accesso a vita."
           }
         },
-        "Future Updates Included" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Zukünftige Updates inklusive" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Future Updates Included" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Actualizaciones futuras incluidas" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Mises à jour futures incluses" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Aggiornamenti futuri inclusi" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "今後のアップデートも含まれます" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "향후 업데이트 포함" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Fremtidige oppdateringer inkludert" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Toekomstige updates inbegrepen" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Przyszłe aktualizacje w cenie" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Atualizações futuras incluídas" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Framtida uppdateringar ingår" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Майбутні оновлення включені" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "包含未来的更新" } }
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一度のお支払い。無期限アクセス。"
           }
         },
-        "New questions added regularly" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Regelmäßig neue Fragen" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "New questions added regularly" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Nuevas preguntas añadidas regularmente" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Nouvelles questions ajoutées régulièrement" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Nuove domande aggiunte regolarmente" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "新しい質問を定期的に追加" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "정기적으로 새로운 질문 추가" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Nye spørsmål legges til regelmessig" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Regelmatig nieuwe vragen toegevoegd" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Regularnie dodawane nowe pytania" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Novas perguntas adicionadas regularmente" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Nya frågor läggs till regelbundet" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Нові запитання додаються регулярно" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "定期添加新问题" } }
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "한 번 결제. 평생 이용."
           }
         },
-        "Save Unlimited Favorites" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Unbegrenzt Favoriten speichern" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Save Unlimited Favorites" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Guarda favoritos ilimitados" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Enregistrez des favoris illimités" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Salva preferiti illimitati" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "お気に入りを無制限に保存" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "무제한 즐겨찾기 저장" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Lagre ubegrensede favoritter" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Onbeperkt favorieten opslaan" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Zapisuj nieograniczoną liczbę ulubionych" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Salve favoritos ilimitados" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Spara obegränsade favoriter" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Зберігайте необмежену кількість обраних" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "保存无限个收藏" } }
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Én betaling. Livstidsadgang."
           }
         },
-        "Build your perfect collection" : {
-          "localizations" : {
-            "de" : { "stringUnit" : { "state" : "translated", "value" : "Erstellen Sie Ihre perfekte Sammlung" } },
-            "en" : { "stringUnit" : { "state" : "translated", "value" : "Build your perfect collection" } },
-            "es" : { "stringUnit" : { "state" : "translated", "value" : "Crea tu colección perfecta" } },
-            "fr" : { "stringUnit" : { "state" : "translated", "value" : "Créez votre collection parfaite" } },
-            "it" : { "stringUnit" : { "state" : "translated", "value" : "Crea la tua collezione perfetta" } },
-            "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分だけの完璧なコレクションを" } },
-            "ko" : { "stringUnit" : { "state" : "translated", "value" : "완벽한 컬렉션 만들기" } },
-            "nb" : { "stringUnit" : { "state" : "translated", "value" : "Bygg din perfekte samling" } },
-            "nl" : { "stringUnit" : { "state" : "translated", "value" : "Bouw je perfecte collectie" } },
-            "pl" : { "stringUnit" : { "state" : "translated", "value" : "Zbuduj swoją idealną kolekcję" } },
-            "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Crie sua coleção perfeita" } },
-            "sv" : { "stringUnit" : { "state" : "translated", "value" : "Bygg din perfekta samling" } },
-            "uk" : { "stringUnit" : { "state" : "translated", "value" : "Створіть свою ідеальну колекцію" } },
-            "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "打造你的完美收藏" } }
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eenmalige betaling. Levenslange toegang."
           }
         },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jedna płatność. Dożywotni dostęp."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagamento único. Acesso vitalício."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Engångsbetalning. Livstidsåtkomst."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Один платіж. Довічний доступ."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一次性付款。终身访问。"
+          }
+        }
+      }
+    },
     "PASS" : {
       "comment" : "A label displayed next to a swipe gesture",
       "isCommentAutoGenerated" : true,
@@ -45217,6 +45817,94 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保存问题"
+          }
+        }
+      }
+    },
+    "Save Unlimited Favorites" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbegrenzt Favoriten speichern"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Unlimited Favorites"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda favoritos ilimitados"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrez des favoris illimités"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva preferiti illimitati"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お気に入りを無制限に保存"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무제한 즐겨찾기 저장"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagre ubegrensede favoritter"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onbeperkt favorieten opslaan"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisuj nieograniczoną liczbę ulubionych"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salve favoritos ilimitados"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spara obegränsade favoriter"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зберігайте необмежену кількість обраних"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存无限个收藏"
           }
         }
       }
@@ -48750,6 +49438,95 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入你的问题..."
+          }
+        }
+      }
+    },
+    "Unlimited Custom Questions" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbegrenzte eigene Fragen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlimited Custom Questions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preguntas personalizadas ilimitadas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questions personnalisées illimitées"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domande personalizzate illimitate"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カスタムの質問が無制限"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무제한 맞춤 질문"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubegrensede egne spørsmål"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onbeperkt aantal eigen vragen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nieograniczona liczba własnych pytań"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perguntas personalizadas ilimitadas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obegränsade egna frågor"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Необмежена кількість власних запитань"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无限自定义问题"
           }
         }
       }
