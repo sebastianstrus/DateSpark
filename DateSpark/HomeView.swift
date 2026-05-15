@@ -308,7 +308,7 @@ struct SessionRecapView: View {
                                 Image(systemName: "checkmark.circle.fill")
                                     .font(.system(size: 14))
                                     .foregroundStyle(LinearGradient.dsGoldGradient)
-                                Text("You kept \(keptQuestions.count) question\(keptQuestions.count == 1 ? "" : "s")")
+                                Text("You kept \(keptQuestions.count) question")
                                     .font(.dsLabel(13, weight: .medium))
                                     .foregroundColor(Color.dsPrimary)
                             }
