@@ -10,7 +10,7 @@ struct SpinWheelView: View {
     @State private var selectedCategory: QuestionCategory? = nil
     @State private var showResult:       Bool              = false
 
-    private let categories = QuestionCategory.allCases.filter { $0 != .custom }
+    private let categories = CategoryHelper.availableCategories().filter { $0 != .custom }
     
     private var wheelSize: CGFloat {
         horizontalSizeClass == .regular ? 400 : 270
