@@ -15,6 +15,7 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
     case loveAndLife    = "Love & Life"
     case hypothetical   = "Hypothetical"
     case spicy          = "Spicy"
+    case verySpicy      = "Heat"
     case closeness36    = "The 36 Experience"
     case custom         = "My Questions"
 
@@ -30,8 +31,8 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .travel:       "airplane"
         case .loveAndLife:  "heart.fill"
         case .hypothetical: "questionmark.bubble.fill"
-        case .spicy:        "flame.circle.fill"
-        case .closeness36:  "person.2.fill" // Icon representing connection
+        case .spicy, .verySpicy:        "flame.circle.fill"
+        case .closeness36:  "person.2.fill"
         case .custom:       "pencil"
         }
     }
@@ -46,7 +47,7 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .travel:       ("F472B6", "BE185D")
         case .loveAndLife:  ("FB7185", "E11D48")
         case .hypothetical: ("38BDF8", "0284C7")
-        case .spicy:        ("8B5CF6", "EC4899")
+        case .spicy, .verySpicy:        ("8B5CF6", "EC4899")
         case .closeness36:  ("A3E635", "16A34A")
         case .custom:       ("D4AF37", "C5B358")
         }
@@ -62,7 +63,7 @@ enum QuestionCategory: String, CaseIterable, Codable, Identifiable, Sendable {
         case .travel:       "Adventures near and far"
         case .loveAndLife:  "What matters most to you?"
         case .hypothetical: "What if...?"
-        case .spicy:        "Turn up the heat and flirt"
+        case .spicy, .verySpicy:        "Turn up the heat and flirt"
         case .closeness36:  "Scientific path to falling in love"
         case .custom:       "Your personal prompts"
         }

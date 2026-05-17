@@ -47404,6 +47404,95 @@
         }
       }
     },
+    "Heat" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Würzig"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spicy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Picante"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Épicé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piccante"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スパイシー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "매콤한"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Krydret"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pittig"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pikantne"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Picante"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kryddig"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пікантно"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "辛辣"
+          }
+        }
+      }
+    },
     "SPIN" : {
       "localizations" : {
         "de" : {
@@ -135075,6 +135164,481 @@
             "value" : "你的房子着火了。在救出亲人和宠物之后，你还可以救出一件物品。那会是什么？为什么？"
           }
         }
+      }
+    },
+    "What’s a song that instantly makes you feel confident and sexy?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welcher Song lässt dich sofort selbstbewusst und sexy fühlen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What’s a song that instantly makes you feel confident and sexy?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué canción te hace sentir segura y sexy al instante?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle chanson te rend instantanément confiant et sexy ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale canzone ti fa sentire subito sicuro e sexy?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一瞬で自信とセクシーさを感じられる曲は？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "즉시 자신감 있고 섹시하게 만드는 노래는?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken sang får deg til å føle deg selvsikker og sexy med en gang?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welk nummer maakt je meteen zelfverzekerd en sexy?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka piosenka sprawia, że od razu czujesz się pewna i seksowna?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual música faz você se sentir confiante e sexy instantaneamente?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken låt får dig att känna dig självsäker och sexig direkt?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яка пісня миттєво змушує вас почуватися впевнено та сексуально?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "哪首歌能立刻让你感到自信又性感？" } }
+      }
+    },
+    "If you wanted to hint that you're in the mood, what text message would you send me?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du andeuten wolltest, dass du in Stimmung bist, welche Nachricht würdest du mir schicken?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you wanted to hint that you're in the mood, what text message would you send me?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si quisieras insinuar que estás de humor, ¿qué mensaje me enviarías?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu voulais suggérer que tu es d'humeur, quel message m'enverrais-tu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se volessi accennare che sei dell'umore giusto, che messaggio mi manderesti?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ムードがあることをほのめかしたい場合、どんなテキストを送りますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "기분이 좋다는 걸 힌트로 주고 싶다면 어떤 문자를 보내시겠어요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du ville antyde at du er i humør, hvilken melding ville du sendt meg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je zou willen hinten dat je in de stemming bent, welk bericht zou je me sturen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś chciała zasugerować, że masz ochotę, jaką wiadomość byś mi wysłała?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você quisesse dar a entender que está a fim, que mensagem me enviaria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du ville antyda att du är på humör, vilket sms skulle du skicka till mig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви хотіли натякнути, що ви налаштовані, яке повідомлення ви б мені надіслали?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你想暗示你有心情，你会给我发什么短信？" } }
+      }
+    },
+    "What is your absolute favorite spot on your body to be lightly scratched or tickled?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist deine absolute Lieblingsstelle am Körper, um leicht gekratzt oder gekitzelt zu werden?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What is your absolute favorite spot on your body to be lightly scratched or tickled?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es tu lugar favorito en tu cuerpo para que te rasquen o hagan cosquillas suavemente?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est ton endroit préféré sur ton corps pour être légèrement gratté ou chatouillé ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il tuo punto preferito in assoluto sul corpo dove essere leggermente graffiato o solleticato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "軽く引っかかれたりくすぐられたりするのに、体で一番好きな場所はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가볍게 긁히거나 간지럽히는 것을 가장 좋아하는 신체 부위는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er din absolutte favorittplass på kroppen å bli lett klødd eller kilt på?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is je absolute favoriete plek op je lichaam om licht gekrabd of gekieteld te worden?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Które miejsce na ciele jest twoim absolutnym faworytem do lekkiego drapania lub łaskotania?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o seu lugar favorito no corpo para ser levemente arranhado ou fazer cócegas?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken är din absoluta favoritplats på kroppen att bli lätt kliad eller kittlad på?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке ваше улюблене місце на тілі для легкого чухання або лоскоту?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你身上最喜欢被轻轻抓或挠痒的部位是哪里？" } }
+      }
+    },
+    "Do you find mystery more attractive, or do you prefer someone who is completely open?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Findest du Geheimnisvoller attraktiver, oder bevorzugst du jemanden, der völlig offen ist?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Do you find mystery more attractive, or do you prefer someone who is completely open?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Te atrae más el misterio o prefieres a alguien completamente abierto?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Trouves-tu le mystère plus attrayant, ou préfères-tu quelqu'un de complètement ouvert ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Trovi più attraente il mistero o preferisci qualcuno completamente aperto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ミステリアスなほうが魅力的ですか？それとも完全にオープンな人のほうが好きですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "신비로운 사람이 더 매력적인가요, 아니면 완전히 열린 사람이 더 좋은가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Synes du mysterium er mer attraktivt, eller foretrekker du noen som er helt åpen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Vind je mysterie aantrekkelijker, of geef je de voorkeur aan iemand die helemaal open is?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czy tajemniczość jest dla ciebie bardziej atrakcyjna, czy wolisz kogoś całkowicie otwartego?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Você acha o mistério mais atraente ou prefere alguém completamente aberto?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Tycker du att mysterium är mer attraktivt, eller föredrar du någon som är helt öppen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Таємничість здається вам привабливішою, чи ви віддаєте перевагу комусь повністю відкритому?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你觉得神秘感更有吸引力，还是更喜欢完全开放的人？" } }
+      }
+    },
+    "What is something I could wear that would instantly get your attention?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was könnte ich tragen, das sofort deine Aufmerksamkeit erregen würde?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What is something I could wear that would instantly get your attention?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué podría ponerme que llamara tu atención al instante?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'est-ce que je pourrais porter qui capterait immédiatement ton attention ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa potrei indossare che attirerebbe subito la tua attenzione?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "私が何を着たら、あなたの注意を即座に引けますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "제가 뭘 입으면 즉시 당신의 시선을 끌 수 있을까요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er noe jeg kunne hatt på meg som umiddelbart ville få oppmerksomheten din?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat kan ik dragen dat meteen jouw aandacht zou trekken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co mogłabym ubrać, co od razu przyciągnęłoby twoją uwagę?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que eu poderia vestir que chamaria sua atenção instantaneamente?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad skulle jag kunna ha på mig som omedelbart skulle fånga din uppmärksamhet?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що я міг би вдягнути, що миттєво приверне вашу увагу?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "我穿什么能立刻吸引你的注意？" } }
+      }
+    },
+    "Where is the most exciting place you’ve ever shared a secret kiss?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wo war der aufregendste Ort, an dem du jemals einen geheimen Kuss geteilt hast?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Where is the most exciting place you’ve ever shared a secret kiss?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el lugar más emocionante donde has compartido un beso secreto?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est l'endroit le plus excitant où tu as partagé un baiser secret ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il posto più eccitante in cui hai mai condiviso un bacio segreto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "今までで一番ワクワクする場所で秘密のキスをしたのはどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비밀 키스를 나눈 가장 흥미로운 장소는 어디인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvor er det mest spennende stedet du noen gang har delt et hemmelig kyss?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de spannendste plek waar je ooit een geheime kus hebt gedeeld?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdzie jest najbardziej ekscytujące miejsce, w którym kiedykolwiek wymieniłeś tajemny pocałunek?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o lugar mais empolgante onde você já compartilhou um beijo secreto?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Var är den mest spännande platsen du någonsin har delat en hemlig kyss?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Де найбільш хвилююче місце, де ви коли-небудь ділилися таємним поцілунком?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你分享过秘密之吻的最令人兴奋的地方是哪里？" } }
+      }
+    },
+    "Do you consider yourself more of a hopeless romantic or a passionate lover?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Siehst du dich eher als hoffnungslosen Romantiker oder als leidenschaftlichen Liebhaber?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Do you consider yourself more of a hopeless romantic or a passionate lover?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Te consideras más un romántico empedernido o un amante apasionado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Te considères-tu plus comme un romantique désespéré ou un amant passionné ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Ti consideri più un romantico senza speranza o un amante appassionato?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "あなたはどちらかというと、ロマンチストですか？それとも情熱的な恋人ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "당신은 자신을 비관적 낭만주의자라고 생각하나요, 열정적인 연인이라고 생각하나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Ser du på deg selv som mer en håpløs romantiker eller en lidenskapelig elsker?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Zie jij jezelf meer als een hopeloze romanticus of een gepassioneerde minnaar?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czy uważasz się bardziej za beznadziejnego romantyka czy za namiętnego kochanka?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Você se considera mais um romântico incurável ou um amante apaixonado?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Betraktar du dig själv mer som en hopplös romantiker eller en passionerad älskare?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Ви вважаєте себе більше безнадійним романтиком чи пристрасним коханцем?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你认为自己更像一个无可救药的浪漫主义者，还是一个热情的爱人？" } }
+      }
+    },
+    "What is your favorite way to flirt without using any words?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist deine liebste Art zu flirten, ohne Worte zu benutzen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What is your favorite way to flirt without using any words?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es tu forma favorita de coquetear sin usar palabras?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est ta façon préférée de flirter sans utiliser de mots ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il tuo modo preferito di flirtare senza usare parole?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "言葉を使わないで一番好きなフリートの方法は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "말 없이 flirt하는 가장 좋아하는 방법은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er din favorittmåte å flørte på uten å bruke ord?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is jouw favoriete manier om te flirten zonder woorden te gebruiken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest twój ulubiony sposób flirtowania bez używania słów?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a sua maneira favorita de flertar sem usar palavras?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är ditt favoritsätt att flirta utan att använda ord?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який ваш улюблений спосіб фліртувати без слів?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢的不说话调情方式是什么？" } }
+      }
+    },
+    "How do you feel about massage oils or candles being part of a date night in?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie stehst du zu Massageölen oder Kerzen als Teil eines gemütlichen Date-Nights zu Hause?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "How do you feel about massage oils or candles being part of a date night in?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué opinas de que los aceites de masaje o las velas sean parte de una cita en casa?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Que penses-tu des huiles de massage ou des bougies dans le cadre d'une soirée en amoureux à la maison ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa ne pensi degli oli da massaggio o delle candele durante un appuntamento a casa?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "おうちデートの一部としてマッサージオイルやキャンドルを使うことについてどう思いますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "집에서 데이트할 때 마사지 오일이나 촛불이 포함되는 것에 대해 어떻게 생각하세요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva synes du om massasjeoljer eller stearinlys som en del av en hjemmedate?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat vind jij van massageoliën of kaarsen als onderdeel van een date night thuis?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak myślisz o olejkach do masażu lub świecach jako części wieczoru we dwoje w domu?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você acha de óleos de massagem ou velas fazendo parte de um encontro noturno em casa?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad tycker du om massageoljor eller ljus som en del av en hemmadate?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як ви ставитеся до масажних олій чи свічок як частини побачення вдома?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你觉得在家里约会时使用按摩油或蜡烛怎么样？" } }
+      }
+    },
+    "What’s a romantic boundary you love to push just a little bit?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche romantische Grenze liebst du es, ein kleines bisschen zu überschreiten?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What’s a romantic boundary you love to push just a little bit?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué límite romántico te encanta sobrepasar solo un poquito?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle limite romantique aimes-tu repousser juste un petit peu ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quale limite romantico ami superare solo un pochino?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "少しだけ押し広げるのが好きなロマンチックな境界線は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "조금은 넘어서고 싶은 낭만적인 경계는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvilken romantisk grense elsker du å presse litt?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Welke romantische grens vind je het leuk om een klein beetje op te rekken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaką romantyczną granicę lubisz lekko przekraczać?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual limite romântico você adora ultrapassar só um pouquinho?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken romantisk gräns älskar du att överskrida lite grann?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який романтичний кордон ви любите трохи порушувати?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最喜欢稍微推一下哪个浪漫的界限？" } }
+      }
+    },
+    "Do you prefer a slow, lingering build-up or jumping straight into the excitement?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bevorzugst du einen langsamen, anhaltenden Aufbau oder direkt ins Vergnügen springen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Do you prefer a slow, lingering build-up or jumping straight into the excitement?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Prefieres una preparación lenta y prolongada o lanzarte directamente a la emoción?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Préfères-tu une montée lente et prolongée ou sauter directement dans l'excitation ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Preferisci una lenta e prolungata attesa o buttarti subito nell'eccitazione?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ゆっくりとした盛り上がりが好きですか？それともすぐに興奮に飛び込みますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "천천히 오래가는 빌드업을 선호하나요, 아니면 즉시 흥분으로 뛰어드는 것을 선호하나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Foretrekker du en langsom, langvarig oppbygging eller å hoppe rett inn i spenningen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Heb je liever een langzame, langdurige opbouw of spring je meteen in de opwinding?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Wolisz powolne, przeciągające się budowanie napięcia czy skakanie od razu w wir ekscytacji?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Você prefere uma construção lenta e duradoura ou pular direto para a empolgação?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Föredrar du en långsam, utdragen uppbyggnad eller att hoppa rakt in i spänningen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Ви віддаєте перевагу повільному, тривалому наростанню чи стрибку прямо в хвилювання?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你喜欢缓慢、持久的铺垫，还是直接进入兴奋状态？" } }
+      }
+    },
+    "What’s the most exciting thing about the 'honeymoon phase' of a relationship for you?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist das Aufregendste an der 'Flitterwochenphase' einer Beziehung für dich?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What’s the most exciting thing about the 'honeymoon phase' of a relationship for you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué es lo más emocionante de la 'luna de miel' de una relación para ti?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la chose la plus excitante dans la 'phase de lune de miel' d'une relation pour toi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è la cosa più eccitante della 'fase di luna di miele' di una relazione per te?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "関係の『ハネムーン期』で一番ワクワクすることは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "관계의 '허니문 단계'에서 가장 흥미로운 점은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er det mest spennende med 'bryllupsreisefasen' i et forhold for deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat vind jij het meest opwindende aan de 'wittebroodswekenfase' van een relatie?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co jest dla ciebie najbardziej ekscytujące w 'fazie miesiąca miodowego' związku?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que é mais empolgante na 'fase de lua de mel' de um relacionamento para você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det mest spännande med 'smekmånadsfasen' i ett förhållande för dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що для вас найцікавіше в 'медовому місяці' стосунків?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "对你来说，恋爱关系中的“蜜月期”最令人兴奋的是什么？" } }
+      }
+    },
+    "How do you feel about kissing in the rain—is it a movie cliché or a major turn-on?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie stehst du zu Küssen im Regen – ist es ein Filmklischee oder eine große Erregung?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "How do you feel about kissing in the rain—is it a movie cliché or a major turn-on?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué opinas de besar bajo la lluvia? ¿Es un cliché de película o algo muy excitante?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Que penses-tu des baisers sous la pluie ? Est-ce un cliché de film ou un énorme excitant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa ne pensi dei baci sotto la pioggia? È un cliché cinematografico o una grande eccitazione?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "雨の中のキスについてどう思いますか？映画の決まり文句ですか、それとも大きな興奮材料ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비 속에서 키스하는 것에 대해 어떻게 생각하나요? 영화 클리셰인가요, 아니면 큰 흥분 요소인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva synes du om å kysse i regnet – er det et filmklisjé eller en stor opphisselse?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat vind jij van zoenen in de regen – is het een filmcliché of een grote opwinding?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Co myślisz o całowaniu w deszczu – to filmowy klisza czy duże podniecenie?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você acha de beijar na chuva – é um clichê de cinema ou algo muito excitante?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad tycker du om att kyssa i regnet – är det en filmklyscha eller en stor upphetsning?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Як ви ставитеся до поцілунків під дощем – це кліше з фільму чи сильне збудження?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你怎么看雨中接吻——是电影套路，还是超级撩人？" } }
+      }
+    },
+    "What is the perfect balance between being gentle and being playful for you?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist für dich das perfekte Gleichgewicht zwischen sanft und verspielt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What is the perfect balance between being gentle and being playful for you?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es el equilibrio perfecto entre ser suave y ser juguetón para ti?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est l'équilibre parfait entre la douceur et l'espièglerie pour toi ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è per te il perfetto equilibrio tra essere dolce ed essere giocoso?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "優しさと遊び心の完璧なバランスは何だと思いますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "부드러움과 장난기 사이의 완벽한 균형은 무엇이라고 생각하나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den perfekte balansen mellom å være skånsom og leken for deg?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is voor jou de perfecte balans tussen zachtaardig en speels zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaka jest dla ciebie idealna równowaga między byciem delikatnym a byciem figlarnym?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é o equilíbrio perfeito entre ser gentil e ser brincalhão para você?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är den perfekta balansen mellan att vara mild och att vara lekfull för dig?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який ідеальний баланс між ніжністю та грайливістю для вас?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "对你来说，温柔和俏皮之间的完美平衡是什么？" } }
+      }
+    },
+    "If you could pick one place in the world for a private, late-night swim, where would it be?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du einen Ort auf der Welt für ein privates, nächtliches Schwimmen auswählen könntest, wo wäre das?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could pick one place in the world for a private, late-night swim, where would it be?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras elegir un lugar en el mundo para un baño privado y nocturno, ¿dónde sería?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais choisir un endroit dans le monde pour une baignade privée tard dans la nuit, où serait-ce ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi scegliere un posto al mondo per una nuotata privata notturna, dove sarebbe?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "プライベートな深夜の水泳のために世界中で一つ場所を選べるとしたら、どこにしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "사적인 늦은 밤 수영을 위해 세계에서 한 곳을 고를 수 있다면 어디로 하시겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne velge ett sted i verden for en privat sen kveldssvømming, hvor ville det vært?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je één plek ter wereld zou mogen kiezen voor een privé-avondzwempartij, waar zou die zijn?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł wybrać jedno miejsce na świecie na prywatną, nocną kąpiel, gdzie by to było?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse escolher um lugar no mundo para um mergulho privado à noite, onde seria?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde välja en plats i världen för ett privat sen kvällsbad, var skulle det vara?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли вибрати одне місце у світі для приватного нічного купання, де б це було?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你可以在世界上选一个地方进行私密的深夜游泳，你会选哪里？" } }
+      }
+    },
+    "What kind of mood lighting do you think is the most attractive?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Welche Art von stimmungsvoller Beleuchtung findest du am attraktivsten?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What kind of mood lighting do you think is the most attractive?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué tipo de iluminación ambiental crees que es la más atractiva?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel type d'éclairage d'ambiance trouves-tu le plus attrayant ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Che tipo di illuminazione d'atmosfera pensi sia più attraente?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "どのような雰囲気の照明が一番魅力的だと思いますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "어떤 분위기의 조명이 가장 매력적이라고 생각하시나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva slags stemningsbelysning tror du er mest attraktiv?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat voor soort sfeerverlichting vind jij het aantrekkelijkst?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie oświetlenie nastrojowe jest według ciebie najbardziej atrakcyjne?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Que tipo de iluminação ambiente você acha mais atraente?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vilken typ av stämningsbelysning tror du är mest attraktiv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке атмосферне освітлення, на вашу думку, найпривабливіше?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你认为哪种氛围照明最吸引人？" } }
+      }
+    },
+    "Does a partner being playful and teasing excite you, or do you prefer them to be direct?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Erregt dich ein verspielter und neckender Partner mehr, oder bevorzugst du Direktheit?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Does a partner being playful and teasing excite you, or do you prefer them to be direct?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Te excita que tu pareja sea juguetona y te provoque, o prefieres que sea directa?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Est-ce qu'un partenaire joueur et taquin t'excite, ou préfères-tu qu'il soit direct ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Ti eccita un partner giocoso e provocante o preferisci che sia diretto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "遊び心があってからかうパートナーに興奮しますか？それともストレートな人が好きですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "장난치고 놀리는 파트너가 흥분되나요, 아니면 직설적인 사람이 더 좋나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Tenner en partner som er leken og ertende deg, eller foretrekker du at de er direkte?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Word je opgewonden van een speelse en plagerige partner, of geef je de voorkeur aan directheid?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czy podnieca cię partner, który jest figlarny i drażniący, czy wolisz, aby był bezpośredni?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Um parceiro brincalhão e provocador te excita, ou você prefere que ele seja direto?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Tänder en partner som är lekfull och retas dig, eller föredrar du att de är direkta?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Чи збуджує вас партнер, який грайливий і дражнить, чи ви віддаєте перевагу прямоти?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "伴侣俏皮挑逗会让你兴奋，还是你更喜欢他们直截了当？" } }
+      }
+    },
+    "What is a secret desire you’ve been hesitant to share because it feels too bold?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist ein geheimer Wunsch, den du zögerst zu teilen, weil er sich zu kühn anfühlt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What is a secret desire you’ve been hesitant to share because it feels too bold?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es un deseo secreto que has dudado en compartir porque parece demasiado atrevido?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quel est un désir secret que tu as hésité à partager car il te semble trop audacieux ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è un desiderio segreto che hai esitato a condividere perché sembra troppo audace?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "大胆すぎて共有するのをためらっている秘密の願望は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "너무 대담하게 느껴져서 공유를 망설였던 비밀 욕망이 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er et hemmelig ønske du har nølt med å dele fordi det føles for dristig?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is een geheime wens die je hebt geaarzeld om te delen omdat het te gedurfd voelt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jakie jest twoje sekretne pragnienie, które wahałeś się ujawnić, ponieważ wydaje się zbyt śmiałe?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é um desejo secreto que você hesitou em compartilhar porque parece ousado demais?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är en hemlig önskan du har tvekat att dela eftersom den känns för djärv?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Яке таємне бажання ви вагалися поділитися, тому що воно здається надто сміливим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你一直犹豫不敢分享的、觉得太大胆的秘密欲望是什么？" } }
+      }
+    },
+    "If we had an entire weekend completely to ourselves, how much of it would we spend in bed?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn wir ein ganzes Wochenende nur für uns hätten, wie viel davon würden wir im Bett verbringen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If we had an entire weekend completely to ourselves, how much of it would we spend in bed?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si tuviéramos un fin de semana entero solo para nosotros, ¿cuánto lo pasaríamos en la cama?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si nous avions un week-end entier rien que pour nous, combien de temps le passerions-nous au lit ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se avessimo un intero fine settimana tutto per noi, quanto tempo lo passeremmo a letto?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "週末まるごと二人きりで過ごせるとしたら、どのくらいをベッドで過ごしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "우리만을 위한 주말 전체가 있다면, 침대에서 얼마나 보낼 것 같나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis vi hadde en hel helg helt for oss selv, hvor mye av den ville vi tilbringe i sengen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als we een heel weekend helemaal voor onszelf hadden, hoeveel ervan zouden we in bed doorbrengen?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyśmy mieli cały weekend tylko dla siebie, ile czasu spędzilibyśmy w łóżku?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se tivéssemos um fim de semana inteiro só para nós, quanto dele passaríamos na cama?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om vi hade en hel helg helt för oss själva, hur mycket av den skulle vi tillbringa i sängen?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ми мали цілі вихідні тільки для себе, скільки часу ми б провели в ліжку?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果我们完全独自度过整个周末，我们会在床上待多久？" } }
+      }
+    },
+    "What’s the most passionate way you’ve ever been awoken by someone?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was ist die leidenschaftlichste Art, wie du jemals von jemandem geweckt wurdest?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What’s the most passionate way you’ve ever been awoken by someone?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la forma más apasionada en que alguien te ha despertado?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle est la façon la plus passionnée par laquelle quelqu'un t'a déjà réveillé(e) ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qual è il modo più appassionato in cui sei mai stato svegliato da qualcuno?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "誰かに起こされた中で、一番情熱的だった方法は何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "누군가에게 깨어난 가장 열정적인 방법은 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er den mest lidenskapelige måten du noen gang er blitt vekket på av noen?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat is de meest passionele manier waarop je ooit door iemand wakker bent gemaakt?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jaki jest najbardziej namiętny sposób, w jaki kiedykolwiek ktoś cię obudził?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a maneira mais apaixonada pela qual alguém já te acordou?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är det mest passionerade sättet du någonsin har blivit väckt av någon?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Який найпристрасніший спосіб, яким вас коли-небудь будили?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "别人唤醒你的最热情的方式是什么？" } }
+      }
+    },
+    "How important is a strong physical connection to your overall emotional happiness?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wie wichtig ist eine starke physische Verbindung für dein allgemeines emotionales Glück?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "How important is a strong physical connection to your overall emotional happiness?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué importancia tiene una fuerte conexión física para tu felicidad emocional general?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Quelle importance a une forte connexion physique pour ton bonheur émotionnel global ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Quanto è importante una forte connessione fisica per la tua felicità emotiva complessiva?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "強い身体的つながりは、あなたの全体的な感情的な幸福にとってどのくらい重要ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "강한 육체적 연결이 당신의 전반적인 정서적 행복에 얼마나 중요한가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvor viktig er en sterk fysisk forbindelse for din generelle emosjonelle lykke?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Hoe belangrijk is een sterke fysieke verbinding voor je algehele emotionele geluk?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Jak ważna jest silna więź fizyczna dla twojego ogólnego szczęścia emocjonalnego?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual a importância de uma forte conexão física para sua felicidade emocional geral?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Hur viktig är en stark fysisk koppling för din övergripande känslomässiga lycka?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Наскільки важливим є сильний фізичний зв'язок для вашого загального емоційного щастя?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "强烈的身体联系对你的整体情感幸福有多重要？" } }
+      }
+    },
+    "What is something new you've recently discovered about your own desires?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Was hast du kürzlich Neues über deine eigenen Wünsche entdeckt?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What is something new you've recently discovered about your own desires?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Qué has descubierto recientemente sobre tus propios deseos?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Qu'as-tu récemment découvert de nouveau sur tes propres désirs ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cosa hai scoperto di recente di nuovo sui tuoi desideri?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "自分の欲求について最近新しく発見したことは何ですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자신의 욕망에 대해 최근에 새롭게 발견한 것이 있나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hva er noe nytt du nylig har oppdaget om dine egne ønsker?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wat heb je onlangs nieuws ontdekt over je eigen verlangens?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Czego nowego ostatnio dowiedziałeś się o swoich własnych pragnieniach?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O que você descobriu recentemente de novo sobre seus próprios desejos?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Vad är något nytt du nyligen har upptäckt om dina egna önskningar?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Що нового ви нещодавно дізналися про власні бажання?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你最近发现了关于自己欲望的什么新东西？" } }
+      }
+    },
+    "If you could rewrite our most passionate moment together, would you make it longer, wilder, or sweeter?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn du unseren leidenschaftlichsten Moment gemeinsam neu schreiben könntest, würdest du ihn länger, wilder oder süßer machen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "If you could rewrite our most passionate moment together, would you make it longer, wilder, or sweeter?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Si pudieras reescribir nuestro momento más apasionado juntos, ¿lo harías más largo, más salvaje o más dulce?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Si tu pouvais réécrire notre moment le plus passionné ensemble, le rendrais-tu plus long, plus sauvage ou plus doux ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Se potessi riscrivere il nostro momento più appassionato insieme, lo renderesti più lungo, più selvaggio o più dolce?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "私たちの一番情熱的な瞬間を書き換えられるとしたら、長くしますか？もっとワイルドにしますか？それとももっと甘くしますか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "우리의 가장 열정적인 순간을 다시 쓸 수 있다면, 더 길게, 더 거칠게, 아니면 더 달콤하게 만들겠습니까?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvis du kunne skrive om vårt mest lidenskapelige øyeblikk sammen, ville du gjort det lengre, villere eller søtere?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Als je ons meest passionele moment samen opnieuw zou kunnen schrijven, zou je het dan langer, wilder of zoeter maken?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdybyś mógł przepisać nasz najbardziej namiętny wspólny moment, czy uczyniłbyś go dłuższym, dzikszym czy słodszym?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Se você pudesse reescrever nosso momento mais apaixonado juntos, você o tornaria mais longo, mais selvagem ou mais doce?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Om du kunde skriva om vårt mest passionerade ögonblick tillsammans, skulle du göra det längre, vildare eller sötare?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Якби ви могли переписати наш найпристрасніший спільний момент, ви б зробили його довшим, дикішим чи солодшим?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "如果你能重写我们最热烈的那一刻，你会让它更长、更狂野，还是更甜蜜？" } }
+      }
+    },
+    "What is the line between a sweet, romantic touch and a touch that means 'I want you right now'?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wo ist die Grenze zwischen einer süßen, romantischen Berührung und einer Berührung, die 'Ich will dich jetzt' bedeutet?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "What is the line between a sweet, romantic touch and a touch that means 'I want you right now'?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Cuál es la línea entre un toque dulce y romántico y un toque que significa 'te quiero ahora mismo'?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Où est la limite entre un toucher doux et romantique et un toucher qui signifie 'je te veux tout de suite' ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Dov'è il confine tra un tocco dolce e romantico e un tocco che significa 'ti voglio adesso'?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "甘くロマンチックなタッチと『今すぐあなたが欲しい』というタッチの境界線はどこですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "달콤하고 낭만적인 터치와 '지금 당신을 원해'라는 터치 사이의 경계는 무엇인가요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Hvor er grensen mellom en søt, romantisk berøring og en berøring som betyr 'jeg vil ha deg akkurat nå'?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Waar ligt de grens tussen een lieve, romantische aanraking en een aanraking die betekent 'ik wil je nu'?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Gdzie jest granica między słodkim, romantycznym dotykiem a dotykiem, który znaczy 'chcę cię teraz'?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Qual é a linha entre um toque doce e romântico e um toque que significa 'eu quero você agora'?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Var går gränsen mellan en söt, romantisk beröring och en beröring som betyder 'jag vill ha dig just nu'?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Де межа між ніжним романтичним дотиком і дотиком, який означає 'я хочу тебе зараз'?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "甜蜜浪漫的触摸和意味着“我现在就想要你”的触摸之间的界线是什么？" } }
+      }
+    },
+    "Would you prefer a night of endless teasing or a night of pure, uninterrupted passion?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Würdest du eine Nacht voller endloser Neckereien oder eine Nacht voller reiner, ununterbrochener Leidenschaft bevorzugen?" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Would you prefer a night of endless teasing or a night of pure, uninterrupted passion?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "¿Preferirías una noche de bromas interminables o una noche de pasión pura e ininterrumpida?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Préférerais-tu une nuit de taquineries sans fin ou une nuit de passion pure et ininterrompue ?" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Preferiresti una notte di infinite provocazioni o una notte di pura e ininterrotta passione?" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "終わりのないからかいの夜と、純粋で途切れることのない情熱の夜、どちらがいいですか？" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "끝없는 놀림의 밤과 순수하고 끊임없는 열정의 밤 중 무엇을 선호하시나요?" } },
+        "nb" : { "stringUnit" : { "state" : "translated", "value" : "Ville du foretrukket en natt med endeløs erting eller en natt med ren, uavbrutt lidenskap?" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Zou je de voorkeur geven aan een nacht van eindeloos plagen of een nacht van pure, ononderbroken passie?" } },
+        "pl" : { "stringUnit" : { "state" : "translated", "value" : "Wolałbyś noc niekończącego się drażnienia czy noc czystej, nieprzerwanej namiętności?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Você preferiria uma noite de provocações sem fim ou uma noite de paixão pura e ininterrupta?" } },
+        "sv" : { "stringUnit" : { "state" : "translated", "value" : "Skulle du föredra en natt av oändlig retning eller en natt av ren, oavbruten passion?" } },
+        "uk" : { "stringUnit" : { "state" : "translated", "value" : "Ви б віддали перевагу ночі нескінченних дражнинь чи ночі чистої, безперервної пристрасті?" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "你更喜欢一个充满无尽挑逗的夜晚，还是一个纯粹、不间断的激情之夜？" } }
       }
     },
     "Your personal prompts" : {
