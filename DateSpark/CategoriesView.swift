@@ -46,6 +46,8 @@ struct CategoriesView: View {
                     ScrollView(showsIndicators: false) {
                         VStack(spacing: 0) {
                             let categories = CategoryHelper.availableCategories()
+                            
+                            
                             ForEach(Array(categories.enumerated()), id: \.element.id) { index, cat in
                                 CategoryRowView(category: cat, index: index + 1) {
                                     HapticManager.shared.buttonTap()
