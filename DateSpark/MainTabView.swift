@@ -7,25 +7,26 @@ struct MainTabView: View {
 
     var body: some View {
         ZStack(alignment: .bottom) {
-            ZStack {
-                HomeView()
-                    .environment(appState)
-                    .zIndex(selectedTab == 0 ? 1 : 0)
-                
-                CategoriesView()
-                    .environment(appState)
-                    .zIndex(selectedTab == 1 ? 1 : 0)
-                
-                FavoritesView()
-                    .environment(appState)
-                    .zIndex(selectedTab == 2 ? 1 : 0)
-                
-                SettingsView()
-                    .environment(appState)
-                    .zIndex(selectedTab == 3 ? 1 : 0)
+            Group {
+                switch selectedTab {
+                case 0:
+                    HomeView()
+                        .environment(appState)
+                case 1:
+                    CategoriesView()
+                        .environment(appState)
+                case 2:
+                    FavoritesView()
+                        .environment(appState)
+                case 3:
+                    SettingsView()
+                        .environment(appState)
+                default:
+                    HomeView()
+                        .environment(appState)
+                }
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity)
-
             CustomTabBar(selectedTab: $selectedTab)
         }
         .ignoresSafeArea(edges: .bottom)

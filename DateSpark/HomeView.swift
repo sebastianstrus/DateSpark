@@ -14,16 +14,12 @@ struct HomeView: View {
         ZStack {
             Color.dsBackground.ignoresSafeArea()
 
-            // Single persistent glow — colour animates on category change.
-            // Using if/else here caused a full view swap that broke layout.
             GlowOrb(
-                color: (selectedCategory?.accentColor ?? Color.dsGold).opacity(0.09),
-                size: 420,
-                blur: 110
-            )
-            .offset(x: 70, y: -220)
-            .allowsHitTesting(false)
-            .animation(.easeInOut(duration: 0.7), value: selectedCategory?.rawValue)
+                color: Color.dsGold.opacity(0.06),
+                size: 360,
+                blur: 100)
+                .offset(x: 100, y: -100)
+                .ignoresSafeArea()
 
             VStack(spacing: 0) {
                 HomeHeaderView(
