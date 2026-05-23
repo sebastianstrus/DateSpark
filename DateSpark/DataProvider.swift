@@ -1565,7 +1565,8 @@ struct DataProvider: Sendable {
             Question(text: "How do you feel about my thumb pressing just below your tailbone during doggy style — does that make you want more anal play?", category: .verySpicy, depth: .deep),
             Question(text: "Do you like the feeling of being completely filled — mouth, pussy/ass, and hands full — or is that overstimulating for you?", category: .verySpicy, depth: .deep),
             Question(text: "How do you feel about dirty talk during anal — does it help you relax or make you clench up?", category: .verySpicy, depth: .deep),
-            Question(text: "If I wanted to use a butt plug on you during oral sex, would that be too much or just right?", category: .verySpicy, depth: .deep),
+            Question(text: "Would you prefer a night of endless teasing or a night of pure, uninterrupted passion?", category: .verySpicy, depth: .deep),
+            //Question(text: "If I wanted to use a butt plug on you during oral sex, would that be too much or just right?", category: .verySpicy, depth: .deep), – replaced withe the one above.
             
             // old ok 10
             Question(text: "Would you rather I tell you exactly what I’m going to do to you, or be completely surprised by every move I make?", category: .verySpicy, depth: .deep),
