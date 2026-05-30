@@ -13,7 +13,7 @@ enum CategoryHelper {
         // Create the unlock date: May 16, 2026 at 16:00 (4:00 PM)
         var components = DateComponents()
         components.year = 2026
-        components.month = 6
+        components.month = 7
         components.day = 1
         components.hour = 14
         components.minute = 30
